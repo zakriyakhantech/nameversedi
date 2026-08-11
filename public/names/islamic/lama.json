@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Lama",
+    "slug": "lama",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "islamic",
+    "meaning": "Dark-Lipped"
+  }
+}

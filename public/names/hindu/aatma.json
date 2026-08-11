@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Aatma",
+    "slug": "aatma",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "hindu",
+    "meaning": "Soul"
+  }
+}

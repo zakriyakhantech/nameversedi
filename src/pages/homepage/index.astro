@@ -1,0 +1,766 @@
+---
+// NameVerse Homepage — Astro conversion
+// All imports removed. Inline SVGs replace lucide-react icons.
+// <a> tags replace Next.js Link. Data arrays in frontmatter.
+
+const siteUrl = "https://nameverse.site";
+
+// ─── Data Arrays ────────────────────────────────────────────────────────────
+
+const trustItems = [
+  {
+    title: "Verified meanings",
+    text: "Curated cultural and linguistic context for every featured name.",
+  },
+  {
+    title: "Multi-tradition coverage",
+    text: "Islamic, Hindu, Christian, Arabic, Urdu, Persian, Sanskrit and global roots.",
+  },
+  {
+    title: "Parent-first UX",
+    text: "Fast search, shortlists, clear answers and mobile-friendly browsing.",
+  },
+];
+
+const topicalHubs = [
+  {
+    label: "Islamic Names",
+    description: "Quranic, Arabic, Urdu and Muslim name meanings.",
+    href: "/names/religion/islamic/1",
+    eyebrow: "Religion",
+  },
+  {
+    label: "Hindu Names",
+    description: "Sanskrit, Vedic, regional and spiritual name roots.",
+    href: "/names/religion/hindu/1",
+    eyebrow: "Religion",
+  },
+  {
+    label: "Christian Names",
+    description: "Biblical, Hebrew, Greek and modern Christian names.",
+    href: "/names/religion/christian/1",
+    eyebrow: "Religion",
+  },
+  {
+    label: "Arabic Names",
+    description: "Classical Arabic roots with cultural pronunciation context.",
+    href: "/names/islamic/origin/arabic/1",
+    eyebrow: "Origin",
+  },
+  {
+    label: "Urdu Names",
+    description: "South Asian Muslim names with poetic and devotional roots.",
+    href: "/names/islamic/origin/urdu/1",
+    eyebrow: "Origin",
+  },
+  {
+    label: "Persian Names",
+    description: "Historic Persian names for boys and girls.",
+    href: "/names/islamic/origin/persian/1",
+    eyebrow: "Origin",
+  },
+  {
+    label: "Sanskrit Names",
+    description: "Vedic, nature, deity and virtue-based Sanskrit names.",
+    href: "/names/hindu/origin/sanskrit/1",
+    eyebrow: "Origin",
+  },
+  {
+    label: "Biblical Names",
+    description: "Old Testament, New Testament and saint-inspired names.",
+    href: "/search?q=biblical%20names",
+    eyebrow: "Theme",
+  },
+];
+
+const intentChips = [
+  { label: "Baby names with meanings", href: "/search?q=baby%20names%20with%20meanings" },
+  { label: "Unique baby names", href: "/unique-names" },
+  { label: "Trending baby names", href: "/trending-names" },
+  { label: "Popular names", href: "/popular-by-state" },
+  { label: "Boy names", href: "/search?q=boy%20names" },
+  { label: "Girl names", href: "/search?q=girl%20names" },
+  { label: "Names that mean light", href: "/search?q=light" },
+  { label: "Names that mean love", href: "/search?q=love" },
+  { label: "Names that mean strength", href: "/search?q=strength" },
+];
+
+const trendingNames = [
+  { name: "Muhammad", religion: "islamic", origin: "Arabic", badge: "Islamic" },
+  { name: "Aisha", religion: "islamic", origin: "Arabic", badge: "Islamic" },
+  { name: "Rayan", religion: "islamic", origin: "Arabic", badge: "Islamic" },
+  { name: "Zainab", religion: "islamic", origin: "Arabic", badge: "Islamic" },
+  { name: "Ayaan", religion: "islamic", origin: "Arabic", badge: "Islamic" },
+  { name: "Noah", religion: "christian", origin: "Hebrew", badge: "Christian" },
+  { name: "Olivia", religion: "christian", origin: "Latin", badge: "Christian" },
+  { name: "Sophia", religion: "christian", origin: "Greek", badge: "Christian" },
+  { name: "Aarav", religion: "hindu", origin: "Sanskrit", badge: "Hindu" },
+  { name: "Diya", religion: "hindu", origin: "Sanskrit", badge: "Hindu" },
+  { name: "Ananya", religion: "hindu", origin: "Sanskrit", badge: "Hindu" },
+  { name: "Vihaan", religion: "hindu", origin: "Sanskrit", badge: "Hindu" },
+];
+
+const faqs = [
+  {
+    question: "How do I find the best baby name with meaning?",
+    answer:
+      "Start by searching a name, meaning, origin, religion or theme. NameVerse connects each query to curated name lists, cultural context and related browsing paths so you can compare options quickly.",
+  },
+  {
+    question: "Which baby names are trending in 2026?",
+    answer:
+      "Parents are searching for short, meaningful and globally pronounceable names. Popular homepage picks include Muhammad, Aisha, Rayan, Noah, Olivia, Aarav, Diya and Ananya, with more options in the trending names hub.",
+  },
+  {
+    question: "Can I search names by religion, origin or meaning?",
+    answer:
+      "Yes. Browse Islamic, Hindu and Christian names by religion, then narrow by origins such as Arabic, Urdu, Persian, Sanskrit, Hebrew, Greek or Latin. You can also search meanings such as light, love, strength or peace.",
+  },
+  {
+    question: "Are NameVerse meanings verified?",
+    answer:
+      "NameVerse prioritizes verified meanings and cultural context. Entries are reviewed for linguistic origin, common usage and faith-aware interpretation before being surfaced in search and curated lists.",
+  },
+  {
+    question: "Is NameVerse free to use?",
+    answer:
+      "Yes. NameVerse search, name meanings, browsing pages, FAQs and name discovery tools are free for parents, families and researchers.",
+  },
+];
+
+const meaningChips = ["light", "love", "strength", "peace", "blessing", "wisdom", "courage", "grace"];
+
+const latestArticles = [
+  {
+    title: "Top Islamic Baby Names for 2026",
+    excerpt: "Explore the most searched Muslim baby names this year with meanings and origins.",
+    href: "/blog/top-islamic-baby-names-2026",
+    date: "Jan 2026",
+  },
+  {
+    title: "Hindu Baby Names with Deep Meanings",
+    excerpt: "Sanskrit and Vedic names that carry spiritual significance and cultural heritage.",
+    href: "/blog/hindu-baby-names-meanings",
+    date: "Jan 2026",
+  },
+  {
+    title: "Christian Baby Names from the Bible",
+    excerpt: "Timeless biblical names with Hebrew and Greek roots explained.",
+    href: "/blog/christian-baby-names-bible",
+    date: "Dec 2025",
+  },
+];
+
+// ─── Helper: create safe slug ───────────────────────────────────────────────
+function createSafeSlug(name) {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/(^-|-$)/g, "");
+}
+
+// ─── Inline SVG Icons ───────────────────────────────────────────────────────
+const icons = {
+  arrowRight: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>`,
+  bookOpen: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>`,
+  checkCircle: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="m9 11 3 3L22 4"/></svg>`,
+  flame: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></svg>`,
+  globe: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>`,
+  heart: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/></svg>`,
+  languages: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 8 6 6"/><path d="m4 14 6-6 2-3"/><path d="M2 5h12"/><path d="M7 2h1"/><path d="m22 22-5-10-5 10"/><path d="M14 18h6"/></svg>`,
+  library: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m16 6 4 14"/><path d="M12 6v14"/><path d="M8 8v12"/><path d="M4 4v16"/></svg>`,
+  quote: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2 1 0 1 0 1 1v1c0 1-1 2-2 2s-1 .008-1 1.031V20c0 1 0 1 1 1z"/><path d="M15 21c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2h.75c0 2.25.25 4-2.75 4v3c0 1 0 1 1 1z"/></svg>`,
+  search: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>`,
+  sparkles: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/><path d="M20 3v4"/><path d="M22 5h-4"/></svg>`,
+  trendingUp: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/><polyline points="16 7 22 7 22 13"/></svg>`,
+  users: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>`,
+};
+---
+
+<main role="main" class="min-h-screen flex flex-col bg-[color:var(--nv-canvas)] nv-body">
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       1. HERO SECTION
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <section
+    aria-labelledby="homepage-title"
+    class="relative overflow-hidden border-b border-[color:var(--nv-border)] bg-[color:var(--nv-canvas)]"
+  >
+    <div class="absolute inset-0 pointer-events-none" aria-hidden="true">
+      <div class="absolute left-1/2 top-0 h-[420px] w-[760px] -translate-x-1/2 rounded-full bg-white/50 blur-3xl"></div>
+    </div>
+
+    <div class="relative mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-14 lg:px-8 lg:py-20">
+      <div class="grid items-center gap-10 lg:grid-cols-[0.96fr_1.04fr]">
+        <div>
+          <div class="inline-flex items-center gap-2 rounded-full border border-[color:var(--nv-border)] bg-white/65 px-4 py-2 text-xs font-bold uppercase tracking-[0.2em] text-[color:var(--nv-muted)] backdrop-blur">
+            <span class="h-4 w-4 text-[color:var(--nv-accent-2)]" set:html={icons.bookOpen}></span>
+            Cultural name knowledge base
+          </div>
+
+          <h1
+            id="homepage-title"
+            class="nv-display mt-6 text-4xl font-semibold leading-[0.98] tracking-tight text-[color:var(--nv-ink)] sm:text-5xl md:text-6xl lg:text-7xl"
+          >
+            Baby names with meanings, origins and cultural roots.
+          </h1>
+
+          <p class="mt-6 max-w-2xl text-base leading-relaxed text-[color:var(--nv-muted)] sm:text-lg">
+            Search 65,000+ Islamic, Hindu, Christian and global names with fast suggestions, verified meaning pages, curated origin hubs and parent-friendly research tools.
+          </p>
+
+          <div class="mt-8 flex flex-col gap-3 sm:flex-row">
+            <a
+              href="/search"
+              class="inline-flex items-center justify-center gap-2 rounded-2xl bg-[color:var(--nv-ink)] px-5 py-3 text-sm font-bold text-white transition hover:bg-slate-800 focus:outline-none focus:ring-2 focus:ring-[color:var(--nv-accent-2)]"
+            >
+              Explore all names
+              <span class="h-4 w-4" set:html={icons.arrowRight}></span>
+            </a>
+            <a
+              href="#topical-hubs"
+              class="inline-flex items-center justify-center gap-2 rounded-2xl border border-[color:var(--nv-border)] bg-white/60 px-5 py-3 text-sm font-bold text-[color:var(--nv-ink)] backdrop-blur transition hover:bg-white"
+            >
+              Browse by tradition
+            </a>
+          </div>
+
+          <div class="mt-8 grid gap-3 sm:grid-cols-3">
+            {
+              trustItems.map((item) => (
+                <div class="rounded-[2rem] border border-[color:var(--nv-border)] bg-white/62 p-5 backdrop-blur">
+                  <div class="mb-4 grid h-11 w-11 place-items-center rounded-2xl bg-[color:var(--nv-ink)] text-white">
+                    <span class="h-5 w-5" set:html={item.title === "Verified meanings" ? icons.checkCircle : item.title === "Multi-tradition coverage" ? icons.languages : icons.users}></span>
+                  </div>
+                  <h3 class="text-sm font-bold text-[color:var(--nv-ink)]">{item.title}</h3>
+                  <p class="mt-2 text-sm leading-relaxed text-[color:var(--nv-muted)]">{item.text}</p>
+                </div>
+              ))
+            }
+          </div>
+        </div>
+
+        <div class="relative">
+          <!-- HomePageSearch placeholder — inline search form -->
+          <div class="rounded-[2rem] border border-[color:var(--nv-border)] bg-white/70 p-6 backdrop-blur">
+            <form action="/search" method="get" class="flex flex-col gap-3" id="homepage-search-form">
+              <label for="homepage-search" class="text-xs font-bold uppercase tracking-[0.18em] text-[color:var(--nv-muted)]">
+                Search names
+              </label>
+              <div class="relative flex gap-2">
+                <input
+                  type="search"
+                  id="homepage-search"
+                  name="q"
+                  placeholder="Search names…"
+                  autocomplete="off"
+                  class="w-full rounded-2xl border border-[color:var(--nv-border)] bg-white px-4 py-3 text-sm text-[color:var(--nv-ink)] placeholder:text-[color:var(--nv-muted)] focus:outline-none focus:ring-2 focus:ring-[color:var(--nv-accent-2)]"
+                />
+                <button
+                  type="submit"
+                  class="inline-flex items-center justify-center rounded-2xl bg-[color:var(--nv-ink)] px-4 py-3 text-white transition hover:bg-slate-800"
+                  aria-label="Search"
+                >
+                  <span class="h-4 w-4" set:html={icons.search}></span>
+                </button>
+                <div id="search-suggestions" class="absolute left-0 right-16 top-full z-50 mt-1 hidden max-h-80 overflow-y-auto rounded-2xl border border-[color:var(--nv-border)] bg-white shadow-lg"></div>
+              </div>
+              <p class="text-xs text-[color:var(--nv-muted)]">
+                Try: <a href="/search?q=light" class="underline">light</a>,{" "}
+                <a href="/search?q=love" class="underline">love</a>,{" "}
+                <a href="/search?q=strength" class="underline">strength</a>
+              </p>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-10 grid gap-3 sm:grid-cols-3">
+        <div class="rounded-[2rem] border border-[color:var(--nv-border)] bg-white/60 p-5 backdrop-blur">
+          <div class="text-3xl font-bold text-[color:var(--nv-ink)]">65K+</div>
+          <div class="mt-1 text-sm font-semibold text-[color:var(--nv-muted)]">Names across major traditions</div>
+        </div>
+        <div class="rounded-[2rem] border border-[color:var(--nv-border)] bg-white/60 p-5 backdrop-blur">
+          <div class="text-3xl font-bold text-[color:var(--nv-ink)]">3</div>
+          <div class="mt-1 text-sm font-semibold text-[color:var(--nv-muted)]">Curated religion hubs</div>
+        </div>
+        <div class="rounded-[2rem] border border-[color:var(--nv-border)] bg-white/60 p-5 backdrop-blur">
+          <div class="text-3xl font-bold text-[color:var(--nv-ink)]">2026</div>
+          <div class="mt-1 text-sm font-semibold text-[color:var(--nv-muted)]">Trending naming insights</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       2. POPULAR SEARCH INTENTS
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <section aria-label="Popular search intents" class="nv-section">
+    <div class="nv-container">
+      <div class="rounded-[2rem] border border-[color:var(--nv-border)] bg-white/62 p-4 backdrop-blur sm:p-5">
+        <div class="mb-3 flex items-center gap-2 text-xs font-bold uppercase tracking-[0.18em] text-[color:var(--nv-muted)]">
+          <span class="h-4 w-4 text-[color:var(--nv-accent-2)]" set:html={icons.search}></span>
+          Popular searches
+        </div>
+        <div class="flex flex-wrap gap-2">
+          {
+            intentChips.map((item) => (
+              <a
+                href={item.href}
+                class="rounded-full border border-[color:var(--nv-border)] bg-white/70 px-4 py-2 text-sm font-bold text-[color:var(--nv-ink)] transition hover:border-[color:var(--nv-accent-2)] hover:bg-[color:var(--nv-accent-2)] hover:text-white"
+              >
+                {item.label}
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       3. TOPICAL HUBS
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <section id="topical-hubs" aria-labelledby="topical-hubs-title" class="nv-section">
+    <div class="nv-container">
+      <div class="mb-8 flex flex-col gap-8 lg:flex-row lg:items-end lg:justify-between">
+        <div class="max-w-3xl">
+          <div class="inline-flex items-center gap-2 rounded-full border border-[color:var(--nv-border)] bg-white/60 px-4 py-2 text-xs font-bold uppercase tracking-[0.18em] text-[color:var(--nv-muted)]">
+            <span class="h-3.5 w-3.5 text-[color:var(--nv-accent-2)]" set:html={icons.sparkles}></span>
+            Topical authority hubs
+          </div>
+          <h2 id="topical-hubs-title" class="nv-display mt-5 text-3xl font-semibold leading-tight text-[color:var(--nv-ink)] sm:text-4xl md:text-5xl">
+            Browse names by tradition, origin and intent.
+          </h2>
+          <p class="mt-4 max-w-2xl text-base leading-relaxed text-[color:var(--nv-muted)] sm:text-lg">
+            NameVerse organizes the homepage around the search journeys parents use most: religion, origin, gender, meaning and trending lists.
+          </p>
+        </div>
+        <a
+          href="/names"
+          class="inline-flex w-fit items-center gap-2 rounded-2xl border border-[color:var(--nv-border)] bg-white/62 px-5 py-3 text-sm font-bold text-[color:var(--nv-ink)] backdrop-blur transition hover:bg-white"
+        >
+          View full directory
+          <span class="h-4 w-4" set:html={icons.arrowRight}></span>
+        </a>
+      </div>
+
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        {
+          topicalHubs.map((item) => (
+            <a
+              href={item.href}
+              class="group rounded-[2rem] border border-[color:var(--nv-border)] bg-white/62 p-5 backdrop-blur transition hover:-translate-y-1 hover:border-[color:var(--nv-accent-2)]/40 hover:bg-white"
+            >
+              <div class="mb-6 flex items-center justify-between">
+                <span class="rounded-full bg-slate-100 px-3 py-1 text-xs font-bold text-slate-600">
+                  {item.eyebrow}
+                </span>
+                <span class="h-4 w-4 text-[color:var(--nv-muted)] opacity-0 transition group-hover:opacity-100" set:html={icons.arrowRight}></span>
+              </div>
+              <h3 class="text-lg font-bold text-[color:var(--nv-ink)]">{item.label}</h3>
+              <p class="mt-2 text-sm leading-relaxed text-[color:var(--nv-muted)]">{item.description}</p>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       4. TRENDING NAMES
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <section aria-labelledby="trending-title" class="nv-section">
+    <div class="nv-container">
+      <div class="mb-8 flex flex-col gap-8 lg:flex-row lg:items-end lg:justify-between">
+        <div class="max-w-3xl">
+          <div class="inline-flex items-center gap-2 rounded-full border border-[color:var(--nv-border)] bg-white/60 px-4 py-2 text-xs font-bold uppercase tracking-[0.18em] text-[color:var(--nv-muted)]">
+            <span class="h-3.5 w-3.5 text-[color:var(--nv-accent-2)]" set:html={icons.sparkles}></span>
+            Trending names
+          </div>
+          <h2 id="trending-title" class="nv-display mt-5 text-3xl font-semibold leading-tight text-[color:var(--nv-ink)] sm:text-4xl md:text-5xl">
+            Popular names parents are searching now.
+          </h2>
+          <p class="mt-4 max-w-2xl text-base leading-relaxed text-[color:var(--nv-muted)] sm:text-lg">
+            A compact mix of Islamic, Hindu and Christian names selected for search demand, cultural relevance and meaning-led discovery.
+          </p>
+        </div>
+        <a
+          href="/trending-names"
+          class="inline-flex w-fit items-center gap-2 rounded-2xl bg-[color:var(--nv-ink)] px-5 py-3 text-sm font-bold text-white transition hover:bg-slate-800"
+        >
+          Explore trends
+          <span class="h-4 w-4" set:html={icons.arrowRight}></span>
+        </a>
+      </div>
+
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        {
+          trendingNames.map((name) => {
+            const slug = createSafeSlug(name.name);
+            return (
+              <a
+                href={`/names/${name.religion}/${slug}`}
+                class="group rounded-[1.5rem] border border-[color:var(--nv-border)] bg-white/62 p-4 backdrop-blur transition hover:-translate-y-0.5 hover:bg-white"
+              >
+                <div class="flex items-center justify-between gap-3">
+                  <div>
+                    <span class="text-xs font-bold uppercase tracking-[0.16em] text-[color:var(--nv-accent-2)]">
+                      {name.origin}
+                    </span>
+                    <h3 class="mt-2 text-xl font-bold text-[color:var(--nv-ink)]">{name.name}</h3>
+                  </div>
+                  <span class="rounded-full bg-slate-100 px-3 py-1 text-xs font-bold text-slate-600">
+                    {name.badge}
+                  </span>
+                </div>
+                <div class="mt-4 flex items-center gap-2 text-xs font-semibold text-[color:var(--nv-muted)]">
+                  <span class="h-3.5 w-3.5" set:html={icons.trendingUp}></span>
+                  View meaning and origin
+                </div>
+              </a>
+            );
+          })
+        }
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       5. AUTHORITY SECTION (E-E-A-T)
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <section aria-labelledby="authority-title" class="nv-section">
+    <div class="nv-container">
+      <div class="grid gap-8 lg:grid-cols-[1.05fr_0.95fr] lg:items-center">
+        <div>
+          <div class="inline-flex items-center gap-2 rounded-full border border-[color:var(--nv-border)] bg-white/60 px-4 py-2 text-xs font-bold uppercase tracking-[0.18em] text-[color:var(--nv-muted)]">
+            <span class="h-3.5 w-3.5 text-[color:var(--nv-accent)]" set:html={icons.checkCircle}></span>
+            E-E-A-T for names
+          </div>
+          <h2 id="authority-title" class="nv-display mt-5 text-3xl font-semibold leading-tight text-[color:var(--nv-ink)] sm:text-4xl md:text-5xl">
+            Built for trustworthy name research.
+          </h2>
+          <p class="mt-4 max-w-2xl text-base leading-relaxed text-[color:var(--nv-muted)] sm:text-lg">
+            NameVerse combines searchable name data with clear cultural context, origin labels, meaning summaries and internal pathways to deeper research pages.
+          </p>
+          <div class="mt-6 grid gap-3 sm:grid-cols-3">
+            <div class="rounded-[1.5rem] bg-white/62 p-4">
+              <div class="text-2xl font-bold text-[color:var(--nv-ink)]">65K+</div>
+              <div class="text-xs font-semibold text-[color:var(--nv-muted)]">Name records</div>
+            </div>
+            <div class="rounded-[1.5rem] bg-white/62 p-4">
+              <div class="text-2xl font-bold text-[color:var(--nv-ink)]">15+</div>
+              <div class="text-xs font-semibold text-[color:var(--nv-muted)]">Language roots</div>
+            </div>
+            <div class="rounded-[1.5rem] bg-white/62 p-4">
+              <div class="text-2xl font-bold text-[color:var(--nv-ink)]">Free</div>
+              <div class="text-xs font-semibold text-[color:var(--nv-muted)]">Search tools</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="rounded-[2.5rem] border border-[color:var(--nv-border)] bg-white/62 p-6 backdrop-blur">
+          <span class="h-8 w-8 text-[color:var(--nv-accent-2)]" set:html={icons.quote}></span>
+          <p class="mt-5 text-xl font-semibold leading-relaxed text-[color:var(--nv-ink)]">
+            A great name should be easy to search, simple to understand and rich enough to connect a child to family, faith and culture.
+          </p>
+          <p class="mt-4 text-sm leading-relaxed text-[color:var(--nv-muted)]">
+            NameVerse homepage sections are designed to answer common parent questions before they leave the page: what names mean, where they come from, which are popular, and how to choose with confidence.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       6. MEANING-LED DISCOVERY (DARK SECTION)
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <section aria-labelledby="meaning-title" class="nv-section">
+    <div class="nv-container">
+      <div class="rounded-[2.5rem] border border-slate-800 bg-slate-900 p-6 text-white sm:p-8 lg:p-10">
+        <div class="grid gap-8 lg:grid-cols-[1fr_0.9fr] lg:items-center">
+          <div>
+            <div class="inline-flex items-center gap-2 rounded-full bg-white/10 px-4 py-2 text-xs font-bold uppercase tracking-[0.18em] text-white/80">
+              <span class="h-3.5 w-3.5" set:html={icons.heart}></span>
+              Meaning-led discovery
+            </div>
+            <h2 id="meaning-title" class="nv-display mt-5 text-3xl font-semibold leading-tight text-white sm:text-4xl md:text-5xl">
+              Baby names with meanings that feel personal.
+            </h2>
+            <p class="mt-4 max-w-2xl text-sm leading-relaxed text-white/72 sm:text-base">
+              Parents rarely search only for a spelling. They search for values: light, strength, love, peace, blessing, wisdom and courage. NameVerse connects those intent-rich queries to curated search results and origin hubs.
+            </p>
+            <div class="mt-6 flex flex-wrap gap-2">
+              {
+                meaningChips.map((meaning) => (
+                  <a
+                    key={meaning}
+                    href={`/search?q=${encodeURIComponent(`names that mean ${meaning}`)}`}
+                    class="rounded-full bg-white px-4 py-2 text-sm font-bold text-slate-900 transition hover:bg-white/80"
+                  >
+                    Names that mean {meaning}
+                  </a>
+                ))
+              }
+            </div>
+          </div>
+
+          <div class="grid gap-3 sm:grid-cols-2">
+            <a href="/names-by-meaning" class="rounded-[1.75rem] bg-white/10 p-5 transition hover:bg-white/16">
+              <span class="h-6 w-6 text-white/90" set:html={icons.library}></span>
+              <h3 class="mt-4 text-base font-bold text-white">Meaning index</h3>
+              <p class="mt-2 text-sm leading-relaxed text-white/68">Find names by semantic theme and cultural interpretation.</p>
+            </a>
+            <a href="/name-meanings" class="rounded-[1.75rem] bg-white/10 p-5 transition hover:bg-white/16">
+              <span class="h-6 w-6 text-white/90" set:html={icons.globe}></span>
+              <h3 class="mt-4 text-base font-bold text-white">Origin explorer</h3>
+              <p class="mt-2 text-sm leading-relaxed text-white/68">Browse Arabic, Urdu, Persian, Sanskrit, Hebrew and Greek roots.</p>
+            </a>
+            <a href="/trending-names" class="rounded-[1.75rem] bg-white/10 p-5 transition hover:bg-white/16">
+              <span class="h-6 w-6 text-white/90" set:html={icons.flame}></span>
+              <h3 class="mt-4 text-base font-bold text-white">Trending names</h3>
+              <p class="mt-2 text-sm leading-relaxed text-white/68">Discover names gaining search interest across traditions.</p>
+            </a>
+            <a href="/search" class="rounded-[1.75rem] bg-white/10 p-5 transition hover:bg-white/16">
+              <span class="h-6 w-6 text-white/90" set:html={icons.search}></span>
+              <h3 class="mt-4 text-base font-bold text-white">Advanced search</h3>
+              <p class="mt-2 text-sm leading-relaxed text-white/68">Search names, meanings, origins, religions and gender.</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       7. FAQ SECTION
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <section id="homepage-faq" aria-labelledby="faq-title" class="nv-section">
+    <div class="nv-container">
+      <div class="mb-8 flex flex-col gap-8 lg:flex-row lg:items-end lg:justify-between">
+        <div class="max-w-3xl">
+          <div class="inline-flex items-center gap-2 rounded-full border border-[color:var(--nv-border)] bg-white/60 px-4 py-2 text-xs font-bold uppercase tracking-[0.18em] text-[color:var(--nv-muted)]">
+            <span class="h-3.5 w-3.5 text-[color:var(--nv-accent-2)]" set:html={icons.sparkles}></span>
+            FAQ
+          </div>
+          <h2 id="faq-title" class="nv-display mt-5 text-3xl font-semibold leading-tight text-[color:var(--nv-ink)] sm:text-4xl md:text-5xl">
+            Answers parents ask before choosing a name.
+          </h2>
+          <p class="mt-4 max-w-2xl text-base leading-relaxed text-[color:var(--nv-muted)] sm:text-lg">
+            Homepage FAQ content is written for real search intent and marked up as FAQPage schema.
+          </p>
+        </div>
+      </div>
+
+      <div class="grid gap-4 lg:grid-cols-2">
+        {
+          faqs.map((faq) => (
+            <details key={faq.question} class="nv-surface rounded-[2rem] p-5">
+              <summary class="cursor-pointer list-none text-sm font-bold text-[color:var(--nv-ink)]">
+                {faq.question}
+              </summary>
+              <p class="mt-3 text-sm leading-relaxed text-[color:var(--nv-muted)]">{faq.answer}</p>
+            </details>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       8. LATEST ARTICLES
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <section aria-labelledby="articles-title" class="nv-section">
+    <div class="nv-container">
+      <div class="mb-8 flex flex-col gap-8 lg:flex-row lg:items-end lg:justify-between">
+        <div class="max-w-3xl">
+          <div class="inline-flex items-center gap-2 rounded-full border border-[color:var(--nv-border)] bg-white/60 px-4 py-2 text-xs font-bold uppercase tracking-[0.18em] text-[color:var(--nv-muted)]">
+            <span class="h-3.5 w-3.5 text-[color:var(--nv-accent-2)]" set:html={icons.sparkles}></span>
+            Expert guidance
+          </div>
+          <h2 id="articles-title" class="nv-display mt-5 text-3xl font-semibold leading-tight text-[color:var(--nv-ink)] sm:text-4xl md:text-5xl">
+            Latest NameVerse articles.
+          </h2>
+          <p class="mt-4 max-w-2xl text-base leading-relaxed text-[color:var(--nv-muted)] sm:text-lg">
+            Editorial content supports topical authority, long-tail discovery and parent confidence.
+          </p>
+        </div>
+        <a
+          href="/blog"
+          class="inline-flex w-fit items-center gap-2 rounded-2xl border border-[color:var(--nv-border)] bg-white/62 px-5 py-3 text-sm font-bold text-[color:var(--nv-ink)] backdrop-blur transition hover:bg-white"
+        >
+          View all articles
+          <span class="h-4 w-4" set:html={icons.arrowRight}></span>
+        </a>
+      </div>
+
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {
+          latestArticles.map((article) => (
+            <a
+              href={article.href}
+              class="group rounded-[2rem] border border-[color:var(--nv-border)] bg-white/62 p-5 backdrop-blur transition hover:-translate-y-1 hover:bg-white"
+            >
+              <span class="text-xs font-bold uppercase tracking-[0.16em] text-[color:var(--nv-accent-2)]">
+                {article.date}
+              </span>
+              <h3 class="mt-3 text-lg font-bold text-[color:var(--nv-ink)] group-hover:underline">
+                {article.title}
+              </h3>
+              <p class="mt-2 text-sm leading-relaxed text-[color:var(--nv-muted)]">{article.excerpt}</p>
+              <span class="mt-4 inline-flex items-center gap-2 text-sm font-bold text-[color:var(--nv-ink)]">
+                Read article
+                <span class="h-4 w-4" set:html={icons.arrowRight}></span>
+              </span>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       9. FINAL CTA SECTION
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <section aria-label="Homepage final CTA" class="nv-section pb-10">
+    <div class="nv-container">
+      <div class="rounded-[2.5rem] border border-[color:var(--nv-border)] bg-white/62 p-6 text-center backdrop-blur sm:p-10">
+        <h2 class="nv-display text-3xl font-semibold text-[color:var(--nv-ink)] sm:text-4xl">
+          Find a name with meaning, origin and confidence.
+        </h2>
+        <p class="mx-auto mt-4 max-w-2xl text-sm leading-relaxed text-[color:var(--nv-muted)] sm:text-base">
+          Start with a name, explore by meaning, or browse a cultural tradition. NameVerse is built to make name research fast, clear and trustworthy.
+        </p>
+        <div class="mt-6 flex flex-col justify-center gap-3 sm:flex-row">
+          <a
+            href="/search"
+            class="inline-flex items-center justify-center gap-2 rounded-2xl bg-[color:var(--nv-ink)] px-5 py-3 text-sm font-bold text-white transition hover:bg-slate-800"
+          >
+            Search names
+            <span class="h-4 w-4" set:html={icons.arrowRight}></span>
+          </a>
+          <a
+            href="/names/religion/islamic/1"
+            class="inline-flex items-center justify-center gap-2 rounded-2xl border border-[color:var(--nv-border)] bg-white/70 px-5 py-3 text-sm font-bold text-[color:var(--nv-ink)] transition hover:bg-white"
+          >
+            Browse Islamic names
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <script>
+    (function() {
+      const input = document.getElementById('homepage-search');
+      const suggestions = document.getElementById('search-suggestions');
+      const form = document.getElementById('homepage-search-form');
+      if (!input || !suggestions) return;
+
+      const religionLabels = {
+        christian: 'Christian',
+        hindu: 'Hindu',
+        islamic: 'Islamic'
+      };
+
+      const religionColors = {
+        christian: 'bg-blue-50 text-blue-700',
+        hindu: 'bg-orange-50 text-orange-700',
+        islamic: 'bg-emerald-50 text-emerald-700'
+      };
+
+      let indexes = [];
+      let currentFocus = -1;
+
+      async function loadIndexes() {
+        try {
+          const [christian, hindu, islamic] = await Promise.all([
+            fetch('/names/christian/_search-index.json').then(r => r.json()),
+            fetch('/names/hindu/_search-index.json').then(r => r.json()),
+            fetch('/names/islamic/_search-index.json').then(r => r.json())
+          ]);
+          indexes = [
+            ...christian.map(item => ({ ...item, religion: 'christian' })),
+            ...hindu.map(item => ({ ...item, religion: 'hindu' })),
+            ...islamic.map(item => ({ ...item, religion: 'islamic' }))
+          ];
+        } catch (e) {
+          console.error('Failed to load search indexes', e);
+        }
+      }
+
+      function renderResults(items) {
+        if (!items.length) {
+          suggestions.innerHTML = '<div class="p-3 text-sm text-gray-500">No matching names found.</div>';
+          suggestions.classList.remove('hidden');
+          return;
+        }
+        suggestions.innerHTML = items.slice(0, 8).map((item, idx) => {
+          const href = `/names/${item.religion}/${item.slug}`;
+          return `
+            <a href="${href}" class="flex items-center justify-between gap-3 px-4 py-3 text-sm text-gray-700 hover:bg-gray-50 border-b border-gray-100 last:border-b-0">
+              <div class="flex flex-col">
+                <span class="font-semibold text-gray-900">${item.name}</span>
+                <span class="text-xs text-gray-500">${item.meaning}</span>
+              </div>
+              <span class="rounded-full px-2 py-1 text-xs font-bold ${religionColors[item.religion] || 'bg-gray-100 text-gray-700'}">${religionLabels[item.religion] || item.religion}</span>
+            </a>
+          `;
+        }).join('');
+        suggestions.classList.remove('hidden');
+      }
+
+      function closeSuggestions() {
+        suggestions.classList.add('hidden');
+        currentFocus = -1;
+      }
+
+      input.addEventListener('input', function() {
+        const query = this.value.trim().toLowerCase();
+        if (!query) {
+          closeSuggestions();
+          return;
+        }
+        if (!indexes.length) {
+          loadIndexes().then(() => {
+            const filtered = indexes.filter(item =>
+              item.name.toLowerCase().includes(query) ||
+              item.slug.toLowerCase().includes(query) ||
+              (item.meaning && item.meaning.toLowerCase().includes(query))
+            );
+            renderResults(filtered);
+          });
+          return;
+        }
+        const filtered = indexes.filter(item =>
+          item.name.toLowerCase().includes(query) ||
+          item.slug.toLowerCase().includes(query) ||
+          (item.meaning && item.meaning.toLowerCase().includes(query))
+        );
+        renderResults(filtered);
+      });
+
+      input.addEventListener('keydown', function(e) {
+        const items = suggestions.querySelectorAll('a');
+        if (!items.length) return;
+        if (e.key === 'ArrowDown') {
+          e.preventDefault();
+          currentFocus = Math.min(currentFocus + 1, items.length - 1);
+          items[currentFocus]?.focus();
+        } else if (e.key === 'ArrowUp') {
+          e.preventDefault();
+          currentFocus = Math.max(currentFocus - 1, 0);
+          items[currentFocus]?.focus();
+        } else if (e.key === 'Escape') {
+          closeSuggestions();
+        }
+      });
+
+      document.addEventListener('click', function(e) {
+        if (!form.contains(e.target)) {
+          closeSuggestions();
+        }
+      });
+
+      loadIndexes();
+    })();
+  </script>
+</main>

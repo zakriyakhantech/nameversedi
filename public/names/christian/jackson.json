@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Jackson",
+    "slug": "jackson",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "christian",
+    "meaning": "Son of Jack"
+  }
+}

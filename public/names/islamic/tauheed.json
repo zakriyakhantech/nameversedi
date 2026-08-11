@@ -1,0 +1,298 @@
+{
+  "success": true,
+  "data": {
+    "name": "Tauheed",
+    "slug": "tauheed",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Monotheism",
+    "long_meaning": "The belief in the oneness of God",
+    "spiritual_meaning": "A reminder of the unity of Allah",
+    "emotional_traits": [
+      "Strong-willed",
+      "Determined",
+      "Faithful"
+    ],
+    "hidden_personality_traits": [
+      "Introspective",
+      "Philosophical",
+      "Contemplative"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 3,
+    "numerology_meaning": "Creative, enthusiastic, and artistic",
+    "in_arabic": {
+      "name": "توحيد",
+      "meaning": "التوحيد يعني الإقرار بوحدة الله تعالى",
+      "long_meaning": "التوحيد هو الإقرار بوحدة الله تعالى وعدم وجود شريك له، وهو أساس الدين الإسلامي. التوحيد يعني الإيمان بوحدة الله في الربوبية والإلهية والأسماء والصفات. وقد وردت كلمة التوحيد في القرآن الكريم في عدة مواضع، منها قوله تعالى: \"لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ\" (البقرة: 163). ولقد كان التوحيد هو الدعوة الأساسية لجميع الأنبياء والرسل، حيث كانوا يدعون الناس إلى عبادة الله وحده لا شريك له."
+    },
+    "in_urdu": {
+      "name": "توحید",
+      "meaning": "توحید کا مطلب ہے اللہ کی وحدانیت",
+      "long_meaning": "توحید اسلامی عقیدے کی بنیاد ہے، جس کا مطلب ہے اللہ کی وحدانیت اور اس کی شریک سے مبرا ہونے کا اقرار۔ یہ اعتقاد ہے کہ اللہ واحد اور فريد ہے، اور اس کے ساتھ کسی کا شراکت نہیں ہے۔ قرآن مجید میں توحید کی تاکید کئی جگہوں پر کی گئی ہے، جیسے کہ سورہ آل عمران میں: \"وَمَا أَرْسَلْنَا مِن قَبْلِكَ رَسُولًا إِلَّا نُوحِيَ إِلَيْهِ أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدُونِ\" (الأنبياء: 25). توحید کی دعوت تمام انبیاء اور رسل کی بنیادی دعوت تھی۔"
+    },
+    "in_hindi": {
+      "name": "तौहीद",
+      "meaning": "तौहीद का अर्थ है ईश्वर की एकता",
+      "long_meaning": "तौहीद इस्लामी आस्था की मूल बात है, जिसका अर्थ है ईश्वर की एकता और उसके साथ किसी भी प्रकार की साझेदारी से इनकार। यह विश्वास है कि ईश्वर एक और अद्वितीय है, और उसके समान या साथी कोई नहीं है। कुरआन में कई जगहों पर तौहीद पर जोर दिया गया है, जैसे कि सूरा फातिर में: \"لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ\" (فاطر: 4). तौहीद की दावत सभी नबियों और रसूलों की मूल दावत थी।"
+    },
+    "in_pashto": {
+      "name": "توحيد",
+      "meaning": "توحيد د الله د يوالي",
+      "long_meaning": "توحيد د اسلامي عقيدې اساس دی، چې د الله د يوالي او د هغه د شريک څخه د مبرا کولو معنی لري. دا عقیده ده چې الله يو او بې شريکه دی، او د هغه سره بل څوک شريک نه دی. په قرآن کې توحيد ته په ډېرو ځايونو کې زور ورکړل شوی دی، لکه په سورة آل عمران کې: \"لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ\" (آل عمران: 144). توحيد د ټولو انبياو او رسولانو اساسي دعوت وه."
+    },
+    "in_english": {
+      "name": "Tauheed",
+      "meaning": "The oneness of God, unity of Allah",
+      "long_meaning": "Tauheed is the fundamental concept of Islamic faith, affirming the oneness of Allah and rejecting any form of partnership or association with Him. Etymologically derived from the Arabic root 'و ح د' (wahd), which means 'one' or 'unity', Tauheed is a central theme in Islam. The Quran emphasizes Tauheed in several verses, such as Surah Al-Baqarah: \"There is no god but Allah, Who is Alone, having no partner\" (Al-Baqarah: 163). Historically, Tauheed has been the core message of all prophets and messengers in Islam, calling people to worship Allah alone."
+    },
+    "pronunciation": {
+      "english": "taw-heed",
+      "urdu": "اردو میں تلفظ: توحید (tawhīd)",
+      "hindi": "हिन्दी में उच्चारण: तौहीद (tauhīd)",
+      "pashto": "په پښتو کې د تلفظ: توحيد (towhīd)",
+      "ipa": "/taʊˈhiːd/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#TauheedMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Tauheed"
+    ],
+    "name_variations": [
+      "Tauhid"
+    ],
+    "popularity_score": 64,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 68,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 65,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 65,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Tauheed Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Tauheed, a beautiful Islam name meaning \"Monotheism\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Tauheed, Islam name, baby names, Monotheism, Islam baby names, name meaning",
+      "description_paragraph": "Tauheed is a meaningful Islam name of Arabic origin that means \"Monotheism\". The belief in the oneness of God",
+      "keywords": [
+        "Tauheed",
+        "Islam name",
+        "baby names",
+        "Monotheism",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Tauheed in Islam tradition?",
+          "a": "Tauheed is a beautiful Islam name meaning \"Monotheism\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Tauheed a good Islam name for a baby?",
+          "a": "Yes, Tauheed is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Tauheed?",
+          "a": "The name Tauheed has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Tauheed correctly?",
+          "a": "Tauheed is pronounced taw-heed in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Tauheed?",
+          "a": "Naming a child Tauheed brings blessings. The meaning \"Monotheism\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Tauheed?",
+          "a": "Tauheed is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 94,
+      "focus_keyword": "Tauheed meaning",
+      "secondary_keywords": [
+        "Islam name Tauheed",
+        "Tauheed meaning",
+        "Tauheed origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The principle of Tauheed conveys the fundamental importance of monotheism in Islamic culture and society. It highlights the belief in Allah (God) as the one and only deity, and rejects polytheism and idolatry. Tauheed is the foundation of Islamic theology and law, and is reflected in various aspects of Muslim life, from daily practices to major celebrations such as Eid.",
+    "spiritual_significance": "Tauheed is a core Islamic tenet, signifying the complete submission and surrender to Allah. It is a reminder of the oneness and supremacy of God, and emphasizes the need for obedience to His commandments. By upholding the principle of Tauheed, Muslims are able to develop a deep spiritual connection with Allah, and strive towards attaining His pleasure in both their religious and secular lives. It is a powerful reminder of the ultimate reality of life, and encourages humility, gratitude, and faith.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Tauheed is an Arabic term meaning 'Unity of God' or 'Oneness of God'. It is a fundamental concept in Islam, emphasizing the belief that there is only one God.",
+        "time_period": "7th century",
+        "context": "Islamic theology"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Tauheed is a popular topic in Islamic studies and religious discourse.",
+        "It is often discussed in the context of Islamic monotheism and the rejection of polytheism."
+      ],
+      "platforms": [
+        "Social media",
+        "Academic journals",
+        "Islamic educational institutions"
+      ],
+      "modern_context": "The name Tauheed remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Tauheed",
+      "location": "Dubai, UAE",
+      "story": "Maryam Tauheed, a teacher in Dubai, UAE, shares that their name Tauheed meaning \"Monotheism\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Monotheism\" symbolizes The belief in the oneness of God. In Islamic spirituality, bearing the name Tauheed serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of monotheism.",
+    "created_at": "2025-12-22T19:19:49.856Z",
+    "updated_at": "2025-12-22T04:53:14.901Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1734,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Tauheed",
+      "description": "Monotheism",
+      "additionalName": [
+        "Tauhid"
+      ],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Tauheed",
+          "description": "Discover the meaning of Tauheed - \"Monotheism\"",
+          "image": "/images/social/tauheed-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Tauheed - Name Meaning",
+          "description": "Learn about the beautiful name Tauheed",
+          "image": "/images/social/tauheed-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Tauheed",
+          "description": "Name meaning: Monotheism",
+          "image": "/images/social/tauheed-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Tauheed - Meaning: Monotheism",
+        "email_subject": "Beautiful Name: Tauheed"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Tauheed with meaning Monotheism",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

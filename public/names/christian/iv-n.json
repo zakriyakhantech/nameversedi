@@ -1,0 +1,237 @@
+{
+  "success": true,
+  "data": {
+    "name": "Iván",
+    "slug": "iv-n",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
+    ],
+    "gender": "Male",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Saint",
+    "short_meaning": "God is gracious",
+    "long_meaning": "Derived from the Russian form of the Hebrew name Yoḥanan, meaning 'God is gracious'. Ivan is a popular name throughout Eastern Europe and Russia.",
+    "spiritual_meaning": "A name for a child who is blessed by God",
+    "emotional_traits": [
+      "Compassionate",
+      "Loyal"
+    ],
+    "hidden_personality_traits": [
+      "D = Devoted",
+      "S = Spiritual"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Turquoise",
+      "Royal Blue"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 3,
+    "numerology_meaning": "Creative, artistic, and expressive. Iváns are often deeply emotional, sensitive, and imaginative.",
+    "in_hebrew": {
+      "name": "איבן",
+      "meaning": "אלוהים הוא חנון, אלוהים הוא רחום",
+      "long_meaning": "השם איבן מקורו בשפה הרוסית ומשמעותו 'אלוהים הוא חנון' או 'אלוהים הוא רחום'. השם נגזר מהשם העברי 'יוחנן' שפירושו 'אלוהים הוא חנון'. השם איבן הוא מקביל לשם היווני 'איוואנוס' שגם הוא נגזר מהשם העברי 'יוחנן'."
+    },
+    "in_greek": {
+      "name": "Ίβαν",
+      "meaning": "Ο Θεός είναι χαριτόν, Ο Θεός είναι ελεήμων",
+      "long_meaning": "Το όνομα Ίβαν προέρχεται από τη ρωσική γλώσσα και σημαίνει 'Ο Θεός είναι χαριτόν' ή 'Ο Θεός είναι ελεήμων'. Το όνομα αυτό είναι παράλληλο του εβραϊκού ονόματος 'יוחנן' που σημαίνει 'Ο Θεός είναι χαριτόν'. Το όνομα Ίβαν είναι επίσης συγγενές με το ελληνικό όνομα 'Ιωάννης' που επίσης προέρχεται από το εβραϊκό 'יוחנן'."
+    },
+    "in_latin": {
+      "name": "Ivan",
+      "meaning": "Deus est misericors, Deus est gratiosus",
+      "long_meaning": "Nomen Ivan origine Russicum habet et significat 'Deus est misericors' vel 'Deus est gratiosus'. Hoc nomen derivatum est ex nomine hebraico 'יוחנן' quod significat 'Deus est misericors'. Nomen Ivan etiam affine est nomini graeco 'Ιωάννης' quod etiam ex hebraico 'יוחנן' originem habet."
+    },
+    "in_english": {
+      "name": "Iván",
+      "meaning": "God is gracious, God is merciful",
+      "long_meaning": "The name Iván is of Russian origin and means 'God is gracious' or 'God is merciful'. It is derived from the Hebrew name 'יוחנן' (Yohanan), which means 'God is gracious'. The name Iván is equivalent to the Greek name 'Ιωάννης' (Ioannes) and the Latin name 'Ioannes', all of which share the same Hebrew root. In Christian tradition, the name Iván is associated with John the Baptist and John the Apostle, two prominent figures in the New Testament. The name Iván has been popularized in many Christian cultures, including Russian, Spanish, and Portuguese-speaking countries."
+    },
+    "pronunciation": {
+      "english": "ee-VAHN",
+      "biblical": "Yohanan",
+      "ipa": "/iˈvɑːn/"
+    },
+    "celebrity_usage": [
+      "Ivan Reitman",
+      "Ivan Drago"
+    ],
+    "social_tags": [
+      "#IvánMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Iván"
+    ],
+    "name_variations": [],
+    "popularity_score": 65,
+    "popularity_by_region": [
+      {
+        "region": "Brazil",
+        "country_code": "BR",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "United States",
+        "country_code": "US",
+        "score": 59,
+        "year": 2024
+      },
+      {
+        "region": "Italy",
+        "country_code": "IT",
+        "score": 56,
+        "year": 2024
+      }
+    ],
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "saint_reference": {
+      "is_saint_name": true,
+      "saint_name": "John the Baptist",
+      "note": "The name Iván is associated with several saints, including John the Baptist and John the Apostle."
+    },
+    "cultural_impact": "Ivan is a name deeply rooted in Eastern European and Russian history and culture, with numerous notable figures sharing the name. It has often been associated with strong and powerful individuals, inspiring awe and respect in their communities. For example, Ivan the Great, also known as Ivan III, was the Grand Prince of Moscow from 1462 to 1505 and is considered the first Russian Tsar. He played a crucial role in strengthening the Russian state and expanding its borders.",
+    "spiritual_significance": "For Christians, the name Ivan carries a deep spiritual significance as it is derived from the Hebrew name Yoḥanan which means 'God is gracious'. This is a reminder of God's endless mercy and love for his people. Ivan, as a Christian name, can be seen as a symbol of God's grace, promoting humility, gratitude, and a deeper connection with the divine. In this way, the name carries a powerful spiritual message, encouraging those who bear it to live their lives in service to God and with a grateful heart.",
+    "historical_references": [
+      {
+        "reference": "According to Russian legend, Ivan the Great (Ivan III, Ivan Vasilievich) was the Grand Prince of Moscow from 1462 to 1493. He is often referred to as 'the Terrible' for his military conquests. During his reign, Moscow became the preeminent power in Russia and the center of the Russian Orthodox Church. He is considered the first Tsar of Russia.",
+        "time_period": "1462-1493",
+        "context": "Russian Empire"
+      },
+      {
+        "reference": "Ivan the Terrible (Ivan IV) was the first Tsar of Russia, ruling from 1547 to 1584. Known as 'the Terrible' for his violent temper and ruthless methods, he expanded the Russian Empire significantly, conquering Kazan and Astrakhan. He is also famous for his role in the Time of Troubles, a period of political instability and invasion in the late 16th and early 17th centuries.",
+        "time_period": "1547-1584",
+        "context": "Russian Empire"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Russian name",
+        "Cyrillic script",
+        "Slavic heritage"
+      ],
+      "platforms": [
+        "Social media",
+        "Music industry",
+        "Sports"
+      ],
+      "modern_context": "Iván is a popular name in the Russian-speaking world and is written in Cyrillic script as Иван. It is a common name in the Slavic culture and is widely used in various contexts. In social media, Iván is a name used by many individuals, particularly those with Russian or Slavic heritage. In the music industry, there are several well-known artists with the name Iván, such as Iván Ferreira, a Brazilian singer, and Iván Moure, a Spanish singer. In sports, there have been notable athletes with the name Iván, like Iván de la Peña, a Spanish footballer, and Iván Veltman, a Dutch professional footballer. Overall, Iván is a name with a rich cultural history and is widely used and recognized in modern society."
+    },
+    "name_in_real_life": {
+      "person_name": "David Iván",
+      "location": "Athens, Greece",
+      "story": "David Iván from Athens, Greece embodies the meaning of Iván - \"God is gracious\". Raised in a Christian family, they were taught to honor the significance of their name and walk in faith throughout their life."
+    },
+    "spiritual_symbolism": "Ivan, derived from John, symbolizes God's grace and favor. It suggests strength, loyalty, and humility - a reflection of the Biblical John, a disciple who was faithful and obedient to the will of God.",
+    "seo": {
+      "seo": {
+        "title": "Iván - Russian Christian Name Meaning God is Gracious",
+        "meta_description": "Discover the meaning and religious value of the Russian name Iván, derived from the Hebrew name Yoḥanan meaning 'God is gracious'.",
+        "description_paragraph": "Iván, a popular name in Eastern Europe and Russia, is derived from the Hebrew name Yoḥanan. The name's meaning 'God is gracious' has significant cultural and religious significance, especially in Christianity.",
+        "keywords": [
+          "Iván",
+          "Russian name",
+          "Christianity",
+          "God is gracious",
+          "Yoḥanan"
+        ],
+        "faq": [
+          {
+            "q": "What does Iván mean?",
+            "a": "Iván is derived from the Hebrew name Yoḥanan, meaning 'God is gracious'."
+          },
+          {
+            "q": "Is Iván a Christianity name?",
+            "a": "Yes, Iván is a Christian name as it is derived from the Hebrew name Yoḥanan."
+          },
+          {
+            "q": "How to pronounce Iván?",
+            "a": "EE-vaan"
+          },
+          {
+            "q": "Is Iván popular today?",
+            "a": "Yes, Iván is a popular name throughout Eastern Europe and Russia."
+          },
+          {
+            "q": "What is the origin of Iván?",
+            "a": "Iván is derived from the Russian form of the Hebrew name Yoḥanan."
+          }
+        ]
+      },
+      "title": "Iván Name Meaning in Russian | Christianity",
+      "meta_description": "Discover the meaning of Iván, a beautiful Christian name meaning \"God is gracious\". Learn about its Biblical origin, spiritual significance, and cultural importance in Christian tradition.",
+      "description_paragraph": "Iván is a meaningful Christian name of Russian origin that means \"God is gracious\". Derived from the Russian form of the Hebrew name Yoḥanan, meaning 'God is gracious'. Ivan is a popular name throughout Eastern Europe and Russia. Parents choosing this name for their child seek to bestow blessings and godly attributes upon them.",
+      "keywords": [
+        "Iván",
+        "Christianity name",
+        "Russian origin",
+        "Iván meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Iván mean?",
+          "a": "Iván means \"God is gracious\" and is a popular Christian name with deep spiritual significance."
+        },
+        {
+          "q": "Is Iván a good Christian name?",
+          "a": "Yes, Iván is a beautiful Christian name that carries positive meaning and is widely used in Christian communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Iván?",
+          "a": "Iván has Russian origins and is rooted in Christian tradition and culture."
+        },
+        {
+          "q": "Is Iván mentioned in the Bible?",
+          "a": "Iván is a name with Biblical connections and carries significance in Christian scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Iván?",
+          "a": "Naming a child Iván is believed to bring blessings and embodies the beautiful meaning of \"God is gracious\", which can inspire godly character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "ads": [
+        {
+          "type": "banner",
+          "location": "top"
+        },
+        {
+          "type": "sidebar",
+          "location": "right"
+        }
+      ],
+      "affiliate": [
+        {
+          "name": "BabyNamesWorld",
+          "link": "https://babynamesworld.com/ivan"
+        }
+      ]
+    },
+    "updated_at": "2025-12-23T04:50:21.245Z",
+    "similar_sounding_names": [
+      "abeliel",
+      "Abijah",
+      "Adalyn",
+      "Adelaide",
+      "Adele",
+      "Adonella",
+      "Agnes",
+      "Agnieszka",
+      "Aimee",
+      "Alarice"
+    ]
+  }
+}

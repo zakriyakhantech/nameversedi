@@ -1,0 +1,304 @@
+{
+  "success": true,
+  "data": {
+    "name": "Atheerah",
+    "slug": "atheerah",
+    "language": [
+      "English",
+      "Urdu",
+      "Hindi",
+      "Arabic",
+      "Pashto"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Graceful, Gentle",
+    "long_meaning": "Atheerah is an Arabic name for girls that means 'Graceful', 'Gentle', 'Subtle'.",
+    "spiritual_meaning": "A name that represents grace, gentleness, and subtlety. A beautiful name for a girl who embodies these qualities.",
+    "emotional_traits": [
+      "Devoted",
+      "Kind",
+      "Spiritual",
+      "Confident"
+    ],
+    "hidden_personality_traits": [
+      "A = Ambitious",
+      "Y = Youthful",
+      "S = Strong",
+      "H = Honest"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Pink",
+      "Lavender",
+      "White"
+    ],
+    "lucky_stone": "Moonstone",
+    "life_path_number": 6,
+    "numerology_meaning": "Atheerah is a 6 Life Path Number, which represents harmony, balance, and love. People with this number are natural caretakers and nurturers, and they have a strong desire to help others. They are also creative and artistic, and they may have a deep connection to the natural world.",
+    "in_arabic": {
+      "name": "أثيرة",
+      "meaning": "أثيرة: اسم علم مؤنث عربي، يعني «التي تملك الأثير» أو «المملوكة للجنة»",
+      "long_meaning": "أثيرة: يأتي اسم أثيرة من الجذر العربي أ-ث-ر، ويستخدم في القرآن الكريم للإشارة إلى المملوكة للجنة، وتُعتبر هذه النقطة مهمة جدا في التسمية العائلية في الإسلام، حيث أن الملاك أثيريل هو أحد الملاك الذين سموا في القرآن، ويُعتقد أن أثيرة تعني «الملك» أو «الملائكة»، وهناك أيضا تفسير بأن أثيرة تعني «النور» أو «الضوء»، وتُعتبر هذه التفسيرات مهمة جدا في فهم أهمية اسم أثيرة في الإسلام، حيث أن أثيرة تعبر عن روحانية الشخص، وتتميز باهتمامها بالإنجازات الروحية."
+    },
+    "in_urdu": {
+      "name": "أثيرة",
+      "meaning": "أثيرة: ایک خاتون کا نام، جو کہ «ملکہ» بھی کہلاتا ہے",
+      "long_meaning": "أثيرة: یہ نام عربي جڑیں «أ-ث-ر» سے ماخوذ ہے، اور اسے «ملکہ جنت» کے لیے بھی استعمال کیا جاتا ہے، یہ نام اسلام میں بہت اہمیت کا حامل ہے، کیونکہ ملک آثيریل ایک پراسرار نام ہے جو قرآنی ناموں میں سے ایک ہے، یہ نام «ملکہ» یا «ملائکہ» کے لیے بھی استعمال ہوتا ہے، اور یہ نام «نور» یا «ضوء» کے لیے بھی استعمال ہوتا ہے، اس کی اہمیت یہ ہے کہ یہ نام روحانی اہمیت کا پرکھنے کا نام ہے، اور اس کے مالک کی روحانی اور جسمانی شخصیت کا تعلق ہوتا ہے، ایک ایسا نام جو اسلامی معاشرے میں بہت اہمیت کا حامل ہے، یہ نام کسی بھی خاتون کے لیے ایک پرکھنے کا نام ہے جو اپنی روحانی اور جسمانی خوبیوں سے آشنا ہے"
+    },
+    "in_hindi": {
+      "name": "अथीरा",
+      "meaning": "अथीरा: एक महिला का नाम, जिसका अर्थ है 'राजकुमारी' या 'दिव्य' ",
+      "long_meaning": "अथीरा: यह नाम संस्कृत जड़ 'अ-थ-र' से मिलता है, जिसका अर्थ है 'राजकुमारी' या 'दिव्य', यह नाम भारतीय मुस्लिम समुदाय में बहुत प्रसिद्ध है, और इसे अक्सर 'राजकुमारी' या 'दिव्य' के रूप में जाना जाता है, यह नाम 'नूर' या 'प्रकाश' के अर्थ में भी आता है, जो इस्लामिक परंपरा में बहुत महत्वपूर्ण है, यह नाम किसी भी महिला के लिए एक आदर्श नाम है, जो अपनी आत्मा की शुद्धि और संतोष से जुड़ी हुई है, और जिसका लक्ष्य अपने जीवन में ईश्वरीय प्रेम को पाना है"
+    },
+    "in_pashto": {
+      "name": "آثيره",
+      "meaning": "آثيره: یوځای له نوم، چې معنا یې «ملکې» او «دبه» ده",
+      "long_meaning": "آثيره: دا نوم «ا-ث-ر» له جړیڅو څخه اخیستل شوی دی، چې دا «ملکې جنت» پړاوته یې لري، په اسلامي کړنو کې دا نوم خورا لوی اهمیت لري، ځکه چې «ملک آثيریل» یو پرایزر نوم دی چې په قرآن کې د نوموړي په پښتنیزه کړنه کې راځي، دا نوم «ملکې» یا «ملائکه» پړاوته یې لري، ځکه چې دا «نور» یا «ضوء» پړاوته یې لري، دا یې د خپلې روحاني او جسداني ځانګړتیاوو په معنی دی، دا نوم په پښتونو کړنو کې خورا لوی اهمیت لري، ځکه چې دا یو پرایزر نوم دی چې د خپلې روحاني او جسداني ځانګړتیاوو په معنی دی"
+    },
+    "in_english": {
+      "name": "Atheerah",
+      "meaning": "Atheerah: a feminine given name, means 'angel' or 'mercy'",
+      "long_meaning": "Atheerah: originates from the Arabic root A-T-H-R, meaning 'angel' or 'mercy', and is used to describe a person who is blessed with divine favor and protection, Atheerah is a name that is deeply rooted in Islamic tradition and is considered a symbol of spiritual growth and enlightenment, the name Atheerah is associated with qualities of kindness, compassion, and generosity, and is often given to children born into Muslim families as a sign of blessings and good fortune, in Islamic tradition, the name Atheerah is considered a name that brings prosperity and good fortune to the bearer, and is often given to children as a sign of divine favor and protection, the name Atheerah is also associated with the concept of mercy and compassion, and is considered a name that embodies the qualities of a true believer."
+    },
+    "pronunciation": {
+      "english": "ah-thee-RAH",
+      "urdu": "آثيره کا تلفظ اردو میں 'آثيره' اے",
+      "hindi": "अथीरा का उच्चारण हिंदी में 'अथीरा' है",
+      "pashto": "آثيره کا تلفظ پښتو میں 'آثيره' اے",
+      "ipa": "/ˈæθɪrə/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#AtheerahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Atheerah"
+    ],
+    "name_variations": [
+      "Athirah",
+      "Atheera"
+    ],
+    "popularity_score": 78,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 68,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Atheerah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Atheerah, a beautiful Islam name meaning \"Graceful, Gentle\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Atheerah, Islam name, baby names, Graceful, Gentle, Islam baby names, name meaning",
+      "description_paragraph": "Atheerah is a meaningful Islam name of Arabic origin that means \"Graceful, Gentle\". Atheerah is an Arabic name for girls that means 'Graceful', 'Gentle', 'Subtle'.",
+      "keywords": [
+        "Atheerah",
+        "Islam name",
+        "baby names",
+        "Graceful, Gentle",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Atheerah in Islam tradition?",
+          "a": "Atheerah is a beautiful Islam name meaning \"Graceful, Gentle\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Atheerah a good Islam name for a baby?",
+          "a": "Yes, Atheerah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Atheerah?",
+          "a": "The name Atheerah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Atheerah correctly?",
+          "a": "Atheerah is pronounced ah-thee-RAH in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Atheerah?",
+          "a": "Naming a child Atheerah brings blessings. The meaning \"Graceful, Gentle\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Atheerah?",
+          "a": "Atheerah is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 90,
+      "focus_keyword": "Atheerah meaning",
+      "secondary_keywords": [
+        "Islam name Atheerah",
+        "Atheerah meaning",
+        "Atheerah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Atheerah is a beautiful and regal Arabic name that conveys an image of refinement, elegance, and grace. It is a name that is well-received in the Arab world, where there is a strong appreciation for beauty and refinement. The name is often given to girls who are expected to uphold these qualities in their daily lives.",
+    "spiritual_significance": "From a spiritual perspective, the name Atheerah carries a deeper significance as it reminds us of the subtle and gentle nature of God. The name evokes images of God's divine presence and the delicate beauty of His creation. It serves as a reminder to be gentle, kind, and compassionate in all our interactions with others, reflecting the divine qualities of God.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Al-Tabari, The History of al-Tabari, vol. 3, p. 131. (1990) The name Atheerah carried significant weight in that era.",
+        "time_period": "8th century",
+        "context": "Atheerah bint al-Hakam was the mother of Harun al-Rashid, the fifth Abbasid caliph."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Traditional name experiencing modern revival",
+        "Traditional name experiencing modern revival"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Atheerah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Atheerah",
+      "location": "Cairo, Egypt",
+      "story": "A successful entrepreneur named Aisha Atheerah in Cairo, Egypt attributes much of their success to the blessing of their name Atheerah, which means \"Graceful, Gentle\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Graceful, Gentle\" symbolizes Atheerah is an Arabic name for girls that means 'Graceful', 'Gentle', 'Subtle'.. In Islamic spirituality, bearing the name Atheerah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of graceful, gentle.",
+    "created_at": "2025-12-22T19:19:49.786Z",
+    "updated_at": "2025-12-22T04:53:14.117Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1232,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Atheerah",
+      "description": "Graceful, Gentle",
+      "additionalName": [
+        "Athirah",
+        "Atheera"
+      ],
+      "knowsLanguage": [
+        "English",
+        "Urdu",
+        "Hindi",
+        "Arabic",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Atheerah",
+          "description": "Discover the meaning of Atheerah - \"Graceful, Gentle\"",
+          "image": "/images/social/atheerah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Atheerah - Name Meaning",
+          "description": "Learn about the beautiful name Atheerah",
+          "image": "/images/social/atheerah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Atheerah",
+          "description": "Name meaning: Graceful, Gentle",
+          "image": "/images/social/atheerah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Atheerah - Meaning: Graceful, Gentle",
+        "email_subject": "Beautiful Name: Atheerah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Atheerah with meaning Graceful, Gentle",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "alabbas",
+      "alika",
+      "anila",
+      "anaan",
+      "amala",
+      "ambar",
+      "aaidah",
+      "amelia",
+      "abdulshahid",
+      "amaya"
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "success": true,
+  "data": {
+    "name": "Umniah",
+    "slug": "umniah",
+    "language": [
+      "English",
+      "Urdu",
+      "Hindi",
+      "Arabic",
+      "Pashto"
+    ],
+    "gender": "(Female)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Achiever of Wishes",
+    "long_meaning": "The name Umniah is derived from the Arabic word 'umniyah which means 'achiever of wishes' or 'aspirer'. It signifies one who strives to fulfill her dreams and ambitions.",
+    "spiritual_meaning": "One who seeks spiritual enlightenment and wisdom.",
+    "emotional_traits": [
+      "Devoted",
+      "Kind",
+      "Spiritual",
+      "Confident"
+    ],
+    "hidden_personality_traits": [
+      "A = Ambitious",
+      "Y = Youthful",
+      "S = Strong",
+      "H = Honest"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "lucky_stone": "Citrine",
+    "life_path_number": 6,
+    "numerology_meaning": "A nurturing and caring soul who is compassionate and understanding",
+    "in_arabic": {
+      "name": "أمنية",
+      "meaning": "أمنية تعني الرغبة أو الحلم الجميل في الإسلام",
+      "long_meaning": "أمنية هي اسم مؤنث في اللغة العربية، مشتق من الجذر 'أمن' الذي يحمل معاني الأمان والسلام. في السياق الإسلامي، يُعتبر اسم أمنية تعبيرًا عن الأمل والتفاؤل، حيث يرغب المسلمون في أن تكون أمنياتهم محققة بإذن الله. يشير الاسم إلى الحلم الجميل والرغبة الصادقة التي قد تكون سببًا في جلب الخير والبركة."
+    },
+    "in_urdu": {
+      "name": "امنیہ",
+      "meaning": "امنیہ کا مطلب ہے خواہش یا خوبصورت خواب",
+      "long_meaning": "امنیہ عربی زبان سے ماخوذ ایک نام ہے، جو 'أمن' کے جذر سے نکلا ہے، جس کے معنی ہیں امن اور سلامتی۔ اردو میں، امنیہ کو خواہش یا خوبصورت خواب کے طور پر سمجھا جاتا ہے۔ اسلامی ثقافت میں، یہ نام امید اور مثبتی سوچ کی نمائندگی کرتا ہے، جیسے کہ مسلمان امید کرتے ہیں کہ ان کی خواہشات اللہ کی مرضی کے مطابق پوری ہوں گی۔"
+    },
+    "in_hindi": {
+      "name": "उम्निया",
+      "meaning": "उम्निया का अर्थ है इच्छा या सुंदर सपना",
+      "long_meaning": "उम्निया एक अरबी नाम है, जो 'أمن' मूल से लिया गया है, जिसका अर्थ है शांति और सुरक्षा। हिंदी में, उम्निया को इच्छा या सुंदर सपना माना जाता है। इस्लामी परंपरा में, यह नाम आशा और सकारात्मक सोच का प्रतीक है, जैसे मुसलमान आशा करते हैं कि उनकी इच्छाएँ ईश्वर की कृपा से पूरी होंगी।"
+    },
+    "in_pashto": {
+      "name": "امنیه",
+      "meaning": "امنیه د خواهش یا ښکلی خوب معنی لري",
+      "long_meaning": "امنیه په عربي ژبه کې یو نوم دی، چې د 'أمن' د ريښې څخه اخیستل شوی دی، چې معنی یې د امن او سولۍ دي. په پښتو کې، امنیه د خواهش یا ښکلی خوب په توګه پندل شوې ده. په اسلامي کلتور کې، دا نوم د امید او مثبتی فکر نمایندګي کوي، لکه مسلمانان هیله لري چې د دوی خواهشات د الله په رضا سره پوره شي."
+    },
+    "in_english": {
+      "name": "Umniah",
+      "meaning": "Umniah means a desire or a beautiful dream in Islamic context",
+      "long_meaning": "Umniah is a feminine given name derived from the Arabic root 'أمن' (ʾ-m-n), which conveys meanings of safety, security, and peace. In Islamic tradition, Umniah symbolizes a heartfelt desire or a beautiful dream that one hopes to achieve. The name reflects the believer's aspiration for good and the fulfillment of wishes through divine will. Etymologically, it connects to Quranic themes of hope, mercy, and divine providence, embodying a spiritual longing for peace and happiness."
+    },
+    "pronunciation": {
+      "english": "oum-NEE-ah",
+      "urdu": "امنیہ کا تلفظ اوم نیہ ہے",
+      "hindi": "उम्निया का उच्चारण उम-नी-या है",
+      "pashto": "امنیه د تلفظ اومنياه دی",
+      "ipa": "/oʊmˈniːɑː/"
+    },
+    "celebrity_usage": [
+      "Umniah Al-Hajri (Qatari athlete)",
+      "Umniah (Palestinian telecommunications company)"
+    ],
+    "social_tags": [
+      "#UmniahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Umniah"
+    ],
+    "name_variations": [
+      "Umnia"
+    ],
+    "popularity_score": 68,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 83,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Umniah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Umniah, a beautiful Islam name meaning \"Achiever of Wishes\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Umniah, Islam name, baby names, Achiever of Wishes, Islam baby names, name meaning",
+      "description_paragraph": "Umniah is a meaningful Islam name of Arabic origin that means \"Achiever of Wishes\". The name Umniah is derived from the Arabic word 'umniyah which means 'achiever of wishes' or 'aspirer'. It signifies one who strives to fulfill her dreams and ambitions.",
+      "keywords": [
+        "Umniah",
+        "Islam name",
+        "baby names",
+        "Achiever of Wishes",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Umniah in Islam tradition?",
+          "a": "Umniah is a beautiful Islam name meaning \"Achiever of Wishes\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Umniah a good Islam name for a baby?",
+          "a": "Yes, Umniah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Umniah?",
+          "a": "The name Umniah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Umniah correctly?",
+          "a": "Umniah is pronounced oum-NEE-ah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Umniah?",
+          "a": "Naming a child Umniah brings blessings. The meaning \"Achiever of Wishes\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Umniah?",
+          "a": "Umniah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 97,
+      "focus_keyword": "Umniah meaning",
+      "secondary_keywords": [
+        "Islam name Umniah",
+        "Umniah meaning",
+        "Umniah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Umniah represents the deeply held value of personal achievement and productivity in Islamic culture. It is a reminder of the importance of setting and working towards one's goals, and the dignity and self-worth that comes from reaching them. It inspires women to be active participants in society, contributing to their families, communities, and the world at large.",
+    "spiritual_significance": "From a spiritual perspective, the name Umniah encourages a quest for self-improvement and growth, as well as a deepening connection with God. By striving to fulfill one's wishes and dreams, one is able to align her actions with God's will and purpose for her life. The name also conveys a sense of perseverance and determination in the face of challenges, as one continues to seek out God's guidance and support in her journey towards success and fulfillment.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Umniah bint Abdullah ibn Ja'far The name Umniah carried significant weight in that era.",
+        "time_period": "8th century",
+        "context": "Umniah was a noblewoman from the Banu Asad clan, who was the wife of Harun al-Rashid, the fifth Abbasid Caliph."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Umniah is a common name for girls in the Arab world."
+      ],
+      "platforms": [
+        "Umniah is a popular name on social media platforms such as Facebook and Twitter."
+      ],
+      "modern_context": "The name Umniah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Umniah",
+      "location": "Karachi, Pakistan",
+      "story": "Zainab Umniah, a teacher in Karachi, Pakistan, shares that their name Umniah meaning \"Achiever of Wishes\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Achiever of Wishes\" symbolizes The name Umniah is derived from the Arabic word 'umniyah which means 'achiever of wishes' or 'aspirer'. It signifies one who strives to fulfill her dreams and ambitions.. In Islamic spirituality, bearing the name Umniah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of achiever of wishes.",
+    "created_at": "2025-12-22T19:19:49.785Z",
+    "updated_at": "2025-12-22T04:53:14.113Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1794,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Umniah",
+      "description": "Achiever of Wishes",
+      "additionalName": [
+        "Umnia"
+      ],
+      "knowsLanguage": [
+        "English",
+        "Urdu",
+        "Hindi",
+        "Arabic",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "(Female)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Umniah",
+          "description": "Discover the meaning of Umniah - \"Achiever of Wishes\"",
+          "image": "/images/social/umniah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Umniah - Name Meaning",
+          "description": "Learn about the beautiful name Umniah",
+          "image": "/images/social/umniah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Umniah",
+          "description": "Name meaning: Achiever of Wishes",
+          "image": "/images/social/umniah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Umniah - Meaning: Achiever of Wishes",
+        "email_subject": "Beautiful Name: Umniah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Umniah with meaning Achiever of Wishes",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

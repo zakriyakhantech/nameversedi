@@ -1,0 +1,295 @@
+{
+  "success": true,
+  "data": {
+    "name": "Umer",
+    "slug": "umer",
+    "language": [
+      "Arabic",
+      "Urdu"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Elder",
+    "long_meaning": "The One Who Is Older, More Experienced, Wise and Respected",
+    "spiritual_meaning": "A name for someone who has achieved a certain level of spiritual growth and wisdom",
+    "emotional_traits": [
+      "Wise",
+      "Respected",
+      "Experienced"
+    ],
+    "hidden_personality_traits": [
+      "Loyal",
+      "Reliable"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 3,
+    "numerology_meaning": "Creativity, Self-expression, and Communication",
+    "in_arabic": {
+      "name": "عمر",
+      "meaning": "عمر اسم علم مذكر من أصل عربي و معناه: العمر الطويل، أو الحياة",
+      "long_meaning": "عمر هو اسم علم مذكر من أصل عربي، مشتق من الفعل 'عمر' الذي يعني الحياة أو العمر الطويل. ورد اسم عمر في القرآن الكريم، ويعتبر من الأسماء المحببة عند المسلمين، حيث كان عمر بن الخطاب أحد الصحابة الأبرز للنبي محمد صلى الله عليه وسلم، وكان ثاني الخلفاء الراشدين. يتميز اسم عمر بالمعنى العميق الذي يعبر عن الحياة والنماء، ويحمل في طياته دلالات روحية عميقة تتعلق بالتوكل على الله والإيمان بالعمر والنعمة التي أنعم الله بها على عباده."
+    },
+    "in_urdu": {
+      "name": "عمر",
+      "meaning": "عمر کا مطلب ہے: لمبی زندگی، یا زندگی گزارنا",
+      "long_meaning": "عمر ایک مذکر اسم ہے جس کی اصل عربی ہے۔ یہ عمر سے ماخوذ ہے جس کا مطلب ہے زندگی گزارنا یا لمبی زندگی۔ اسلامی تاریخ میں عمر بن خطاب ایک اہم شخصیت تھے، جو نبی محمد صلی اللہ علیہ وسلم کے سب سے نمایاں صحابیوں میں سے ایک تھے اور دوسرے خلیفہ راشد تھے۔ یہ نام نہ صرف اپنی تاریخی اہمیت کے لئے بلکہ اس کے روحانی مضمرات کے لئے بھی اہم ہے، جو زندگی کے سفر پر دلالت کرتا ہے اور اللہ کی نعمتوں پر توکل کرنے کی تاکید کرتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "उम्र",
+      "meaning": "उम्र का अर्थ है: लंबा जीवन या जीवन जीना",
+      "long_meaning": "उम्र एक पुल्लिंग नाम है जिसकी उत्पत्ति अरबी भाषा में हुई है। यह 'उम्र' से व्युत्पन्न है, जिसका अर्थ है जीवन जीना या लंबा जीवन। इस्लामी परंपरा में, उमर इब्न अल-खत्ताब एक प्रमुख व्यक्ति थे, जो पैगंबर मुहम्मद के सबसे उल्लेखनीय साथियों में से एक थे और दूसरे खलीफा थे। यह नाम न केवल अपने ऐतिहासिक महत्व के लिए, बल्कि इसके आध्यात्मिक अर्थों के लिए भी महत्वपूर्ण है, जो जीवन की यात्रा को दर्शाता है और अल्लाह की कृपा पर भरोसा करने पर जोर देता है।"
+    },
+    "in_pashto": {
+      "name": "عمر",
+      "meaning": "عمر معنی یې دا دی: اوږده ژوند، یا ژوند تېرول",
+      "long_meaning": "عمر د مذکر نوم دی چی اصلي يې عربي دی. دا د 'عمر' څخه اخستل شوی دی چی معنی يې ده ژوند تېرول یا اوږده ژوند. په اسلامي تاريخ کی عمر بن خطاب يو مهم شخصیت وه، چی د پيغمبر محمد صلی الله عليه وسلم يو له خورا نمايانده صحابي او دويم خليفه راشد وه. دا نوم نه يوازې د هغه تاريخي اهميت له مخې بلکه د هغه روحاني مضمراتو له مخې هم مهم دی، چی د ژوند سفر ته اشاره کوي او د الله تعالی پر نعمتونو باندې توکل کولو ته زور ورکوي."
+    },
+    "in_english": {
+      "name": "Umer",
+      "meaning": "Long life, life, or prosperous life",
+      "long_meaning": "Umer is a masculine given name of Arabic origin, derived from the term 'umr', which means life or long life. In Islamic tradition, Umer (or Umar) ibn al-Khattab was one of the most notable companions of the Prophet Muhammad and the second caliph. The name Umer holds deep spiritual significance, symbolizing a life journey, trust in Allah's providence, and gratitude for the gift of life. It reflects values of longevity, prosperity, and a strong connection to Islamic heritage."
+    },
+    "pronunciation": {
+      "english": "oo-MER",
+      "urdu": "اردو میں تلفظ کی تفصیل: عُمَر",
+      "hindi": "हिन्दी में उच्चारण विवरण: उमर",
+      "pashto": "په پښتو کې د تلفظ تفصیل: عمر",
+      "ipa": "/ˈuːmɛr/"
+    },
+    "celebrity_usage": [
+      "Umar ibn Al-Khattab",
+      "Umar Farooq"
+    ],
+    "social_tags": [
+      "#UmerMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Umer"
+    ],
+    "name_variations": [],
+    "popularity_score": 56,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 70,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Umer Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Umer, a beautiful Islam name meaning \"Elder\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Umer, Islam name, baby names, Elder, Islam baby names, name meaning",
+      "description_paragraph": "Umer is a meaningful Islam name of Arabic origin that means \"Elder\". The One Who Is Older, More Experienced, Wise and Respected",
+      "keywords": [
+        "Umer",
+        "Islam name",
+        "baby names",
+        "Elder",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Umer in Islam tradition?",
+          "a": "Umer is a beautiful Islam name meaning \"Elder\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Umer a good Islam name for a baby?",
+          "a": "Yes, Umer is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Umer?",
+          "a": "The name Umer has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Umer correctly?",
+          "a": "Umer is pronounced oo-MER in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Umer?",
+          "a": "Naming a child Umer brings blessings. The meaning \"Elder\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Umer?",
+          "a": "Umer is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 90,
+      "focus_keyword": "Umer meaning",
+      "secondary_keywords": [
+        "Islam name Umer",
+        "Umer meaning",
+        "Umer origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Umar is of Arabic origin and is a popular name among Muslims. It is mentioned in the Holy Quran and is the name of the second Caliph of Islam, Umar ibn Al-Khattab (570-644 AD), who played a crucial role in expanding the Islamic State after the Prophet Muhammad (PBUH). The name Umar is associated with leadership, unity, and the spread of Islam.",
+    "spiritual_significance": "The name Umar holds spiritual significance as it is derived from the Arabic word 'Amar', which means 'to command' or 'to order'. A person named Umar is believed to possess qualities such as wisdom, experience, and leadership that inspire others to follow. The name also signifies the importance of respecting elders and those with more knowledge and experience. In essence, the name Umar embodies the Islamic values of patience, perseverance, and humility, encouraging the bearer to lead a righteous and virtuous life.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Umar ibn al-Khattab (570-644 AD) was the second caliph (successor) of the Islamic prophet Muhammad. The name Umer carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Umar was a key figure in the early Islamic community, known for his military and political leadership."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Umar is a common name in the Muslim world"
+      ],
+      "platforms": [
+        "Social media, genealogy websites"
+      ],
+      "modern_context": "The name Umer remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Umer",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Fatima Umer from Kuala Lumpur, Malaysia embodies the meaning of Umer - \"Elder\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Elder\" symbolizes The One Who Is Older, More Experienced, Wise and Respected. In Islamic spirituality, bearing the name Umer serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of elder.",
+    "created_at": "2025-12-22T19:19:49.856Z",
+    "updated_at": "2025-12-22T04:53:14.909Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1294,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Umer",
+      "description": "Elder",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Umer",
+          "description": "Discover the meaning of Umer - \"Elder\"",
+          "image": "/images/social/umer-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Umer - Name Meaning",
+          "description": "Learn about the beautiful name Umer",
+          "image": "/images/social/umer-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Umer",
+          "description": "Name meaning: Elder",
+          "image": "/images/social/umer-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Umer - Meaning: Elder",
+        "email_subject": "Beautiful Name: Umer"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Umer with meaning Elder",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

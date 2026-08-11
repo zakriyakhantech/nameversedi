@@ -1,0 +1,283 @@
+{
+  "success": true,
+  "data": {
+    "name": "Khabbab",
+    "slug": "habbab",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Companion",
+    "long_meaning": "A companion of the Prophet Muhammad (PBUH) and a prominent figure in Islamic history.",
+    "spiritual_meaning": "A symbol of loyalty, dedication, and companionship.",
+    "emotional_traits": [
+      "Kind",
+      "Just",
+      "Peaceful",
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "L = Loyal"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Green",
+      "Blue",
+      "Turquoise"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 3,
+    "numerology_meaning": "Expresses creativity and self-expression.",
+    "in_arabic": {
+      "name": "خباب",
+      "meaning": "الخباب بن الأوس أحد رؤساء المهاجرين إلى الحبشة وشارك في حرب بدر",
+      "long_meaning": "الخباب بن الأوس بن ثابت بن عبد يزيد بن ثعلبة بن عكرمة بن خصفة بن قيس بن ثعلبة بن معاذ بن بكر بن هوازن بن عمرو بن سعد بن زيد مناة بن تميم بن مر بن نزار بن معد بن عدنان، أحد رؤساء المهاجرين إلى الحبشة، حيث سار مع سيدنا محمد ﷺ وصحبته إلى أرض الوقف في الشام، ثم إلى الحبشة، حيث وافته المنية، والخباب بن الأوس له أهمية كبيرة في الإسلام، حيث كان من أصحاب سيدنا محمد ﷺ وأحد الذين شاركوا معه في حرب بدر، وهو معروف بالشجاعة والبصيره، وحسناً في الخير، وحب الشعراء، والخبار، والجود"
+    },
+    "in_urdu": {
+      "name": "خباب",
+      "meaning": "پہلے ہجرتہ کرنے والوں کے رہنما خباب بن اوس، جنگ بدر میں حصہ لیا",
+      "long_meaning": "خباب بن اوس بن ثابت بن عبد یزید بن ثعلبہ بن عکرمہ بن خصفہ بن قیس بن ثعلبہ بن معاذ بن بکر بن هوازن بن عمرو بن سعد بن زید مناة بن تمیم بن مر بن نزار بن معد بن عدنان، پہلے ہجرتہ کرنے والوں کے رہنما تھے، جب کہ انہوں نے سیدنا محمد ﷺ کے ساتھ ہجرت کی، اور صحابہ میں شامل ہوئے، جنگ بدر کے دوران انہوں نے بھی لڑائی میں حصہ لیا، ان کے بارے میں کہا جاتا ہے کہ وہ شجاع، بصیر، اچھے خاندان سے تعلق رکھنے والے، اچھے کاروبار کرنے والے، شعرا کی پیروی کرنے والے، حالات کی خبردار، اور خیر کے کاموں میں مدد کرنے والے تھے"
+    },
+    "in_hindi": {
+      "name": "खबाब",
+      "meaning": "पहले हिजरत करने वालों के नेता खबाब बिन औस, जंग बدر में भाग लिया",
+      "long_meaning": "कहबाब बिन औस बिन ठबत बिन अब्दुल यजीद बिन ठल्बा बिन अतक्रमा बिन खसफा बिन कैस बिन ठल्बा बिन मआज बिन बकर बिन हौवान बिन अमर बिन साद बिन जैद मनात बिन तेमिम बिन मर बिन नजार बिन माद बिन अदनान, पहले हिजरत करने वालों के नेता थे, जिन्होंने सैयदना मुहम्मद ﷺ के साथ हिजरत की और साथी बने, जंग बदर के समय उन्होंने भी हिस्सा लिया, उनके बारे में कहा जाता है कि वे शूरवीर, चतुर, अच्छे घरेलू पृष्ठभूमि से संबंधित, अच्छे व्यवसाय कर सकते थे, कवियों का अनुसरण करते थे, حالातों के बारे में सूचित थे, और खैर के कामों में सहायता करते थे"
+    },
+    "in_pashto": {
+      "name": "خباب",
+      "meaning": "د خباب بن اوس د پخواني مهاجرانو له د پيلوونو پوښتنه، د خبارد پله",
+      "long_meaning": "خباب بن اوس بن ثابت بن عبد یزيد بن ثعلبہ بن عکرمہ بن خصفہ بن قیس بن ثعلبہ بن معاذ بن بکر بن هوازن بن عمرو بن سعد بن زید مناة بن تمیم بن مر بن نزار بن معد بن عدنان، د پخواني مهاجرانو له د پیلوونو پوښتنه، د خبارد پله، د خبارد له ځانګړی ځای د اسلام په تاریخ کې دا دا چې د هغه له ځانه په جنگ بدر کې د سيدنا محمد ﷺ سره ملگی او په دې جنگ کې یې هم د سيدنا محمد ﷺ سره د ښکېل شوي جگړې په لړ کې یې ښکېل شو، دا د هغه د شخصیت داسې ځانګړنې وې، چې دا ځانګړنې دا وې چې دا شجاع، چې دا د بصائرو له څانګو څخه د هغه د ځانګړی ځانګړی ځای وې، چې دا د خیر کې د کاروړو له څانګو څخه د هغه د ځانګړی ځانګړی ځای وې، چې دا د شعرا له څانګو څخه د هغه د ځانګړی ځانګړی ځای وې، چې دا د حالاتو له څانګو څخه د هغه د ځانګړی ځانګړی ځای وې، چې دا د خیر کې د کاروړو له څانګو څخه د هغه د ځانګړی ځانګړی ځای وې"
+    },
+    "in_english": {
+      "name": "Khabbab",
+      "meaning": "blacksmith, sword-maker",
+      "long_meaning": "skilled craftsman who forges iron into swords and armor"
+    },
+    "pronunciation": {
+      "english": "/ˈhæbæb/",
+      "urdu": "خباب بن اوس کے اردو میں تلفظ کی تفصیل",
+      "hindi": "खबाब का हिंदी में उच्चारण विवरण",
+      "pashto": "خباب بن اوس په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ˈhæ.bæb/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#HabbabMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Habbab"
+    ],
+    "name_variations": [],
+    "popularity_score": 58,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 76,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Khabbab Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Khabbab, a beautiful Islam name meaning \"Companion\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Khabbab, Islam name, baby names, Companion, Islam baby names, name meaning",
+      "description_paragraph": "Khabbab is a meaningful Islam name of Arabic origin that means \"Companion\". A companion of the Prophet Muhammad (PBUH) and a prominent figure in Islamic history.",
+      "keywords": [
+        "Khabbab",
+        "Islam name",
+        "baby names",
+        "Companion",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Khabbab in Islam tradition?",
+          "a": "Khabbab is a beautiful Islam name meaning \"Companion\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Khabbab a good Islam name for a baby?",
+          "a": "Yes, Khabbab is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Khabbab?",
+          "a": "The name Khabbab has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Khabbab correctly?",
+          "a": "Khabbab is pronounced /ˈhæbæb/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Khabbab?",
+          "a": "Naming a child Khabbab brings blessings. The meaning \"Companion\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Khabbab?",
+          "a": "Khabbab is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 96,
+      "focus_keyword": "Khabbab meaning",
+      "secondary_keywords": [
+        "Islam name Khabbab",
+        "Khabbab meaning",
+        "Khabbab origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Khabbab holds significant cultural importance as it references one of the most revered figures in Islamic history, a companion of Prophet Muhammad (PBUH). This name carries with it the rich heritage of Islamic tradition and the heroic tales of the early Muslims, inspiring generations to follow in their footsteps and uphold the values of faith, courage, and resilience.",
+    "spiritual_significance": "The name Khabbab also holds deep spiritual significance as it represents a connection to the profound legacy of Prophet Muhammad (PBUH) and the companions who dedicated their lives to spreading his message of peace, love, and submission to Allah. By bearing this name, one is carrying forward a sacred heritage and is reminded to strive for righteousness and devotion to Allah in their daily lives.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Companion of the Prophet Muhammad and scribe of the Quran The name Khabbab carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Early Islamic community and Quranic scribe"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "historical or academic contexts"
+      ],
+      "platforms": [
+        "books, articles, and academic papers"
+      ],
+      "modern_context": "The name Khabbab remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Omar Khabbab",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "A successful entrepreneur named Omar Khabbab in Riyadh, Saudi Arabia attributes much of their success to the blessing of their name Khabbab, which means \"Companion\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Companion\" symbolizes A companion of the Prophet Muhammad (PBUH) and a prominent figure in Islamic history.. In Islamic spirituality, bearing the name Khabbab serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of companion.",
+    "created_at": "2025-12-22T19:19:49.79Z",
+    "updated_at": "2025-12-22T04:53:14.178Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1242,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Khabbab",
+      "description": "Companion",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Khabbab",
+          "description": "Discover the meaning of Khabbab - \"Companion\"",
+          "image": "/images/social/khabbab-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Khabbab - Name Meaning",
+          "description": "Learn about the beautiful name Khabbab",
+          "image": "/images/social/khabbab-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Khabbab",
+          "description": "Name meaning: Companion",
+          "image": "/images/social/khabbab-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Khabbab - Meaning: Companion",
+        "email_subject": "Beautiful Name: Khabbab"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Khabbab with meaning Companion",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "kayan",
+      "kabir",
+      "kashish"
+    ]
+  }
+}

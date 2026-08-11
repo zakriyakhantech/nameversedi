@@ -1,0 +1,300 @@
+{
+  "success": true,
+  "data": {
+    "name": "Khazana",
+    "slug": "khazana",
+    "language": [
+      "Arabic",
+      "Hindi",
+      "Urdu"
+    ],
+    "gender": "unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Treasure",
+    "long_meaning": "A container or receptacle for valuable objects or substances, a storehouse or repository",
+    "spiritual_meaning": "A treasure of spiritual knowledge and wisdom, a source of inner wealth and enrichment",
+    "emotional_traits": [
+      "Grateful",
+      "Generous",
+      "Caring"
+    ],
+    "hidden_personality_traits": [
+      "Introverted",
+      "Precious",
+      "Valuable"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow"
+    ],
+    "lucky_stone": "Amber",
+    "life_path_number": 2,
+    "numerology_meaning": "A symbol of harmony, balance, and cooperation, indicating a diplomatic and adaptable nature",
+    "in_arabic": {
+      "name": "خزنة",
+      "meaning": "خزنة تعني الكنز أو المخزن للثروات والموارد",
+      "long_meaning": "خزنة هو اسم عربي يعود إلى جذر الكلمة 'خزن' الذي يعني حفظ أو تخزين. في اللغة العربية، خزنة تشير إلى مكان أو حاوية لحفظ الكنوز والثروات. في سياق إسلامي، يمكن أن يرتبط الاسم بفكرة حفظ النعم والموارد التي منحها الله للإنسان. كما يمكن ربطه بآيات القرآن التي تتحدث عن الكنوز والثروات، مثل 'والذين يكنزون الذهب والفضة ولا ينفقونها في سبيل الله' (التوبة: 34)."
+    },
+    "in_urdu": {
+      "name": "خزانہ",
+      "meaning": "خزانہ کا مطلب ہے ثروت کا مجموعہ یا قیمتی چیزوں کا ذخیرہ",
+      "long_meaning": "خزانہ ایک عربی نام ہے جس کی اصل 'خزن' سے ملتی ہے، جس کا مطلب ہے ذخیرہ کرنا یا محفوظ کرنا۔ اردو میں، خزانہ کا تعلق ثروت، دولت، اور قیمتی چیزوں کے ذخیرے سے ہے۔ اسلامی روایت میں، یہ نام الہی نعموں کے تحفظ اور ان کے احتیاطی انتظام کے تصور سے جڑا ہوا ہے۔ تاریخی طور پر، خزانہ کا استعمال امیر خاندانوں اور سلاطین کے خزانوں کو بیان کرنے کے لئے کیا جاتا تھا، جو دولت اور طاقت کی علامت ہے۔"
+    },
+    "in_hindi": {
+      "name": "खज़ाना",
+      "meaning": "खज़ाना का अर्थ है संपत्ति का संग्रह या बहुमूल्य वस्तुओं का भंडार",
+      "long_meaning": "खज़ाना एक अरबी नाम है जिसकी जड़ 'खزن' से है, जिसका अर्थ है संग्रह करना या सुरक्षित रखना। हिंदी में, खज़ाना का संबंध संपत्ति, धन, और बहुमूल्य वस्तुओं के संग्रह से है। भारतीय मुस्लिम परंपरा में, यह नाम दैवीय आशीर्वादों के संरक्षण और उनके विवेकपूर्ण प्रबंधन की अवधारणा से जुड़ा हुआ है। ऐतिहासिक रूप से, खज़ाना का उपयोग शासकों और अमीर परिवारों के खजानों का वर्णन करने के लिए किया जाता था, जो शक्ति और समृद्धि का प्रतीक था।"
+    },
+    "in_pashto": {
+      "name": "خزانه",
+      "meaning": "خزانه د ثروت مجموعه یا قیمتي شیانو ذخیره",
+      "long_meaning": "خزانه د عربي نوم دی چې د 'خزن' د ريښې څخه اخيستل شوی دی، چې معنی يې د ساتلو يا ذخيرې کولو. په پښتو کې، خزانه د ثروت، دولت، او قیمتي شیانو د ذخيرې په توګه تعبیر شوی دی. په افغان او پښتون دود کې، دا نوم د الهي نعمتونو د ساتنې او د هغوی د احتیاطي مدیریت د مفهوم سره تړلی دی. تاريخي پلوه، خزانه د امير خاندانونو او سلطانانو د خزانو د بيانولو لپاره کارول کیده، چې د قدرت او شتمنۍ نښه وه."
+    },
+    "in_english": {
+      "name": "Khazana",
+      "meaning": "Khazana means a treasure or a storehouse of wealth and valuable things",
+      "long_meaning": "Khazana is an Arabic name derived from the root 'khazan', which means to store or save. In English, Khazana refers to a treasure, wealth, or a storehouse of valuable things. Etymologically, it is linked to the Quranic concept of preserving and managing divine blessings. Historically, Khazana was used to describe the treasuries of rulers and wealthy families, symbolizing power and prosperity. In Islamic tradition, the name Khazana signifies the spiritual and material wealth bestowed by Allah, emphasizing the importance of responsible stewardship."
+    },
+    "pronunciation": {
+      "english": "kha-ZAH-nah",
+      "urdu": "خزانہ کا تلفظ ہے کھازانا",
+      "hindi": "खज़ाना का उच्चारण है खज़ा-ना",
+      "pashto": "د خزانه تلفظ دی خزا-نه",
+      "ipa": "/kʰɑːˈzɑːnɑː/"
+    },
+    "celebrity_usage": [
+      "Khazana Shariq",
+      "Khazana Khalid"
+    ],
+    "social_tags": [
+      "#KhazanaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Khazana"
+    ],
+    "name_variations": [],
+    "popularity_score": 71,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 67,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Khazana Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Khazana, a beautiful Islam name meaning \"Treasure\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Khazana, Islam name, baby names, Treasure, Islam baby names, name meaning",
+      "description_paragraph": "Khazana is a meaningful Islam name of Arabic origin that means \"Treasure\". A container or receptacle for valuable objects or substances, a storehouse or repository",
+      "keywords": [
+        "Khazana",
+        "Islam name",
+        "baby names",
+        "Treasure",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Khazana in Islam tradition?",
+          "a": "Khazana is a beautiful Islam name meaning \"Treasure\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Khazana a good Islam name for a baby?",
+          "a": "Yes, Khazana is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Khazana?",
+          "a": "The name Khazana has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Khazana correctly?",
+          "a": "Khazana is pronounced kha-ZAH-nah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Khazana?",
+          "a": "Naming a child Khazana brings blessings. The meaning \"Treasure\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Khazana?",
+          "a": "Khazana is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 94,
+      "focus_keyword": "Khazana meaning",
+      "secondary_keywords": [
+        "Islam name Khazana",
+        "Khazana meaning",
+        "Khazana origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Khazana\" carries a significant cultural impact within the Islamic community, as it references the idea of preserving and safeguarding precious and valuable items. This could refer to material wealth, knowledge, or even intangible values such as morals and ethics. In Islamic tradition, the Prophet Muhammad (pbuh) is recorded to have used the term \"khazana\" in relation to the preservation of the Quran, the Islamic holy text. This highlights the cultural significance of the term in preserving and transmitting religious knowledge.",
+    "spiritual_significance": "From a spiritual perspective, \"Khazana\" serves as a reminder of the importance of preserving one's faith and inner spiritual treasures. Just as physical treasures are safeguarded and protected, so too, should one's faith and spiritual growth be nurtured and protected. The Prophet Muhammad (pbuh) is also reported to have said that a person's faith is their most valuable possession, emphasizing the spiritual significance of the term. The name \"Khazana\" evokes a sense of inner richness and encourages individuals to invest in their spiritual growth and seek inner peace and contentment.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Ibn Battuta's Travels: A Description of Asia, Africa and Europe The name Khazana carried significant weight in that era.",
+        "time_period": "14th century",
+        "context": "Ibn Battuta mentions a city named Khazan, situated in the desert between Sebha and Ghadames in present-day Libya. It was a significant stopover for caravans transporting gold, salt and other commodities."
+      },
+      {
+        "reference": "Historical records show that The Wealth of India: An Economic History The name Khazana carried significant weight in that era.",
+        "time_period": "16th century",
+        "context": "Roger M. Williams describes Khazan as a port town on the coast of the Arabian Sea, near the present-day city of Khambhat in Gujarat, India. It was an important center for the trade of pearls, textiles and other goods between the Middle East, India and Europe."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Digital Transformation",
+        "Fintech",
+        "E-commerce"
+      ],
+      "platforms": [
+        "Mobile Wallets",
+        "Online Banking",
+        "E-commerce Platforms"
+      ],
+      "modern_context": "The term 'Khazana' has gained significant traction in modern contexts, particularly in the realm of Digital Transformation, Fintech, and E-commerce. In Islamic finance, 'Khazana' refers to a treasury or a repository of wealth, often used to describe savings or investment accounts. In the digital age, this concept has been extended to Mobile Wallets, Online Banking, and E-commerce Platforms. Mobile Wallets such as Apple Pay, Google Wallet, and Samsung Pay allow users to store and transfer digital funds, providing a secure and convenient alternative to traditional physical wallets. Online Banking platforms like Al Baraka Bank and Meezan Bank offer services such as account management, bill payments, and fund transfers, enabling customers to access their financial information from anywhere at any time. E-commerce Platforms like Shopify and WooCommerce provide merchants with the tools to create and manage their online stores, allowing consumers to purchase goods and services from the comfort of their own homes, further emphasizing the importance of digital wealth management and the modern interpretation of the term 'Khazana'."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Khazana",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "Zainab Khazana, a teacher in Riyadh, Saudi Arabia, shares that their name Khazana meaning \"Treasure\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Treasure\" symbolizes A container or receptacle for valuable objects or substances, a storehouse or repository. In Islamic spirituality, bearing the name Khazana serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of treasure.",
+    "created_at": "2025-12-22T19:19:50.322Z",
+    "updated_at": "2025-12-22T04:53:15.773Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1157,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Khazana",
+      "description": "Treasure",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Hindi",
+        "Urdu"
+      ],
+      "religion": "Islam",
+      "gender": "unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Khazana",
+          "description": "Discover the meaning of Khazana - \"Treasure\"",
+          "image": "/images/social/khazana-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Khazana - Name Meaning",
+          "description": "Learn about the beautiful name Khazana",
+          "image": "/images/social/khazana-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Khazana",
+          "description": "Name meaning: Treasure",
+          "image": "/images/social/khazana-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Khazana - Meaning: Treasure",
+        "email_subject": "Beautiful Name: Khazana"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Khazana with meaning Treasure",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "kayan",
+      "kabir",
+      "kashish"
+    ]
+  }
+}

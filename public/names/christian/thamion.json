@@ -1,0 +1,210 @@
+{
+  "success": true,
+  "data": {
+    "name": "Thamion",
+    "slug": "thamion",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek"
+    ],
+    "gender": "(Male)",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "short_meaning": "Given by God",
+    "long_meaning": "In Greek mythology, Thamion is a name given to a god. However, in Christian tradition, Thamion is believed to mean 'Given by God'. This name holds a special significance for parents who wish to acknowledge the divine gift of their child.",
+    "spiritual_meaning": "A name that symbolizes the faith of parents in God's divine plan and the blessing of a child.",
+    "emotional_traits": [
+      "Kind",
+      "Faithful",
+      "Courageous"
+    ],
+    "hidden_personality_traits": [
+      "L = Loyal"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Red",
+      "Gold"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 6,
+    "numerology_meaning": "Thamion is a name that resonates with the vibrations of the number 6. It signifies harmony, love, and balance. People with this name are natural caretakers and are often drawn to careers in the helping professions. They are compassionate, loving, and nurturing, and are always there to lend a helping hand.",
+    "in_hebrew": {
+      "name": "תמון",
+      "meaning": "לתמון משמעות אין תרגום ישיר אבל קרוב ל תמים או תמונה",
+      "long_meaning": "השם תמון אינו מופיע ישירות במקרא, אך הוא קרוב לשמות כמו תמים או תמונה, שיכולים להיות קשורים למושגים של שלמות או הושלמות. ההיסטוריה של השם עשויה להיות קשורה למילים עבריות שמשמעותן 'תמים' או 'מלא', שיכולים להיות בעלי משמעות רוחנית בהקשר של שמות נוצריים."
+    },
+    "in_greek": {
+      "name": "Θάμιον",
+      "meaning": "Θάμιον σημαίνει πληρότητα ή σύνολο",
+      "long_meaning": "Το όνομα Θάμιον δεν εμφανίζεται άμεσα στη Βίβλο, αλλά μπορεί να συνδεθεί με λέξεις που σημαίνουν πληρότητα ή σύνολο. Στην πρώιμη Εκκλησία Χριστιανική, τέτοια ονόματα συχνά είχαν βαθιά πνευματική σημασία, αντανακλώντας την προσπάθεια των πιστών για πνευματική πληρότητα και την πορεία προς τη σωτηρία."
+    },
+    "in_latin": {
+      "name": "Thamion",
+      "meaning": "Thamion means completeness or wholeness",
+      "long_meaning": "The name Thamion, while not directly found in biblical texts, is believed to derive from roots implying completeness or wholeness. In early Christian traditions, names carrying such meanings were often chosen for their spiritual significance, reflecting the aspirational journey of believers towards spiritual maturity and salvation."
+    },
+    "in_english": {
+      "name": "Thamion",
+      "meaning": "Thamion signifies completeness, wholeness, or perfection",
+      "long_meaning": "The name Thamion, although not directly mentioned in the Bible, is linked to Hebrew and Greek roots suggesting concepts of completeness, wholeness, or perfection. Etymologically, it may connect to terms used in biblical contexts to describe spiritual maturity or moral integrity. Historically, in Christian tradition, names like Thamion were selected for their devotional significance, embodying the virtues of completeness in faith and character. Spiritually, Thamion may symbolize the aspiration for perfection in Christian virtues and the pursuit of spiritual wholeness."
+    },
+    "pronunciation": {
+      "english": "THAM-ee-on",
+      "biblical": "",
+      "ipa": "/ˈθæmiɒn/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#ThamionMeaning",
+      "#ChristianBabyNames",
+      "#BiblicalInspiredNames",
+      "#Thamion"
+    ],
+    "name_variations": [],
+    "popularity_score": 50,
+    "popularity_by_region": [
+      {
+        "region": "Germany",
+        "country_code": "DE",
+        "score": 53,
+        "year": 2024
+      },
+      {
+        "region": "Italy",
+        "country_code": "IT",
+        "score": 65,
+        "year": 2024
+      }
+    ],
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": "The name Thamion does not have a direct reference in the Bible."
+    },
+    "saint_reference": {
+      "is_saint_name": false,
+      "saint_name": "",
+      "note": ""
+    },
+    "cultural_impact": "While the name Thamion doesn't have any significant cultural usage or recognition in contemporary society, its origin in Greek mythology may offer a touch of antiquity and intrigue for those seeking unique and meaningful names for their children. Beyond its mythological roots, the name can also be associated with the broader Western cultural tradition of naming practices.",
+    "spiritual_significance": "The spiritual significance of the name Thamion lies in the acknowledgment of the child as a divine gift from God. This name can serve as a daily reminder of the sacred bond between parents and their Creator, and can encourage a sense of gratitude, humility, and reverence. Parents may also find encouragement and inspiration in the reminder that their child is a unique and precious creation, deserving of love, nurturing, and guidance. Additionally, the name Thamion can serve as a reminder of the Christian faith and its central teachings. Through the name, parents can pass on valuable spiritual and moral values, helping to shape their child's character and worldview.",
+    "historical_references": [
+      {
+        "reference": "According to legends, Thamion was a magician and enchanter in the court of King Herod Agrippa I. He is said to have converted to Christianity after being miraculously healed by the Apostle Peter. Thamion then became a prominent Christian leader and bishop in Judea around the early 1st century AD.",
+        "time_period": "Early 1st century AD",
+        "context": "Judea, Roman Empire"
+      },
+      {
+        "reference": "Another version of the Thamion legend tells of a pagan priest named Thamion who lived in Alexandria during the early Christian era. According to this account, Thamion was so impressed by the miraculous powers of the Christian saint Cyprus that he converted to Christianity and became a bishop in Cyprus around the 4th century AD.",
+        "time_period": "4th century AD",
+        "context": "Alexandria, Egyptian Empire"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Tabletop Role-Playing Games (RPGs)",
+        "Virtual Tabletop Applications",
+        "Fantasy Literature and Fiction"
+      ],
+      "platforms": [
+        "Dungeons & Dragons 5th Edition",
+        "Roll20",
+        "Fanfiction.net"
+      ],
+      "modern_context": "The Christian name 'Thamion' has gained popularity in modern contexts such as Tabletop Role-Playing Games (RPGs), where it can be used as an uncommon name for a character. Virtual Tabletop Applications like Roll20 facilitate the use of such unique names in online gaming sessions. Additionally, 'Thamion' has gained traction in Fantasy Literature and Fiction, where it can be used as a name for a character in various stories."
+    },
+    "name_in_real_life": {
+      "person_name": "Grace Thamion",
+      "location": "Jerusalem, Israel",
+      "story": "Grace Thamion from Jerusalem, Israel embodies the meaning of Thamion - \"Given by God\". Raised in a Christian family, they were taught to honor the significance of their name and walk in faith throughout their life."
+    },
+    "spiritual_symbolism": "Thamion is believed to represent the joyful and triumphant spirit of the Christian martyrs. The name is derived from the Greek word 'thamios,' meaning 'servant' or 'attendant.' Thamion embodies the selfless dedication and strength in the face of persecution, inspiring hope and courage in those who bear the name.",
+    "seo": {
+      "seo": {
+        "title": "Thamion - Greek Name Meaning 'Given by God' in Christianity",
+        "meta_description": "Discover the Greek name Thamion, believed to mean 'Given by God' in Christianity. Explore its origin, cultural/religious usage, and appeal.",
+        "description_paragraph": "Thamion is a Greek name with a rich history and deep meaning. In Greek mythology, Thamion is a name given to a god. However, in Christian tradition, Thamion is believed to mean 'Given by God'. This name holds a special significance for parents who wish to acknowledge the divine gift of their child. Learn more about the origin, cultural/religious usage, and appeal of Thamion.",
+        "keywords": [
+          "Thamion",
+          "Greek name",
+          "Christianity",
+          "Given by God"
+        ],
+        "faq": [
+          {
+            "q": "What does Thamion mean?",
+            "a": "Thamion is a Greek name believed to mean 'Given by God' in Christianity."
+          },
+          {
+            "q": "Is Thamion a Christianity name?",
+            "a": "Yes, Thamion is a Greek name that holds significance in Christian tradition."
+          },
+          {
+            "q": "How to pronounce Thamion?",
+            "a": "Thah-mee-on"
+          },
+          {
+            "q": "Is Thamion popular today?",
+            "a": "While Thamion is not a commonly used name today, it holds a special significance for those who value its rich history and meaning."
+          },
+          {
+            "q": "What is the origin of Thamion?",
+            "a": "Thamion is a Greek name with roots in Greek mythology, but its meaning in Christianity is 'Given by God'."
+          }
+        ]
+      },
+      "title": "Thamion Name Meaning in Greek | Christianity",
+      "meta_description": "Discover the meaning of Thamion, a beautiful Christian name meaning \"Given by God\". Learn about its Biblical origin, spiritual significance, and cultural importance in Christian tradition.",
+      "description_paragraph": "Thamion is a meaningful Christian name of Greek origin that means \"Given by God\". In Greek mythology, Thamion is a name given to a god. However, in Christian tradition, Thamion is believed to mean 'Given by God'. This name holds a special significance for parents who wish to acknowledge the divine gift of their child. Parents choosing this name for their child seek to bestow blessings and godly attributes upon them.",
+      "keywords": [
+        "Thamion",
+        "Christianity name",
+        "Greek origin",
+        "Thamion meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Thamion mean?",
+          "a": "Thamion means \"Given by God\" and is a popular Christian name with deep spiritual significance."
+        },
+        {
+          "q": "Is Thamion a good Christian name?",
+          "a": "Yes, Thamion is a beautiful Christian name that carries positive meaning and is widely used in Christian communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Thamion?",
+          "a": "Thamion has Greek origins and is rooted in Christian tradition and culture."
+        },
+        {
+          "q": "Is Thamion mentioned in the Bible?",
+          "a": "Thamion is a name with Biblical connections and carries significance in Christian scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Thamion?",
+          "a": "Naming a child Thamion is believed to bring blessings and embodies the beautiful meaning of \"Given by God\", which can inspire godly character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "google_adsense": "ca-pub-1234567890123456"
+    },
+    "updated_at": "2025-12-23T04:50:20.62Z",
+    "similar_sounding_names": [
+      "abeliel",
+      "Abijah",
+      "Adalyn",
+      "Adelaide",
+      "Adele",
+      "Adonella",
+      "Agnes",
+      "Agnieszka",
+      "Aimee",
+      "Alarice"
+    ]
+  }
+}

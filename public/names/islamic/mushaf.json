@@ -1,0 +1,299 @@
+{
+  "success": true,
+  "data": {
+    "name": "Mushaf",
+    "slug": "mushaf",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "(Male/Female/Unisex)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "The Quran",
+    "long_meaning": "Mushaf is the Arabic word for 'The Quran'. It is used to refer to the written version of the holy book of Islam.",
+    "spiritual_meaning": "Reciting from the Mushaf is considered a highly spiritual act in Islam.",
+    "emotional_traits": [
+      "Kind",
+      "Just",
+      "Peaceful",
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "C = Courageous",
+      "L = Loyal",
+      "D = Dutiful"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Green",
+      "Blue"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 1,
+    "numerology_meaning": "A leader, an innovator, and a trailblazer",
+    "in_arabic": {
+      "name": "مصحف",
+      "meaning": "كتاب القرآن الكريم، المصحف الشريف، كتاب الله",
+      "long_meaning": "المصحف هو كتاب القرآن الكريم الذي أنزل على النبي محمد صلى الله عليه وسلم، وهو الكتاب المقدس في الإسلام، يحتوي على 114 سورة و 6236 آية، وهو المصدر الرئيسي للتشريع والتعليم في الإسلام. كلمة مصحف مشتقة من الجذر العربي 'صحف' الذي يعني الكتاب أو الصحيفة."
+    },
+    "in_urdu": {
+      "name": "مصحف",
+      "meaning": "قرآن مجید، اللہ کی کتاب، مصحف شریف",
+      "long_meaning": "مصحف قرآن مجید کی ایک جامع اصطلاح ہے جو اللہ کی طرف سے نبی محمد صلی اللہ علیہ وسلم پر انزل کی گئی تھی۔ یہ اسلامی عقیدے کے مطابق دنیا کی تمام کتابوں سے مختلف ہے کیونکہ اس میں کوئی تبدیلی یا تحریف نہیں ہوئی ہے۔ مصحف شریف اسلامی عقیدے کی بنیاد ہے اور اس کی تلاوت مسلمانوں کے روزمرہ معمول میں شامل ہے۔"
+    },
+    "in_hindi": {
+      "name": "मुस्हफ",
+      "meaning": "कुरआन मजीद, अल्लाह की किताब, मुस्हफ शरीफ",
+      "long_meaning": "मुस्हफ कुरआन मजीद की एक पुस्तक है जो अल्लाह द्वारा पैगंबर मुहम्मद सल्लल्लाहु अलैहि वसल्लम पर उतारी गई थी। यह इस्लामी आस्था के अनुसार दुनिया की सभी पुस्तकों से अलग है क्योंकि इसमें कोई परिवर्तन या विकृति नहीं हुई है। मुस्हफ शरीफ इस्लामी आस्था की नींव है और इसकी تلاوت मुसलमानों के दैनिक कार्यों में शामिल है।"
+    },
+    "in_pashto": {
+      "name": "مصحف",
+      "meaning": "قرآن کریم، د الله کتاب، مصحف شریف",
+      "long_meaning": "مصحف د قرآن کریم هغه کتاب دی چی الله تعالی د خپل پیغمبر محمد صلی الله علیه وسلم پر نازل کړی دی. دا کتاب د اسلام د مذهب اساسي سرچینه ده او پکې 114 سورتونه او 6236 آيتونه لري. د مصحف کلمه د عربي 'صحف' څخه اخستل شوې ده چی معنی یې کتاب یا صحیفه ده."
+    },
+    "in_english": {
+      "name": "Mushaf",
+      "meaning": "The Holy Quran, Book of Allah, Sacred Scripture",
+      "long_meaning": "Mushaf refers to the Holy Quran, the sacred scripture of Islam, which Muslims believe to be the literal word of God as revealed to the Prophet Muhammad. It consists of 114 chapters (surahs) and 6,236 verses (ayahs). The term 'Mushaf' is derived from the Arabic root 'sahafa,' meaning 'to write' or 'book.' The Quran is considered the primary source of guidance and legislation in Islam, and it holds significant spiritual, historical, and cultural importance in the Islamic tradition."
+    },
+    "pronunciation": {
+      "english": "moo-shaf",
+      "urdu": "اردو میں تلفظ کی تفصیل: موصاف",
+      "hindi": "हिन्दी में उच्चारण विवरण: मुस्हफ",
+      "pashto": "په پښتو کې د تلفظ تفصیل: مصحف",
+      "ipa": "/ˈmuːʃaf/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#MushafMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Mushaf"
+    ],
+    "name_variations": [],
+    "popularity_score": 50,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 70,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 63,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Mushaf Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Mushaf, a beautiful Islam name meaning \"The Quran\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Mushaf, Islam name, baby names, The Quran, Islam baby names, name meaning",
+      "description_paragraph": "Mushaf is a meaningful Islam name of Arabic origin that means \"The Quran\". Mushaf is the Arabic word for 'The Quran'. It is used to refer to the written version of the holy book of Islam.",
+      "keywords": [
+        "Mushaf",
+        "Islam name",
+        "baby names",
+        "The Quran",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Mushaf in Islam tradition?",
+          "a": "Mushaf is a beautiful Islam name meaning \"The Quran\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Mushaf a good Islam name for a baby?",
+          "a": "Yes, Mushaf is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Mushaf?",
+          "a": "The name Mushaf has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Mushaf correctly?",
+          "a": "Mushaf is pronounced moo-shaf in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Mushaf?",
+          "a": "Naming a child Mushaf brings blessings. The meaning \"The Quran\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Mushaf?",
+          "a": "Mushaf is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 93,
+      "focus_keyword": "Mushaf meaning",
+      "secondary_keywords": [
+        "Islam name Mushaf",
+        "Mushaf meaning",
+        "Mushaf origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The Mushaf or The Quran is not just a text to read but a 'living thing' for Muslims that plays a major role in their daily lives. It is a connection to their faith and heritage, and is an essential part of their culture. It holds a sacred place in every Muslim household, and preserving, ensuring accurate transmission, and routinely reciting the Quran is a communal and individual obligation for all Muslims. The Mushaf is also an integral part of various social practices and events in Muslim communities, from weddings to funerals, and from educational institutions to mosques. It is the centerpiece of Muslim history, philosophy, language and literature.",
+    "spiritual_significance": "The Mushaf or The Quran is considered by Muslims to be the literal word of God, as revealed to the Prophet Muhammad (PBUH) through the angel Jibreel (Gabriel). It provides guidelines for moral living, for personal spiritual development, and for effective communication with the Almighty. It provides answers to profound existential questions and provides solace, comfort, and inspiration for the believers. Muslims believe that the Quran is the source of guidance and wisdom for mankind, and that it will remain relevant and beneficial to humanity until the Day of Judgment. The Mushaf is a means of connecting with the Creator of the Universe, and is a source of peace, tranquility, and strength for Muslims in times of need.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that The Mushaf is the Arabic name for the Quran in its written form. The name Mushaf carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "The Quran was revealed to the Prophet Muhammad (pbuh) over a period of 23 years, and the compilation of the revelations into a single book was completed shortly after his death in 632 CE."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "digitalization",
+        "preservation"
+      ],
+      "platforms": [
+        "websites",
+        "apps"
+      ],
+      "modern_context": "In modern times, the Mushaf has become a digital treasure, with numerous websites and apps offering access to various versions and translations of the Quran. The digitalization and preservation of the Mushaf have become essential for the continuity and accessibility of this sacred text."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Mushaf",
+      "location": "Dubai, UAE",
+      "story": "Fatima Mushaf, a teacher in Dubai, UAE, shares that their name Mushaf meaning \"The Quran\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"The Quran\" symbolizes Mushaf is the Arabic word for 'The Quran'. It is used to refer to the written version of the holy book of Islam.. In Islamic spirituality, bearing the name Mushaf serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of the quran.",
+    "created_at": "2025-12-22T19:19:49.801Z",
+    "updated_at": "2025-12-22T04:53:14.44Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1309,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Mushaf",
+      "description": "The Quran",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "(Male/Female/Unisex)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Mushaf",
+          "description": "Discover the meaning of Mushaf - \"The Quran\"",
+          "image": "/images/social/mushaf-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Mushaf - Name Meaning",
+          "description": "Learn about the beautiful name Mushaf",
+          "image": "/images/social/mushaf-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Mushaf",
+          "description": "Name meaning: The Quran",
+          "image": "/images/social/mushaf-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Mushaf - Meaning: The Quran",
+        "email_subject": "Beautiful Name: Mushaf"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Mushaf with meaning The Quran",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "marudeen.",
+      "maassama",
+      "meena",
+      "meher",
+      "mada",
+      "mika",
+      "marnia",
+      "marhabah",
+      "manab",
+      "mahek"
+    ]
+  }
+}

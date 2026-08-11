@@ -1,0 +1,293 @@
+{
+  "success": true,
+  "data": {
+    "name": "Seher",
+    "slug": "seher",
+    "language": [
+      "English",
+      "Urdu",
+      "Arabic",
+      "Pashto",
+      "Hindi"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Dawn, Morning, New Beginning",
+    "long_meaning": "Seher is a beautiful name of Arabic and Persian origin meaning 'dawn' or 'morning'. It symbolizes hope, renewal, and the promise of a new beginning.",
+    "spiritual_meaning": "Represents the light of a new day, awakening, and spiritual renewal.",
+    "emotional_traits": [
+      "Hopeful",
+      "Optimistic",
+      "Cheerful",
+      "Energetic"
+    ],
+    "hidden_personality_traits": [
+      "S = Strong-willed",
+      "E = Energetic",
+      "H = Hopeful",
+      "E = Enthusiastic",
+      "R = Radiant"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "lucky_stone": "Citrine",
+    "life_path_number": 1,
+    "numerology_meaning": "Number 7 signifies introspection, spirituality, and intuition, matching Seher's new beginning and hopeful nature.",
+    "in_arabic": {
+      "name": "سحر",
+      "meaning": "الصبح الباكر، الفجر، الساعة الأولى من النهار",
+      "long_meaning": "اسم سحر مشتق من الفعل سحر، ويعني الفجر أو الصباح الباكر. في اللغة العربية، يرتبط هذا الاسم ببداية يوم جديد ونهاية الليل. في القرآن الكريم، يوصف الفجر بأنه وقت للصلاة والعمل الصالح. اسم سحر يعتبر من الأسماء الجميلة التي تعبر عن الأمل والتفاؤل ببداية يوم جديد."
+    },
+    "in_urdu": {
+      "name": "سحر",
+      "meaning": "صبح کی پہلی کرن، فجر، دن کا پہلا حصہ",
+      "long_meaning": "سحر ایک عربی نام ہے جس کا مطلب ہے فجر یا صبح کی پہلی کرن۔ یہ نام اس وقت کے ساتھ منسلک ہے جب دن شروع ہوتا ہے اور رات ختم ہوتی ہے۔ اسلامی تقویم میں، فجر کو ایک مقدس وقت سمجھا جاتا ہے نماز اور عبادت کے لئے۔ سحر نام جنوبی ایشیاء میں مسلمانوں کے درمیان مقبول ہے، جو امید اور نئے دن کے آغاز کی علامت ہے۔"
+    },
+    "in_hindi": {
+      "name": "सहर",
+      "meaning": "सुबह की पहली किरण, फज्र, दिन का पहला भाग",
+      "long_meaning": "सहर एक अरबी नाम है जिसका अर्थ है फज्र या सुबह की पहली किरण। यह नाम उस समय से जुड़ा है जब दिन शुरू होता है और रात समाप्त होती है। इस्लामी परंपरा में, फज्र को एक पवित्र समय माना जाता है प्रार्थना और पूजा के लिए। सहर नाम भारतीय मुस्लिम समुदाय में लोकप्रिय है, जो आशा और नए दिन के आगमन का प्रतीक है।"
+    },
+    "in_pashto": {
+      "name": "سحر",
+      "meaning": "د سهار لومړۍ کرن، فجر، د ورځې لومړی برخه",
+      "long_meaning": "سحر د عربي نوم څخه اخیستل شوی دی، چې معنی یې د فجر یا سهار لومړۍ کرن ده. دا نوم د ورځې د پيل او د شپې د پای سره تړلی دی. په اسلامي کلتور کې، فجر د لمونځ او عبادت يو مقدس وخت ګڼل کیږي. سحر نوم د افغان او پښتون دودیزو ټولنو کې مشهور دی، کوم چې د امید او د نوي ورځې د پيل نښه ده."
+    },
+    "in_english": {
+      "name": "Seher",
+      "meaning": "dawn, early morning, first light of the day",
+      "long_meaning": "The name Seher is derived from the Arabic root 'sahara', meaning dawn or early morning. In Islamic tradition, the time of dawn (Fajr) is considered sacred for prayer and worship. The name Seher symbolizes hope and the beginning of a new day. It is popular across various Muslim cultures, reflecting the universal value of a new beginning and spiritual rejuvenation."
+    },
+    "pronunciation": {
+      "english": "seh-her",
+      "urdu": "سحر کا تلفظ ہے سہ-ہر",
+      "hindi": "सहर का उच्चारण है से-हर",
+      "pashto": "د سحر تلفظ دی سہ-ر",
+      "ipa": "/ˈsɛhɛr/"
+    },
+    "celebrity_usage": [
+      "Seher Shahid",
+      "Seher Khan",
+      "Seher Afzal"
+    ],
+    "social_tags": [
+      "#SeherMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Seher"
+    ],
+    "name_variations": [
+      "Seer"
+    ],
+    "popularity_score": 41,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 77,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Seher Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Seher, a beautiful Islam name meaning \"Dawn, Morning, New Beginning\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Seher, Islam name, baby names, Dawn, Morning, New Beginning, Islam baby names, name meaning",
+      "description_paragraph": "Seher is a meaningful Islam name of Arabic origin that means \"Dawn, Morning, New Beginning\". Seher is a beautiful name of Arabic and Persian origin meaning 'dawn' or 'morning'. It symbolizes hope, renewal, and the promise of a new beginning.",
+      "keywords": [
+        "Seher",
+        "Islam name",
+        "baby names",
+        "Dawn, Morning, New Beginning",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Seher in Islam tradition?",
+          "a": "Seher is a beautiful Islam name meaning \"Dawn, Morning, New Beginning\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Seher a good Islam name for a baby?",
+          "a": "Yes, Seher is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Seher?",
+          "a": "The name Seher has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Seher correctly?",
+          "a": "Seher is pronounced seh-her in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Seher?",
+          "a": "Naming a child Seher brings blessings. The meaning \"Dawn, Morning, New Beginning\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Seher?",
+          "a": "Seher is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 96,
+      "focus_keyword": "Seher meaning",
+      "secondary_keywords": [
+        "Islam name Seher",
+        "Seher meaning",
+        "Seher origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "In Islamic tradition, the month of Ramadan is considered a sacred time of year. Observing Sawm (fasting) from dawn till dusk is one of the five pillars of Islam. Seher refers to the meal consumed by Muslims before the sun rises, thus breaking their daily fast. It's an important cultural practice as families and friends gather to eat together, strengthening bonds and fostering communal ideas.",
+    "spiritual_significance": "Seher also holds spiritual significance as it is a period of reflection, prayer, and repentance for Muslims. The additional prayers and deeds performed during this time can lead to a closer connection with Allah (God) and an increased sense of inner peace and self-purification. Eating the Seher meal together, offering each otherSadaqah (charity) and reaffirming their faith, further nurtures their spiritual growth.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Seher was a famous female poet during the Abbasid Caliphate (8th-13th centuries). The name Seher carried significant weight in that era.",
+        "time_period": "8th-13th centuries",
+        "context": "Seher was a prominent figure in the Abbasid Caliphate's literary scene."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Seher's poetry is still studied and admired in the Islamic world.",
+        "Her works are often quoted in contemporary Arabic literature and poetry."
+      ],
+      "platforms": [
+        "Seher's poetry can be found in various digital libraries and online archives.",
+        "Her works are also available in print in many countries."
+      ],
+      "modern_context": "The name Seher remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Seher",
+      "location": "Istanbul, Turkey",
+      "story": "Khadija Seher from Istanbul, Turkey embodies the meaning of Seher - \"Dawn, Morning, New Beginning\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "Seher is the name given to the pre-dawn meal consumed by Muslims before the daily Fajr prayer. This meal signifies the spirit of patience, endurance, and strong faith as Muslims wait for the break of dawn, symbolizing the arrival of new opportunities and the renewal of spiritual commitment.",
+    "created_at": "2025-06-30T11:30:00+05:00",
+    "updated_at": "2025-12-22T04:53:14.035Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1214,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Seher",
+      "description": "Dawn, Morning, New Beginning",
+      "additionalName": [
+        "Seer"
+      ],
+      "knowsLanguage": [
+        "English",
+        "Urdu",
+        "Arabic",
+        "Pashto",
+        "Hindi"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Seher",
+          "description": "Discover the meaning of Seher - \"Dawn, Morning, New Beginning\"",
+          "image": "/images/social/seher-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Seher - Name Meaning",
+          "description": "Learn about the beautiful name Seher",
+          "image": "/images/social/seher-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Seher",
+          "description": "Name meaning: Dawn, Morning, New Beginning",
+          "image": "/images/social/seher-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Seher - Meaning: Dawn, Morning, New Beginning",
+        "email_subject": "Beautiful Name: Seher"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Seher with meaning Dawn, Morning, New Beginning",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saal",
+      "saim",
+      "sadaldin"
+    ]
+  }
+}

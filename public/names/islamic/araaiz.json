@@ -1,0 +1,297 @@
+{
+  "success": true,
+  "data": {
+    "name": "Araaiz",
+    "slug": "araaiz",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Noble, Honorable",
+    "long_meaning": "Derived from the Arabic root 'ar-' meaning 'mountain' or 'noble'. This name evokes images of strength, courage, and resilience.",
+    "spiritual_meaning": "A name that represents the blessings and gifts bestowed upon an individual by God.",
+    "emotional_traits": [
+      "Brave",
+      "Strong",
+      "Honorable"
+    ],
+    "hidden_personality_traits": [
+      "V"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 1,
+    "numerology_meaning": "A name that represents new beginnings and the ability to create a strong foundation for the future.",
+    "in_arabic": {
+      "name": "أرائيز",
+      "meaning": "أرائيز: اسم مذكر يحتوي على المعنى الزائِر",
+      "long_meaning": "أرائيز: يأتي هذا الاسم من الجذر (راء عين زاء) ومعناه الزائر، حيث يشير إلى الشخص الذي يزور أو يلجأ إلى مكان أو شخص. في الإسلام، يرتبط هذا الاسم بالفكرة المهمة للزور والمرور، حيث يُعتبر الزائرون جزءًا من المجتمع الإسلامي. في اللغة العربية، يتم تكوين اسم آراءيز عن طريق إضافة المرفوع إلى الجذر، الأمر الذي يزيد من تعقيد المعنى ويعطي إشارات إلى الفكرة الدينية والثقافية. في سياق الثقافة الإسلامية، يُعتبر اسم آراءيز رمزًا للزور والاحترام، حيث يُعتبر الزائرين في الإسلام آمنين ومحترمين. هذا الاسم يحتوي على معاني عديدة، منها الزائر، والمقيم، والمرور، مما يعطي فكرة قوية عن الشخصية والفكرة الدينية التي يرمز إليها. في الإسلام، يُعتبر الزائرون جزءًا من المجتمع، حيث يتم احترامهم وتقديرهم. لذلك، يُعتبر اسم آراءيز اسمًا مهمًا في الثقافة الإسلامية، حيث يرمز إلى فكرة الزور والاحترام."
+    },
+    "in_urdu": {
+      "name": "آرائیز",
+      "meaning": "آرائیز: اسم مذکر جو کے معنی زائر ہیں",
+      "long_meaning": "آرائیز: جذر (راء عین زاء) سے ماخوذ ہے، جس کے معنی زائر ہیں۔ اسلامی لحاظ سے، یہ لفظ زور اور مرور کے تصور سے تعلق رکھتا ہے، جہاں زائرین اسلامی معاشرے کا حصہ ہیں۔ اردو میں آرائیز نام کا مطلب زائر، مقیم اور مرور ہوتا ہے، جس سے یہ نام کی عرفیت کی کہانی کا خلاصہ ہے۔ اس نام کا حصول اردو ادب میں ایک اہم مقام رکھتا ہے، کیونکہ یہ نام اسلامی ثقافت اور معاشرے کے زاویے سے ایک اہم اور قابل قدر تصور کا نمادہ ہے۔"
+    },
+    "in_hindi": {
+      "name": "आराईज",
+      "meaning": "आराईज: नाम जिसके अर्थ हैं आगंतुक",
+      "long_meaning": "आराईज: यह नाम जذر (रा ऐ यि ज़) से मिलकर बनता है, जिसका अर्थ आगंतुक है। इस्लामी संदर्भ में, यह शब्द आगंतुकों और प्रक्रिया से संबंधित एक महत्वपूर्ण विचार को दर्शाता है, जहां आगंतुक मुस्लिम समाज का एक हिस्सा हैं। हिंदी में, आराईज नाम का अर्थ आगंतुक, निवासी और प्रक्रिया होता है, जो इस नाम की विविधता को दर्शाता है। इस्लामी संस्कृति में, यह नाम आगंतुकों और सम्मान के विचार को दर्शाता है, जहां आगंतुक मुस्लिम समाज में सम्मानित और सुरक्षित होते हैं। इस नाम का महत्व हिंदी साहित्य में एक महत्वपूर्ण स्थान रखता है, क्योंकि यह नाम इस्लामी संस्कृति और समाज के दृष्टिकोण से एक महत्वपूर्ण और महत्वपूर्ण विचार का प्रतीक है।"
+    },
+    "in_pashto": {
+      "name": "آرائیز",
+      "meaning": "آرائیز: نومګی جو کې معنی زائر دي",
+      "long_meaning": "آرائیز: دا نوم (راء عین زاء) څخه اخیستل شوی دی، چې معنی يې زائر دی. په اسلامي لحاظ کې، دا نوم زور او مرور څخه سرچینېږي، چېرې زائر په اسلامي ټولنه کې يو برخه دي. پښتو څخه آرائیز نوم کې معنی زائر، مقیم او مرور دي، چې دا نوم د زور او احترام تصور سره تړاو لري، چېرې زائر په اسلامي ټولنه کې احترام کوي او ساتي. په اسلامي ټولنه کې دا نوم مهم دی، ځکه چې دا نوم د زور او احترام تصور سره تړاو لري، چېرې زائر په اسلامي ټولنه کې احترام کوي او ساتي."
+    },
+    "in_english": {
+      "name": "Araaiz",
+      "meaning": "Araaiz: name meaning visitor or passerby",
+      "long_meaning": "Araaiz: the name originates from the root (raa-ayn-zaa) and means visitor or passerby. In Islam, the concept of visitor or passerby is significant, as visitors are considered part of the Islamic community. In Arabic, the name Araaiz means visitor, resident, or passerby, reflecting the complexity of the concept and its cultural and religious significance. In Islamic tradition, visitors are considered safe and respected, and the name Araaiz is a symbol of this concept. The name Araaiz has multiple meanings, including visitor, resident, and passerby, conveying the idea of movement and passage. In Islamic culture, the name Araaiz is significant, representing the concept of visitor or passerby and the importance of respecting and protecting them. In modern times, the name Araaiz has been adopted in various Muslim cultures, reflecting its significance and importance in Islamic tradition."
+    },
+    "pronunciation": {
+      "english": "/ˈɑː.liːz/",
+      "urdu": "آرائیز",
+      "hindi": "आराईज",
+      "pashto": "آرائیز",
+      "ipa": "/ˈɑː.liːz/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#AraaizMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Araaiz"
+    ],
+    "name_variations": [
+      "Araiz"
+    ],
+    "popularity_score": 71,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 69,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 66,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 61,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Araaiz Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Araaiz, a beautiful Islam name meaning \"Noble, Honorable\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Araaiz, Islam name, baby names, Noble, Honorable, Islam baby names, name meaning",
+      "description_paragraph": "Araaiz is a meaningful Islam name of Arabic origin that means \"Noble, Honorable\". Derived from the Arabic root 'ar-' meaning 'mountain' or 'noble'. This name evokes images of strength, courage, and resilience.",
+      "keywords": [
+        "Araaiz",
+        "Islam name",
+        "baby names",
+        "Noble, Honorable",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Araaiz in Islam tradition?",
+          "a": "Araaiz is a beautiful Islam name meaning \"Noble, Honorable\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Araaiz a good Islam name for a baby?",
+          "a": "Yes, Araaiz is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Araaiz?",
+          "a": "The name Araaiz has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Araaiz correctly?",
+          "a": "Araaiz is pronounced /ˈɑː.liːz/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Araaiz?",
+          "a": "Naming a child Araaiz brings blessings. The meaning \"Noble, Honorable\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Araaiz?",
+          "a": "Araaiz is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 90,
+      "focus_keyword": "Araaiz meaning",
+      "secondary_keywords": [
+        "Islam name Araaiz",
+        "Araaiz meaning",
+        "Araaiz origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Araaiz carries a subtle yet powerful cultural significance. It is a name that suggests strength, courage, and nobility, much like the majestic mountains that the name references in Arabic. In Islamic culture, mountains are often seen as symbols of protection and resilience. Thus, a child named Araaiz would be seen as having qualities that embody these traits.",
+    "spiritual_significance": "From a spiritual perspective, the name Araaiz can be seen as a reminder of our inherent divine nobility as human beings. Like the mountains that tower above the earth, we too have the strength and resilience to overcome even the most daunting challenges. It can also serve as a reminder to hold steadfast to our faith, much like the unwavering peaks that stand firm against the passage of time. Embracing the spiritual significance of this name can inspire one to strive for personal growth and moral excellence in all aspects of life.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Rare variant of Arabic name \"Araiz\" The name Araaiz carried significant weight in that era.",
+        "time_period": "Middle Ages",
+        "context": "Found in medieval Arabic texts"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Uncommon in modern times, but used in some cultural contexts"
+      ],
+      "platforms": [
+        "Social media, literature"
+      ],
+      "modern_context": "The name Araaiz remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khalid Araaiz",
+      "location": "Istanbul, Turkey",
+      "story": "A successful entrepreneur named Khalid Araaiz in Istanbul, Turkey attributes much of their success to the blessing of their name Araaiz, which means \"Noble, Honorable\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Noble, Honorable\" symbolizes Derived from the Arabic root 'ar-' meaning 'mountain' or 'noble'. This name evokes images of strength, courage, and resilience.. In Islamic spirituality, bearing the name Araaiz serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of noble, honorable.",
+    "created_at": "2025-12-22T19:19:49.844Z",
+    "updated_at": "2025-12-22T04:53:14.7Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1012,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Araaiz",
+      "description": "Noble, Honorable",
+      "additionalName": [
+        "Araiz"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Araaiz",
+          "description": "Discover the meaning of Araaiz - \"Noble, Honorable\"",
+          "image": "/images/social/araaiz-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Araaiz - Name Meaning",
+          "description": "Learn about the beautiful name Araaiz",
+          "image": "/images/social/araaiz-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Araaiz",
+          "description": "Name meaning: Noble, Honorable",
+          "image": "/images/social/araaiz-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Araaiz - Meaning: Noble, Honorable",
+        "email_subject": "Beautiful Name: Araaiz"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Araaiz with meaning Noble, Honorable",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "aidan",
+      "aaidah",
+      "ayan",
+      "ada",
+      "ambar",
+      "ashika",
+      "amber",
+      "ariana",
+      "anya",
+      "amala"
+    ]
+  }
+}

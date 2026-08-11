@@ -1,0 +1,294 @@
+{
+  "success": true,
+  "data": {
+    "name": "Nihara",
+    "slug": "nihara",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Sunlight",
+    "long_meaning": "The name Nihara is derived from the Arabic language, and it means 'sunlight'. This name holds a special significance in Islam as it reminds us of the importance of seeking knowledge and guidance from the light of Allah. The Prophet Muhammad (peace be upon him) said, 'The believer's shade on the Day of Resurrection will be his good deeds.' (Bukhari). By striving to live a life illuminated by the light of Allah and His guidance, one can find peace and success in this world and the hereafter. May Allah bless us all with the understanding and wisdom to choose names that reflect His beautiful names and attributes.",
+    "spiritual_meaning": "A reminder of Allah's guidance and light.",
+    "emotional_traits": [
+      "Compassionate",
+      "Gentle"
+    ],
+    "hidden_personality_traits": [
+      "M = Graceful",
+      "S = Resilient"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow",
+      "Orange"
+    ],
+    "lucky_stone": "Aqeeq",
+    "life_path_number": 5,
+    "numerology_meaning": "People with a life path number 5 are known as the 'Jack-of-all-trades'. They are versatile, adaptable, and have a natural ability to learn new skills quickly. They enjoy change and new experiences, and thrive in creative environments.",
+    "in_arabic": {
+      "name": "نيھارا",
+      "meaning": "الناظرة إلى الفجر",
+      "long_meaning": "النيھارا: اسم من أصل عربي معناه الناظرة إلى الفجر، أو من أصل فريد يرمز إلى السمو و الإشراق، و قد يُنسب إلى بعض المدن في الخليج العربي، و يُعتبر اسماً مسلماً نادراً يستخدم في بعض الثقافات الإسلامية، و يُنقل في بعض الأحيان إلى لغات أخرى، و يعتبر اسماً جميلاً للفتيات و الفتيان، و له أهمية كبيرة في الثقافة الإسلامية و الدينية، و يُعتبر اسماً ذا تأثير كبير في الشخصية و الشخصية الإنسانية."
+    },
+    "in_urdu": {
+      "name": "نیہارا",
+      "meaning": "مطلع الفجر کی جانب دیکھنے والی",
+      "long_meaning": "نیہارا: اسم لڑکیوں کے لئے اور لڑکوں کے لئے بھی، یہ نام پہلے سے ہی معروف ہے، اس نام کا پس منظر اور تعلقات میں عرب اور اسلامی ثقافتوں کے درمیان کافی ہے، اس نام کا تعلق قریبی عرب شہر سے ہے، یہ نام صرف ہندی اور اردو زبان میں استعمال ہوتا ہے، اس نام کا تعلق لطیف اور خوش گوئی سے جوڑا جاتا ہے، اس نام کو کبھی کبھی مختلف ثقافتوں میں ایک خاص اہمیت دی جاتی ہے، اس نام کا تعلق اسلامی ثقافت اور دینی روایات سے بھی ہے۔"
+    },
+    "in_hindi": {
+      "name": "निहारा",
+      "meaning": "सुबह की ओर देखने वाली",
+      "long_meaning": "निहारा: एक हिंदू-मुस्लिम नाम है जिसका अर्थ है सुबह की ओर देखने वाली, यह नाम भारतीय मुस्लिम समुदाय में बहुत लोकप्रिय है, इसका मतलब है प्रकाश और सूरज की ओर देखने, यह नाम हिंदू और मुस्लिम दोनों धर्मों में प्रयोग होता है, यह नाम भारतीय और मध्य पूर्वी संस्कृति में बहुत महत्व रखता है, यह नाम मुस्लिम बच्चियों और लड़कियों के लिए एक अच्छा विकल्प है, यह नाम भारतीय मुस्लिम परंपरा में बहुत प्रासंगिक है।"
+    },
+    "in_pashto": {
+      "name": "نیہارا",
+      "meaning": "د سوری په وهلو کول",
+      "long_meaning": "نیہارا: دا نام په افغانستان کې د مومنانو لپاره ځانګړي ځای لري، دا نام د افغانستان د تاريخي او ثقافتي پيرودي سره تړاو لري، دا نام په افغانستان کې د پښتو ژبې په توګه استعمال کېږي، دا نام د مومنانو لپاره یو دېرغړي نوم دی او دا په افغانستان کې د پښتو په ژبه په ځانګړي ځای لري، دا نام د مومنانو لپاره یو ځانګړی نوم دی او دا په افغانستان کې د افغان په ثقافت کې ځانګړي ځای لري۔"
+    },
+    "in_english": {
+      "name": "Nihara",
+      "meaning": "One who gazes at the dawn",
+      "long_meaning": "Nihara: A name with Arabic roots, meaning one who gazes at the dawn, or a name that symbolizes elevation and illumination, it is also associated with some cities in the Arabian Gulf, and is considered a rare name used in some Islamic cultures, it is sometimes translated to other languages, and is considered a beautiful name for girls and boys, and has significant importance in Islamic culture and tradition, and has a great impact on personality and human personality."
+    },
+    "pronunciation": {
+      "english": "/naɪˈhɑːrə/",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/naɪ.hɑːrə/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#NiharaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Nihara"
+    ],
+    "name_variations": [
+      "Niharah"
+    ],
+    "popularity_score": 59,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 78,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Nihara Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Nihara, a beautiful Islam name meaning \"Sunlight\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Nihara, Islam name, baby names, Sunlight, Islam baby names, name meaning",
+      "description_paragraph": "Nihara is a meaningful Islam name of Arabic origin that means \"Sunlight\". The name Nihara is derived from the Arabic language, and it means 'sunlight'. This name holds a special significance in Islam as it reminds us of the importance of seeking knowledge and guidance from the light of Allah. The Prophet Muhammad (peace be upon him) said, 'The believer's shade on the Day of Resurrection will be his good deeds.' (Bukhari). By striving to live a life illuminated by the light of Allah and His guidance, one can find peace and success in this world and the hereafter. May Allah bless us all with the understanding and wisdom to choose names that reflect His beautiful names and attributes.",
+      "keywords": [
+        "Nihara",
+        "Islam name",
+        "baby names",
+        "Sunlight",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Nihara in Islam tradition?",
+          "a": "Nihara is a beautiful Islam name meaning \"Sunlight\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Nihara a good Islam name for a baby?",
+          "a": "Yes, Nihara is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Nihara?",
+          "a": "The name Nihara has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Nihara correctly?",
+          "a": "Nihara is pronounced /naɪˈhɑːrə/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Nihara?",
+          "a": "Naming a child Nihara brings blessings. The meaning \"Sunlight\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Nihara?",
+          "a": "Nihara is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 93,
+      "focus_keyword": "Nihara meaning",
+      "secondary_keywords": [
+        "Islam name Nihara",
+        "Nihara meaning",
+        "Nihara origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "In many cultures, sunlight is associated with life, energy, and growth. In Islam, the idea of seeking knowledge and guidance from the light of Allah is a central tenet. Naming a child Nihara can serve as a daily reminder of the importance of seeking knowledge and guidance from Allah.",
+    "spiritual_significance": "The Arabic word for sunlight is 'Nahar', and in Islamic theology, this concept holds a deep spiritual significance. The Prophet Muhammad (peace be upon him) said, 'The believer's shade on the Day of Resurrection will be his good deeds.' (Bukhari). The Prophet also said, 'Allah's mercy is beneath the throne, and the sun rises and sets in it.' (Tirmidhi). The name Nihara reminds us of the importance of seeking Allah's mercy and living a life that is illuminated by His guidance and love. By striving to live a life that reflects the light and beauty of Allah's name, one can find inner peace and spiritual growth. May Allah bless us all with the understanding and wisdom to choose names that reflect His beautiful names and attributes.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Nihara carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Traditional name experiencing modern revival",
+        "Increasingly popular among Muslim millennials"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Nihara remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Nihara",
+      "location": "Dubai, UAE",
+      "story": "Aisha Nihara, a teacher in Dubai, UAE, shares that their name Nihara meaning \"Sunlight\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Sunlight\" symbolizes The name Nihara is derived from the Arabic language, and it means 'sunlight'. This name holds a special significance in Islam as it reminds us of the importance of seeking knowledge and guidance from the light of Allah. The Prophet Muhammad (peace be upon him) said, 'The believer's shade on the Day of Resurrection will be his good deeds.' (Bukhari). By striving to live a life illuminated by the light of Allah and His guidance, one can find peace and success in this world and the hereafter. May Allah bless us all with the understanding and wisdom to choose names that reflect His beautiful names and attributes.. In Islamic spirituality, bearing the name Nihara serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of sunlight.",
+    "created_at": "2025-12-22T19:19:49.922Z",
+    "updated_at": "2025-12-22T04:53:15.418Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1557,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Nihara",
+      "description": "Sunlight",
+      "additionalName": [
+        "Niharah"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Nihara",
+          "description": "Discover the meaning of Nihara - \"Sunlight\"",
+          "image": "/images/social/nihara-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Nihara - Name Meaning",
+          "description": "Learn about the beautiful name Nihara",
+          "image": "/images/social/nihara-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Nihara",
+          "description": "Name meaning: Sunlight",
+          "image": "/images/social/nihara-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Nihara - Meaning: Sunlight",
+        "email_subject": "Beautiful Name: Nihara"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Nihara with meaning Sunlight",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "nadeen",
+      "naina",
+      "namik",
+      "nevaeh",
+      "norah",
+      "nina",
+      "nora",
+      "nihal"
+    ]
+  }
+}

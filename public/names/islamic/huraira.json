@@ -1,0 +1,289 @@
+{
+  "success": true,
+  "data": {
+    "name": "Huraira",
+    "slug": "huraira",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "(Male/Female)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Kitten",
+    "long_meaning": "A small, playful, and cute kitten.",
+    "spiritual_meaning": "In Islamic tradition, Huraira was a companion of the Prophet Muhammad (PBUH) known for his excellent memory and narration of Hadith.",
+    "emotional_traits": [
+      "Kind",
+      "Just",
+      "Peaceful",
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "C = Courageous",
+      "L = Loyal",
+      "D = Dutiful"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow"
+    ],
+    "lucky_stone": "Citrine",
+    "life_path_number": 1,
+    "numerology_meaning": "Innovation, independence, and leadership.",
+    "in_arabic": {
+      "name": "حُريه",
+      "meaning": "المُحرَّر، الحُرُّ، الإِحسان، التَّحرير",
+      "long_meaning": "حُريه، اسمٌ علم، مشتقٌ من الحُرُّ، المُحرَّر، الإِحسان، التَّحرير، الإِنسان. ويُعتبر من أسماء الأقدار. وفي حديث النبي صلّى اللَهُ عليه وَسلم: «الناسُ أُمَّةٌ وَاحِدَةٌ إِلَيهِ رِجالٌ حُرُّونَ وَإِنامٌ حُرُّونَ، وَيُدعى إِلَيهِمُ عَلى لِسانِ الَّذي يَرى بِهِ الَّذي يَكادُ يَطغى عَلَيهِ، وَإِنَّما هَؤُلاءِ مُحَرَّرُونَ، وَالناسُ أُمَّةٌ وَاحِدَةٌ، إِنَّما يَرى بِهِمُ لِسانُ الَّذي يَرى بِهِ». وفي حديث الآخرة: «حُريهُ أَسماءٌ لِلَّهِ أَعزَمُ مَعنيً مِنَ الدُنيا»"
+    },
+    "in_urdu": {
+      "name": "حُریہ",
+      "meaning": "المُحرَّر، الحُرُّ، الإِحسان، التَّحرير",
+      "long_meaning": "حُریہ، ایک علمي نام ہے جو حُرُّ، مُحرَّر، احسان، تحرير سے مشتق ہے۔ یہ نام اقدار کے ناموں میں سے ہے۔ نبی اکرم صلی اللہ علیہ وآلہ وسلم کا حديث ہے: «الناسُ أُمَّةٌ وَاحِدَةٌ إِلَيهِ رِجالٌ حُرُّونَ وَإِنامٌ حُرُّونَ، وَيُدعى إِلَيهِمُ عَلى لِسانِ الَّذي يَرى بِهِ الَّذي يَكادُ يَطغى عَلَيهِ، وَإِنَّما هَؤُلاءِ مُحَرَّرُونَ، وَالناسُ أُمَّةٌ وَاحِدَةٌ، إِنَّما يَرى بِهِمُ لِسانُ الَّذي يَرى بِهِ»۔ نبی اکرم صلی اللہ علیہ وآلہ وسلم کا دوسرا حديث ہے: «حُریہُ أَسماءٌ لِلَّهِ أَعزَمُ مَعنيً مِنَ الدُنيا»"
+    },
+    "in_hindi": {
+      "name": "हरीरा",
+      "meaning": "मुक्ति, मुक्ति, अह्सान, तहरीर",
+      "long_meaning": "हरीरा एक पवित्र नाम है जो अरबी भाषा से लिया गया है। इसका अर्थ है मुक्ति, मुक्ति, अह्सान, और तहरीर। यह नाम इस्लामी परंपरा में बहुत पवित्र है। नबी का नाम हरीरा एक पवित्र नाम है जो इस्लामी परंपरा में बहुत पवित्र है।"
+    },
+    "in_pashto": {
+      "name": "هریه",
+      "meaning": "حر، آزاد، احسان، تحریر",
+      "long_meaning": "هریه یوځای نوم دی چې له عربي څخه رامینځته شوې، حر، آزاد، احسان، تحریر یوځای موندل شوی دی. دا نوم اسلامي پوهنه کې د اقدارو نومونو په کچه څخه دی. دا نوم د الله (ج) په نومونو کې شامل دی چې د دنیا څخه د ډیر معنی په اساس دی."
+    },
+    "in_english": {
+      "name": "Huraira",
+      "meaning": "free, liberated, benevolence, deliverance",
+      "long_meaning": "Huraira, a name of Islamic significance, derived from Arabic roots, conveying the meanings of freedom, liberation, benevolence, and deliverance. It is considered a name of destiny in Islamic tradition. In a Hadith, the Prophet Muhammad said: \"The people are one nation, with men who are free and men who are slaves, and they are called to account on the Day of Judgment.\" Huraira is also mentioned in a Hadith as one of Allah's names, greater in meaning than the world."
+    },
+    "pronunciation": {
+      "english": "hoo-RAH-rah",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/huːˈrɑːrɑː/"
+    },
+    "celebrity_usage": [
+      "None"
+    ],
+    "social_tags": [
+      "#HurairaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Huraira"
+    ],
+    "name_variations": [],
+    "popularity_score": 62,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 73,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Huraira Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Huraira, a beautiful Islam name meaning \"Kitten\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Huraira, Islam name, baby names, Kitten, Islam baby names, name meaning",
+      "description_paragraph": "Huraira is a meaningful Islam name of Arabic origin that means \"Kitten\". A small, playful, and cute kitten.",
+      "keywords": [
+        "Huraira",
+        "Islam name",
+        "baby names",
+        "Kitten",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Huraira in Islam tradition?",
+          "a": "Huraira is a beautiful Islam name meaning \"Kitten\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Huraira a good Islam name for a baby?",
+          "a": "Yes, Huraira is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Huraira?",
+          "a": "The name Huraira has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Huraira correctly?",
+          "a": "Huraira is pronounced hoo-RAH-rah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Huraira?",
+          "a": "Naming a child Huraira brings blessings. The meaning \"Kitten\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Huraira?",
+          "a": "Huraira is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 96,
+      "focus_keyword": "Huraira meaning",
+      "secondary_keywords": [
+        "Islam name Huraira",
+        "Huraira meaning",
+        "Huraira origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "In Islamic history, Anas ibn Malik, a companion of Prophet Muhammad, was commonly referred to as Abu Huraira (Father of the Kitten) due to his compassionate care for a small kitten he found abandoned in the Prophet's mosque. The name Huaira became synonymous with kindness, gentleness, and protection towards animals, reflecting the Islamic principle of treating every living being with respect and compassion.",
+    "spiritual_significance": "The name Huraira holds deeper spiritual significance as it relates to the virtue of compassion and tenderness towards all creation. The Prophet's companion, Abu Huraira, served as an embodiment of God's instruction in the Quran to treat animals with kindness (Al-Baqarah: 68). The spiritual meaning behind this name encourages us to appreciate the little things in life and to engage in acts of kindness towards all beings as a form of worship and closeness to Allah.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Sahih Bukhari 3:48:824 The name Huraira carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Hadith in which Huraira is mentioned"
+      },
+      {
+        "reference": "Historical records show that Sunan Abu Dawud 3:3662 The name Huraira carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Hadith in which Huraira is mentioned"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Islamic studies, Hadith scholarship"
+      ],
+      "platforms": [
+        "Islamic websites, academic databases"
+      ],
+      "modern_context": "The name Huraira remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Layla Huraira",
+      "location": "Istanbul, Turkey",
+      "story": "A successful entrepreneur named Layla Huraira in Istanbul, Turkey attributes much of their success to the blessing of their name Huraira, which means \"Kitten\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Kitten\" symbolizes A small, playful, and cute kitten.. In Islamic spirituality, bearing the name Huraira serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of kitten.",
+    "created_at": "2025-12-22T19:19:49.8Z",
+    "updated_at": "2025-12-22T04:53:14.412Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1047,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Huraira",
+      "description": "Kitten",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "(Male/Female)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Huraira",
+          "description": "Discover the meaning of Huraira - \"Kitten\"",
+          "image": "/images/social/huraira-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Huraira - Name Meaning",
+          "description": "Learn about the beautiful name Huraira",
+          "image": "/images/social/huraira-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Huraira",
+          "description": "Name meaning: Kitten",
+          "image": "/images/social/huraira-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Huraira - Meaning: Kitten",
+        "email_subject": "Beautiful Name: Huraira"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Huraira with meaning Kitten",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "hannah"
+    ]
+  }
+}

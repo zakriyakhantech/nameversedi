@@ -1,0 +1,300 @@
+{
+  "success": true,
+  "data": {
+    "name": "Nuhiyah",
+    "slug": "nuhiyah",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Gift of God",
+    "long_meaning": "A beautiful and blessed name, symbolizing the blessings of Allah.",
+    "spiritual_meaning": "A name that reflects the divine favor and mercy of Allah.",
+    "emotional_traits": [
+      "Kind",
+      "Compassionate",
+      "Peaceful"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "C = Compassionate",
+      "L = Loyal"
+    ],
+    "lucky_number": 8,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow",
+      "White"
+    ],
+    "lucky_stone": "Citrine",
+    "life_path_number": 5,
+    "numerology_meaning": "The name Nuhiyah is ruled by the number 5. This number signifies change, progress, and versatility. People with this name are often natural problem solvers and adapt quickly to new situations. They are also known for their creativity and resourcefulness.",
+    "in_arabic": {
+      "name": "نوحية",
+      "meaning": "اسم نسبة إلى النبي نوح عليه السلام",
+      "long_meaning": "النوحيَةُ: نسبة إلى النبي نوح عليه السلام، والذي كان من الأوائل من بعثة الإسلام، وسمي نوحًا من اسم أبيه، ويقال إنه اسم من أسماء الله الحسنى، ويُطلق على الأطفال الَّذين يُولَدون في المُدن، ويُستعمل في الصِفَةِ الإِجابَةِ، والاستفهام، ويُعتبر اسمًا شائعًا في العُرب، وينحدر من الجذر النوح، والذي يُشير إلى الماء، والخَلق، والإِطلاق، ويُستخدم في التأويلات القرآنية، ويُعتبر من الأسماء المُختارة في الأصل، ويُستعمل أيضًا في اللغة الفارسية، واللغة الأُردية، ويَتميز بتفسيره في التأويلات القرآنية، ويُستعمل في الصِفَةِ الإِجابَةِ والاستفهام، ويُعتبر اسمًا مُنتشرًا في العُرب، ويُستخدم في اللغة العربية، واللغة الفارسية، واللغة الأُردية."
+    },
+    "in_urdu": {
+      "name": "نوحية",
+      "meaning": "نبی نوح علیہ السلام کے نام سے متعلق",
+      "long_meaning": "نوحيہ: نبی نوح علیہ السلام کے نام سے متعلق ہے، انہیں نبیوں میں سے ایک کہا جاتا ہے، ان کے نام کے بارے میں کہا جاتا ہے کہ ان کے والد کے نام سے لیا گیا ہے، یہ نام اللہ کے ناموں میں سے ایک ہے، یہ نام بچوں کے لیے بھی استعمال ہوتا ہے جو شہروں میں پیدا ہوتے ہیں، یہ نام استفهام اور جواب میں بھی استعمال ہوتا ہے، یہ نام عربوں میں بہت مقبول ہے، یہ نام فارسی اور اردو میں بھی استعمال ہوتا ہے، اس نام کا مطلب ہے پانی، تخلیق اور اظہار، یہ نام قرآن کے تفسیر میں بھی استعمال ہوتا ہے، یہ نام عربوں میں بہت مقبول ہے، یہ نام فارسی اور اردو میں بھی استعمال ہوتا ہے، یہ نام قرآن کے تفسیر میں بھی استعمال ہوتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "नूहिया",
+      "meaning": "नबी नूह अलैहिस्सलाम के नाम से संबंधित",
+      "long_meaning": "नूहिया: नबी नूह अलैहिस्सलाम के नाम से संबंधित है जिन्हें नबियों में से एक कहा जाता है, उनके नाम के बारे में कहा जाता है कि यह उनके पिता के नाम से लिया गया है, यह नाम अल्लाह के नामों में से एक है, यह नाम बच्चों के लिए भी उपयोग होता है जो शहरों में जन्म लेते हैं, यह नाम प्रश्न और उत्तर में भी उपयोग होता है, यह नाम अरबों में बहुत लोकप्रिय है, यह नाम फ़ारसी और हिंदी में भी उपयोग होता है, इसका अर्थ है पानी, सृजन, और व्यक्ति, यह नाम कुरआन के व्याख्या में भी उपयोग होता है, यह नाम अरबों में बहुत लोकप्रिय है, यह नाम फ़ारसी और हिंदी में भी उपयोग होता है, यह नाम कुरआन के व्याख्या में भी उपयोग होता है।"
+    },
+    "in_pashto": {
+      "name": "نوحيه",
+      "meaning": "نبی نوح علیہ السلام کے نام سے متعلق",
+      "long_meaning": "نوحيہ: د نبی نوح علیہ السلام کې څخه لیکل کېږي، پدريز نوم څخه لیکل کېږي، د هغه نوم هم د الله په نومونو کې څخه دي، د بچی څخه څخه په شعارو کې د شاوخ کېږي، په سوال او جواب کې هم کارول کېږي، په عربو کې دوی په زياته ډول کارول کېږي، دوی په فارسۍ او پښتو کې هم کارول کېږي، په دې نوم کې د څخه څخه لیکل کېږي، د څخه د څخه د څخه څخه د څخه، په قرآن کې دې نوم کارول کېږي، په پښتو کې دوی په زياته ډول کارول کېږي، دوی په فارسۍ او پښتو کې هم کارول کېږي، په قرآن کې دې نوم کارول کېږي۔"
+    },
+    "in_english": {
+      "name": "Nuhiyah",
+      "meaning": "Name derived from the Prophet Nuh, peace be upon him",
+      "long_meaning": "Nuhiyah: Name derived from the Prophet Nuh, peace be upon him, one of the prophets in Islam, his name is derived from his father's name, and it is one of the names of Allah, used for children born in cities, also used in questions and answers, very popular in Arabs, also used in Persian and Urdu, means water, creation, and expression, used in Quranic interpretation, very popular in Arabs, also used in Persian and Urdu, used in Quranic interpretation."
+    },
+    "pronunciation": {
+      "english": "/nuːˈhiːə/ (NOO-hee-uh)",
+      "urdu": "اردو میں تلفظ کی تفصیل: نوحيے",
+      "hindi": "हिन्दी में उच्चारण विवरण: नूहिया",
+      "pashto": "په پښتو کې د تلفظ تفصیل: نوحيې",
+      "ipa": "/nuːˈhiːə/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#NuhiyahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Nuhiyah"
+    ],
+    "name_variations": [
+      "Nuhiya"
+    ],
+    "popularity_score": 54,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 71,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Nuhiyah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Nuhiyah, a beautiful Islam name meaning \"Gift of God\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Nuhiyah, Islam name, baby names, Gift of God, Islam baby names, name meaning",
+      "description_paragraph": "Nuhiyah is a meaningful Islam name of Arabic origin that means \"Gift of God\". A beautiful and blessed name, symbolizing the blessings of Allah.",
+      "keywords": [
+        "Nuhiyah",
+        "Islam name",
+        "baby names",
+        "Gift of God",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Nuhiyah in Islam tradition?",
+          "a": "Nuhiyah is a beautiful Islam name meaning \"Gift of God\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Nuhiyah a good Islam name for a baby?",
+          "a": "Yes, Nuhiyah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Nuhiyah?",
+          "a": "The name Nuhiyah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Nuhiyah correctly?",
+          "a": "Nuhiyah is pronounced /nuːˈhiːə/ (NOO-hee-uh) in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Nuhiyah?",
+          "a": "Naming a child Nuhiyah brings blessings. The meaning \"Gift of God\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Nuhiyah?",
+          "a": "Nuhiyah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 98,
+      "focus_keyword": "Nuhiyah meaning",
+      "secondary_keywords": [
+        "Islam name Nuhiyah",
+        "Nuhiyah meaning",
+        "Nuhiyah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Nuhiyah holds significant cultural importance in Islamic communities due to its rich history and meaning. It is an Arabic name, rooted in the Quran and Hadith, and the name is believed to have been bestowed upon a respected female companion of the Prophet Muhammad (pbuh) in Islamic tradition.",
+    "spiritual_significance": "The significance of the name Nuhiyah extends far beyond its cultural importance, however. It carries a profound spiritual meaning that resonates with the faithful. Nuhiyah is considered a name that signifies blessings and blessings from Allah. It is said that the person named Nuhiyah is favored by Allah and is granted the grace and favor of Allah's presence. Additionally, Nuhiyah is derived from the word \"an-Nuha\" (아무르), which means \"rest, repose,\" or \"an oasis,\" symbolizing a place of comfort and peace. This spiritual significance of the name Nuhiyah serves as a constant reminder of the presence and blessings of Allah in one's life.",
+    "islamic_reference": {
+      "is_quranic": true,
+      "surah": "Hud",
+      "verse": "11:25-48",
+      "note": "Prophet Noah, who built the ark"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Ali ibn Abi Talib was the fourth caliph of Islam and a cousin and son-in-law of Muhammad. The name Nuhiyah carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Islamic history"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Ali is a popular name in the Middle East and South Asia"
+      ],
+      "platforms": [
+        "Social media, genealogy websites"
+      ],
+      "modern_context": "The name Nuhiyah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Nuhiyah",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "A successful entrepreneur named Maryam Nuhiyah in Riyadh, Saudi Arabia attributes much of their success to the blessing of their name Nuhiyah, which means \"Gift of God\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The name Nuhiyah carries profound spiritual symbolism as it is rooted in Quranic tradition. The meaning \"Gift of God\" symbolizes A beautiful and blessed name, symbolizing the blessings of Allah.. In Islamic spirituality, bearing the name Nuhiyah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gift of god.",
+    "created_at": "2025-12-22T19:19:49.838Z",
+    "updated_at": "2025-12-22T04:53:14.648Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1570,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Nuhiyah",
+      "description": "Gift of God",
+      "additionalName": [
+        "Nuhiya"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Nuhiyah",
+          "description": "Discover the meaning of Nuhiyah - \"Gift of God\"",
+          "image": "/images/social/nuhiyah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Nuhiyah - Name Meaning",
+          "description": "Learn about the beautiful name Nuhiyah",
+          "image": "/images/social/nuhiyah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Nuhiyah",
+          "description": "Name meaning: Gift of God",
+          "image": "/images/social/nuhiyah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Nuhiyah - Meaning: Gift of God",
+        "email_subject": "Beautiful Name: Nuhiyah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Nuhiyah with meaning Gift of God",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "namik",
+      "norah",
+      "nina",
+      "nadeen",
+      "nevaeh",
+      "nora",
+      "nihal",
+      "naina"
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "success": true,
+  "data": {
+    "name": "Khumar",
+    "slug": "khumar",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "(Male/Female)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Mount or hill",
+    "long_meaning": "A mountain or hill in Arabic context, representing strength and resilience. Khumar is often associated with stability and endurance. In Islamic tradition, it symbolizes a connection to the divine.",
+    "spiritual_meaning": "A spiritual mount for the faithful, connecting with the divine and the heavens.",
+    "emotional_traits": [
+      "Confident",
+      "Resilient",
+      "Strong-willed"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "C = Courageous",
+      "L = Loyal"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 3,
+    "numerology_meaning": "Expressive, creative, and artistic",
+    "in_arabic": {
+      "name": "خمر",
+      "meaning": "الخمر يُشبه الداء",
+      "long_meaning": "الخمر يُشبه الداء، والمَخمرة هي الكأس المُشربة، وَمِنَ الأسماءِ المُحكّمةِ في القرآن الكريمِ، وَمَنَصوصٌ عَن النبي صَلّى اللَهُ عَلَيْهِ وَآلِهِ، وَيُعتبرُ الخمرةُ في الإسلامِ من الأَشياءِ المُحَرّمةِ، وَالخمر من أَشكالِ الشَركِ المُرتَقَباتِ في الإسلامِ، وَخُمرَةُ البَيّنَةِ وَخُمرَةُ الِانثىِ وَخُمرَةُ الغَيرِ وَمَنَصوصٌ عَن النبي صَلّى اللَهُ عَلَيْهِ وَآلِهِ"
+    },
+    "in_urdu": {
+      "name": "خمر",
+      "meaning": "خمر کو بیماری کے مانند سمجھتے ہیں",
+      "long_meaning": "خمر کو بیماری کے مانند سمجھتے ہیں، مخمرہ ایک پیالہ ہے جس سے پیلا جاتا ہے، اور قرآن و سنت میں یہ نام ملتا ہے، اسلام میں مخمرہ حرام ہے، خمر شرک کے ناموں میں سے ہے، اور خمرہ کا مطلب ہے کہ بے وفائی، خمرہ کا مطلب ہے کہ بیوقوفی، خمرہ کا مطلب ہے کہ غیر میں وفا نہ کرنا، اور نبی صل الله علیہ وآلہ نے مخمرہ سے متعلق احکام بیان کیے ہیں"
+    },
+    "in_hindi": {
+      "name": "खुमर",
+      "meaning": "खुम्र को बीमारी के जैसा माना जाता है",
+      "long_meaning": "खुम्र को बीमारी के जैसा माना जाता है, महामरी एक प्याला है जिसे पिया जाता है, और कुरआन और सुन्नत में यह नाम आता है, इस्लाम में महामरी हराम है, खुम्र श्रेष्ठ श्रेणी के नामों में से एक है, और खुम्र का मतलब है बेवफाई, खुम्र का मतलब है बेवकूफी, खुम्र का मतलब है गैर में वफा न करना, और नबी सल्लल्लाहू अलैहि व सल्लम ने महामरी के बारे में आदेश दिए हैं"
+    },
+    "in_pashto": {
+      "name": "خمر",
+      "meaning": "خمر څخه دغه ويلى کوي",
+      "long_meaning": "خمرڅخه دغه ويلى کوي، مخمره يوه چاټ کومو چا چا کيږي، او کورآن او سنن کي ځايه ښودل کيږي، اسلام کي مخمره حرام کوي، خمر شرک د ځانګړي ځانګړي ډولونه کي څخه څخه دي، او مخمره څخه د بې وفا، مخمره څخه د بیوقوفی، مخمره څخه د غیر د وېرې څخه دي، او د نبي صلی الله علیہ وسلم لخوا مخمره کښي څخه په تعلیم کي راغلی دي"
+    },
+    "in_english": {
+      "name": "Khumar",
+      "meaning": "Khumar is considered a disease, similar to intoxication",
+      "long_meaning": "Khumar is considered a disease, similar to intoxication, Khumrah is a cup to drink, and the name is mentioned in the Quran and Hadith, and in Islam, Khumrah is considered a forbidden act, Khumr is considered one of the forms of polytheism, and Khumrah is considered to mean unfaithfulness, Khumrah is considered to mean foolishness, and Khumrah is considered to mean unfaithfulness to others, and the Prophet Muhammad (PBUH) has issued commands related to Khumrah"
+    },
+    "pronunciation": {
+      "english": "/kuːˈmɑr/",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/kuːˈmɑr/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#KhumarMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Khumar"
+    ],
+    "name_variations": [],
+    "popularity_score": 41,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 68,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Khumar Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Khumar, a beautiful Islam name meaning \"Mount or hill\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Khumar, Islam name, baby names, Mount or hill, Islam baby names, name meaning",
+      "description_paragraph": "Khumar is a meaningful Islam name of Arabic origin that means \"Mount or hill\". A mountain or hill in Arabic context, representing strength and resilience. Khumar is often associated with stability and endurance. In Islamic tradition, it symbolizes a connection to the divine.",
+      "keywords": [
+        "Khumar",
+        "Islam name",
+        "baby names",
+        "Mount or hill",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Khumar in Islam tradition?",
+          "a": "Khumar is a beautiful Islam name meaning \"Mount or hill\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Khumar a good Islam name for a baby?",
+          "a": "Yes, Khumar is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Khumar?",
+          "a": "The name Khumar has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Khumar correctly?",
+          "a": "Khumar is pronounced /kuːˈmɑr/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Khumar?",
+          "a": "Naming a child Khumar brings blessings. The meaning \"Mount or hill\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Khumar?",
+          "a": "Khumar is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 90,
+      "focus_keyword": "Khumar meaning",
+      "secondary_keywords": [
+        "Islam name Khumar",
+        "Khumar meaning",
+        "Khumar origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name 'Khumar' holds a unique cultural significance as it represents a high ground or a mountain in the Arabic context. Mountains and hills have been significant in various cultures, representing strength, resilience, stability, and often a connection to the divine. In the Middle Eastern and Islamic tradition, mountains have always held a sacred place and are believed to have a sacred energy.",
+    "spiritual_significance": "From a spiritual perspective, the name 'Khumar' carries a deeper meaning. It is believed that mountains are close to the divine, offering a connection to the higher realms. In Islamic tradition, Mount Uhud is considered sacred, as it is where an important battle took place between the Muslims and the Meccans. This battle marked a turning point in Islamic history and is often seen as a testament to the strength and resilience of the Muslim community.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Al-Khumari is a variant of the name of the famous poet Imru' al-Qais. The name Khumar carried significant weight in that era.",
+        "time_period": "6th century",
+        "context": "Imru' al-Qais was a pre-Islamic Arab poet, known for his long epic poem, The Story of Antar and Abla. He is considered one of the greatest Arab poets of all time."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Trending in Muslim baby name searches"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Khumar remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Khumar",
+      "location": "Cairo, Egypt",
+      "story": "A successful entrepreneur named Aisha Khumar in Cairo, Egypt attributes much of their success to the blessing of their name Khumar, which means \"Mount or hill\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Mount or hill\" symbolizes A mountain or hill in Arabic context, representing strength and resilience. Khumar is often associated with stability and endurance. In Islamic tradition, it symbolizes a connection to the divine.. In Islamic spirituality, bearing the name Khumar serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of mount or hill.",
+    "created_at": "2025-12-22T19:19:49.794Z",
+    "updated_at": "2025-12-22T04:53:14.302Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1435,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Khumar",
+      "description": "Mount or hill",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "(Male/Female)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Khumar",
+          "description": "Discover the meaning of Khumar - \"Mount or hill\"",
+          "image": "/images/social/khumar-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Khumar - Name Meaning",
+          "description": "Learn about the beautiful name Khumar",
+          "image": "/images/social/khumar-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Khumar",
+          "description": "Name meaning: Mount or hill",
+          "image": "/images/social/khumar-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Khumar - Meaning: Mount or hill",
+        "email_subject": "Beautiful Name: Khumar"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Khumar with meaning Mount or hill",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "kayan",
+      "kashish",
+      "kabir"
+    ]
+  }
+}

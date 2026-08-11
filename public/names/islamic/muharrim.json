@@ -1,0 +1,292 @@
+{
+  "success": true,
+  "data": {
+    "name": "Muharrim",
+    "slug": "muharrim",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Sacred, Forbidden",
+    "long_meaning": "Derived from the Arabic word ‘al-Muharram’, which means ‘the forbidden’. This name is associated with the first month in the Islamic calendar, Muharram, during which certain acts are prohibited.",
+    "spiritual_meaning": "A name imbued with sacredness and reverence.",
+    "emotional_traits": [
+      "Righteous",
+      "Resilient"
+    ],
+    "hidden_personality_traits": [
+      "M = Modest",
+      "S = Strong"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Red",
+      "Black"
+    ],
+    "lucky_stone": "Black Tourmaline",
+    "life_path_number": 3,
+    "numerology_meaning": "Those with this name are creative, expressive, and friendly. They possess a strong sense of self and are natural leaders who thrive in expressive and artistic environments.",
+    "in_arabic": {
+      "name": "محرم",
+      "meaning": "المحرم هو الشهر الأول في التقويم الهجري، حرمة مقدسة",
+      "long_meaning": "المحرم هو الشهر الأول في التقويم الهجري، ويُعَدُ حرمة مقدسة عند المسلمين. كلمة 'محرم' مشتقة من 'حرم' التي تعني 'الحرمة' أو 'المنع'. في هذا الشهر، يُحرم القتال والقتال، ويُعَدُ وقتًا للصوم والصلاة والتقرب إلى الله. كما يُعَدُ شهر المحرم من الأشهر التي ذكرت في القرآن الكريم، حيث قال الله تعالى: 'إِنَّ عِدَّةَ الشُّهُورِ عِنْدَ اللَّهِ اثْنَا عَشَرَ شَهْرًا فِي كِتَابِ اللَّهِ يَوْمَ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ مِنْهَا أَرْبَعَةٌ حُرُمٌ' (التوبة: 36)"
+    },
+    "in_urdu": {
+      "name": "محرم",
+      "meaning": "محرم کا مطلب حرمت والا یا ممنوعہ ہے",
+      "long_meaning": "محرم اسلامی تقویم کا پہلا مہینہ ہے، اور اسے حرمت کا مہینہ سمجھا جاتا ہے۔ 'محرم' لفظ 'حرم' سے ماخوذ ہے، جس کا مطلب ہے 'حرمت' یا 'منع'۔ اس مہینے میں لڑائی اور خونریزی حرام سمجھی جاتی ہے، اور یہ وقت صوم، نماز اور اللہ کے نزدیک ہونے کے لئے موزوں سمجھا جاتا ہے۔ قرآن کریم میں بھی محرم کے مہینے کا ذکر کیا گیا ہے، جیسے کہ اللہ تعالیٰ فرماتے ہیں: 'إِنَّ عِدَّةَ الشُّهُورِ عِنْدَ اللَّهِ اثْنَا عَشَرَ شَهْرًا فِي كِتَابِ اللَّهِ يَوْمَ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ مِنْهَا أَرْبَعَةٌ حُرُمٌ' (التوبة: 36)"
+    },
+    "in_hindi": {
+      "name": "मुहर्रम",
+      "meaning": "मुहर्रम का अर्थ है पवित्र या निषिद्ध",
+      "long_meaning": "मुहर्रम इस्लामी पंचांग का पहला महीना है, जिसे पवित्र माना जाता है। 'मुहर्रम' शब्द 'हरम' से लिया गया है, जिसका अर्थ है 'पवित्रता' या 'निषेध'। इस महीने में लड़ाई और रक्तपात को पाप माना जाता है, और यह समय उपवास, प्रार्थना और ईश्वर के करीब आने के लिए उपयुक्त माना जाता है। कुरआन में भी मुहर्रम के महीने का उल्लेख है, जैसे कि अल्लाह तआला कहते हैं: 'إِنَّ عِدَّةَ الشُّهُورِ عِنْدَ اللَّهِ اثْنَا عَشَرَ شَهْرًا فِي كِتَابِ اللَّهِ يَوْمَ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ مِنْهَا أَرْبَعَةٌ حُرُمٌ' (التوبة: 36)"
+    },
+    "in_pashto": {
+      "name": "محرم",
+      "meaning": "محرم معنی یې مقدس یا منع دی",
+      "long_meaning": "محرم د اسلامي تقويم لومړی میاشت ده، چې مقدس ګڼل کیږي. 'محرم' کلمه د 'حرم' څخه اخیستل شوې ده، چې معنی یې 'مقدس' یا 'منع' دی. پدې میاشت کې جګړه او وینو تویید حرام ګڼل کیږي، او دا وخت د روژې، لمونځ او الله تعالی ته نزدې کیدو لپاره مناسب ګڼل کیږي. قرآن کریم کې هم د محرم میاشتې یادونه شوې ده، لکه څنګه چې الله تعالی فرمايي: 'إِنَّ عِدَّةَ الشُّهُورِ عِنْدَ اللَّهِ اثْنَا عَشَرَ شَهْرًا فِي كِتَابِ اللَّهِ يَوْمَ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ مِنْهَا أَرْبَعَةٌ حُرُمٌ' (التوبة: 36)"
+    },
+    "in_english": {
+      "name": "Muharrim",
+      "meaning": "Means sacred or forbidden in Arabic, referring to the first Islamic month",
+      "long_meaning": "Muharrim is the first month in the Islamic calendar and is considered sacred. The term 'Muharrim' is derived from the Arabic root 'harama', meaning 'to forbid' or 'to make sacred'. During this month, fighting and bloodshed are forbidden, and it is a time for fasting, prayer, and drawing closer to God. The Quran mentions Muharrim as one of the four sacred months: 'Indeed, the number of months with Allah is twelve [lunar] months in the register of Allah [from] the day He created the heavens and the earth; of these, four are sacred' (At-Tawbah: 36). Historically, Muharrim has been a significant period for Muslims, marked by religious observances and spiritual reflection."
+    },
+    "pronunciation": {
+      "english": "moo-HAR-imm",
+      "urdu": "اردو میں تلفظ کی تفصیل: مُحَرَّم",
+      "hindi": "हिन्दी में उच्चारण विवरण: मुहर्रम",
+      "pashto": "په پښتو کې د تلفظ تفصیل: محرم",
+      "ipa": "/moʊˈhærɪm/"
+    },
+    "celebrity_usage": [
+      "Muharram Ali, Boxer"
+    ],
+    "social_tags": [
+      "#MuharrimMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Muharrim"
+    ],
+    "name_variations": [],
+    "popularity_score": 53,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 71,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Muharrim Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Muharrim, a beautiful Islam name meaning \"Sacred, Forbidden\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Muharrim, Islam name, baby names, Sacred, Forbidden, Islam baby names, name meaning",
+      "description_paragraph": "Muharrim is a meaningful Islam name of Arabic origin that means \"Sacred, Forbidden\". Derived from the Arabic word ‘al-Muharram’, which means ‘the forbidden’. This name is associated with the first month in the Islamic calendar, Muharram, during which certain acts are prohibited.",
+      "keywords": [
+        "Muharrim",
+        "Islam name",
+        "baby names",
+        "Sacred, Forbidden",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Muharrim in Islam tradition?",
+          "a": "Muharrim is a beautiful Islam name meaning \"Sacred, Forbidden\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Muharrim a good Islam name for a baby?",
+          "a": "Yes, Muharrim is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Muharrim?",
+          "a": "The name Muharrim has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Muharrim correctly?",
+          "a": "Muharrim is pronounced moo-HAR-imm in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Muharrim?",
+          "a": "Naming a child Muharrim brings blessings. The meaning \"Sacred, Forbidden\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Muharrim?",
+          "a": "Muharrim is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 98,
+      "focus_keyword": "Muharrim meaning",
+      "secondary_keywords": [
+        "Islam name Muharrim",
+        "Muharrim meaning",
+        "Muharrim origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "Muharram holds great historical significance for Muslims, particularly due to Ashura, a day within this month revered by Shias and some Sunnis. The martyrdom of Hussein ibn Ali, the grandson of Prophet Muhammad (PBUH), is commemorated through mourning practices such as self-flagellation and evening processions, which have culminated in various unique traditions and rituals across different Islamic communities.",
+    "spiritual_significance": "From a spiritual perspective, Muharram is considered an opportunity for Muslims to practice self-discipline and express reverence for the sacrifices made in the name of faith. Through acts of remembrance and commemoration, believers refocus their attention on the deeper spiritual dimensions of their faith, as well as the virtues of patience, self-control, and perseverance.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Muharrim carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Popular choice for newborns in Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Muharrim remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Hassan Muharrim",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "Hassan Muharrim, a teacher in Riyadh, Saudi Arabia, shares that their name Muharrim meaning \"Sacred, Forbidden\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Sacred, Forbidden\" symbolizes Derived from the Arabic word ‘al-Muharram’, which means ‘the forbidden’. This name is associated with the first month in the Islamic calendar, Muharram, during which certain acts are prohibited.. In Islamic spirituality, bearing the name Muharrim serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of sacred, forbidden.",
+    "created_at": "2025-12-22T19:19:49.95Z",
+    "updated_at": "2025-12-22T04:53:15.684Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1285,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Muharrim",
+      "description": "Sacred, Forbidden",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Muharrim",
+          "description": "Discover the meaning of Muharrim - \"Sacred, Forbidden\"",
+          "image": "/images/social/muharrim-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Muharrim - Name Meaning",
+          "description": "Learn about the beautiful name Muharrim",
+          "image": "/images/social/muharrim-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Muharrim",
+          "description": "Name meaning: Sacred, Forbidden",
+          "image": "/images/social/muharrim-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Muharrim - Meaning: Sacred, Forbidden",
+        "email_subject": "Beautiful Name: Muharrim"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Muharrim with meaning Sacred, Forbidden",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "mahek",
+      "maassama",
+      "manab",
+      "meena",
+      "marudeen.",
+      "meher",
+      "marhabah",
+      "marnia"
+    ]
+  }
+}

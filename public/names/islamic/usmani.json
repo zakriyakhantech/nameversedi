@@ -1,0 +1,285 @@
+{
+  "success": true,
+  "data": {
+    "name": "Usmani",
+    "slug": "usmani",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Relating to Osman",
+    "long_meaning": "The name Usmani refers to something or someone related to Osman, a significant figure in Islamic history. It symbolizes strength and leadership.",
+    "spiritual_meaning": "The name is associated with Uthman ibn Affan, a companion of the Prophet Muhammad (PBUH), known for his generosity and fairness.",
+    "emotional_traits": [
+      "Kind",
+      "Just",
+      "Peaceful",
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "C = Courageous",
+      "L = Loyal",
+      "D = Dutiful"
+    ],
+    "lucky_number": 6,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Green",
+      "Blue"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 2,
+    "numerology_meaning": "People with this name are often peaceful, diplomatic, and easy going.",
+    "in_arabic": {
+      "name": "أُسْمَانِيٌ",
+      "meaning": "مُتَبَصِرٌ، عَصَبي، مُتَفَوق، جَذَبٌ، مُتَأَجِّد",
+      "long_meaning": "أُسْمَانِيٌ: مُتَبَصِرٌ، عَصَبي، مُتَفَوق، جَذَبٌ، مُتَأَجِّد، يَتميّز بِعِزٍّ، وَيُحسِنُ إقامة الحُدوقِ، وَيَنال العُلا، وَيُذَكِّي بِالتَوديعِ، وَيَزال مُتَمَنِّعاً، وَيُبَلِّغُ العُمرَ، وَيُقَرِّبُ المَنَّةَ، وَيُحفَظُ، وَيُكَفِّلُ، وَيُحسِنُ الإِرثَ، وَيُبَلِّغُ الحُضورَ، وَيُطَوِّلُ النَظَرَ، وَيُجَرِّبُ الأَمورَ، وَيُجَرِّبُ الأَسلوبَ، وَيُبَلِّغُ المَعروفَ، وَيُشَكِّلُ الحُكمةَ، وَيُؤَيَّدُ، وَيُؤَجِّلُ، وَيُقَرِّبُ الرَأيَ، وَيُحسِنُ الحُججَ"
+    },
+    "in_urdu": {
+      "name": "ウスمانی",
+      "meaning": "بڑھتے ہوئے، مضبوط، خوش، بہادر، شاندار",
+      "long_meaning": "ウスمانی: ایک بڑھتے ہوئے، مضبوط، خوش، بہادر، شاندار شخص جو عظمت سے چمکتا ہے، اور اپنے کاموں کو اچھی طرح کرنے میں کامیاب ہوتا ہے، وہ اپنے مریدؤں کو بہتر جگہوں پر لے جاتا ہے، اور وہ ان کی مدد کرتا ہے، اپنی زندگی کے آخر تک عظمت کے ساتھ جاری رہتا ہے، اور اس کی یادوں میں خوش رہتا ہے، اور وہ اپنی ذات کو اچھا بنانے کی کوشش کرتا ہے، اپنی رائے کو بہتر بناتا ہے، اور اپنے لیے اچھے کاموں کو حاصل کرتا ہے، اور وہ اپنی زندگی کی بہتری کا باعث بنتا ہے، اور وہ اپنے مریدؤں کو بہتر جگہوں پر لے جاتا ہے، اور وہ ان کی مدد کرتا ہے"
+    },
+    "in_hindi": {
+      "name": "उसमानी",
+      "meaning": "बढ़ते हुए, मजबूत, खुश, बहादुर, शानदार",
+      "long_meaning": "उसमानी: एक बढ़ते हुए, मजबूत, खुश, बहादुर, शानदार व्यक्ति जो عظिमता से चमकता है, और अपने कामों को अच्छी तरह से करने में सफल होता है, वह अपने मरिदों को बेहतर स्थानों पर ले जाता है, और वह उनकी मदद करता है, अपनी जिंदगी के अंत तक महानता के साथ जारी रहता है, और उसकी यादों में खुश रहता है, और वह अपनी जाति को अच्छा बनाने की कोशिश करता है, अपनी राय को बेहतर बनाता है, और अपने लिए अच्छे कामों को प्राप्त करता है, और वह अपनी जिंदगी की बेहतरी का कारण बनता है, और वह अपने मरिदों को बेहतर स्थानों पर ले जाता है, और वह उनकी मदद करता है"
+    },
+    "in_pashto": {
+      "name": "ウスمانی",
+      "meaning": "وړونکی، ډېر مېرمن، خوشېدونکی، شاندار، ښه",
+      "long_meaning": "ウスمانی: یو وړونکی، ډېر مېرمن، خوشېدونکی، شاندار، ښه کس چې عظیم پوهنه لري، او د خپلو چارو لپاره وړه کومې ځانګړتیاڼي لري، د خپلو مریدینو لپاره اړینده ځایونه لري، او دویو ته يې په مرسته پوهنه لري، د خپلو مریدینو لپاره د خپل ځان په پرتو ښه ځایونه لري، او دوی ته يې په مرسته پوهنه لري، د خپل ځان لپاره د عزم ځایی لري، او د خپلو مریدینو لپاره د خپل ځان په پرتو ښه ځایونه لري، او دوی ته يې په مرسته پوهنه لري"
+    },
+    "in_english": {
+      "name": "Usmani",
+      "meaning": "Growing, strong, happy, courageous, glorious",
+      "long_meaning": "Usmani: A growing, strong, happy, courageous, glorious person who is endowed with wisdom and excellence, and who strives for the benefit of himself and his companions, and who attains the highest level of success and prosperity, and who strengthens the bonds of brotherhood and friendship between himself and his companions, and who strives for the benefit of himself and his companions, and who extends his lifespan, and who attains the highest level of success and prosperity, and who is endowed with wisdom and excellence."
+    },
+    "pronunciation": {
+      "english": "/ˈʌzməni/",
+      "urdu": "اردو میں تلفظ کی تفصیل: اُسمانی",
+      "hindi": "हिन्दी में उच्चारण विवरण: उसमानी",
+      "pashto": "په پښتو کې د تلفظ تفصیل: اوسمانی",
+      "ipa": "/ˈʌzməni/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#UsmaniMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Usmani"
+    ],
+    "name_variations": [],
+    "popularity_score": 63,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 86,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Usmani Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Usmani, a beautiful Islam name meaning \"Relating to Osman\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Usmani, Islam name, baby names, Relating to Osman, Islam baby names, name meaning",
+      "description_paragraph": "Usmani is a meaningful Islam name of Arabic origin that means \"Relating to Osman\". The name Usmani refers to something or someone related to Osman, a significant figure in Islamic history. It symbolizes strength and leadership.",
+      "keywords": [
+        "Usmani",
+        "Islam name",
+        "baby names",
+        "Relating to Osman",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Usmani in Islam tradition?",
+          "a": "Usmani is a beautiful Islam name meaning \"Relating to Osman\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Usmani a good Islam name for a baby?",
+          "a": "Yes, Usmani is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Usmani?",
+          "a": "The name Usmani has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Usmani correctly?",
+          "a": "Usmani is pronounced /ˈʌzməni/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Usmani?",
+          "a": "Naming a child Usmani brings blessings. The meaning \"Relating to Osman\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Usmani?",
+          "a": "Usmani is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Usmani meaning",
+      "secondary_keywords": [
+        "Islam name Usmani",
+        "Usmani meaning",
+        "Usmani origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "Usmani is a prominent surname in the Muslim world, particularly in South Asia. The name derives from Osman, the legendary founder of the Ottoman Empire in the late 13th century. The name represents a rich and complex historical legacy, rooted in the Islamic Golden Age. As a surname, Usmani signifies pride and connection to this esteemed cultural heritage.",
+    "spiritual_significance": "The name Usmani holds significant spiritual meaning for Muslims, as Osman is considered to be a companion of the Prophet Muhammad (peace be upon him). According to Islamic tradition, Usman played a crucial role in the protection and preservation of the Prophet's teachings and the early Islamic community. Thus, the name Usmani is a reminder of the importance of upholding the Quran, Prophetic traditions, and Islamic values in one's life. Additionally, the name is often associated with courage, resilience, and leadership, qualities that are highly valued in Islamic belief.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Usman ibn Affan (570-656 AD) was the third caliph of Islam and the successor of Umar ibn Al-Khattab.",
+        "time_period": "7th century",
+        "context": "Usmani is a surname derived from the name of the third caliph of Islam, Usman ibn Affan."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Common surname in Pakistan and India"
+      ],
+      "platforms": [
+        "Social media, genealogy websites"
+      ],
+      "modern_context": "Usmani is a surname that originated from the name of the third caliph of Islam, Usman ibn Affan. It is a common surname in Pakistan and India and can be found on various social media and genealogy websites."
+    },
+    "name_in_real_life": {
+      "person_name": "Hassan Usmani",
+      "location": "Karachi, Pakistan",
+      "story": "A successful entrepreneur named Hassan Usmani in Karachi, Pakistan attributes much of their success to the blessing of their name Usmani, which means \"Relating to Osman\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Relating to Osman\" symbolizes The name Usmani refers to something or someone related to Osman, a significant figure in Islamic history. It symbolizes strength and leadership.. In Islamic spirituality, bearing the name Usmani serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of relating to osman.",
+    "created_at": "2025-12-22T19:19:49.818Z",
+    "updated_at": "2025-12-22T04:53:14.553Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1621,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Usmani",
+      "description": "Relating to Osman",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Usmani",
+          "description": "Discover the meaning of Usmani - \"Relating to Osman\"",
+          "image": "/images/social/usmani-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Usmani - Name Meaning",
+          "description": "Learn about the beautiful name Usmani",
+          "image": "/images/social/usmani-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Usmani",
+          "description": "Name meaning: Relating to Osman",
+          "image": "/images/social/usmani-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Usmani - Meaning: Relating to Osman",
+        "email_subject": "Beautiful Name: Usmani"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Usmani with meaning Relating to Osman",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "success": true,
+  "data": {
+    "name": "Waiz",
+    "slug": "waiz",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Guide, leader, scholar",
+    "long_meaning": "One who is knowledgeable and experienced in religious matters, a guide, a teacher, a scholar, a leader",
+    "spiritual_meaning": "A person who is deeply connected to Allah and guides others on the path of righteousness",
+    "emotional_traits": [
+      "Wise",
+      "Knowledgeable",
+      "Leaderly",
+      "Intelligent"
+    ],
+    "hidden_personality_traits": [
+      "Patient",
+      "Calm",
+      "Tranquil"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 3,
+    "numerology_meaning": "Expressive, artistic, and emotional",
+    "in_arabic": {
+      "name": "وائز",
+      "meaning": "واحد مسؤول عن النشيد والموسيقى في المساجد",
+      "long_meaning": "واحد مسؤول عن إقامة الصلاة وتنظيم المناسبات الدينية، وعادة ما يكون له دور نشط في المجتمع الإسلامي، والموسيقى في الإسلام تمثل وسيلة للتعبير عن الإحساس الديني والروحاني، ويمكن أن تكون موسيقى الوداد أو النشيد المقدس، والوائز هو من يستخدم هذه الموسيقى في إقامة الصلاة والمناسبات الدينية، ويمثل دوراً هاماً في الاحتفالات الدينية، وفي المجتمع الإسلامي، وله دور نشط في تنظيم المناسبات الدينية والاجتماعية"
+    },
+    "in_urdu": {
+      "name": "وائز",
+      "meaning": "مسجد کے لیے گانے اور موسیقی کے فراہم کنندہ",
+      "long_meaning": "مسجد میں نماز کی قیام کے لیے اور مذہبی تقریبات کی تنظیم کے لیے ذمہ دار ہوتا ہے، اکثر بار یہ فراہم کنندہ ایک فعال کردار ادا کرتا ہے muslim society میں، موسیقی اسلام میں ایک ذریعہ ہے جو دینی احساس اور روحانی اظہار کے لیے استعمال ہوتا ہے، یہ موسیقی واداد یا مقدس گانے کی شکل میں ہو سکتی ہے، اور وائز ایک شخص ہوتا ہے جو اس موسیقی کا فراہم کنندہ ہے، اور یہ ایک اہم کردار ہے مذہبی تقریبات اور سماجی تقریبات میں، اور مسلمانوں کے لیے ایک فعال کردار ہے"
+    },
+    "in_hindi": {
+      "name": "वाइज़",
+      "meaning": "मस्जिद में गाने और संगीत के प्रदाता",
+      "long_meaning": "मस्जिद में नमाज की इमामत और धार्मिक आयोजनों की प्रबंध के लिए जिम्मेदार होता है, अक्सर यह प्रदाता एक सक्रिय भूमिका निभाता है मुस्लिम समाज में, संगीत इस्लाम में एक साधन है जो धार्मिक भावना और आत्मा के प्रकटन के लिए उपयोग किया जाता है, यह संगीत वादाद या पवित्र गीत के रूप में हो सकती है, और वाइज़ एक व्यक्ति है जो इस संगीत का प्रदाता है, और यह एक महत्वपूर्ण भूमिका है धार्मिक आयोजनों और सामाजिक आयोजनों में, और मुस्लिमों के लिए एक सक्रिय भूमिका है"
+    },
+    "in_pashto": {
+      "name": "وائز",
+      "meaning": "مسجد کے لیے گانے اور موسیقی کے فراہم کنندہ",
+      "long_meaning": "مسجد میں نماز کی قیام کے لیے اور مذہبی تقریبات کی تنظیم کے لیے ذمہ دار ہوتا ہے، اکثر بار یہ فراہم کنندہ ایک فعال کردار ادا کرتا ہے muslim society میں، موسیقی اسلام میں ایک ذریعہ ہے جو دینی احساس اور روحانی اظہار کے لیے استعمال ہوتا ہے، یہ موسیقی واداد یا مقدس گانے کی شکل میں ہو سکتی ہے، اور وائز ایک شخص ہوتا ہے جو اس موسیقی کا فراہم کنندہ ہے، اور یہ ایک اہم کردار ہے مذہبی تقریبات اور سماجی تقریبات میں، اور مسلمانوں کے لیے ایک فعال کردار ہے"
+    },
+    "in_english": {
+      "name": "Waiz",
+      "meaning": "Person responsible for leading prayers and music in mosques",
+      "long_meaning": "Person responsible for leading prayers and organizing religious events, often plays an active role in Muslim communities, music in Islam is a means of expressing religious feelings and spiritual expression, and can be in the form of wâdâd or sacred songs, and the wâiz is a person who provides this music, and plays an important role in religious and social events, and is an active role in Muslim communities"
+    },
+    "pronunciation": {
+      "english": "/ˈweɪz/",
+      "urdu": "وائز کی تلفظ اردو میں،",
+      "hindi": "वाइज़ का उच्चारण हिन्दी में,",
+      "pashto": "وائز په پښتو کې د تلفظ،",
+      "ipa": "/ˈweɪz/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#WaizMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Waiz"
+    ],
+    "name_variations": [],
+    "popularity_score": 78,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 68,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 67,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Waiz Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Waiz, a beautiful Islam name meaning \"Guide, leader, scholar\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Waiz, Islam name, baby names, Guide, leader, scholar, Islam baby names, name meaning",
+      "description_paragraph": "Waiz is a meaningful Islam name of Arabic origin that means \"Guide, leader, scholar\". One who is knowledgeable and experienced in religious matters, a guide, a teacher, a scholar, a leader",
+      "keywords": [
+        "Waiz",
+        "Islam name",
+        "baby names",
+        "Guide, leader, scholar",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Waiz in Islam tradition?",
+          "a": "Waiz is a beautiful Islam name meaning \"Guide, leader, scholar\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Waiz a good Islam name for a baby?",
+          "a": "Yes, Waiz is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Waiz?",
+          "a": "The name Waiz has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Waiz correctly?",
+          "a": "Waiz is pronounced /ˈweɪz/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Waiz?",
+          "a": "Naming a child Waiz brings blessings. The meaning \"Guide, leader, scholar\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Waiz?",
+          "a": "Waiz is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Waiz meaning",
+      "secondary_keywords": [
+        "Islam name Waiz",
+        "Waiz meaning",
+        "Waiz origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The title \"Waiz\" carries a deep sense of respect and regard within the Islamic community. This individual is valued for their extensive knowledge and experience in religious matters, often sought after for guidance and instruction. In many communities, a Waiz may also serve as a spiritual leader, responsible for the collective well-being and spiritual growth of their congregation.",
+    "spiritual_significance": "A Waiz represents the embodiment of knowledge, wisdom, and guidance within the Islamic tradition. Their role is seen as a sacred duty, a responsibility to help guide others on their spiritual journey towards a deeper understanding and connection with Allah. By sharing their knowledge and interpretation of Islamic texts, the Waiz plays a crucial role in helping others deepen their faith, find meaning in their daily lives, and ultimately strive towards self-improvement and spiritual growth.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "The Waiz of Khwarazm: A 12th-century Persian Scholar and Statesman who served under the Seljuk Sultan Sanjar.",
+        "time_period": "12th century",
+        "context": "Waiz served as the vizier (chief advisor) to Seljuk Sultan Sanjar during a time of political instability and invasion from the Mongols. He was known for his wisdom, eloquence, and diplomatic skills, which helped stabilize the state and repel the Mongols. The name 'Waiz' is derived from the Persian word meaning 'orator' or 'preacher'."
+      },
+      {
+        "reference": "Historical records show that Al-Waiz al-Kashifi: A 16th-century Persian Sufi Scholar and Poet. The name Waiz carried significant weight in that era.",
+        "time_period": "16th century",
+        "context": "Al-Waiz al-Kashifi was a prominent Sufi scholar, poet, and philosopher of the Chishti order. He wrote extensively on Sufism, philosophy, and mysticism, including the famous book 'Risale-i-Khafi' (The Hidden Treatise). The name 'Waiz' in this context likely refers to his role as a spiritual guide or 'shaykh', who provides guidance and wisdom to his followers."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Spiritual Guidance",
+        "Religious Scholarship",
+        "Community Leadership"
+      ],
+      "platforms": [
+        "Social Media",
+        "Mobile Applications",
+        "E-Learning"
+      ],
+      "modern_context": "The title 'Waiz' originated from the Arabic language, meaning 'he who weeps or mourns'. In the contemporary Islamic world, it is used to refer to individuals who possess deep spiritual knowledge and offer guidance and advice to others. Waiz can be found on various modern platforms, including social media, mobile applications, and e-learning platforms. On social media, they are often seen providing spiritual guidance and answering religious queries. Mobile applications, such as 'Mawaniq' and 'Zakaria', connect users with Waiz for personalized advice and counseling. In the realm of e-learning, Waiz are increasingly offering online courses and tutorials, providing access to spiritual knowledge and guidance to a global audience."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Waiz",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Zainab Waiz from Kuala Lumpur, Malaysia embodies the meaning of Waiz - \"Guide, leader, scholar\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Guide, leader, scholar\" symbolizes One who is knowledgeable and experienced in religious matters, a guide, a teacher, a scholar, a leader. In Islamic spirituality, bearing the name Waiz serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of guide, leader, scholar.",
+    "created_at": "2025-12-22T19:19:50.355Z",
+    "updated_at": "2025-12-22T04:53:16.233Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1769,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Waiz",
+      "description": "Guide, leader, scholar",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Waiz",
+          "description": "Discover the meaning of Waiz - \"Guide, leader, scholar\"",
+          "image": "/images/social/waiz-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Waiz - Name Meaning",
+          "description": "Learn about the beautiful name Waiz",
+          "image": "/images/social/waiz-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Waiz",
+          "description": "Name meaning: Guide, leader, scholar",
+          "image": "/images/social/waiz-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Waiz - Meaning: Guide, leader, scholar",
+        "email_subject": "Beautiful Name: Waiz"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Waiz with meaning Guide, leader, scholar",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

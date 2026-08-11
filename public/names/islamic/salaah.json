@@ -1,0 +1,302 @@
+{
+  "success": true,
+  "data": {
+    "name": "Salaah",
+    "slug": "salaah",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Prayer",
+    "long_meaning": "A name that signifies the importance of prayer in Islam, Salaah is a reminder to always stay connected with Allah.",
+    "spiritual_meaning": "Purification of the soul through regular prayer",
+    "emotional_traits": [
+      "Kind",
+      "Just",
+      "Peaceful",
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "C = Courageous",
+      "L = Loyal",
+      "D = Dutiful"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Green",
+      "Blue",
+      "Turquoise"
+    ],
+    "lucky_stone": "Lapis Lazuli",
+    "life_path_number": 1,
+    "numerology_meaning": "Leadership, independence, new beginnings",
+    "in_arabic": {
+      "name": "صلاة",
+      "meaning": "الصلاة تعني الدعاء والعبادة والتوجه إلى الله",
+      "long_meaning": "الصلاة هي ركن من أركان الإسلام، وتعني التوجه إلى الله تعالى بالدعاء والعبادة، وهي من أفضل الأعمال التي يتقرب بها العبد إلى ربه. وردت في القرآن الكريم في عدة مواضع، منها قوله تعالى: \"أَقِمِ الصَّلَاةَ وَآتِ الزَّكَاةَ\" (الإسورة 2: آية 43). وللصلاة أهمية كبيرة في حياة المسلمين، فهي من الأركان الخمسة للإسلام، وتعتبر من أفضل الأعمال التي يفعلها المسلم."
+    },
+    "in_urdu": {
+      "name": "صلاة",
+      "meaning": "نماز کا مطلب ہے دعا، عبادت اور اللہ کی طرف رجوع",
+      "long_meaning": "نماز اسلام کا ایک اہم رکن ہے، جس کے ذریعے بندہ اللہ تعالیٰ کی عبادت اور دعا کرتا ہے۔ نماز کا ذکر قرآن کریم میں کئی جگہوں پر آیا ہے، جیسے کہ سورہ بقرہ میں: \"وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ\" (سورہ 2: آية 43)। نماز مسلمانوں کی زندگی میں بہت اہمیت کی حامل ہے، کیونکہ یہ اسلام کے پانچ رکنوں میں سے ایک ہے اور اسے مسلم کے ذریعے کی جانے والی بہترین کارروائیوں میں سے ایک سمجھا جاتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "सला",
+      "meaning": "सला का अर्थ है प्रार्थना, उपासना और ईश्वर की ओर अभिमुख होना",
+      "long_meaning": "सला इस्लाम का एक महत्वपूर्ण अंग है, जिसके द्वारा बंदा अल्लाह की उपासना और प्रार्थना करता है। सला का उल्लेख कुरआन में कई स्थानों पर आया है, जैसे कि सूरह बकरा में: \"وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يَا بَنِي إِسْرَائِيلَ إِنِّي رَسُولُ اللَّهِ إِلَيْكُمْ مُصَدِّقًا لِمَا بَيْنَ يَدَيَّ مِنَ التَوْرَاةِ وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِن بَعْدِي اسْمُهُ أَحْمَدٌ\" (सूरह 61: आयत 6)। सला मुसलमानों के जीवन में बहुत महत्व रखती है, क्योंकि यह इस्लाम के पांच स्तंभों में से एक है और इसे मुसलमान द्वारा की जाने वाली सर्वोत्तम क्रियाओं में से एक माना जाता है।"
+    },
+    "in_pashto": {
+      "name": "صلاة",
+      "meaning": "نماز د معنی دے دعا، عبادت او الله ته رجوع",
+      "long_meaning": "نماز د اسلام يو مهم رکن دی، چي د الله تعالیٰ د عبادت او دعا کولو لپاره کارول کېږي. د قرآن کريم په ډېرو ځايونو کې د نماز يادونه شوې ده، لکه د سورت البقره په آيت 43 کې: \"أَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ\". نماز د مسلمانانو د ژوند په منځ کې ډېره اهميت لري، ځکه چې د اسلام د پنځو ارکانو څخه يو دي او د مسلمانانو لخوا د ترسره کولو وړ ښه عمل دی."
+    },
+    "in_english": {
+      "name": "Salaah",
+      "meaning": "Prayer, worship, and devotion to Allah",
+      "long_meaning": "Salaah is one of the five pillars of Islam, referring to the act of praying and worshiping Allah. It is mentioned in several Quranic verses, such as Surah Al-Baqarah 2:43: \"Establish prayer and give zakah\". In Islamic tradition, Salaah holds significant importance as it is considered one of the best acts a Muslim can perform to draw closer to Allah. The term 'Salaah' originates from the Arabic root 'ص ل و' which means 'to pray' or 'to supplicate'."
+    },
+    "pronunciation": {
+      "english": "salaah",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/sɑˈlɑː.ə/"
+    },
+    "celebrity_usage": [
+      "Malala Yousafzai"
+    ],
+    "social_tags": [
+      "#SalaahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Salaah"
+    ],
+    "name_variations": [
+      "Salah",
+      "Salaa"
+    ],
+    "popularity_score": 76,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 74,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Salaah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Salaah, a beautiful Islam name meaning \"Prayer\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Salaah, Islam name, baby names, Prayer, Islam baby names, name meaning",
+      "description_paragraph": "Salaah is a meaningful Islam name of Arabic origin that means \"Prayer\". A name that signifies the importance of prayer in Islam, Salaah is a reminder to always stay connected with Allah.",
+      "keywords": [
+        "Salaah",
+        "Islam name",
+        "baby names",
+        "Prayer",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Salaah in Islam tradition?",
+          "a": "Salaah is a beautiful Islam name meaning \"Prayer\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Salaah a good Islam name for a baby?",
+          "a": "Yes, Salaah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Salaah?",
+          "a": "The name Salaah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Salaah correctly?",
+          "a": "Salaah is pronounced salaah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Salaah?",
+          "a": "Naming a child Salaah brings blessings. The meaning \"Prayer\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Salaah?",
+          "a": "Salaah is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 97,
+      "focus_keyword": "Salaah meaning",
+      "secondary_keywords": [
+        "Islam name Salaah",
+        "Salaah meaning",
+        "Salaah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The Islamic practice of daily Prayer, or Salaah, plays a significant role in shaping Muslim culture and beliefs around the world. It brings people together in Mosques and Masjids, creating a sense of community and unity. Additionally, regular prayer acts as a reminder of one's faith and the divine connection each individual has with Allah.",
+    "spiritual_significance": "In Islam, the act of prayer, or Salaah, is a personal and direct link between the individual worshipper and Allah. This spiritual practice helps Muslims seek forgiveness, guidance, and an inner peace that extends beyond their daily life. Through focused intent, recitation of verses, and physical movements, Salaah provides an opportunity for worshippers to strengthen their bond with the divine and cultivate a deeper spiritual awareness.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that The five daily prayers are known as Salaah in Islamic tradition. The name Salaah carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Islamic prayer rituals"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "The use of smartphone apps for tracking and scheduling Salaah has become increasingly popular.",
+        "The practice of Salaah in public spaces, such as mosques and parks, is common."
+      ],
+      "platforms": [
+        "Muslim Pro",
+        "Azan App",
+        "Salah Time"
+      ],
+      "modern_context": "Salaah, or prayer in Islam, is a daily practice that involves reciting specific verses from the Quran and performing physical movements. Muslims around the world use various tools and platforms, including smartphone apps, to help them stay on track with their prayer schedule and maintain a consistent practice."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Salaah",
+      "location": "Karachi, Pakistan",
+      "story": "Aisha Salaah from Karachi, Pakistan embodies the meaning of Salaah - \"Prayer\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Prayer\" symbolizes A name that signifies the importance of prayer in Islam, Salaah is a reminder to always stay connected with Allah.. In Islamic spirituality, bearing the name Salaah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of prayer.",
+    "created_at": "2025-12-22T19:19:49.836Z",
+    "updated_at": "2025-12-22T04:53:14.617Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1537,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Salaah",
+      "description": "Prayer",
+      "additionalName": [
+        "Salah",
+        "Salaa"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Salaah",
+          "description": "Discover the meaning of Salaah - \"Prayer\"",
+          "image": "/images/social/salaah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Salaah - Name Meaning",
+          "description": "Learn about the beautiful name Salaah",
+          "image": "/images/social/salaah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Salaah",
+          "description": "Name meaning: Prayer",
+          "image": "/images/social/salaah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Salaah - Meaning: Prayer",
+        "email_subject": "Beautiful Name: Salaah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Salaah with meaning Prayer",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saim",
+      "sadaldin",
+      "saal"
+    ]
+  }
+}

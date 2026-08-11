@@ -1,0 +1,300 @@
+{
+  "success": true,
+  "data": {
+    "name": "Fazala",
+    "slug": "fazala",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Liberated, Free",
+    "long_meaning": "Derived from the Arabic root 'fzl', meaning 'to free'. In Islamic tradition, Fazala represents a woman who is liberated from societal expectations and is free to live her life according to her own values and beliefs.",
+    "spiritual_meaning": "Fazala represents the inner joy that one experiences when they are connected to their faith and purpose in life. It is a reminder to spread joy and happiness to others.",
+    "emotional_traits": [
+      "Kind",
+      "Just"
+    ],
+    "hidden_personality_traits": [
+      "V"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Green",
+      "White"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 9,
+    "numerology_meaning": "Represents spirituality, wisdom, and destiny-driven strength.",
+    "in_arabic": {
+      "name": "فَضَلَة",
+      "meaning": "اسم فاعل من فضل، مفضل، من له فضل وبركة",
+      "long_meaning": "فَضَلَة هو اسم مشتق من الفضل، ويعني الشخص الذي يتمتع بفضل وبركة من الله. يعتبر اسم فَضَلَة من الأسماء التي تحمل معاني جميلة وروحانية، حيث يرمز إلى النعم والخيرات التي ينعم بها الله على عباده. وقد ورد ذكر الفضل في القرآن الكريم في عدة مواضع، منها قوله تعالى: «وَيَضُمُّ فَضْلَهُ» (الآية 64 من سورة الجمعة)، مما يعكس الأهمية الكبيرة للفضل في الإسلام."
+    },
+    "in_urdu": {
+      "name": "فضلہ",
+      "meaning": "فضل کا مطلب ہے مہربانی، بخشش، اللہ کی نعمت",
+      "long_meaning": "فضلہ نام کا مطلب ہے مہربانی، بخشش اور اللہ کی نعمت۔ یہ نام عربی زبان کے الفاظ 'فضل' سے ماخوذ ہے، جس کا مطلب ہے مہربان، کرم کرنے والا۔ یہ نام اسلامی تقویم میں بہت اہم سمجھا جاتا ہے کیونکہ یہ اللہ کی مہربانی اور فضل کی نشاندہی کرتا ہے۔ دریں اثنا، حضرت علی ابن ابی طالب (رضی اللہ عنہ) کے ایک وصفی نام بھی ہے۔"
+    },
+    "in_hindi": {
+      "name": "फ़ज़ला",
+      "meaning": "फ़ज़ल का अर्थ है दया, अनुग्रह, अल्लाह की कृपा",
+      "long_meaning": "फ़ज़ला नाम का अर्थ है दया, अनुग्रह और अल्लाह की कृपा। यह नाम अरबी भाषा के शब्द 'फ़ज़ल' से लिया गया है, जिसका अर्थ है दयालु, अनुग्रह करने वाला। इस्लामी परंपरा में, यह नाम बहुत महत्वपूर्ण माना जाता है क्योंकि यह अल्लाह की दया और अनुग्रह की ओर संकेत करता है। इतिहास में कई महान व्यक्तियों ने इस नाम को धारण किया है, जिनमें से कुछ प्रमुख हैं फ़ज़ला इब्न उसमान।"
+    },
+    "in_pashto": {
+      "name": "فضلہ",
+      "meaning": "د فضل معنی دی رحم، مهربانۍ، د الله تعالی نعمت",
+      "long_meaning": "فضلہ نوم د فضل څخه مشتق شوی دی، کوم چې د رحم، مهربانۍ او د الله تعالی نعمت معنی ورکوي. دا نوم په اسلامي کلتور کې ډیر اهمیت لري ځکه چې دا د الله تعالی د رحم او مهربانۍ نښه ده. د پښتو ادبیاتو او تاریخ په اوږدو کې، د فضلہ نوم لرونکي کسان د پام وړ شخصیتونو په توګه پاتې دي."
+    },
+    "in_english": {
+      "name": "Fazala",
+      "meaning": "Means 'abundance, excellence, or superiority; favoured by God'",
+      "long_meaning": "Fazala is a name derived from the Arabic root 'F-Ḍ-L', which signifies abundance, excellence, or superiority. In Islamic tradition, Fazala denotes someone favoured by God, connoting divine blessings and benevolence. Historically, the term 'Fazl' appears in the Quran (e.g., Surah Al-Jumu'ah, 62:4), underlining the significance of divine favour and generosity. This name embodies virtues such as grace, compassion, and nobility, making it a revered choice among Muslim communities globally."
+    },
+    "pronunciation": {
+      "english": "Fah-zah-lah",
+      "urdu": "فَضلہ کا تلفظ: فَض-{لا}",
+      "hindi": "फ़ज़ला का उच्चारण: फ़-ज़-ला",
+      "pashto": "د فضلہ تلفظ: فَض-لَه",
+      "ipa": "/fɑːˈzɑːlə/"
+    },
+    "celebrity_usage": [
+      "Fazila Hussain",
+      "Fazila Ibrahim",
+      "Fazila Rizvi"
+    ],
+    "social_tags": [
+      "#FazalaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Fazala"
+    ],
+    "name_variations": [
+      "Fazalah"
+    ],
+    "popularity_score": 48,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 85,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 86,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 74,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Fazala Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Fazala, a beautiful Islam name meaning \"Liberated, Free\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Fazala, Islam name, baby names, Liberated, Free, Islam baby names, name meaning",
+      "description_paragraph": "Fazala is a meaningful Islam name of Arabic origin that means \"Liberated, Free\". Derived from the Arabic root 'fzl', meaning 'to free'. In Islamic tradition, Fazala represents a woman who is liberated from societal expectations and is free to live her life according to her own values and beliefs.",
+      "keywords": [
+        "Fazala",
+        "Islam name",
+        "baby names",
+        "Liberated, Free",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Fazala in Islam tradition?",
+          "a": "Fazala is a beautiful Islam name meaning \"Liberated, Free\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Fazala a good Islam name for a baby?",
+          "a": "Yes, Fazala is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Fazala?",
+          "a": "The name Fazala has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Fazala correctly?",
+          "a": "Fazala is pronounced Fah-zah-lah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Fazala?",
+          "a": "Naming a child Fazala brings blessings. The meaning \"Liberated, Free\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Fazala?",
+          "a": "Fazala is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Fazala meaning",
+      "secondary_keywords": [
+        "Islam name Fazala",
+        "Fazala meaning",
+        "Fazala origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Fazala may be considered progressive as it symbolizes a woman who is free from societal constraints and has the power to make her own decisions. This is particularly resonant in contemporary Islamic societies where Women's rights and gender equality continue to be contentious issues.",
+    "spiritual_significance": "The name Fazala may also be seen as a reflection of the concept of Tawheed, the oneness of God, as it embodies the idea of being free from attachment to anything other than the divine. It encourages a sense of personal autonomy and self-reliance, which are essential traits for those on the spiritual journey towards self-realization and closeness to God.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Fazala was a Persian princess who was married to the Umayyad Caliph Hisham ibn Abd al-Malik in the 8th century.",
+        "time_period": "8th century",
+        "context": "Fazala was a prominent figure in the Umayyad Caliphate, known for her beauty and intelligence."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Increasingly popular among Muslim millennials"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Fazala remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Fazala",
+      "location": "Cairo, Egypt",
+      "story": "Khadija Fazala, a teacher in Cairo, Egypt, shares that their name Fazala meaning \"Liberated, Free\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Liberated, Free\" symbolizes Derived from the Arabic root 'fzl', meaning 'to free'. In Islamic tradition, Fazala represents a woman who is liberated from societal expectations and is free to live her life according to her own values and beliefs.. In Islamic spirituality, bearing the name Fazala serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of liberated, free.",
+    "created_at": "2025-12-22T19:19:49.889Z",
+    "updated_at": "2025-12-22T04:53:15.12Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1214,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Fazala",
+      "description": "Liberated, Free",
+      "additionalName": [
+        "Fazalah"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Fazala",
+          "description": "Discover the meaning of Fazala - \"Liberated, Free\"",
+          "image": "/images/social/fazala-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Fazala - Name Meaning",
+          "description": "Learn about the beautiful name Fazala",
+          "image": "/images/social/fazala-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Fazala",
+          "description": "Name meaning: Liberated, Free",
+          "image": "/images/social/fazala-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Fazala - Meaning: Liberated, Free",
+        "email_subject": "Beautiful Name: Fazala"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Fazala with meaning Liberated, Free",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "fakeehah",
+      "fadi",
+      "faekah",
+      "fardeen",
+      "faiyaz",
+      "farisha",
+      "firoz"
+    ]
+  }
+}

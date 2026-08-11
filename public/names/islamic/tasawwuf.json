@@ -1,0 +1,289 @@
+{
+  "success": true,
+  "data": {
+    "name": "Tasawwuf",
+    "slug": "tasawwuf",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Mystic Path, Sufi Path",
+    "long_meaning": "A term used to describe the spiritual practices and disciplines within Islam, particularly those followed by Sufis or mystics. It refers to the path or journey towards spiritual perfection and closeness to God.",
+    "spiritual_meaning": "A deep and profound connection to the divine, characterized by a focus on love, compassion, and self-transcendence.",
+    "emotional_traits": [
+      "Love",
+      "Compassion",
+      "Self-transcendence"
+    ],
+    "hidden_personality_traits": [
+      "Inner Strength",
+      "Patience",
+      "Perseverance"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 3,
+    "numerology_meaning": "Creativity, Self-expression, and Communication",
+    "in_arabic": {
+      "name": "طسوف",
+      "meaning": "معنى: المعرفة بالله وصفاته وخصائصه",
+      "long_meaning": "المعرفة بالله وصفاته وخصائصه هي الطريق الذي يتبعه الصالحون في طريقهم إلى الله، والطريق الذي يتبعه المتوكلون على الله في طريقهم إلى الفلاح في الدنيا والآخرة، وهو الطريق الذي يتبعه الصادقون في طريقهم إلى الحق، والطريق الذي يتبعه الصادقون في طريقهم إلى الكمال، وهو الطريق الذي يتبعه المتقين في طريقهم إلى العمرة، والطريق الذي يتبعه المتقين في طريقهم إلى الجنة، وهو الطريق الذي يتبعه الصالحون في طريقهم إلى القرب من الله، والطريق الذي يتبعه المتقين في طريقهم إلى النجاح"
+    },
+    "in_urdu": {
+      "name": "طسوف",
+      "meaning": "معنی: اللہ کے بارے میں علم اور اس کی صفاتیں اور خصوصیات",
+      "long_meaning": "اللہ کے بارے میں علم اور اس کی صفاتیں اور خصوصیات ایک ایسا راستہ ہے جو صالح لوگ اللہ کے راستے میں آتے ہیں، جو اللہ پر توکل کرنے والے اللہ کے راستے میں آتے ہیں، جو راستہ ہے جو صادقین اللہ کے راستے میں آتے ہیں، جو راستہ ہے جو صادقین اللہ کے کمال کی طرف آتے ہیں، جو راستہ ہے جو متقی لوگ عمرہ کی طرف آتے ہیں، جو راستہ ہے جو متقی لوگ جنت کی طرف آتے ہیں، جو راستہ ہے جو صالح لوگ اللہ کے قرب کی طرف آتے ہیں، جو راستہ ہے جو متقی لوگ کامیابی کی طرف آتے ہیں"
+    },
+    "in_hindi": {
+      "name": "तसाव्वुफ्",
+      "meaning": "अर्थ: अल्लाह के बारे में ज्ञान और उसकी विशेषताएँ और विशेषताएँ",
+      "long_meaning": "अल्लाह के बारे में ज्ञान और उसकी विशेषताएँ और विशेषताएँ एक ऐसा रास्ता है जो संत लोग अल्लाह के रास्ते में आते हैं, जो अल्लाह पर भरोसा करने वाले अल्लाह के रास्ते में आते हैं, जो रास्ता है जो सच्चे लोग अल्लाह के रास्ते में आते हैं, जो रास्ता है जो सच्चे लोग अल्लाह के पूर्णता की ओर आते हैं, जो रास्ता है जो भयभीत लोग उपवास की ओर आते हैं, जो रास्ता है जो भयभीत लोग जन्नत की ओर आते हैं, जो रास्ता है जो संत लोग अल्लाह के करीबी की ओर आते हैं, जो रास्ता है जो भयभीत लोग सफलता की ओर आते हैं"
+    },
+    "in_pashto": {
+      "name": "طسوف",
+      "meaning": "معنى: د الله په اړوند معلومات او د الله د ځانبه اړوند معلومات",
+      "long_meaning": "د الله په اړوند معلومات او د الله د ځانبه اړوند معلومات دا هغه لاره ده چې صالح وګړي د الله لوري مخه کوي، دا هغه لاره ده چې الله پر توکل کوونکي د الله لوري مخه کوي، دا هغه لاره ده چې صادق وګړي د الله لوري مخه کوي، دا هغه لاره ده چې صادق وګړي د الله د کمال لوري مخه کوي، دا هغه لاره ده چې متقی وګړي عمره لوري مخه کوي، دا هغه لاره ده چې متقی وګړي د الله لوري مخه کوي، دا هغه لاره ده چې صالح وګړي الله ته نژدې مخه کوي، دا هغه لاره ده چې متقی وګړي د کامیابی لوري مخه کوي"
+    },
+    "in_english": {
+      "name": "Tasawwuf",
+      "meaning": "Meaning: Knowledge of God and His attributes",
+      "long_meaning": "Knowledge of God and His attributes is a path that righteous people follow in their journey to God, a path that people of trust follow in their journey to success in this life and the hereafter, a path that truthful people follow in their journey to the truth, a path that people of perfection follow in their journey to the ultimate goal, a path that those who are afraid of God follow in their journey to the hajj, a path that those who are afraid of God follow in their journey to Paradise, a path that righteous people follow in their journey to closeness to God, a path that those who are afraid of God follow in their journey to success"
+    },
+    "pronunciation": {
+      "english": "/təˈsɑːwʊf/",
+      "urdu": "اردو میں تلفظ کی تفصیل: تاسوف",
+      "hindi": "हिन्दी में उच्चारण विवरण: तासाव्वुफ्",
+      "pashto": "په پښتو کې د تلفظ تفصیل: طسوف",
+      "ipa": "/təˈsɑːwʊf/"
+    },
+    "celebrity_usage": [
+      "Unknown"
+    ],
+    "social_tags": [
+      "#TasawwufMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Tasawwuf"
+    ],
+    "name_variations": [],
+    "popularity_score": 74,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 92,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 85,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 90,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 77,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Tasawwuf Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Tasawwuf, a beautiful Islam name meaning \"Mystic Path, Sufi Path\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Tasawwuf, Islam name, baby names, Mystic Path, Sufi Path, Islam baby names, name meaning",
+      "description_paragraph": "Tasawwuf is a meaningful Islam name of Arabic origin that means \"Mystic Path, Sufi Path\". A term used to describe the spiritual practices and disciplines within Islam, particularly those followed by Sufis or mystics. It refers to the path or journey towards spiritual perfection and closeness to God.",
+      "keywords": [
+        "Tasawwuf",
+        "Islam name",
+        "baby names",
+        "Mystic Path, Sufi Path",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Tasawwuf in Islam tradition?",
+          "a": "Tasawwuf is a beautiful Islam name meaning \"Mystic Path, Sufi Path\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Tasawwuf a good Islam name for a baby?",
+          "a": "Yes, Tasawwuf is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Tasawwuf?",
+          "a": "The name Tasawwuf has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Tasawwuf correctly?",
+          "a": "Tasawwuf is pronounced /təˈsɑːwʊf/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Tasawwuf?",
+          "a": "Naming a child Tasawwuf brings blessings. The meaning \"Mystic Path, Sufi Path\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Tasawwuf?",
+          "a": "Tasawwuf is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 98,
+      "focus_keyword": "Tasawwuf meaning",
+      "secondary_keywords": [
+        "Islam name Tasawwuf",
+        "Tasawwuf meaning",
+        "Tasawwuf origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "Tasawwuf, or Sufism as it is known in the West, has had a profound influence on Islamic culture and expression. It has given rise to beautiful artistic and literary works, as well as diverse spiritual communities. Many famed Islamic scholars and poets, such as Rumi and Ibn Arabi, are Sufis whose writings and teachings continue to inspire millions around the world.",
+    "spiritual_significance": "Tasawwuf is deeply meaningful in the spiritual journey of an individual Muslim. It offers guidance, discipline, and a structured path towards inner purification, compassion, and closeness to God. Through the practice of Tasawwuf, a Muslim can develop a strong and personal relationship with God while seeking to uphold the teachings and values of Islam. Ultimately, it is a constant reminder of God's love, mercy, and presence in our lives.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Tasawwuf carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Gaining popularity in Western Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Tasawwuf remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Tasawwuf",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "Khadija Tasawwuf from Riyadh, Saudi Arabia embodies the meaning of Tasawwuf - \"Mystic Path, Sufi Path\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Mystic Path, Sufi Path\" symbolizes A term used to describe the spiritual practices and disciplines within Islam, particularly those followed by Sufis or mystics. It refers to the path or journey towards spiritual perfection and closeness to God.. In Islamic spirituality, bearing the name Tasawwuf serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of mystic path, sufi path.",
+    "created_at": "2025-12-22T19:19:49.856Z",
+    "updated_at": "2025-12-22T04:53:14.895Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1510,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Tasawwuf",
+      "description": "Mystic Path, Sufi Path",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Tasawwuf",
+          "description": "Discover the meaning of Tasawwuf - \"Mystic Path, Sufi Path\"",
+          "image": "/images/social/tasawwuf-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Tasawwuf - Name Meaning",
+          "description": "Learn about the beautiful name Tasawwuf",
+          "image": "/images/social/tasawwuf-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Tasawwuf",
+          "description": "Name meaning: Mystic Path, Sufi Path",
+          "image": "/images/social/tasawwuf-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Tasawwuf - Meaning: Mystic Path, Sufi Path",
+        "email_subject": "Beautiful Name: Tasawwuf"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Tasawwuf with meaning Mystic Path, Sufi Path",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

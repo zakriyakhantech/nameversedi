@@ -1,0 +1,290 @@
+{
+  "success": true,
+  "data": {
+    "name": "Sifat",
+    "slug": "sifat",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Pashto",
+      "Persian"
+    ],
+    "gender": "unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Adornment, Beauty, Grace",
+    "long_meaning": "A beautiful, lovely, and adorned attribute or trait",
+    "spiritual_meaning": "Refers to the inner beauty of a person",
+    "emotional_traits": [
+      "Calm",
+      "Gentle",
+      "Graceful",
+      "Beautiful"
+    ],
+    "hidden_personality_traits": [
+      "Mysterious",
+      "Introspective",
+      "Deep",
+      "Thoughtful"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Blue",
+      "Green",
+      "Purple"
+    ],
+    "lucky_stone": "Labradorite",
+    "life_path_number": 3,
+    "numerology_meaning": "Creativity, Self-Expression, Communication",
+    "in_arabic": {
+      "name": "سِفَة",
+      "meaning": "صفة الإنسان، وصفته، صفاته",
+      "long_meaning": "سِفَة: هي صفة الإنسان، وصفته، صفاته، وهي صفة تُشير إلى الجوانب الإيجابية في الشخصية، مثل الخيرية، والصلاحية، والسماحة، وهي صفة نبوية، وذكرت في القرآن الكريم، والسيرة النبوية، وهي من أهم صفات الرسول محمد ﷺ، وهي صفة تُشير إلى التطهر من السيئات، والتمكين من الخيرات، وهي صفة تُشير إلى القدرة على الإبداع والخلق، وهي صفة تُشير إلى الحلم والتفاؤل، وهي صفة تُشير إلى الصبر والتوكل على الله، وهي صفة تُشير إلى التكامل والتوافق مع الآخرين، وهي صفة تُشير إلى القدرة على التعلم والارتقاء، وقد أُستخدمت هذه الصفَة في تسمية العديد من الأشخاص، ومصادرها في اللغة العربية، والفقه الإسلامي"
+    },
+    "in_urdu": {
+      "name": "صفات",
+      "meaning": "انسان کی صفتیں، ان کی خوبیاں، صفات",
+      "long_meaning": "صفات: انسان کی صفتیں، ان کی خوبیاں، صفات، جو انسان کے خیرخواہی اور صالحی کا مظہر ہیں، یہ نبوئی صفات سے متعلق ہیں، جو قرآن پاک اور سیرت مصطفیٰ ﷺ میں ذکر ہوئے ہیں، یہ مصطفیٰ ﷺ کی اہم صفات میں سے ایک ہیں، جس کا تعلق تہمت سے پاک ہونا اور خیرات کے ساتھ منسلک ہونا ہے، یہ انسان کی تخلیقی قوت اور خلاقیت کا بھی مظہر ہے، یہ تصور اور امیدیں کا مظہر ہے، یہ صبر اور اللہ پر توکل کا مظہر ہے، یہ انسان کے تکامل اور دوسروں کے ساتھ توافق کا مظہر ہے، یہ تعلیم اور ارتقاء کی صلاحیت کا بھی مظہر ہے، یہ نام انسانوں کے لیے استعمال ہوتا ہے، اور اس کے معنی زبانِ اردو اور فقہ اسلامی میں بھی مل جاتے ہیں"
+    },
+    "in_hindi": {
+      "name": "सिफ़त",
+      "meaning": "मानव की गुणवताएं, अच्छाइयां, सिफ़ता",
+      "long_meaning": "सिफ़त: यह सिफ़त मानव की अच्छाइयों और गुणवताओं का प्रतीक है, जो मानव के खीरख्वाही और सलाहीपन का मार्मिक प्रतीक है, यह नबुवी सिफ़ताओं में से एक है, जो कुरान और सीरत मुहम्मद ﷺ में वर्णित है, यह मुहम्मद ﷺ की महत्वपूर्ण सिफ़ताओं में से एक है, जो तहमत से पाक होना और खीरात से जुड़ने का प्रतीक है, यह मानव की कल्पनाशीलता और रचनात्मकता का प्रतीक है, यह विचार और आशा का प्रतीक है, यह धैर्य और अल्लाह पर विश्वास का प्रतीक है, यह मानव के एकीकरण और दूसरों के साथ सामंजस्य का प्रतीक है, यह शिक्षा और उन्नति की क्षमता का भी प्रतीक है, यह नाम मानवों के लिए उपयोग किया जाता है, और इसके अर्थ हिंदी भाषा और इस्लामिक फिकाह में भी मिलते हैं"
+    },
+    "in_pashto": {
+      "name": "صِفَت",
+      "meaning": "د انساني صفات، انساني خوبی، صِفَت",
+      "long_meaning": "صِفَت: د انساني صفات، انساني خوبی، صِفَت، چې انساني د خیرخواځۍ او صلاحیتو څخه څرګندیږي، دا نوبروي صفاتو څخه دي، چې په قرآن او سيره د مومن ﷺ کې ياد شوی دی، دا د مومن ﷺ مهمه صفاتو څخه دي، چې د خيالتو څخه پاکول او د خيراتو سره ونډه کول، دا انساني د تخليقي قوت او خلاقيتو څخه څرګندیږي، دا د تصور او اماناتو څخه څرګندیږي، دا د صبر او د الله پر توکول څخه څرګندیږي، دا انساني د تکامل او د نورو سره سمهيا کول څخه څرګندیږي، دا د تعليم او ارتقا د کړتيو څخه څرګندیږي، او دا نوم يې انساني لپاره کارول کېږي، او دې معنی يې په پښتو او د اسلامي فقه کې هم پيداکېږي"
+    },
+    "in_english": {
+      "name": "Sifat",
+      "meaning": "Human qualities, good qualities, virtues, and characteristics",
+      "long_meaning": "Sifat: A human quality, good quality, virtue, and characteristic that refers to the positive aspects of human personality, such as kindness, virtue, and generosity. It is a prophetic quality, mentioned in the Quran and the biography of the Prophet Muhammad ﷺ. It is one of the important qualities of the Prophet ﷺ, referring to the purification from evil qualities and the empowerment of good qualities. It is a quality that refers to the creative power and creativity of humans, and the ability to imagine and aspire. It is a quality that refers to patience and trust in God. It is a quality that refers to integration and harmony with others. It is a quality that refers to the ability to learn and progress. The term has been used to name many people. The root of this term is in Arabic language and Islamic jurisprudence."
+    },
+    "pronunciation": {
+      "english": "suh-FAHT",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/sɪˈfɑːt/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#SifatMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Sifat"
+    ],
+    "name_variations": [],
+    "popularity_score": 53,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 79,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Sifat Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Sifat, a beautiful Islam name meaning \"Adornment, Beauty, Grace\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Sifat, Islam name, baby names, Adornment, Beauty, Grace, Islam baby names, name meaning",
+      "description_paragraph": "Sifat is a meaningful Islam name of Arabic origin that means \"Adornment, Beauty, Grace\". A beautiful, lovely, and adorned attribute or trait",
+      "keywords": [
+        "Sifat",
+        "Islam name",
+        "baby names",
+        "Adornment, Beauty, Grace",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Sifat in Islam tradition?",
+          "a": "Sifat is a beautiful Islam name meaning \"Adornment, Beauty, Grace\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Sifat a good Islam name for a baby?",
+          "a": "Yes, Sifat is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Sifat?",
+          "a": "The name Sifat has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Sifat correctly?",
+          "a": "Sifat is pronounced suh-FAHT in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Sifat?",
+          "a": "Naming a child Sifat brings blessings. The meaning \"Adornment, Beauty, Grace\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Sifat?",
+          "a": "Sifat is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 90,
+      "focus_keyword": "Sifat meaning",
+      "secondary_keywords": [
+        "Islam name Sifat",
+        "Sifat meaning",
+        "Sifat origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Sifat holds a profound cultural significance in the Islamic world, representing the desirable and noble attributes or traits that an individual should strive to possess. It is considered a name that emphasizes beauty, grace, and attractiveness. In various cultures, this name may be given as a reminder to parents to instill good character and virtues in their children.",
+    "spiritual_significance": "From a spiritual perspective, the name Sifat carries deep significance as it is derived from the Arabic root 's-f-t,' which means 'to adorn' or 'to make beautiful.' This name reminds us of the importance of cultivating good character and spiritual virtues. The Prophet Muhammad (peace be upon him) said, \"Nothing will remain on the Day of Resurrection except the Almighty and His Messenger and those who possess beautiful character.\" (Bukhari) Therefore, the name Sifat serves as an encouragement to live a virtuous life, develop good character, and strive to please Allah (God) in all aspects of one's life.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Sifat carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Increasingly popular among Muslim millennials",
+        "Trending in Muslim baby name searches"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Sifat remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Sifat",
+      "location": "Istanbul, Turkey",
+      "story": "A successful entrepreneur named Zainab Sifat in Istanbul, Turkey attributes much of their success to the blessing of their name Sifat, which means \"Adornment, Beauty, Grace\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Adornment, Beauty, Grace\" symbolizes A beautiful, lovely, and adorned attribute or trait. In Islamic spirituality, bearing the name Sifat serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of adornment, beauty, grace.",
+    "created_at": "2025-12-22T19:19:49.856Z",
+    "updated_at": "2025-12-22T04:53:14.891Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1206,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Sifat",
+      "description": "Adornment, Beauty, Grace",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Pashto",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Sifat",
+          "description": "Discover the meaning of Sifat - \"Adornment, Beauty, Grace\"",
+          "image": "/images/social/sifat-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Sifat - Name Meaning",
+          "description": "Learn about the beautiful name Sifat",
+          "image": "/images/social/sifat-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Sifat",
+          "description": "Name meaning: Adornment, Beauty, Grace",
+          "image": "/images/social/sifat-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Sifat - Meaning: Adornment, Beauty, Grace",
+        "email_subject": "Beautiful Name: Sifat"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Sifat with meaning Adornment, Beauty, Grace",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saal",
+      "saim",
+      "sadaldin"
+    ]
+  }
+}

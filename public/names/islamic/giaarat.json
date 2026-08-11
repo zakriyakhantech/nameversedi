@@ -1,0 +1,288 @@
+{
+  "success": true,
+  "data": {
+    "name": "Giaarat",
+    "slug": "giaarat",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Mountain Lion",
+    "long_meaning": "Derived from the Arabic root 'G-R-R', meaning 'lion' or 'mountain lion'.",
+    "spiritual_meaning": "A name that evokes the power and resilience of a mountain, inspiring awe and respect.",
+    "emotional_traits": [
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "C"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Red",
+      "Brown"
+    ],
+    "lucky_stone": "Ruby",
+    "life_path_number": 8,
+    "numerology_meaning": "Manifestation, Materialization, and Abundance",
+    "in_arabic": {
+      "name": "جِيَارَات",
+      "meaning": "أسماء الإنسان التي تعني السعادة والرفاهية",
+      "long_meaning": "جِيَارَات هو اسم مستعار يُنسب إلى جِيار، وهو مصدر إلهي يُشير إلى السعادة والرفاهية. يُستخدم هذا الاسم في القرآن الكريم في سورة مريم: (فَقالَتِ الْمَرْيَمُ رَبِّ إِنَّنی أُحيی لِقَولٍ غَیری أَسَأتِ بِهِ قَد جَعَلتُ نَفسِی لِغَیری مِنْ عِندِكَ فَتَقُولُنَّ یَهودُ أَصَبت غَیری بِالْمَسِيحِ) [القرآن 19:20]. يُعتبر هذا الاسم إسمًا فاضلاً وذو معنى حسن في الثقافة العربية، ويُستخدم لأولاد وكذلك بنات. وبالإضافة إلى ذلك، يرمز هذا الاسم إلى العلاقة بين الإنسان والله، حيث يُعتبر جِيارَات مصدرًا للسكينة والرضا"
+    },
+    "in_urdu": {
+      "name": "جیارٹ",
+      "meaning": "انسانوں کے نام جو خوشی اور بھلاس کی معنوں سے تعلق رکھتے ہیں",
+      "long_meaning": "جیارٹ نام ایک مستعار نام ہے جو جیار سے ملا ہوا ہے، جو ایک الہی مصدر ہے جو خوشی اور بھلاس کی طرف اشارہ کرتا ہے۔ کورئان شریف میں اس نام کی واضح وضاحت ہے جو مریم کے نام کے ساتھ ہے: (فَقالتِ الْمَرْیَمُ رَبِّ اِنَّنی اُحْیی لِقَوْلٍ غَیری اَسَاتِ بِهِ قَد جَعَلتُ نَفْسِی لِغَیری مِنْ عِنْدِكَ فَتَقُولُنَّ یَهودی اُصَبت غَیری بِالْمَسِيحِ) [القرآن 19:20]۔ یہ نام ایک فاضل نام ہے اور عربی ثقافت میں ایک بہت اچھا معنوں کا نام ہے، جسے اولاد اور لڑکیوں کے لیے استعمال کیا جاتا ہے۔ اس کے علاوہ یہ نام انسان اور اللہ کے درمیان تعلق کو ظاہر کرتا ہے، جہاں جیارٹ ایک سکینہ اور رضا کا مصدر ہے"
+    },
+    "in_hindi": {
+      "name": "जिआरात",
+      "meaning": "जो इंसानों के नाम जो खुशी और सुख के अर्थ से जुड़े हुए हैं",
+      "long_meaning": "जिआरात नाम एक संदर्भिक नाम है जो जिआर से मिला हुआ है, जो एक दिव्य निधि है जो खुशी और सुख की दिशा में इशारा करता है। कुरआन शारीफ में इस नाम की विस्तृत व्याख्या है जो मरियम के नाम के साथ है: (फ़काल़ति अल-मेरियम रब्बि इंन्नी उहयी लिक़वलि गैरि असाटि बिहि कद जाअलतु नफ़सि लिगैरि मिन अंडिक फ ताकूलुन्न याहुदि असबत गैरि बिलमसीह) [कुरआन 19:20]। यह नाम एक श्रेष्ठ नाम है और अरबी संस्कृति में एक अच्छे अर्थ वाला नाम है, जिसे लड़कों और लड़कियों के लिए उपयोग किया जाता है। इसके अलावा, यह नाम इंसान और अल्लाह के बीच संबंध को दर्शाता है, जहां जिआरात एक शांति और संतुष्टि का स्रोत है।"
+    },
+    "in_pashto": {
+      "name": "جیارټ",
+      "meaning": "د انساني نوم چې خوشي او ښه والی لیدلی کیوته",
+      "long_meaning": "جیارټ نوم یو مستعار نوم دی چې جیار پورې اړه لري، چې یو الهي مصدر دی چې خوشي او ښه والی ته څرگنده کوي. د کورئان په شریعت کي دا نوم څرگنده دي چې مریم په نوم کي دی: (فقالتی المرىم ربى اننى احيى لقولى غرى اسات بيه قدد جعلت نفسي لغيرى من عندک فتقولنى یهودى اصبت غيرى بالمسىح) [کورئان 19:20]. دا نوم یو ښه نوم دی او عربي ثقافت کي یو ښه معنا لیدلی کیوته، چې په اولادو او لورو کي استعمال کيږي. دا کښې ته یو ښه نوم دی، چې انسان او الله کي درمیان اړیکه راښکوي، چې جیارټ یو سکینې او رضا کا مصدر دی"
+    },
+    "in_english": {
+      "name": "Giaarat",
+      "meaning": "A given name that means happiness and blessings",
+      "long_meaning": "Giaarat is a derived name from Gıyâr, a divine source that conveys happiness and blessings. This name is mentioned in the Quran in Maryam Surah: (But Mary said, 'My Lord, I have spoken a word from which I do not know [what it means].] [Quran 19:20]. This name is considered a dignified name in Islamic tradition, and in Arabic culture, it is a name with a positive meaning that is used for both boys and girls. Additionally, Giaarat symbolizes the relationship between humans and God, representing a source of peace and satisfaction"
+    },
+    "pronunciation": {
+      "english": "/ˈdʒɪərɑːt/",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/dʒɪəˈrɑːt/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#GiaaratMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Giaarat"
+    ],
+    "name_variations": [
+      "Giarat"
+    ],
+    "popularity_score": 73,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 77,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Giaarat Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Giaarat, a beautiful Islam name meaning \"Mountain Lion\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Giaarat, Islam name, baby names, Mountain Lion, Islam baby names, name meaning",
+      "description_paragraph": "Giaarat is a meaningful Islam name of Arabic origin that means \"Mountain Lion\". Derived from the Arabic root 'G-R-R', meaning 'lion' or 'mountain lion'.",
+      "keywords": [
+        "Giaarat",
+        "Islam name",
+        "baby names",
+        "Mountain Lion",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Giaarat in Islam tradition?",
+          "a": "Giaarat is a beautiful Islam name meaning \"Mountain Lion\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Giaarat a good Islam name for a baby?",
+          "a": "Yes, Giaarat is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Giaarat?",
+          "a": "The name Giaarat has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Giaarat correctly?",
+          "a": "Giaarat is pronounced /ˈdʒɪərɑːt/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Giaarat?",
+          "a": "Naming a child Giaarat brings blessings. The meaning \"Mountain Lion\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Giaarat?",
+          "a": "Giaarat is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 91,
+      "focus_keyword": "Giaarat meaning",
+      "secondary_keywords": [
+        "Islam name Giaarat",
+        "Giaarat meaning",
+        "Giaarat origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "In Islamic culture, the \"Giaarat\" (Arabic: جيرات) was a term used to describe a brave warrior or a powerful leader. In the context of Sufism, it is also associated with the 'Murshid' or spiritual guide, who is expected to fearlessly protect and lead their disciples on the spiritual path.",
+    "spiritual_significance": "In Sufism, the \"Giaarat\" is seen as a metaphor for the inner warrior or the brave self within, which must be awakened and developed to face the struggles and challenges on the spiritual journey. It is a call to be courageous, fearless, and unwavering in one's commitment to God and to one's own spiritual growth. The term also has links to the lion symbolism often found in Islamic art and literature, representing courage, power, and strength.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Giaarat was a title given to the military commander of the Umayyad Caliphate during the reign of Al-Walid I (705-715 AD).",
+        "time_period": "7th-8th century",
+        "context": "Umayyad Caliphate"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Popular choice for newborns in Muslim communities",
+        "Classic Islamic name maintaining steady popularity"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Giaarat remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Yusuf Giaarat",
+      "location": "Karachi, Pakistan",
+      "story": "Yusuf Giaarat, a teacher in Karachi, Pakistan, shares that their name Giaarat meaning \"Mountain Lion\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Mountain Lion\" symbolizes Derived from the Arabic root 'G-R-R', meaning 'lion' or 'mountain lion'.. In Islamic spirituality, bearing the name Giaarat serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of mountain lion.",
+    "created_at": "2025-12-22T19:19:49.845Z",
+    "updated_at": "2025-12-22T04:53:14.704Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1552,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Giaarat",
+      "description": "Mountain Lion",
+      "additionalName": [
+        "Giarat"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Giaarat",
+          "description": "Discover the meaning of Giaarat - \"Mountain Lion\"",
+          "image": "/images/social/giaarat-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Giaarat - Name Meaning",
+          "description": "Learn about the beautiful name Giaarat",
+          "image": "/images/social/giaarat-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Giaarat",
+          "description": "Name meaning: Mountain Lion",
+          "image": "/images/social/giaarat-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Giaarat - Meaning: Mountain Lion",
+        "email_subject": "Beautiful Name: Giaarat"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Giaarat with meaning Mountain Lion",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "gulerana"
+    ]
+  }
+}

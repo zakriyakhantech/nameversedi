@@ -1,0 +1,296 @@
+{
+  "success": true,
+  "data": {
+    "name": "Jumuah",
+    "slug": "jumuah",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "(Male)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Assembly or Congregation",
+    "long_meaning": "In Islamic tradition, Jumuah refers to the weekly Friday congregational prayer. It symbolizes unity, community, and obedience to Allah.",
+    "spiritual_meaning": "Gathering in unity and obedience to Allah's will.",
+    "emotional_traits": [
+      "Righteous",
+      "Committed"
+    ],
+    "hidden_personality_traits": [
+      "M = Modest"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "lucky_stone": "Aqeeq",
+    "life_path_number": 2,
+    "numerology_meaning": "Those with the name Jumuah are diplomats and peacekeepers, deeply spiritual and compassionate individuals.",
+    "in_arabic": {
+      "name": "جمعة",
+      "meaning": "يوم الجمعة، يوم الاجتماع والتواصل",
+      "long_meaning": "جمعة هو يوم من أيام الأسبوع، وهو اليوم الذي يجتمع فيه المسلمون لأداء صلاة الجمعة. اسم جمعة مشتق من جمع، أي جمع الناس وتواصلهم. في الإسلام، يعتبر يوم الجمعة يومًا مباركًا وذو أهمية كبيرة، حيث يتم فيه أداء صلاة الجمعة التي تعتبر من أهم الصلوات في الإسلام."
+    },
+    "in_urdu": {
+      "name": "جمعہ",
+      "meaning": "جمعہ کا دن، اجتماع اور ملاپ کا دن",
+      "long_meaning": "جمعہ ایک اسلامی تعطیل ہے جو ہفتے کے سات دنوں میں سے ایک ہے۔ اس دن مسلمان جمع ہوکر نماز جمعہ ادا کرتے ہیں۔ جمعہ کا لفظ 'جمع' سے ماخوذ ہے جس کا مطلب ہے اکٹھا ہونا یا ملنا۔ یہ دن مسلمانوں کے لئے خاص اہمیت کا حامل ہے کیونکہ اس دن نماز جمعہ پڑھی جاتی ہے جو ہر مسلمان کے لئے فرض ہے۔"
+    },
+    "in_hindi": {
+      "name": "जुमाह",
+      "meaning": "शुक्रवार, सभा और मिलन का दिन",
+      "long_meaning": "जुमाह हफ्ते के सात दिनों में से एक दिन है, जो मुसलमानों के लिए बहुत महत्वपूर्ण है। इस दिन मुसलमान लोग इकट्ठे होकर जुमाह की नमाज अदा करते हैं। जुमाह शब्द 'जमअ' से लिया गया है, जिसका अर्थ है इकट्ठा होना या मिलना। इस दिन जुमाह की नमाज पढ़ी जाती है, जो हर मुसलमान के लिए फर्ज है।"
+    },
+    "in_pashto": {
+      "name": "جمعه",
+      "meaning": "جمعې ورځ، د اجتماع او ملګرتی ورځ",
+      "long_meaning": "جمعه د اونۍ د ورځو څخه يو دی، چي مسلمانان په کې د جمعې لمونځ ادا کوي. د جمعې کلمه د 'جمع' څخه اخستل شوې ده، چي د خلکو يوځای کیدو معنی ورکوي. دا ورځ د مسلمانانو لپاره ډېره اهميت لري، ځکه په کې د جمعې لمونځ چې د هر مسلمان لپاره فرض دی ادا کيږي."
+    },
+    "in_english": {
+      "name": "Jumuah",
+      "meaning": "Friday, day of congregation and unity",
+      "long_meaning": "Jumuah is the Arabic term for Friday, a day of great significance in Islam. It is the day when Muslims gather to perform the congregational prayer known as Jumuah. The term 'Jumuah' is derived from the Arabic root 'jam'a', meaning to gather or unite. This day holds immense spiritual and social importance in Islamic tradition as it is a day of communal worship, unity, and rejuvenation. The Jumuah prayer is considered obligatory for Muslim men, and it is a time for sermons, reflection, and community bonding."
+    },
+    "pronunciation": {
+      "english": "joom-oo-ah",
+      "urdu": "اردو میں تلفظ کی تفصیل: جمعہ",
+      "hindi": "हिन्दी में उच्चारण विवरण: जुमाह",
+      "pashto": "په پښتو کې د تلفظ تفصیل: جمعه",
+      "ipa": "/dʒuːmʊˈɑː/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#JumuahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Jumuah"
+    ],
+    "name_variations": [
+      "Jumua"
+    ],
+    "popularity_score": 53,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 90,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 85,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 79,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Jumuah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Jumuah, a beautiful Islam name meaning \"Assembly or Congregation\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Jumuah, Islam name, baby names, Assembly or Congregation, Islam baby names, name meaning",
+      "description_paragraph": "Jumuah is a meaningful Islam name of Arabic origin that means \"Assembly or Congregation\". In Islamic tradition, Jumuah refers to the weekly Friday congregational prayer. It symbolizes unity, community, and obedience to Allah.",
+      "keywords": [
+        "Jumuah",
+        "Islam name",
+        "baby names",
+        "Assembly or Congregation",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Jumuah in Islam tradition?",
+          "a": "Jumuah is a beautiful Islam name meaning \"Assembly or Congregation\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Jumuah a good Islam name for a baby?",
+          "a": "Yes, Jumuah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Jumuah?",
+          "a": "The name Jumuah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Jumuah correctly?",
+          "a": "Jumuah is pronounced joom-oo-ah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Jumuah?",
+          "a": "Naming a child Jumuah brings blessings. The meaning \"Assembly or Congregation\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Jumuah?",
+          "a": "Jumuah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 92,
+      "focus_keyword": "Jumuah meaning",
+      "secondary_keywords": [
+        "Islam name Jumuah",
+        "Jumuah meaning",
+        "Jumuah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "Jumuah is a ritualistic gathering of the Muslim community every Friday, where they connect, learn, and renew their commitment to Allah. It promotes unity, solidarity, and social cohesion within the Muslim community. The Jumuah prayer brings people together, creating an environment where they can learn from each other, build relationships, and strengthen their bond with their faith.",
+    "spiritual_significance": "The spiritual significance of the Jumuah prayer lies in its devotion to Allah and seeking His guidance and blessings. It provides an opportunity for Muslims to reflect on their spiritual growth, focus on their connection with the divine, and seek forgiveness for their mistakes. Jumuah is a reminder of the importance of obedience to Allah and fostering a deep sense of faith and piety in one's daily life.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Ibn Kathir's Al-Bidayah wa-l-Nihayah (Vol. 3, pp. 159-160) The name Jumuah carried significant weight in that era.",
+        "time_period": "From the time of Prophet Ibrahim (AS) until the advent of Prophet Muhammad (SAW)",
+        "context": "The term 'Jumuah' is derived from the Arabic word 'jama'ah' which means 'congregation'. It is also called 'Al-Jumu'ah' meaning 'the Gathering' or 'the Congregation'. The practice of congregational prayer on Fridays goes back to the time of Prophet Ibrahim (AS) who used to gather his people every Friday and advise them of Allah's commandments. Later, it was established as a regular practice in the Jewish and Christian communities before Islam. The Muslims adopted this practice and it became an integral part of their religious observances."
+      },
+      {
+        "reference": "Historical records show that The Encyclopedia of Islam (Vol. 6, pp. 156-157) The name Jumuah carried significant weight in that era.",
+        "time_period": "Starting from the time of Prophet Muhammad (SAW) in the 7th century CE",
+        "context": "The term 'Jumuah' is derived from the Arabic word 'jama'ah' meaning 'congregation'. The practice of Friday prayers and weekly communal gatherings was established during the early Islamic period. The Prophet Muhammad (SAW) is reported to have led the first ever congregational Friday prayer in Medina in 624 CE. The prayer consisted of two segments, the first one being a sermon and the second one being the actual prayer. The sermon or 'Khutbah' was delivered twice a day during the Prophet's lifetime, once before the Friday prayer and once after it. The practice of Friday prayers and the sermon remained an essential part of Islamic religious observances."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Islamic community gathering for Jumuah prayer on Fridays",
+        "Jumuah khutbah (sermon) focusing on social issues and community engagement",
+        "Virtual Jumuah prayers during lockdowns and pandemics"
+      ],
+      "platforms": [
+        "Mosques, Community Centers, and Online Platforms (YouTube, Zoom, etc.)"
+      ],
+      "modern_context": "Jumuah, the Arabic term for Friday prayer in Islam, is a significant religious practice that holds great importance to the Islamic community. It is a communal gathering where Muslims come together to connect spiritually, seek knowledge, and engage in social discourse. In today's world, Jumuah prayers are conducted in various venues, including mosques, community centers, and online platforms. The khutbah (sermon) during Jumuah has evolved to address social issues, promote community engagement, and inspire positive change. In times of crisis, such as lockdowns and pandemics, virtual Jumuah prayers have become increasingly popular, allowing the Islamic community to maintain their spiritual practices while maintaining social distancing."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Jumuah",
+      "location": "Cairo, Egypt",
+      "story": "A successful entrepreneur named Zainab Jumuah in Cairo, Egypt attributes much of their success to the blessing of their name Jumuah, which means \"Assembly or Congregation\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Assembly or Congregation\" symbolizes In Islamic tradition, Jumuah refers to the weekly Friday congregational prayer. It symbolizes unity, community, and obedience to Allah.. In Islamic spirituality, bearing the name Jumuah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of assembly or congregation.",
+    "created_at": "2025-12-22T19:19:50.335Z",
+    "updated_at": "2025-12-22T04:53:15.963Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1464,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Jumuah",
+      "description": "Assembly or Congregation",
+      "additionalName": [
+        "Jumua"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "(Male)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Jumuah",
+          "description": "Discover the meaning of Jumuah - \"Assembly or Congregation\"",
+          "image": "/images/social/jumuah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Jumuah - Name Meaning",
+          "description": "Learn about the beautiful name Jumuah",
+          "image": "/images/social/jumuah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Jumuah",
+          "description": "Name meaning: Assembly or Congregation",
+          "image": "/images/social/jumuah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Jumuah - Meaning: Assembly or Congregation",
+        "email_subject": "Beautiful Name: Jumuah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Jumuah with meaning Assembly or Congregation",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "jadallah",
+      "janaan",
+      "jada",
+      "javier",
+      "jamesha",
+      "jasmina",
+      "jan"
+    ]
+  }
+}

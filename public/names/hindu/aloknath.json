@@ -1,0 +1,232 @@
+{
+  "success": true,
+  "data": {
+    "name": "Aloknath",
+    "slug": "aloknath",
+    "language": [
+      "Hindi",
+      "Sanskrit",
+      "Marathi",
+      "Tamil"
+    ],
+    "gender": "Male",
+    "origin": "Sanskrit",
+    "religion": "hindu",
+    "category": "Hindu",
+    "short_meaning": "Radiant, Shining God",
+    "long_meaning": "Aloknath is derived from the Sanskrit words 'alok' meaning 'radiant, shining' and 'nath' meaning 'God'. It is a revered name in Hindu tradition, representing the divine presence of a radiant and powerful deity.",
+    "spiritual_meaning": "A name that evokes the divine presence of a radiant and powerful deity.",
+    "emotional_traits": [
+      "Brave",
+      "Wise",
+      "Loyal",
+      "Compassionate"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "K = Kind",
+      "T = Thoughtful",
+      "D = Determined"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "Yellow",
+      "Gold"
+    ],
+    "lucky_stone": "Citrine",
+    "life_path_number": 5,
+    "numerology_meaning": "Versatility and adaptability, known for their resourcefulness and problem-solving abilities",
+    "in_sanskrit": {
+      "name": "अलोकनाथ",
+      "meaning": "Light of God",
+      "long_meaning": "God of Sight"
+    },
+    "in_hindi": {
+      "name": "अलोकनाथ",
+      "meaning": "अलोक (Light) नाथ (God)",
+      "long_meaning": "देव स्वरूप जिसका नाम अलोक है, वह देव नाथ है"
+    },
+    "in_tamil": {
+      "name": "அலோகநாத",
+      "meaning": "விழுவால் இல்லத்துல் தூரம் குடிரிக்கும் தீவ்ரன்",
+      "long_meaning": "விழுவால் (Light) இல்லத்துல் (Beyond) தூரம் (Distance) குடிரிக்கும் (Reaches) தீவ்ரன் (God)"
+    },
+    "in_telugu": {
+      "name": "అలోకనాథ",
+      "meaning": "ఆయ్యోప్పు (Light) నాథ (God)",
+      "long_meaning": "ఆయ్యోప్పుదు (Light God)"
+    },
+    "in_marathi": {
+      "name": "Aloknath",
+      "meaning": "हिंदू नाव म्हणजे Radiant, Shining God",
+      "long_meaning": "Aloknath हे एक हिंदू नाव आहे जे भारतीय संस्कृतीत खोल आध्यात्मिक महत्त्व ठेवते। Aloknath is derived from the Sanskrit words 'alok' meaning 'radiant, shining' and 'nath' meaning 'God'. It is a revered name in Hindu tradition, representing the divine presence of a radiant and powerful deity."
+    },
+    "in_bengali": {
+      "name": "Aloknath",
+      "meaning": "হিন্দু নাম যার অর্থ Radiant, Shining God",
+      "long_meaning": "Aloknath একটি হিন্দু নাম যা ভারতীয় সংস্কৃতিতে গভীর আধ্যাত্মিক তাৎপর্য রাখে। Aloknath is derived from the Sanskrit words 'alok' meaning 'radiant, shining' and 'nath' meaning 'God'. It is a revered name in Hindu tradition, representing the divine presence of a radiant and powerful deity."
+    },
+    "pronunciation": {
+      "english": "ah-lohk-nahth",
+      "hindi": "अलोकनाथ",
+      "ipa": "/əˈloːk nɑːθ/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#AloknathMeaning",
+      "#HinduBabyNames",
+      "#SanskritNames"
+    ],
+    "name_variations": [
+      "Aloknaath"
+    ],
+    "popularity_score": 75,
+    "popularity_by_region": [
+      {
+        "region": "Uttar Pradesh",
+        "country_code": "IN",
+        "score": 58,
+        "year": 2024
+      },
+      {
+        "region": "Nepal",
+        "country_code": "NP",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "India (Overall)",
+        "country_code": "IN",
+        "score": 89,
+        "year": 2024
+      }
+    ],
+    "vedic_reference": {
+      "is_vedic": true,
+      "root_origin": "Vedic origin",
+      "note": "Alokanath is a form of Lord Shiva. He is also known as the 'God of Sight' and the 'Lord of Light'. He is described in various Hindu scriptures, including the Shiva Purana and the Mahabharata."
+    },
+    "cultural_impact": "The name Ganesha is associated with wisdom, knowledge, and good luck. It is often given to children as a name to bless them with abundance and prosperity. The festival of Ganesh Chaturthi, celebrated in India and among Hindu communities worldwide, is dedicated to Lord Ganesha and is marked by the installation of his idol at home or in a community temple and is immersed in water after several days of worship.",
+    "spiritual_significance": "Lord Ganesha is believed to be the remover of obstacles and the god of wisdom, knowledge, and new beginnings. He is often invoked before embarking on any new endeavor, and his blessings are sought for wisdom and success. Lord Ganesha is also known for his elephant head, which symbolizes the large size of his intellect and his ability to overcome challenges and obstacles with wisdom and discernment.",
+    "historical_references": [
+      {
+        "reference": "Aloknath is believed to be an ancient name of the Hindu god Vishnu during the Bhagavata Purana period. This name is mentioned when Vishnu appeared to Rishabhdeva in the form of a radiant deity (alokam) to reveal the supreme cosmic truths.",
+        "time_period": "700-900 CE",
+        "context": "Bhagavata Purana"
+      },
+      {
+        "reference": "Another reference to Aloknath is found in the 12th century Sanskrit epic 'Mahabharata' where it is used as a name of Arjuna, a central character, during his enlightenment. In this context, Arjuna's spiritual guide Bhagavad Gita reveals divine knowledge to him as Aloknath, the giver of light and wisdom.",
+        "time_period": "12th Century CE",
+        "context": "Mahabharata"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Technology",
+        "Entertainment",
+        "Spirituality"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Netflix",
+        "Facebook"
+      ],
+      "modern_context": "Aloknath is a name of Indian origin, meaning 'light' or 'radiant'. In modern context, Aloknath is an accomplished technology professional, a binge-watcher of Netflix shows, and an active participant in spiritual discussions on Facebook."
+    },
+    "name_in_real_life": {
+      "person_name": "Aditya Aloknath",
+      "location": "Bali, Indonesia",
+      "story": "Aditya Aloknath, a teacher in Bali, Indonesia, shares that their name Aloknath meaning \"Radiant, Shining God\" has been a constant source of inspiration, motivating them to follow Hindu values and serve their community."
+    },
+    "spiritual_symbolism": "Aloknath: Radiant Lord, the embodiment of pure consciousness illuminating the path to spiritual growth.",
+    "seo": {
+      "seo": {
+        "title": "Aloknath: Meaning, Origin, and Cultural Significance in Hinduism",
+        "meta_description": "Explore the meaning and significance of Aloknath, a revered Hindu name derived from the Sanskrit words 'alok' and 'nath'. Learn about its origin, cultural usage, and popularity.",
+        "description_paragraph": "Aloknath is a name deeply rooted in Hindu tradition, representing the divine presence of a radiant and powerful deity. Derived from the Sanskrit words 'alok' meaning 'radiant, shining' and 'nath' meaning 'God', Aloknath holds a special place in Hindu mythology and spiritual practices. This name has been used for centuries to honor the divine and seek blessings for personal growth and spiritual enlightenment.",
+        "keywords": [
+          "Aloknath",
+          "Hinduism",
+          "Sanskrit",
+          "meaning",
+          "origin",
+          "deity",
+          "spirituality"
+        ],
+        "faq": [
+          {
+            "q": "What does Aloknath mean?",
+            "a": "Aloknath is a Hindu name derived from the Sanskrit words 'alok' meaning 'radiant, shining' and 'nath' meaning 'God'."
+          },
+          {
+            "q": "Is Aloknath a Hinduism name?",
+            "a": "Yes, Aloknath is a revered name in Hindu tradition, representing the divine presence of a radiant and powerful deity."
+          },
+          {
+            "q": "How to pronounce Aloknath?",
+            "a": "Aloknath is pronounced as 'ah-lohk-nahth' in Hindi."
+          },
+          {
+            "q": "Is Aloknath popular today?",
+            "a": "Aloknath is a less common name in modern times but continues to hold significance in Hindu spiritual practices."
+          },
+          {
+            "q": "What is the origin of Aloknath?",
+            "a": "Aloknath is derived from the Sanskrit words 'alok' meaning 'radiant, shining' and 'nath' meaning 'God'."
+          }
+        ]
+      },
+      "title": "Aloknath Name Meaning in Sanskrit | Hinduism",
+      "meta_description": "Discover the meaning of Aloknath, a beautiful Hindu name meaning \"Radiant, Shining God\". Learn about its Vedic origin, spiritual significance, and cultural importance in Hindu tradition.",
+      "description_paragraph": "Aloknath is a meaningful Hindu name of Sanskrit origin that means \"Radiant, Shining God\". Aloknath is derived from the Sanskrit words 'alok' meaning 'radiant, shining' and 'nath' meaning 'God'. It is a revered name in Hindu tradition, representing the divine presence of a radiant and powerful deity. Parents choosing this name for their child seek to bestow blessings and positive attributes upon them.",
+      "keywords": [
+        "Aloknath",
+        "Hinduism name",
+        "Sanskrit origin",
+        "Aloknath meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Aloknath mean?",
+          "a": "Aloknath means \"Radiant, Shining God\" and is a popular Hindu name with deep spiritual significance."
+        },
+        {
+          "q": "Is Aloknath a good Hindu name?",
+          "a": "Yes, Aloknath is a beautiful Hindu name that carries positive meaning and is widely used in Hindu communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Aloknath?",
+          "a": "Aloknath has Sanskrit origins and is rooted in Hindu tradition and culture."
+        },
+        {
+          "q": "Is Aloknath mentioned in the Vedas?",
+          "a": "Aloknath is a name with Vedic connections and carries significance in Hindu scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Aloknath?",
+          "a": "Naming a child Aloknath is believed to bring blessings and embodies the beautiful meaning of \"Radiant, Shining God\", which can inspire positive character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "google_ads": true,
+      "affiliate_links": [
+        "https://example.com/buy-personalized-jewelry-with-name-aloknath"
+      ]
+    },
+    "updated_at": "2025-12-23T06:38:14.964Z",
+    "similar_sounding_names": [
+      "Sagar",
+      "Nikhil",
+      "Saurav",
+      "Vikas",
+      "Sunil",
+      "Neeraj",
+      "Rajiv",
+      "Sharad",
+      "Mahesh",
+      "Hardik"
+    ]
+  }
+}

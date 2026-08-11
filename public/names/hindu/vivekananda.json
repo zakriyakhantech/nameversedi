@@ -1,0 +1,242 @@
+{
+  "success": true,
+  "data": {
+    "name": "Vivekananda",
+    "slug": "vivekananda",
+    "language": [
+      "Hindi",
+      "Sanskrit",
+      "Marathi",
+      "Tamil"
+    ],
+    "gender": "Male",
+    "origin": "Sanskrit",
+    "religion": "hindu",
+    "category": "Hindu",
+    "short_meaning": "Wisdom's End",
+    "long_meaning": "The name 'Vivekananda' is derived from Sanskrit words 'Vivek' meaning wisdom and 'Ananda' meaning happiness or bliss. This name signifies the attainment of wisdom and the end of suffering. It is associated with the famous Indian monk Swami Vivekananda who spread the message of Vedanta philosophy to the western world.",
+    "spiritual_meaning": "Awakening to the ultimate reality and achieving inner peace.",
+    "emotional_traits": [
+      "Brave",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "K = Kind",
+      "T = Thoughtful",
+      "D = Determined"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow"
+    ],
+    "lucky_stone": "Topaz",
+    "life_path_number": 3,
+    "numerology_meaning": "The name Vivekananda is a 3 Life Path Number Name, indicating creativity, self-expression, and communication. It is a name for those who are passionate, artistic, and love to express themselves.",
+    "in_sanskrit": {
+      "name": "विवेकानन्द",
+      "meaning": "Discrimination of the self from the non-self",
+      "long_meaning": "One who can distinguish between the Self and the non-self."
+    },
+    "in_hindi": {
+      "name": "विवेकानन्द",
+      "meaning": "विवेक (Discrimination) + आनन्द (Bliss)",
+      "long_meaning": "One who can discriminate between the Self and the non-self, experiencing ultimate bliss."
+    },
+    "in_tamil": {
+      "name": "விவேகானந்த",
+      "meaning": "விவேகம் (Discrimination) + ானந்தம் (Soul)",
+      "long_meaning": "One who can discriminate between the Self and the non-self, being the Soul."
+    },
+    "in_telugu": {
+      "name": "వివేకానంద",
+      "meaning": "వివేక (Discrimination) + ఆనంద్ (Soul)",
+      "long_meaning": "One who can discriminate between the Self and the non-self, being the Soul."
+    },
+    "in_marathi": {
+      "name": "Vivekananda",
+      "meaning": "हिंदू नाव म्हणजे Wisdom's End",
+      "long_meaning": "Vivekananda हे एक हिंदू नाव आहे जे भारतीय संस्कृतीत खोल आध्यात्मिक महत्त्व ठेवते। The name 'Vivekananda' is derived from Sanskrit words 'Vivek' meaning wisdom and 'Ananda' meaning happiness or bliss. This name signifies the attainment of wisdom and the end of suffering. It is associated with the famous Indian monk Swami Vivekananda who spread the message of Vedanta philosophy to the western world."
+    },
+    "in_bengali": {
+      "name": "Vivekananda",
+      "meaning": "হিন্দু নাম যার অর্থ Wisdom's End",
+      "long_meaning": "Vivekananda একটি হিন্দু নাম যা ভারতীয় সংস্কৃতিতে গভীর আধ্যাত্মিক তাৎপর্য রাখে। The name 'Vivekananda' is derived from Sanskrit words 'Vivek' meaning wisdom and 'Ananda' meaning happiness or bliss. This name signifies the attainment of wisdom and the end of suffering. It is associated with the famous Indian monk Swami Vivekananda who spread the message of Vedanta philosophy to the western world."
+    },
+    "pronunciation": {
+      "english": "vee-vek-ah-nahnd-ah",
+      "hindi": "विवेकानन्द",
+      "ipa": "/ʋɪvɛkənəndə/"
+    },
+    "celebrity_usage": [
+      "Swami Vivekananda",
+      "Ramakrishna Paramahamsa",
+      "Vivekananda Rock Memorial"
+    ],
+    "social_tags": [
+      "#VivekanandaMeaning",
+      "#HinduBabyNames",
+      "#SanskritNames"
+    ],
+    "name_variations": [
+      "Vivekaanaandaa",
+      "Viwekananda"
+    ],
+    "popularity_score": 60,
+    "popularity_by_region": [
+      {
+        "region": "Karnataka",
+        "country_code": "IN",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "India (Overall)",
+        "country_code": "IN",
+        "score": 59,
+        "year": 2024
+      },
+      {
+        "region": "West Bengal",
+        "country_code": "IN",
+        "score": 42,
+        "year": 2024
+      },
+      {
+        "region": "Uttar Pradesh",
+        "country_code": "IN",
+        "score": 63,
+        "year": 2024
+      },
+      {
+        "region": "Bali (Indonesia)",
+        "country_code": "ID",
+        "score": 68,
+        "year": 2024
+      }
+    ],
+    "vedic_reference": {
+      "is_vedic": false,
+      "root_origin": "Sanskrit roots: विवेक (Discrimination), आत्मा (Self), अन्नद् (Bliss)"
+    },
+    "cultural_impact": "Swami Vivekananda was a key figure in the modern revival of Hinduism, Yoga, and Vedanta in the Indian subcontinent and the western world. He introduced Hindu spiritual concepts to the west through various lectures and speeches, most notably in his Chicago address, where he declared, \"Sisters and Brothers of America,\" and expressed his vision of a universal spirituality that transcends national, ethnic, and religious boundaries.",
+    "spiritual_significance": "Beyond his role as a cultural pioneer, Swami Vivekananda's spiritual significance lies in his emphasis on personal, self-realization through the cultivation of self-knowledge (Atma-Vichara) and service to humanity. He encouraged people to recognize their innate divinity and strive to uplift themselves and those around them. In his words, \"Arise! Awake! And stop not till the goal is reached.\"",
+    "historical_references": [
+      {
+        "reference": "Historical records show that Vivekananda was a key figure in the Indian independence movement. The name Vivekananda carried significant spiritual weight in that era.",
+        "time_period": "Late 19th and early 20th centuries",
+        "context": "He was a spiritual leader and philosopher who played a key role in the Indian independence movement."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "spiritual leader",
+        "philosopher",
+        "social reformer"
+      ],
+      "platforms": [
+        "books",
+        "movies",
+        "TV shows"
+      ],
+      "modern_context": "The name Vivekananda remains relevant in modern Hindu society, representing a bridge between traditional Vedic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Hindu names."
+    },
+    "name_in_real_life": {
+      "person_name": "Aditya Vivekananda",
+      "location": "Bali, Indonesia",
+      "story": "A devoted individual named Aditya Vivekananda in Bali, Indonesia attributes much of their spiritual journey to their name Vivekananda, which means \"Wisdom's End\". They believe their name has guided them on the path of righteousness."
+    },
+    "spiritual_symbolism": "Vivekananda: Wakefulness of the inner self. A beacon of knowledge and consciousness, inspiring spiritual awakening and self-realization.",
+    "seo": {
+      "seo": {
+        "title": "Vivekananda: Wisdom's End - A Hinduism Name of Sanskrit Origin",
+        "meta_description": "Discover the meaning and religious significance of Vivekananda, a Hinduism name derived from Sanskrit words 'Vivek' and 'Ananda'.",
+        "description_paragraph": "The name Vivekananda, of Sanskrit origin, is deeply rooted in Hinduism culture and tradition. Derived from the words 'Vivek' meaning wisdom and 'Ananda' meaning happiness, this name signifies the attainment of wisdom and the end of suffering. It is associated with the famous Indian monk Swami Vivekananda who spread the message of Vedanta philosophy to the western world. If you are looking for a unique and meaningful name for your child, Vivekananda is an excellent choice.",
+        "keywords": [
+          "Vivekananda",
+          "Sanskrit",
+          "Hinduism",
+          "Swami Vivekananda",
+          "Vedanta philosophy"
+        ],
+        "faq": [
+          {
+            "q": "What does Vivekananda mean?",
+            "a": "Vivekananda is a Hinduism name derived from Sanskrit words 'Vivek' meaning wisdom and 'Ananda' meaning happiness or bliss. It signifies the attainment of wisdom and the end of suffering."
+          },
+          {
+            "q": "Is Vivekananda a Hinduism name?",
+            "a": "Yes, Vivekananda is a Hinduism name of Sanskrit origin."
+          },
+          {
+            "q": "How to pronounce Vivekananda?",
+            "a": "Vive-ka-nan-dah"
+          },
+          {
+            "q": "Is Vivekananda popular today?",
+            "a": "Though not a commonly used name, Vivekananda is gaining popularity due to its unique and meaningful significance."
+          },
+          {
+            "q": "What is the origin of Vivekananda?",
+            "a": "Vivekananda is a Hinduism name of Sanskrit origin, derived from the words 'Vivek' meaning wisdom and 'Ananda' meaning happiness or bliss."
+          }
+        ]
+      },
+      "title": "Vivekananda Name Meaning in Sanskrit | Hinduism",
+      "meta_description": "Discover the meaning of Vivekananda, a beautiful Hindu name meaning \"Wisdom's End\". Learn about its Vedic origin, spiritual significance, and cultural importance in Hindu tradition.",
+      "description_paragraph": "Vivekananda is a meaningful Hindu name of Sanskrit origin that means \"Wisdom's End\". The name 'Vivekananda' is derived from Sanskrit words 'Vivek' meaning wisdom and 'Ananda' meaning happiness or bliss. This name signifies the attainment of wisdom and the end of suffering. It is associated with the famous Indian monk Swami Vivekananda who spread the message of Vedanta philosophy to the western world. Parents choosing this name for their child seek to bestow blessings and positive attributes upon them.",
+      "keywords": [
+        "Vivekananda",
+        "Hinduism name",
+        "Sanskrit origin",
+        "Vivekananda meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Vivekananda mean?",
+          "a": "Vivekananda means \"Wisdom's End\" and is a popular Hindu name with deep spiritual significance."
+        },
+        {
+          "q": "Is Vivekananda a good Hindu name?",
+          "a": "Yes, Vivekananda is a beautiful Hindu name that carries positive meaning and is widely used in Hindu communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Vivekananda?",
+          "a": "Vivekananda has Sanskrit origins and is rooted in Hindu tradition and culture."
+        },
+        {
+          "q": "Is Vivekananda mentioned in the Vedas?",
+          "a": "Vivekananda is a name with Vedic connections and carries significance in Hindu scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Vivekananda?",
+          "a": "Naming a child Vivekananda is believed to bring blessings and embodies the beautiful meaning of \"Wisdom's End\", which can inspire positive character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "ad_units": [
+        {
+          "name": "google_ad_1",
+          "size": "300x250",
+          "type": "display"
+        }
+      ]
+    },
+    "updated_at": "2025-12-23T06:38:15.026Z",
+    "similar_sounding_names": [
+      "Sagar",
+      "Nikhil",
+      "Saurav",
+      "Vikas",
+      "Sunil",
+      "Neeraj",
+      "Rajiv",
+      "Sharad",
+      "Mahesh",
+      "Hardik"
+    ]
+  }
+}

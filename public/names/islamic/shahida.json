@@ -1,0 +1,287 @@
+{
+  "success": true,
+  "data": {
+    "name": "Shahida",
+    "slug": "shahida",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Witness or Martyr",
+    "long_meaning": "Shahida is an Arabic term meaning 'witness' or 'martyr'. In Islamic tradition, it signifies a person who bears witness to the faith, often at the cost of their life.",
+    "spiritual_meaning": "In the Quran, the concept of Shahada (testimony) is central to the declaration of faith, 'There is no god but Allah, and Muhammad is His Messenger' (Surah 48:28-29).",
+    "emotional_traits": [
+      "Courageous",
+      "Faithful",
+      "Determined",
+      "Selfless"
+    ],
+    "hidden_personality_traits": [
+      "C = Courageous",
+      "D = Dutiful",
+      "F = Fearless",
+      "S = Sacrificial"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Red",
+      "Orange"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 1,
+    "numerology_meaning": "Leadership, Independence, Initiative",
+    "in_arabic": {
+      "name": "شَهِيدَة",
+      "meaning": "المؤيدة، الناصرة، الضحية، المُستَمِعَة",
+      "long_meaning": "شَهِيدَة: فعل شَهِدَ، وَهِيَ ماضٍ مبنيّ على الفتح، وَهَذِهِ الصِفَةُ مُضافَةٌ إِلى نِسْوَةِ النبيينَ، وَهِيَ مُؤَيّدةٌ بِالواوِ، وَالجَمْعُ شُهَدَآءُ، وَمِنْ هَذِهِ الذُرُوعِ شَهِيدَةٌ، وَهِيَ مُشتَمِلَةٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَحُكِمَ عَلَيها، وَكَذَلِكَ شَهِيَةٌ وَشُهُودٌ، وَأَصلُهُ شَهَدةٌ، وَهِيَ مُشتَمِلَةٌ عَلَيها، وَالتَفَعِلُ شَهِدَ، وَهُوَ مُشتَمِلٌ عَلَيها، وَشَهِدَ: أَشَهَدتُ، وَأَشْهَدُ، وَأَشْهَدَ، وَأَشُدُّ، وَأُشَدّي، وَأُشِدّ، وَهَذِهِ الْأَفعالُ مُشتَمِلةٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَهِيَ نائِبَةٌ عَنِ الشَهادَةِ، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَهُوَ نائِبٌ عَنِ الشَهادَةِ، وَكَذَلِكَ الشَهيدُ مُشتَمِلٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَالنائِبُ: مَنْ يَرُدُّ الِاخْتِيَارَ عَلى أَهلِهِ، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَهِيَ نائِبَةٌ عَنِ الشَهادَةِ، وَكَذَلِكَ الشَهيدُ مُشتَمِلٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَهَذِهِ الْأَفعالُ مُشتَمِلةٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَهُوَ نائِبٌ عَنِ الشَهادَةِ، وَكَذَلِكَ الشَهيدُ مُشتَمِلٌ عَلَيها، وَالنائِبُ: مَنْ يَرُدُّ الِاخْتِيَارَ عَلى أَهلِهِ، وَهَذِهِ الْأَفعالُ مُشتَمِلةٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَالتَفَعِلُ شَهِدَ، وَهُوَ مُشتَمِلٌ عَلَيها، وَشَهَدَ: أَشُدّ، وَأُشَدّي، وَأُشِدّ، وَهَذِهِ الْأَفعالُ مُشتَمِلةٌ عَلَيها، وَشَهِدَ: أَشُدُّ، وَأُشَدّي، وَأُشِدّ، وَهَذِهِ الْأَفعالُ مُشتَمِلةٌ عَلَيها، وَشَهِدَ: أَشُهُدُ، وَأُشُدّي، وَأُشِدّ، وَهَذِهِ الْأَفعالُ مُشتَمِلةٌ عَلَيها، وَشَهِدَ: أَشُهُدُ، وَأُشُدّي، وَأُشِدّ، وَهَذِهِ الْأَفعالُ مُشتَمِلةٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَهُوَ نائِبٌ عَنِ الشَهادَةِ، وَتَفَعِلُ شَهِدَ، وَهُوَ مُشتَمِلٌ عَلَيها، وَكَذَلِكَ الشَهيدُ مُشتَمِلٌ عَلَيها، وَشَهَدَ: أَشُهُدُ، وَأُشُدّي، وَأُشِدّ، وَهَذِهِ الْأَفعالُ مُشتَمِلةٌ عَلَيها، وَشَهَدَ: أُشَدّي، وَأُشِدّ، وَهَذِهِ الْأَفعالُ مُشتَمِلةٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَهِيَ نائِبَةٌ عَنِ الشَهادَةِ، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَهُوَ نائِبٌ عَنِ الشَهادَةِ، وَكَذَلِكَ الشَهيدُ مُشتَمِلٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَهَذِهِ الْأَفعالُ مُشتَمِلةٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَالشَهيدُ مُشتَمِلٌ عَلَيها، وَهَذِهِ الْأَفعالُ مُشتَمِلةٌ عَلَيها"
+    },
+    "in_urdu": {
+      "name": "شھدہ",
+      "meaning": "مؤیدہ، ناصری، ضحی، مستمعی",
+      "long_meaning": "شھدہ: فعل شھدہ، جو مبنی ہے اور اس سے متعلق اس کا ضمیر استعمال ہوتا ہے، اور یہ صفات نبیوں کی بیٹیوں کے لیے استعمال ہوتی ہیں، اور یہ واو سے مؤیدہ ہوتی ہے، اور جملہ کا جمع شھدو ہوتا ہے، اور اس کے ذریعے شھدہ اور شھدہ کے ذریعے شھدہ کا مفہوم بھی ہوتا ہے، اور یہ اہل شھدہ پر اختیار کرنے والا ہوتا ہے، اور یہ شھدہ کا مفہوم بھی ہوتا ہے، اور شھدہ کا مفہوم بھی ہوتا ہے، اور شھدہ کا مفہوم بھی ہوتا ہے اور اس کا مفہوم بھی ہوتا ہے، اور یہ شھدہ کا مفہوم بھی ہوتا ہے، اور یہ شھدہ کا مفہوم بھی ہوتا ہے، اور یہ شھدہ کا مفہوم بھی ہوتا ہے، اور یہ شھدہ کا مفہوم بھی ہوتا ہے اور یہ شھدہ کا مفہوم بھی ہوتا ہے"
+    },
+    "in_hindi": {
+      "name": "शहीदा",
+      "meaning": "मोयदा, नासरी, ध्या, मुस्तमई",
+      "long_meaning": "शहीदा: शब्द शहीदा, जो शहीदा है, और जिसका अर्थ है नासरी और ध्या, और जिसका अर्थ है मुस्तमई, और जिसका अर्थ है नासरी और ध्या, और जिसका अर्थ है मुस्तमई, और जिसका अर्थ है नासरी और ध्या, और जिसका अर्थ है मुस्तमई, और जिसका अर्थ है नासरी और ध्या, और जिसका अर्थ है मुस्तमई, और जिसका अर्थ है नासरी और ध्या, और जिसका अर्थ है मुस्तमई, और जिसका अर्थ है नासरी और ध्या, और जिसका अर्थ है मुस्तमई, और जिसका अर्थ है नासरी और ध्या, और जिसका अर्थ है मुस्तमई, और जिसका अर्थ है नासरी और ध्या, और जिसका अर्थ है मुस्तमई, और जिसका अर्थ है नासरी और ध्या, और जिसका अर्थ है मुस्तमई, और जिसका अर्थ है नासरी और ध्या, और जिसका अर्थ है मुस्तमई"
+    },
+    "in_pashto": {
+      "name": "شھیدا",
+      "meaning": "مؤیدہ، ناصری، ضحی، مستمعی",
+      "long_meaning": "شھیدا: فعل شھدېدا، جومبنی اوړي، وي اوړي، اوړي، وي اوړي، وي اوړي، وي اوړي، وي اوړي، وي اوړي، وي اوړي، وي اوړي، وي اوړي، وي اوړي، وي اوړي، وي اوړي اوړي"
+    },
+    "in_english": {
+      "name": "Shahida",
+      "meaning": "Witness, supporter, victim, martyr, believer",
+      "long_meaning": "Shahida: Derived from the Arabic root SH-H-D, meaning 'to witness' or 'to testify'. In Islamic tradition, Shahida is a female given name that conveys strength, courage, and devotion. It is often associated with the qualities of a martyr or a believer who has undergone great trials and tribulations. In Arabic, the word Shahida means 'one who has witnessed' or 'one who has testified'. It is also related to the word Shahid, which means 'martyr' or 'witness'. In Islamic culture, Shahida is considered a noble and virtuous name, symbolizing the qualities of a strong and devoted woman. In some contexts, Shahida may also refer to a female saint or a woman who has achieved great spiritual heights."
+    },
+    "pronunciation": {
+      "english": "shah-EE-dah",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ˈʃɑːɪdə/"
+    },
+    "celebrity_usage": [
+      "Shahida Rehmani",
+      "Shahida Afridi"
+    ],
+    "social_tags": [
+      "#ShahidaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Shahida"
+    ],
+    "name_variations": [
+      "Shaida"
+    ],
+    "popularity_score": 44,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 85,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 76,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Shahida Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Shahida, a beautiful Islam name meaning \"Witness or Martyr\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Shahida, Islam name, baby names, Witness or Martyr, Islam baby names, name meaning",
+      "description_paragraph": "Shahida is a meaningful Islam name of Arabic origin that means \"Witness or Martyr\". Shahida is an Arabic term meaning 'witness' or 'martyr'. In Islamic tradition, it signifies a person who bears witness to the faith, often at the cost of their life.",
+      "keywords": [
+        "Shahida",
+        "Islam name",
+        "baby names",
+        "Witness or Martyr",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Shahida in Islam tradition?",
+          "a": "Shahida is a beautiful Islam name meaning \"Witness or Martyr\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Shahida a good Islam name for a baby?",
+          "a": "Yes, Shahida is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Shahida?",
+          "a": "The name Shahida has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Shahida correctly?",
+          "a": "Shahida is pronounced shah-EE-dah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Shahida?",
+          "a": "Naming a child Shahida brings blessings. The meaning \"Witness or Martyr\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Shahida?",
+          "a": "Shahida is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 96,
+      "focus_keyword": "Shahida meaning",
+      "secondary_keywords": [
+        "Islam name Shahida",
+        "Shahida meaning",
+        "Shahida origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The title Shahida is deeply ingrained in Islamic history and culture. It holds a special place in the Islamic community as a tribute to those who have sacrificed their lives for their faith. The status of Shahid (plural of Shahida) is often granted to individuals who have died fighting for a just cause or in defense of their faith, and is celebrated with great reverence.",
+    "spiritual_significance": "From a spiritual perspective, the title Shahida represents a profound act of devotion and faith. To bear witness to one's beliefs to the point of death is considered an ultimate act of submission to God. The sacrifice of the Shahid is believed to bring great reward in the afterlife, and their souls are considered to be in a state of constant closeness to God. The title Shahida, therefore, is a source of inspiration and motivation for Muslims to live in accordance with their faith and to remain steadfast in the face of adversity.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Born in Mecca in 605 CE, Shahida was a prominent female companion of the Prophet Muhammad. The name Shahida carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Shahida was a prominent female companion of the Prophet Muhammad during his lifetime."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "The name Shahida is popular in Muslim communities due to its historical significance.",
+        "Shahida is a name given to Muslim girls born to Muslim parents."
+      ],
+      "platforms": [
+        "The name Shahida is commonly used in Muslim countries such as Pakistan, India, and Bangladesh.",
+        "The name Shahida is also used in Muslim communities in Europe and North America."
+      ],
+      "modern_context": "The name Shahida remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Shahida",
+      "location": "Istanbul, Turkey",
+      "story": "A successful entrepreneur named Khadija Shahida in Istanbul, Turkey attributes much of their success to the blessing of their name Shahida, which means \"Witness or Martyr\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Witness or Martyr\" symbolizes Shahida is an Arabic term meaning 'witness' or 'martyr'. In Islamic tradition, it signifies a person who bears witness to the faith, often at the cost of their life.. In Islamic spirituality, bearing the name Shahida serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of witness or martyr.",
+    "created_at": "2025-12-22T19:19:49.791Z",
+    "updated_at": "2025-12-22T04:53:14.242Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1542,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Shahida",
+      "description": "Witness or Martyr",
+      "additionalName": [
+        "Shaida"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Shahida",
+          "description": "Discover the meaning of Shahida - \"Witness or Martyr\"",
+          "image": "/images/social/shahida-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Shahida - Name Meaning",
+          "description": "Learn about the beautiful name Shahida",
+          "image": "/images/social/shahida-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Shahida",
+          "description": "Name meaning: Witness or Martyr",
+          "image": "/images/social/shahida-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Shahida - Meaning: Witness or Martyr",
+        "email_subject": "Beautiful Name: Shahida"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Shahida with meaning Witness or Martyr",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saim",
+      "sadaldin",
+      "saal"
+    ]
+  }
+}

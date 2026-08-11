@@ -1,0 +1,226 @@
+{
+  "success": true,
+  "data": {
+    "name": "Heliodor",
+    "slug": "heliodor",
+    "language": [
+      "English",
+      "Greek"
+    ],
+    "gender": "Male",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Saint",
+    "short_meaning": "Sun-gifted",
+    "long_meaning": "Derived from the Greek word helios, meaning sun, and doron, meaning gift. Heliodor can be interpreted as 'sun-gifted' or 'gift of the sun'. In Christianity, Saint Heliodor was a Greek saint and martyr who is said to have been a doctor who was martyred during the persecutions of Decius in the early 3rd century AD.",
+    "spiritual_meaning": "Represents the light of faith, illuminating the path of the believer.",
+    "emotional_traits": [
+      "Courageous",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "L=Loyal",
+      "S=Strong"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Orange",
+      "Yellow"
+    ],
+    "lucky_stone": "Tiger's Eye",
+    "life_path_number": 6,
+    "numerology_meaning": "Heliodor is a name that signifies creativity, nurturing, and service to others.",
+    "in_hebrew": {
+      "name": "הליוֹדור",
+      "meaning": "מתנת השמש הילד נולד לשמש",
+      "long_meaning": "הליוֹדור הוא שם שמקורו ביוונית ומשמעותו 'מתנת השמש'. השם מורכב מ'הליוֹס' (שמש) ו'דור' (מתנה). הוא שם נדיר שניתן לתינוקות נוצרים, המסמל את האור והחיים שמביאה השמש."
+    },
+    "in_greek": {
+      "name": "Ἠλιόδωρος",
+      "meaning": "δῶρον τοῦ ἡλίου γεννημένος",
+      "long_meaning": "Ἠλιόδωρος (Ἠλιόδωρος) συνδυάζει τὰ ἡλιος (ήλιος) καὶ δωρον (δῶρον), σημαίνοντας 'δῶρον τοῦ ἡλίου'. Σπάνιος ὀνομάζεται σὲ νεογέννητα τοῦ Χριστιανισμοῦ, συμβολίζοντας τὴν πηγή τοῦ φωτός καὶ τῆς ζωῆς."
+    },
+    "in_latin": {
+      "name": "Heliodor",
+      "meaning": "Gift of the Sun, Born of the Sun",
+      "long_meaning": "Heliodor, derived from Greek Ἠλιόδωρος, combines ἡλιος (helios), meaning sun, and δωρον (doron), meaning gift. This name, rare in Christian tradition, signifies the light and life-giving properties of the sun, embodying spiritual illumination and divine favor."
+    },
+    "in_english": {
+      "name": "Heliodor",
+      "meaning": "Gift of the Sun, Born of the Sun",
+      "long_meaning": "Heliodor originates from Greek Ἠλιόδωρος, combining ἡλιος (helios), meaning sun, and δωρον (doron), meaning gift. This Christian name symbolizes the sun's life-giving properties and spiritual illumination. Though rare, it represents divine favor and the light of God. Historically, it may relate to early Christian martyrs or saints, embodying virtues of radiance and generosity."
+    },
+    "pronunciation": {
+      "english": "hee-lee-OH-door",
+      "biblical": "",
+      "ipa": "/ˌhiːliːˈɒdɔːr/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#HeliodorMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Heliodor"
+    ],
+    "name_variations": [],
+    "popularity_score": 60,
+    "popularity_by_region": [
+      {
+        "region": "Spain",
+        "country_code": "ES",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "United States",
+        "country_code": "US",
+        "score": 64,
+        "year": 2024
+      },
+      {
+        "region": "United Kingdom",
+        "country_code": "UK",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "France",
+        "country_code": "FR",
+        "score": 41,
+        "year": 2024
+      }
+    ],
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "saint_reference": {
+      "is_saint_name": true,
+      "saint_name": "Heliodorus",
+      "note": "A 4th-century bishop and martyr."
+    },
+    "cultural_impact": "The name Heliodor emphasizes the ancient Greek influence on Christian naming practices, showcasing the blending of cultures and beliefs. Heliodor could have been a name given to a child born during periods of Hellenized Christianity or in communities where Greek culture held significant influence.",
+    "spiritual_significance": "The spiritual significance of Heliodor lies in its meaning as a 'sun-gifted' or 'gift of the sun'. This name can be taken as a reminder of the spiritual gifts bestowed upon us by God, just as the sun provides us with the physical gifts of light and warmth. The name also brings to mind the idea of the sun as a symbol of Christ, the Son of God, shedding light in the world. Ultimately, Heliodor serves as a reminder that all good gifts come from God and that we are to use these gifts in service to Him.",
+    "historical_references": [
+      {
+        "reference": "Heliodorus was a Greek treasurer who seized the temple treasures of Jerusalem in 162 BC and brought them to Antioch, where they were used to finance the campaign of Antiochus VII against his brother Demetrius II. This event is described in the historical works of Josephus and Appian.",
+        "time_period": "Late Hellenistic period",
+        "context": "Annexation of Judea by the Seleucid Empire"
+      },
+      {
+        "reference": "Another Heliodorus was a bishop of Thessalonica in the late 4th century AD. He was a prominent leader in the Orthodox Church and is chiefly known for his role in the First Council of Constantinople in 330 AD, where he advocated for the primacy of the bishop of Constantinople over the bishops of the Eastern provinces.",
+        "time_period": "Early Christian period",
+        "context": "Theological debates within the Early Christian Church"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Heliodor is a given name of ancient Greek origin, meaning 'giver of light'. It is a rare name, but it has seen a slight increase in popularity in recent years.",
+        "The name Heliodor has been used in various works of literature, particularly in fantasy and science fiction genres. It is often given to characters who have a connection to the light or the sun.",
+        "In contemporary culture, the name Heliodor has been used as a unique and unconventional choice for personal names, particularly for babies."
+      ],
+      "platforms": [
+        "Goodreads: The name Heliodor appears in various book titles and author names on Goodreads.",
+        "Redbubble: Heliodor is a popular name for artwork and designs on Redbubble, particularly for sun-themed and fantasy-inspired pieces.",
+        "IMDb: Some films and TV shows with characters named Heliodor can be found on IMDb."
+      ],
+      "modern_context": "The name Heliodor remains relevant in modern Christian society, representing a bridge between traditional Biblical values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Christian names."
+    },
+    "name_in_real_life": {
+      "person_name": "Thomas Heliodor",
+      "location": "New York, United States",
+      "story": "Thomas Heliodor from New York, United States embodies the meaning of Heliodor - \"Sun-gifted\". Raised in a Christian family, they were taught to honor the significance of their name and walk in faith throughout their life."
+    },
+    "spiritual_symbolism": "Heliodor means \"gift of the sun God\" in Greek. It symbolizes the light and divine grace bestowed upon an individual. It is a name of hope and enlightenment, reminding us of the radiant power of the sun and the warmth of God's love.",
+    "seo": {
+      "seo": {
+        "title": "Heliodor: The Greek Christian Name Meaning 'Sun-Gifted'",
+        "meta_description": "Discover the meaning, origin, and religious significance of the Greek Christian name Heliodor. Derived from the Greek words helios (sun) and doron (gift), Heliodor can be interpreted as 'sun-gifted'. Learn about its usage in Christianity and its cultural appeal.",
+        "description_paragraph": "The name Heliodor is of Greek origin and is rooted in the ancient Greek language. It is derived from the Greek words helios, meaning sun, and doron, meaning gift. The name Heliodor can be interpreted as 'sun-gifted' or 'gift of the sun'. In Christianity, Saint Heliodor was a Greek saint and martyr who is said to have been a doctor who was martyred during the persecutions of Decius in the early 3rd century AD. This name has a rich cultural and religious history, making it an appealing choice for those seeking a name with deep meaning and significance.",
+        "keywords": [
+          "Heliodor",
+          "Greek",
+          "Christianity",
+          "Saint",
+          "Martyr"
+        ],
+        "faq": [
+          {
+            "q": "What does Heliodor mean?",
+            "a": "Heliodor is a Greek name that can be interpreted as 'sun-gifted' or 'gift of the sun'. It is derived from the Greek words helios (sun) and doron (gift)."
+          },
+          {
+            "q": "Is Heliodor a Christianity name?",
+            "a": "Yes, in Christianity, Saint Heliodor was a Greek saint and martyr who is said to have been a doctor who was martyred during the persecutions of Decius in the early 3rd century AD."
+          },
+          {
+            "q": "How to pronounce Heliodor?",
+            "a": "HE-lee-oh-dor"
+          },
+          {
+            "q": "Is Heliodor popular today?",
+            "a": "Heliodor is not a commonly used name today."
+          },
+          {
+            "q": "What is the origin of Heliodor?",
+            "a": "The name Heliodor is of Greek origin and is derived from the Greek words helios (sun) and doron (gift)."
+          }
+        ]
+      },
+      "title": "Heliodor Name Meaning in Greek | Christianity",
+      "meta_description": "Discover the meaning of Heliodor, a beautiful Christian name meaning \"Sun-gifted\". Learn about its Biblical origin, spiritual significance, and cultural importance in Christian tradition.",
+      "description_paragraph": "Heliodor is a meaningful Christian name of Greek origin that means \"Sun-gifted\". Derived from the Greek word helios, meaning sun, and doron, meaning gift. Heliodor can be interpreted as 'sun-gifted' or 'gift of the sun'. In Christianity, Saint Heliodor was a Greek saint and martyr who is said to have been a doctor who was martyred during the persecutions of Decius in the early 3rd century AD. Parents choosing this name for their child seek to bestow blessings and godly attributes upon them.",
+      "keywords": [
+        "Heliodor",
+        "Christianity name",
+        "Greek origin",
+        "Heliodor meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Heliodor mean?",
+          "a": "Heliodor means \"Sun-gifted\" and is a popular Christian name with deep spiritual significance."
+        },
+        {
+          "q": "Is Heliodor a good Christian name?",
+          "a": "Yes, Heliodor is a beautiful Christian name that carries positive meaning and is widely used in Christian communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Heliodor?",
+          "a": "Heliodor has Greek origins and is rooted in Christian tradition and culture."
+        },
+        {
+          "q": "Is Heliodor mentioned in the Bible?",
+          "a": "Heliodor is a name with Biblical connections and carries significance in Christian scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Heliodor?",
+          "a": "Naming a child Heliodor is believed to bring blessings and embodies the beautiful meaning of \"Sun-gifted\", which can inspire godly character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "google_adsense": {
+        "ad_unit_id": "ca-pub-1234567890123456"
+      }
+    },
+    "updated_at": "2025-12-23T04:50:20.601Z",
+    "similar_sounding_names": [
+      "abeliel",
+      "Abijah",
+      "Adalyn",
+      "Adelaide",
+      "Adele",
+      "Adonella",
+      "Agnes",
+      "Agnieszka",
+      "Aimee",
+      "Alarice"
+    ]
+  }
+}

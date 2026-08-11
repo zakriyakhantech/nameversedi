@@ -1,0 +1,42 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getManifest } from "../lib/data/astro-data.mjs";
+
+const manifest = getManifest();
+const origins = new Map();
+for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
+  for (const item of manifest[rel] || []) {
+    if (item.origin) {
+      origins.set(item.origin, (origins.get(item.origin) || 0) + 1);
+    }
+  }
+}
+const topOrigins = Array.from(origins.entries())
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 30)
+  .map(([origin]) => origin);
+---
+
+<Layout title="Names by Origin | NameVerse" description="Browse baby names by linguistic and cultural origin: Arabic, Sanskrit, Hebrew, Latin and more.">
+  <main class="nv-page min-h-screen">
+    <div class="nv-container nv-section">
+      <div class="mx-auto max-w-4xl">
+        <h1 class="nv-display text-3xl font-bold text-nv-text sm:text-4xl">Names by Origin</h1>
+        <p class="mt-2 text-nv-text-secondary">Explore names grouped by linguistic and cultural origin.</p>
+
+        <div class="mt-8 flex flex-wrap gap-2">
+          {
+            topOrigins.map((origin) => (
+              <a
+                href={`/search?q=${encodeURIComponent(origin + ' names')}`}
+                class="rounded-full border border-nv-border bg-white/70 px-4 py-2 text-sm font-bold text-nv-text transition hover:border-[color:var(--nv-accent-2)] hover:bg-[color:var(--nv-accent-2)] hover:text-white"
+              >
+                {origin}
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </div>
+  </main>
+</Layout>

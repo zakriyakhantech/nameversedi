@@ -1,0 +1,299 @@
+{
+  "success": true,
+  "data": {
+    "name": "Sahabah",
+    "slug": "sahabah",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Companions, Supporters",
+    "long_meaning": "People who were with the Prophet Muhammad (peace be upon him) during his mission in Mecca and Medina.",
+    "spiritual_meaning": "Symbolizes loyalty, companionship, and support in one's spiritual journey.",
+    "emotional_traits": [
+      "Loyalty",
+      "Supportiveness",
+      "Devotion"
+    ],
+    "hidden_personality_traits": [
+      "Selflessness",
+      "Humility",
+      "Perseverance"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 11,
+    "numerology_meaning": "Intuition, Illumination, and Enlightenment.",
+    "in_arabic": {
+      "name": "صحابة",
+      "meaning": "أصحاب النبي محمد، أتباعه، والذين آمنوا به",
+      "long_meaning": "الصحابة هم أصحاب النبي محمد صلى الله عليه وسلم، الذين آمنوا به واتبعوه، وهم أولئك الذين كانوا معه في حياته، وهم الذين نقلوا إلينا تعاليم الإسلام ومكارم الأخلاق. يعتبر الصحابة من أفضل الناس بعد الأنبياء، وقد ورد ذكرهم في القرآن الكريم في عدة مواضع، مثل قوله تعالى: 'وَالسَّابِقُونَ الْأَوَّلُونَ مِنَ الْمُهَاجِرِينَ وَالْأَنْصَارِ وَالَّذِينَ اتَّبَعُوهُمْ بِإِحْسَانٍ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ' (التوبة: 100)."
+    },
+    "in_urdu": {
+      "name": "صحابہ",
+      "meaning": "نبی محمد صلی اللہ علیہ وسلم کے اصحاب، پیروکار",
+      "long_meaning": "صحابہ نبی محمد صلی اللہ علیہ وسلم کے وہ اصحاب ہیں جنہوں نے ایمان قبول کیا اور ان کا پیروی کیا۔ وہ رسول اللہ کے ساتھی تھے جنہوں نے اسلام کی تعلیمات کو آگے بڑھایا اور اخلاق کی اچھی خصوصیات کو اپنایا۔ قرآن کریم میں صحابہ کا ذکر کئی جگہوں پر کیا گیا ہے، جیسے کہ سورہ توبہ کی آیت نمبر 100 میں: 'والسابقون الاولون من المهاجرين والانصار والذين اتبعوهم باحسان رضي الله عنهم ورضوا عنه' ۔"
+    },
+    "in_hindi": {
+      "name": "सहाबा",
+      "meaning": "नबी मुहम्मद के साथी, उनके अनुयायी",
+      "long_meaning": "सहाबा वे लोग हैं जिन्होंने नबी मुहम्मद सल्लल्लाहु अलैहि वसल्लम के साथ रहते हुए उनकी शिक्षाओं को अपनाया और उनका अनुसरण किया। ये वे लोग हैं जिन्होंने इस्लाम की शिक्षाओं को आगे बढ़ाया और अच्छे चरित्र को अपनाया। कुरआन में सहाबा का उल्लेख कई स्थानों पर किया गया है, जैसे कि सूरा तौबा की आयत 100 में: 'والسابقون الاولون من المهاجرين والانصار والذين اتبعوهم باحسان رضي الله عنهم ورضوا عنه' ।"
+    },
+    "in_pashto": {
+      "name": "صحابه",
+      "meaning": "د نبي محمد صلی الله عليه وسلم ملګري، پيروي کوونکي",
+      "long_meaning": "صحابه د نبي محمد صلی الله عليه وسلم هغه ملګري دي چي ایمان يې راوړ او ده ته يې پيروي وکړه. دوی د رسول الله سره د هغه په ژوند کي ملګري وو، او دوی چي اسلامي تعليمات يې راسپ کړي او ښې اخلاق يې منل. په قرآن کريم کي د صحابه ذکر په ډيرو ځايونو کي شوی دی، لکه د توبې سورت ايت 100: 'والسابقون الاولون من المهاجرين والانصار والذين اتبعوهم باحسان رضي الله عنهم ورضوا عنه' ."
+    },
+    "in_english": {
+      "name": "Sahabah",
+      "meaning": "Companions of Prophet Muhammad, his followers and disciples",
+      "long_meaning": "The Sahabah are the companions of Prophet Muhammad (peace be upon him) who believed in him and followed his teachings. They were his closest associates during his lifetime, and played a crucial role in spreading Islam and its values. The Sahabah are considered to be the best of people after the prophets, and are mentioned in the Quran in several places, such as Surah Tawbah, verse 100: 'And the first forerunners [in the faith] among the Muhajireen and the Ansar and those who followed them with good conduct - Allah is pleased with them and they are pleased with Him...'. The term 'Sahabah' is derived from the Arabic root 's-h-b', which means 'to accompany' or 'to be with'."
+    },
+    "pronunciation": {
+      "english": "sah-ah-bah",
+      "urdu": "صحابہ کا تلفظ: سَہابَہ",
+      "hindi": "सहाबा का उच्चारण: सहाबा",
+      "pashto": "د صحابه تلفظ: سَها بَه",
+      "ipa": "/sɑːˈhɑːbɑː/"
+    },
+    "celebrity_usage": [
+      "Unknown"
+    ],
+    "social_tags": [
+      "#SahabahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Sahabah"
+    ],
+    "name_variations": [
+      "Saabah"
+    ],
+    "popularity_score": 59,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 70,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 70,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Sahabah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Sahabah, a beautiful Islam name meaning \"Companions, Supporters\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Sahabah, Islam name, baby names, Companions, Supporters, Islam baby names, name meaning",
+      "description_paragraph": "Sahabah is a meaningful Islam name of Arabic origin that means \"Companions, Supporters\". People who were with the Prophet Muhammad (peace be upon him) during his mission in Mecca and Medina.",
+      "keywords": [
+        "Sahabah",
+        "Islam name",
+        "baby names",
+        "Companions, Supporters",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Sahabah in Islam tradition?",
+          "a": "Sahabah is a beautiful Islam name meaning \"Companions, Supporters\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Sahabah a good Islam name for a baby?",
+          "a": "Yes, Sahabah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Sahabah?",
+          "a": "The name Sahabah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Sahabah correctly?",
+          "a": "Sahabah is pronounced sah-ah-bah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Sahabah?",
+          "a": "Naming a child Sahabah brings blessings. The meaning \"Companions, Supporters\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Sahabah?",
+          "a": "Sahabah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Sahabah meaning",
+      "secondary_keywords": [
+        "Islam name Sahabah",
+        "Sahabah meaning",
+        "Sahabah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The Sahabah, or Companions of the Prophet Muhammad (peace be upon him), are considered the architects of the Islamic civilization, playing a crucial role in the formative period of the early Muslim community. They were instrumental in spreading the message of Islam, developing Islamic laws and practices, and building the first Islamic state in Medina. The Sahabah's dedication, leadership, and sacrifices have had an enduring impact on Muslim history and are celebrated as exemplars of Muslim virtues and heroism.",
+    "spiritual_significance": "The Sahabah hold a special place in Islamic tradition as being in close proximity to the Prophet Muhammad (peace be upon him) and having followed his teachings directly. They are regarded as having set a high standard of conduct for Muslims to emulate. The Sahabah's lives and stories provide inspiration and guidance for Muslims to strive for excellence in their faith, and their examples are often cited in various branches of Islamic scholarship and in practical applications of Islamic ethics. Their companionship with the Prophet Muhammad (peace be upon him) is also seen as a spiritual bond that unites Muslims across time and space.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "The Sahabah were the companions of Prophet Muhammad (pbuh) during his lifetime in Medina. They were the first generation of Muslims and are considered the foundation of the Islamic community.",
+        "time_period": "622-632 CE (the Prophet's migration to Medina until his death)",
+        "context": "Prophet Muhammad's mission in Mecca and his initial followers were known as Ansar (helpers), but when he migrated to Medina, his companions from Mecca became known as Sahabah (companions)."
+      },
+      {
+        "reference": "The Sahabah played a crucial role in the expansion of the Islamic state and the consolidation of the early Islamic community. They were instrumental in the military conquests of the first Caliphs and the spread of Islam beyond the Arabian Peninsula.",
+        "time_period": "632-661 CE (the Rashidun Caliphate)",
+        "context": "After the Prophet's death, the Rashidun Caliphs, who were the first Islamic political leaders, relied heavily on the Sahabah for their military and administrative expertise to establish and expand the Islamic state."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Islamic History",
+        "Islamic Studies",
+        "Muslim Community"
+      ],
+      "platforms": [
+        "Academic Research",
+        "Social Media",
+        "Educational Institutions"
+      ],
+      "modern_context": "The term 'Sahabah' refers to the companions of the Prophet Muhammad (pbuh) during his lifetime. In the modern context, this term is used extensively in Islamic History, Islamic Studies, and the Muslim Community. On Academic Research platforms, Sahabah are studied in great detail to understand their lives, contributions, and the early Islamic history. Social Media platforms play a significant role in popularizing the Sahabah narratives and spreading awareness about their lives and deeds. Educational Institutions, particularly those specializing in Islamic Studies, offer courses and programs that focus on the Sahabah and their role in the development of Islam as a religion and society."
+    },
+    "name_in_real_life": {
+      "person_name": "Layla Sahabah",
+      "location": "Istanbul, Turkey",
+      "story": "Layla Sahabah from Istanbul, Turkey embodies the meaning of Sahabah - \"Companions, Supporters\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The Sahabah are the Companions of Prophet Muhammad (pbuh), representing the purest exemplars of faith and devotion. Their unwavering companionship, courage, and sacrifice serve as a source of inspiration and guidance for all Muslims.",
+    "created_at": "2025-12-22T19:19:49.77Z",
+    "updated_at": "2025-12-22T04:53:13.998Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1699,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Sahabah",
+      "description": "Companions, Supporters",
+      "additionalName": [
+        "Saabah"
+      ],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Sahabah",
+          "description": "Discover the meaning of Sahabah - \"Companions, Supporters\"",
+          "image": "/images/social/sahabah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Sahabah - Name Meaning",
+          "description": "Learn about the beautiful name Sahabah",
+          "image": "/images/social/sahabah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Sahabah",
+          "description": "Name meaning: Companions, Supporters",
+          "image": "/images/social/sahabah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Sahabah - Meaning: Companions, Supporters",
+        "email_subject": "Beautiful Name: Sahabah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Sahabah with meaning Companions, Supporters",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saim",
+      "sadaldin",
+      "saal"
+    ]
+  }
+}

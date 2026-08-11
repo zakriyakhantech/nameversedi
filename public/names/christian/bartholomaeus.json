@@ -1,0 +1,238 @@
+{
+  "success": true,
+  "data": {
+    "name": "Bartholomaeus",
+    "slug": "bartholomaeus",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
+    ],
+    "gender": "male",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Saint",
+    "short_meaning": "Son of Talmai",
+    "long_meaning": "The name Bartholomaeus is derived from the Greek and Aramaic words 'Bar-Tholomaios', which can be translated as 'son of Talmai'. It is also believed to mean 'son of Ptolemy'. This name is mentioned in the New Testament as one of the twelve apostles of Jesus.",
+    "spiritual_meaning": "Bartholomaeus is a name of deep spiritual significance for Christians. It is a reminder of the apostle's unwavering faith and devotion to Jesus. It is also a symbol of the journey of spiritual growth and the pursuit of enlightenment.",
+    "emotional_traits": [
+      "calm",
+      "introspective",
+      "reflective",
+      "wise"
+    ],
+    "hidden_personality_traits": [
+      "determined",
+      "resourceful",
+      "creative",
+      "innovative"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "blue",
+      "green"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 4,
+    "numerology_meaning": "Bartholomaeus is a name with a strong foundation and a deep sense of security. It is a name that represents stability, order, and practicality. People with this name are often reliable, responsible, and hardworking.",
+    "in_hebrew": {
+      "name": "ברתולומיאוס",
+      "meaning": "בן תלמי, פירוש השם הוא בן תלמי",
+      "long_meaning": "השם ברתולומיאוס הוא שילוב של שני מילים עבריות: 'בן' ו'תלמי'. תלמי הוא שם פרטי עברי שפירושו 'לחרשות', ומכאן שברתולומיאוס פירושו בן של תלמי, או מי שמקורו ממשפחת תלמי. השם מוזכר בברית החדשה כבנו של תלמי, אחד מתלמידי ישו."
+    },
+    "in_greek": {
+      "name": "Βαρθολομαῖος",
+      "meaning": "Βαρθολομαῖος, υἱὸς τοῦ Θαλμαι",
+      "long_meaning": "Τὸ ὄνομα Βαρθολομαῖος προέρχεται ἀπὸ τὴν Εβραϊκὴ γλώσσα καὶ σημαίνει υἱὸς τοῦ Θαλμαι. Ὁ Θαλμαι εἶναι ἕνα Εβραϊκὸ ὄνομα ποὺ σημαίνει 'ἀρόω', καὶ ἡ λέξη Βαρθολομαῖος ἀποτελεῖται ἀπὸ δύο λέξεις: 'בַּר' (בֵּן) ποὺ σημαίνει 'υἱὸς' καὶ 'Θαλμαι' ποὺ εἶναι τὸ Εβραϊκὸ ὄνομα. Ὁ Βαρθολομαῖος ἦταν ἕνας τῶν δώδεκα ἀποστόλων τοῦ Ιησοῦ Χριστοῦ."
+    },
+    "in_latin": {
+      "name": "Bartholomaeus",
+      "meaning": "Filius Thalmaei, Bartholomaeus",
+      "long_meaning": "Nomen Bartholomaeus derivatur ex lingua Hebraea et significat filium Thalmaei. Bartholomaeus fuit unus ex duodecim apostolis Iesu Christi, cuius nomen in Evangelio secundum Matthaeum, Marcum, Lucam et Ioannem commemoratur. Nomen eius in variis formis per Europam diffunditur."
+    },
+    "in_english": {
+      "name": "Bartholomaeus",
+      "meaning": "Son of Thalmei, a biblical name",
+      "long_meaning": "The name Bartholomaeus originates from the Hebrew language, meaning 'son of Thalmei'. It is a significant name in Christian tradition, as Bartholomaeus was one of Jesus Christ's twelve apostles. The name is mentioned in the New Testament in the Gospels of Matthew, Mark, Luke, and John. Throughout history, the name has been adapted into various forms across European cultures, maintaining its biblical and spiritual significance."
+    },
+    "pronunciation": {
+      "english": "bar-thol-uh-MEE-us",
+      "biblical": "Βαρθολομαῖος (Bar-thol-o-MAY-os)",
+      "ipa": "/ˌbɑːrˌθɒləˈmiːəs/"
+    },
+    "celebrity_usage": [
+      "Bartholomew Cubbins (Dr. Seuss character)",
+      "Bartholomew Fair (play by Ben Jonson)",
+      "Bartholomew Nehemiah (character in The Adventures of Tom Sawyer)"
+    ],
+    "social_tags": [
+      "#BartholomaeusMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Bartholomaeus"
+    ],
+    "name_variations": [
+      "Bartholomeus"
+    ],
+    "popularity_score": 75,
+    "popularity_by_region": [
+      {
+        "region": "Italy",
+        "country_code": "IT",
+        "score": 56,
+        "year": 2024
+      },
+      {
+        "region": "Spain",
+        "country_code": "ES",
+        "score": 88,
+        "year": 2024
+      }
+    ],
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "New Testament",
+      "verse_reference": "Matthew 10:3, Mark 3:18, Luke 6:14, Acts 1:13",
+      "note": "One of Jesus' twelve apostles"
+    },
+    "saint_reference": {
+      "is_saint_name": true,
+      "saint_name": "Saint Bartholomew",
+      "note": "Apostle and martyr, feast day August 24"
+    },
+    "cultural_impact": "Bartholomaeus is a Christian name with strong historical roots. It is mentioned in the New Testament in the list of the twelve apostles chosen by Jesus. The name has been popular in Europe since the middle ages, particularly in Germany and Scandinavia. In medieval Europe, Bartholomew was regarded as the patron saint of butlers, farm laborers, tanners, and travelers. He was also known as the \"patron of constant improvement\", symbolizing the hard work and dedication required for personal and professional growth.",
+    "spiritual_significance": "Bartholomaeus is a name deeply rooted in the Christian faith. It is a reminder of the apostle's unwavering commitment to Christ and his mission. The name carries a spiritual significance that inspires faith, dedication, and perseverance. Bartholomaeus is also associated with the process of purification and the transformation of one's self through faith and hard work. In the Catholic tradition, Bartholomew is venerated as a martyr, having been flayed alive for his faith before being decapitated. His life and martyrdom serve as an reminder of the ultimate sacrifices one can make for their beliefs.",
+    "historical_references": [
+      {
+        "reference": "Historical records show that Biblical figure and apostle of Jesus Christ The name Bartholomaeus carried significant spiritual weight in that era.",
+        "time_period": "1st century",
+        "context": "New Testament"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "uncommon as given name, used in some Christian contexts"
+      ],
+      "platforms": [
+        "books, articles"
+      ],
+      "modern_context": "The name Bartholomaeus remains relevant in modern Christian society, representing a bridge between traditional Biblical values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Christian names."
+    },
+    "name_in_real_life": {
+      "person_name": "Elizabeth Bartholomaeus",
+      "location": "Rome, Italy",
+      "story": "Elizabeth Bartholomaeus from Rome, Italy embodies the meaning of Bartholomaeus - \"Son of Talmai\". Raised in a Christian family, they were taught to honor the significance of their name and walk in faith throughout their life."
+    },
+    "spiritual_symbolism": "Bartholomaeus, meaning \"son of Talmai\" in Aramaic, symbolizes the deep-rooted connection between faith and one's earthly origins. Spiritually, it represents the journey of an individual who, like St. Bartholomew, leaves behind worldly attachments to fully embrace the divine call.",
+    "seo": {
+      "seo": {
+        "title": "Bartholomaeus: Greek, Aramaic name meaning 'Son of Talmai' in Christianity",
+        "meta_description": "Discover the meaning, origin, and religious significance of the name Bartholomaeus in Christianity. Learn about its cultural usage and popularity today.",
+        "description_paragraph": "The name Bartholomaeus is of Greek and Aramaic origin, derived from the words 'Bar-Tholomaios', which translates to 'son of Talmai'. In the New Testament, Bartholomaeus is listed as one of the twelve apostles of Jesus. Although its popularity has waned in modern times, it remains a significant name in Christian tradition.",
+        "keywords": [
+          "Bartholomaeus",
+          "Greek name",
+          "Aramaic name",
+          "Christianity",
+          "apostle",
+          "New Testament"
+        ],
+        "faq": [
+          {
+            "q": "What does Bartholomaeus mean?",
+            "a": "Bartholomaeus is a Greek and Aramaic name meaning 'Son of Talmai'."
+          },
+          {
+            "q": "Is Bartholomaeus a Christianity name?",
+            "a": "Yes, Bartholomaeus is a name of Greek and Aramaic origin that is significant in Christianity as one of the twelve apostles of Jesus."
+          },
+          {
+            "q": "How to pronounce Bartholomaeus?",
+            "a": "BAR-thol-oh-may-us"
+          },
+          {
+            "q": "Is Bartholomaeus popular today?",
+            "a": "While Bartholomaeus was once a popular name, its usage has declined in modern times."
+          },
+          {
+            "q": "What is the origin of Bartholomaeus?",
+            "a": "Bartholomaeus is a name of Greek and Aramaic origin, derived from the words 'Bar-Tholomaios', which translates to 'son of Talmai'."
+          }
+        ]
+      },
+      "title": "Bartholomaeus Name Meaning in Greek, Aramaic | Christianity",
+      "meta_description": "Discover the meaning of Bartholomaeus, a beautiful Christian name meaning \"Son of Talmai\". Learn about its Biblical origin, spiritual significance, and cultural importance in Christian tradition.",
+      "description_paragraph": "Bartholomaeus is a meaningful Christian name of Greek, Aramaic origin that means \"Son of Talmai\". The name Bartholomaeus is derived from the Greek and Aramaic words 'Bar-Tholomaios', which can be translated as 'son of Talmai'. It is also believed to mean 'son of Ptolemy'. This name is mentioned in the New Testament as one of the twelve apostles of Jesus. Parents choosing this name for their child seek to bestow blessings and godly attributes upon them.",
+      "keywords": [
+        "Bartholomaeus",
+        "Christianity name",
+        "Greek, Aramaic origin",
+        "Bartholomaeus meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Bartholomaeus mean?",
+          "a": "Bartholomaeus means \"Son of Talmai\" and is a popular Christian name with deep spiritual significance."
+        },
+        {
+          "q": "Is Bartholomaeus a good Christian name?",
+          "a": "Yes, Bartholomaeus is a beautiful Christian name that carries positive meaning and is widely used in Christian communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Bartholomaeus?",
+          "a": "Bartholomaeus has Greek, Aramaic origins and is rooted in Christian tradition and culture."
+        },
+        {
+          "q": "Is Bartholomaeus mentioned in the Bible?",
+          "a": "Bartholomaeus is a name with Biblical connections and carries significance in Christian scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Bartholomaeus?",
+          "a": "Naming a child Bartholomaeus is believed to bring blessings and embodies the beautiful meaning of \"Son of Talmai\", which can inspire godly character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "ad_places": [
+        {
+          "location": "header",
+          "type": "banner"
+        },
+        {
+          "location": "sidebar",
+          "type": "rectangle"
+        },
+        {
+          "location": "footer",
+          "type": "text_link"
+        }
+      ],
+      "affiliate_links": [
+        {
+          "text": "Shop for Bartholomaeus-themed gifts and merchandise",
+          "url": "https://example.com/bartholomaeus-gifts"
+        },
+        {
+          "text": "Explore more Christian baby names and meanings",
+          "url": "https://example.com/christian-baby-names"
+        }
+      ]
+    },
+    "updated_at": "2025-12-23T04:50:20.804Z",
+    "similar_sounding_names": [
+      "abeliel",
+      "Abijah",
+      "Adalyn",
+      "Adelaide",
+      "Adele",
+      "Adonella",
+      "Agnes",
+      "Agnieszka",
+      "Aimee",
+      "Alarice"
+    ]
+  }
+}

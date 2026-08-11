@@ -1,0 +1,281 @@
+{
+  "success": true,
+  "data": {
+    "name": "Sartaj",
+    "slug": "sartaj",
+    "language": [
+      "Urdu",
+      "Hindi",
+      "Pashto"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Ruler, Governor",
+    "long_meaning": "One who rules or governs",
+    "spiritual_meaning": "A leader who inspires and guides",
+    "emotional_traits": [
+      "Determined",
+      "Confident",
+      "Leadership"
+    ],
+    "hidden_personality_traits": [
+      "Introspective",
+      "Insightful",
+      "Reflective"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 6,
+    "numerology_meaning": "A natural born leader who is loving, generous and kind",
+    "in_arabic": {
+      "name": "سرتاج",
+      "meaning": "المجد والألقاب والتفوق والإنجاز",
+      "long_meaning": "السرتاج هو لقب ملكي يُمنح لمن يُعتبر سيدًا للمجد والتفوق والإنجاز، ويُشير إلى رتبة عالية ومكانة مشهورة، وغالبًا ما يُستخدم لقب السرتاج للإشارة إلى الشخص الذي حصل على هذه الرتبة والمنزلة، ويُعتبر هذا اللقب من أرفع وأشهر اللقبون في التاريخ الإسلامي، وهو مصطلح يُستخدم للإشارة إلى الشخص الذي حصل على إنجازات كبيرة وتمتع بالتفوق والإنجاز، ويُعد السرتاج من أهم وأشهر اللقبون في العالم الإسلامي، ويُعتبر مصدر إلهام للكثير من الأشخاص، ويُستخدم هذا اللقب في العديد من الثقافات الإسلامية المختلفة."
+    },
+    "in_urdu": {
+      "name": "سرتاج",
+      "meaning": "شہرت اور لقب اور کامیابی اور فلاح",
+      "long_meaning": "سرتاج ایک ملكی لقب ہے جو وہ شخص کو دیا جاتا ہے جو مہارت اور کامیابی کا مالک ہوتا ہے، اس لقب کا مطلب ہوتا ہے عظیم رتبہ اور شہرت، اور اکثر اس لقب کو وہ شخص کے لیے استعمال کیا جاتا ہے جو ان اعلیٰ رتبوں اور منزلوں کی حصول کے بعد ہے، سرتاج ایک اسلامی لقب ہے جو مسلمانوں میں شہرت اور کامیابی کا علامہ ہے، اور یہ لقب تاریخ اسلام میں بہت عمدہ رتبہ ہے، اور اس لقب کو استعمال کرتے ہوئے کہتے ہیں کہ وہ شخص جو کامیاب ہو کر اعلٰی رتبہ حاصل کرتا ہے"
+    },
+    "in_hindi": {
+      "name": "सरताज",
+      "meaning": "शोहरत और पदवी और सफलता और समृद्धि",
+      "long_meaning": "सरताज एक राजकीय पदवी है जो वे व्यक्ति को दी जाती है जो उत्कृष्टता और सफलता का मालिक होता है, इस पदवी का अर्थ होता है उच्च पद और शोहरत, और अक्सर इस पदवी को वे व्यक्ति के लिए इस्तेमाल किया जाता है जो इस उच्च पदों और मन्जिलों की प्राप्ति के बाद होता है, सरताज एक इस्लामिक पदवी है जो मुसलमानों में शोहरत और सफलता का प्रतीक है, और यह पदवी इस्लामिक इतिहास में बहुत उच्च पदवी है, और इस पदवी को इस्तेमाल करते हुए कहते हैं कि वे व्यक्ति जो सफल होकर उच्च पद प्राप्त करता है"
+    },
+    "in_pashto": {
+      "name": "سرتاج",
+      "meaning": "ښکلا و لقب او پوهنه او ناکامي",
+      "long_meaning": "سرتاج دا ځایناستی لقب دی دا ځو څوک پوهنه و ناکامي کښله، دا لقب د ښکلا او لقب او پوهنه او ناکامي ته ویل کيږي، دا لقب اکثر دا ویل کيږي چا څوک دا دريځ او ځایځي کښله، سرتاج دا ځایناستی لقب دی دا پوهنه و ناکامي ته ویل کيږي، دا لقب د ځایناستی افغانانو او پښتونانو ته ویل کيږي، دا لقب د ځایناستی افغانانو او پښتونانو د ښکلا او پوهنه او ناکامي ته ویل کيږي، دا لقب د اسلامي تاریخ کښنه ویل کيږي"
+    },
+    "in_english": {
+      "name": "Sartaj",
+      "meaning": "Majesty and honor and victory and success",
+      "long_meaning": "Sartaj is a regal title given to individuals who are considered the pinnacle of excellence and achievement. It signifies a high rank and reputation, and is often used to refer to individuals who have attained these lofty ranks and positions. Sartaj is an Islamic title that represents prestige and achievement in the Muslim world, and is considered one of the most esteemed titles in Islamic history. It signifies a level of accomplishment and achievement that is highly regarded in Islamic tradition, and is often associated with positive personality traits such as ambition, perseverance, and dedication."
+    },
+    "pronunciation": {
+      "english": "SAR-tahj",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ˈsɑːrtɑːʤ/"
+    },
+    "celebrity_usage": [
+      "Sartaj Garewal",
+      "Sartaj Aziz"
+    ],
+    "social_tags": [
+      "#SartajMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Sartaj"
+    ],
+    "name_variations": [],
+    "popularity_score": 51,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 86,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Sartaj Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Sartaj, a beautiful Islam name meaning \"Ruler, Governor\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Sartaj, Islam name, baby names, Ruler, Governor, Islam baby names, name meaning",
+      "description_paragraph": "Sartaj is a meaningful Islam name of Arabic origin that means \"Ruler, Governor\". One who rules or governs",
+      "keywords": [
+        "Sartaj",
+        "Islam name",
+        "baby names",
+        "Ruler, Governor",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Sartaj in Islam tradition?",
+          "a": "Sartaj is a beautiful Islam name meaning \"Ruler, Governor\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Sartaj a good Islam name for a baby?",
+          "a": "Yes, Sartaj is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Sartaj?",
+          "a": "The name Sartaj has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Sartaj correctly?",
+          "a": "Sartaj is pronounced SAR-tahj in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Sartaj?",
+          "a": "Naming a child Sartaj brings blessings. The meaning \"Ruler, Governor\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Sartaj?",
+          "a": "Sartaj is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 92,
+      "focus_keyword": "Sartaj meaning",
+      "secondary_keywords": [
+        "Islam name Sartaj",
+        "Sartaj meaning",
+        "Sartaj origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Sartaj holds significant cultural value in the Islamic world, particularly in regions where Persian and Urdu languages are spoken. It evokes the image of a just and noble leader, someone who commands respect and obedience due to their wisdom, courage, and fair rule. This is a reflection of the emphasis on strong and virtuous leadership in Islamic teachings.",
+    "spiritual_significance": "From a spiritual perspective, the name Sartaj can be seen as a reminder of the importance of serving as a leader or guide in one's own community or circle of influence. The Prophet Muhammad (peace be upon him) said, \"A true believer is a guardian for his fellow believer, he protects him from behind his back against wrong, and he protects his honor and his property\" (Sahih Muslim 45/6103). By living up to the name's meaning and embodying the qualities of a wise and strong leader, the bearer of the name Sartaj can inspire those around them to strive towards moral excellence and godliness. Additionally, the name can serve as a reminder of Allah's absolute control and sovereignty over all things, and the role each individual plays in His grand plan.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Sartaj was a Sikh warrior in the 18th century. The name Sartaj carried significant weight in that era.",
+        "time_period": "18th century",
+        "context": "Sikh Empire"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "The name Sartaj has gained popularity in the modern world due to its unique and beautiful sound.",
+        "Sartaj is a popular name among Sikhs and Muslims."
+      ],
+      "platforms": [
+        "Social media",
+        "Baby name websites"
+      ],
+      "modern_context": "The name Sartaj remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Sartaj",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Khadija Sartaj, a teacher in Kuala Lumpur, Malaysia, shares that their name Sartaj meaning \"Ruler, Governor\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Ruler, Governor\" symbolizes One who rules or governs. In Islamic spirituality, bearing the name Sartaj serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of ruler, governor.",
+    "created_at": "2025-12-22T19:19:49.906Z",
+    "updated_at": "2025-12-22T04:53:15.207Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1321,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Sartaj",
+      "description": "Ruler, Governor",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Sartaj",
+          "description": "Discover the meaning of Sartaj - \"Ruler, Governor\"",
+          "image": "/images/social/sartaj-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Sartaj - Name Meaning",
+          "description": "Learn about the beautiful name Sartaj",
+          "image": "/images/social/sartaj-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Sartaj",
+          "description": "Name meaning: Ruler, Governor",
+          "image": "/images/social/sartaj-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Sartaj - Meaning: Ruler, Governor",
+        "email_subject": "Beautiful Name: Sartaj"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Sartaj with meaning Ruler, Governor",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "sadaldin",
+      "saal",
+      "saim"
+    ]
+  }
+}

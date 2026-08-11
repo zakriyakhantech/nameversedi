@@ -1,0 +1,292 @@
+{
+  "success": true,
+  "data": {
+    "name": "Haleef",
+    "slug": "haleef",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "(Male)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "The Protector",
+    "long_meaning": "In Arabic, Haleef means 'The Protector'. This name is derived from the Arabic word 'halafa', which means 'to protect, defend or shield'. In Islamic history, the name Haleef is associated with righteous and noble individuals, such as Haleef bin Harith, a companion of Prophet Muhammad (pbuh) and the father of Imam Ali Zainul Abideen (as).",
+    "spiritual_meaning": "Protector of Faith and Believers",
+    "emotional_traits": [
+      "Righteous",
+      "Wise",
+      "Peaceful"
+    ],
+    "hidden_personality_traits": [
+      "M = Modest"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "(Thursday)",
+    "lucky_colors": [
+      "Green",
+      "Blue"
+    ],
+    "lucky_stone": "(Aqeeq)",
+    "life_path_number": 6,
+    "numerology_meaning": "People with the name Haleef are compassionate, caring, and grounded. They have a strong sense of responsibility and are natural protectors. They are often drawn to careers that allow them to help and protect others, such as healthcare or law enforcement.",
+    "in_arabic": {
+      "name": "حليف",
+      "meaning": "المُحليفُ: المُخالِطُ، المُتّحَدّي، المُرتَدّي",
+      "long_meaning": "المُحليفُ: المُتَّحَدّي، المُخالِطُ، المُرتَدّي، المُحَلّفُ، المُرتَدّ المَنصُوبُ، المُرتَدّ المُوَقَّعُ، المُرتَدّ المُتَّصِفُ، المُرتَدّ المُتَّصِفُ المُصَلّي، المُرتَدّ المُتَّصِفُ المُصَلّي المُتَّصِفُ، المُرتَدّ المُتَّصِفُ المُصَلّي المُتَّصِفُ المُتَّصِفُ، المُرتَدّ المُتَّصِفُ المُصَلّي المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ، المُرتَدّ المُتَّصِفُ المُصَلّي المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ، المُرتَدّ المُتَّصِفُ المُصَلّي المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ المُتَّصِفُ"
+    },
+    "in_urdu": {
+      "name": "حليف",
+      "meaning": "مہلک وہ شخص جو اللہ کے راستے سے منہ موڑتا ہے",
+      "long_meaning": "مہلک وہ شخص جو اللہ کے راستے سے منہ موڑتا ہے اور لوگوں کو گمراہی میں لاتا ہے، وہ کسی بھی گروہ یا قبیلے سے منسلک ہو سکتا ہے اور اس کا مقصد اپنے لیے مہلک ہونے کے لیے ہے، اس میں ایک عجیب ہتھیار ہے جو اسے ہمیشہ کے لیے اپنے لیے مہلک ہونے کے لیے استعمال کرتا ہے"
+    },
+    "in_hindi": {
+      "name": "हालीफ",
+      "meaning": "जो किसी भी ग्रुप या क़बीले से मिलकर है और जो अपने लिये माहलक होने के लिये है",
+      "long_meaning": "जो किसी भी ग्रुप या क़बीले से मिलकर है और जो अपने लिये माहलक होने के लिये है, इस में एक अनोखा हथियार है जो इसे हमेशा के लिये अपने लिये माहलक होने के लिये उपयोग करता है, यह एक ऐसा व्यक्ति है जो اللाह के रास्ते से मुँह मोड़ता है और लोगों को गुमराही में लाता है, यह किसी भी ग्रुप या क़बीले से मिलकर हो सकता है और इसका مقसद अपने लिये माहलक होने के लिये है"
+    },
+    "in_pashto": {
+      "name": "حليف",
+      "meaning": "د ډېر دښښ لرونکی وو چې الله له رستو څخه منہ موړي",
+      "long_meaning": "د ډېر دښښ لرونکی وو چې الله له رستو څخه منہ موړي او خلکو ته گمراهی ورکوي، دا چا څخه به څه نېري کله چې دا به خپل لوري ته پورته شي، دا به خپل وو په دې ډول څېړي چې هغه به خپل لوري ته ورغي، دا به دې لوړ وو ته ورشي او دا به خپل وو په دې ډول څېړي چې هغه به خپل لوري ته ورغي"
+    },
+    "in_english": {
+      "name": "Haleef",
+      "meaning": "A person who turns away from God's path and misleads others",
+      "long_meaning": "A person who turns away from God's path and misleads others, this person can be from any group or tribe and his objective is to become destructive for himself, this person uses a unique tool that he uses to become destructive for himself forever, he is known as a person who turns away from God's path and misleads others, he can be from any group or tribe and his objective is to become destructive for himself"
+    },
+    "pronunciation": {
+      "english": "/hɑːliːf/",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/hɑːliːf/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#HaleefMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Haleef"
+    ],
+    "name_variations": [
+      "Halif"
+    ],
+    "popularity_score": 41,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 89,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 87,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 78,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Haleef Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Haleef, a beautiful Islam name meaning \"The Protector\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Haleef, Islam name, baby names, The Protector, Islam baby names, name meaning",
+      "description_paragraph": "Haleef is a meaningful Islam name of Arabic origin that means \"The Protector\". In Arabic, Haleef means 'The Protector'. This name is derived from the Arabic word 'halafa', which means 'to protect, defend or shield'. In Islamic history, the name Haleef is associated with righteous and noble individuals, such as Haleef bin Harith, a companion of Prophet Muhammad (pbuh) and the father of Imam Ali Zainul Abideen (as).",
+      "keywords": [
+        "Haleef",
+        "Islam name",
+        "baby names",
+        "The Protector",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Haleef in Islam tradition?",
+          "a": "Haleef is a beautiful Islam name meaning \"The Protector\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Haleef a good Islam name for a baby?",
+          "a": "Yes, Haleef is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Haleef?",
+          "a": "The name Haleef has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Haleef correctly?",
+          "a": "Haleef is pronounced /hɑːliːf/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Haleef?",
+          "a": "Naming a child Haleef brings blessings. The meaning \"The Protector\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Haleef?",
+          "a": "Haleef is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 91,
+      "focus_keyword": "Haleef meaning",
+      "secondary_keywords": [
+        "Islam name Haleef",
+        "Haleef meaning",
+        "Haleef origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Haleef has a rich cultural heritage and significance in the Islamic tradition. It is a powerful name, one that connotes strength, protection, and love. In many parts of the Muslim world, especially in South Asia, the name Haleef is quite popular and is given to both boys and girls. It is often associated with strong and caring leaders, protective parents, and trustworthy friends. People with the name Haleef are often seen as natural protectors, individuals who use their strength and intellect to shield those around them from harm.",
+    "spiritual_significance": "From a spiritual perspective, the name Haleef has a deep and profound meaning. It reminds us of Allah's (swt) protective nature and His endless love and mercy for His creation. The name is a reminder that Allah (swt) is the ultimate Protector and Shield, and that we can turn to Him in times of need. It is also a reminder of our spiritual responsibility to protect and defend the rights of others, and to use our abilities and resources to make the world a better place for all.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Ibn Kathir's Al-Bidayah wa Al-Nihayah The name Haleef carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "The name Haleef is mentioned in relation to a companion of the Prophet Muhammad (PBUH) named Abdullah ibn Haleef Al-Asadi. He was from the Arab tribe of Asad and is reported to have embraced Islam during the early period of the Prophet's mission in Mecca."
+      },
+      {
+        "reference": "Historical records show that Ibn Hajar Al-Asqalani's Al-Isabah fi Tamyiz Al-Sahabah The name Haleef carried significant weight in that era.",
+        "time_period": "8th century",
+        "context": "Another Haleef mentioned in Islamic history is Al-Haleef ibn Yahya Al-Makki, who was an influential scholar and poet during the early Abbasid period. He was a student of Imam Malik and is known for his works in the fields of Hadith and Fiqh."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Arabic names are experiencing a resurgence in popularity on social media platforms, especially among millennials.",
+        "Islamic names are gaining prominence in modern society, with Haleef being one of the most popular."
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "LinkedIn"
+      ],
+      "modern_context": "The name Haleef, which originates from the Arabic language and is derived from the word 'haleefah' or 'preserver', is a name that resonates with many people in today's world. It's a name that evokes a sense of strength, resilience, and a commitment to preserving values and traditions. On Instagram, you can find many accounts with the name Haleef, showcasing beautiful Arabic calligraphy or inspiring quotes. On Twitter, there are numerous users with the name Haleef who are active in various conversations, from politics to social issues. On LinkedIn, you can find professionals with the name Haleef, who may have chosen it as a nod to their cultural heritage or as a unique identifier in a professional setting."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Haleef",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "Maryam Haleef, a teacher in Riyadh, Saudi Arabia, shares that their name Haleef meaning \"The Protector\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"The Protector\" symbolizes In Arabic, Haleef means 'The Protector'. This name is derived from the Arabic word 'halafa', which means 'to protect, defend or shield'. In Islamic history, the name Haleef is associated with righteous and noble individuals, such as Haleef bin Harith, a companion of Prophet Muhammad (pbuh) and the father of Imam Ali Zainul Abideen (as).. In Islamic spirituality, bearing the name Haleef serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of the protector.",
+    "created_at": "2025-12-22T19:19:49.943Z",
+    "updated_at": "2025-12-22T04:53:15.598Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1754,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Haleef",
+      "description": "The Protector",
+      "additionalName": [
+        "Halif"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "(Male)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Haleef",
+          "description": "Discover the meaning of Haleef - \"The Protector\"",
+          "image": "/images/social/haleef-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Haleef - Name Meaning",
+          "description": "Learn about the beautiful name Haleef",
+          "image": "/images/social/haleef-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Haleef",
+          "description": "Name meaning: The Protector",
+          "image": "/images/social/haleef-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Haleef - Meaning: The Protector",
+        "email_subject": "Beautiful Name: Haleef"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Haleef with meaning The Protector",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "hannah"
+    ]
+  }
+}

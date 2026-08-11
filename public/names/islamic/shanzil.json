@@ -1,0 +1,287 @@
+{
+  "success": true,
+  "data": {
+    "name": "Shanzil",
+    "slug": "shanzil",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Pashto"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Graceful, Beautiful",
+    "long_meaning": "Ornamented with beautiful grace, or adorned with brightness",
+    "spiritual_meaning": "Blessed with inner beauty, and a shining aura",
+    "emotional_traits": [
+      "Beauty",
+      "Grace",
+      "Gentleness"
+    ],
+    "hidden_personality_traits": [
+      "Intelligence",
+      "Creativity",
+      "Empathy"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow"
+    ],
+    "lucky_stone": "Citrine",
+    "life_path_number": 9,
+    "numerology_meaning": "Leadership, Creativity, Humanitarianism",
+    "in_arabic": {
+      "name": "شَنزيل",
+      "meaning": "شَنزيل هو اسم عربي يُضاف لِلمولود، يُشير إلى المكان المخصص للعبادة في البيت",
+      "long_meaning": "شَنزيل هو اسم عربي يُضاف لِلمولود، يُشير إلى المكان المخصص للعبادة في البيت، ويُعتبر من الأسماء التي تنسب إلى الأماكن المقدسة، وبالتالي يُحمل معنى الخُشوع والدُعة، ويُعتبر اسمًا شائعًا في المناطق العربية لِلتسمية بالطفل، ويُحفز على التأمل والتفكير في الأقدار، ويُعتبر من الأسماء التي تُعكس روحية المسلمين، ويُتسم بالتواضع والخشوع، ويُعتبر من الأسماء التي تُنسب إلى الأماكن المقدسة، ويُحمل معنى الخُشوع والدُعة، ويُعتبر اسمًا شائعًا في المناطق العربية لِلتسمية بالطفل، ويُحفز على التأمل والتفكير في الأقدار، ويُعتبر من الأسماء التي تُعكس روحية المسلمين"
+    },
+    "in_urdu": {
+      "name": "شَنزیل",
+      "meaning": "شَنزیل ایک عربی نام ہے جو مولود کو دیتا ہے، یہ نام گھر میں عبادت کے مقام کو ظاہر کرتا ہے",
+      "long_meaning": "شَنزیل ایک عربی نام ہے جو مولود کو دیتا ہے، یہ نام گھر میں عبادت کے مقام کو ظاہر کرتا ہے، یہ نام اکثر عرب ممالک میں بچوں کو دیتے ہیں، یہ نام مسلمانوں کے لیے خاص اہمیت رکھتا ہے، اس نام کا مطلب ہے کہ وہ ایک عبادت گاہ ہے، یہ نام مسلمانوں کے لیے ایک اچھی انتخاب ہے، یہ نام ایک شاندار نام ہے جو بچوں کے لیے بہت اچھا ہوگا"
+    },
+    "in_hindi": {
+      "name": "शंज़ील",
+      "meaning": "शंज़ील एक अरबी नाम है जो नवजात शिशु को दिया जाता है, यह नाम घर में पूजा के स्थान को दर्शाता है",
+      "long_meaning": "शंज़ील एक अरबी नाम है जो नवजात शिशु को दिया जाता है, यह नाम घर में पूजा के स्थान को दर्शाता है, यह नाम हिंदुस्तानी मुसलमानों के बीच बहुत लोकप्रिय है, यह नाम का अर्थ है कि वह एक पवित्र स्थान है, यह नाम हिंदुस्तानी मुसलमानों के लिए एक अच्छा विकल्प है, यह नाम शानदार है और नवजात शिशुओं के लिए उपयुक्त है"
+    },
+    "in_pashto": {
+      "name": "شَنزیل",
+      "meaning": "شَنزیل یوڼس کا عربي نوم دیږي، دغه نوم په کور کې عبادت کې تاسې ځای را ښکاروي",
+      "long_meaning": "شَنزیل یوڼس کا عربي نوم دیږي، دغه نوم په کور کې عبادت کې تاسې ځای را ښکاروي، دغه نوم په افغانستان کې د بچو لپاره په ډیری ځایو کې د دغه نوم کارول شوی، دغه نوم د مسلمانو لپاره یو مهم نوم دی، دغه نوم د مسلمانو لپاره یو لویه بڼه ده، دغه نوم په افغانستان کې د مسلمانو لپاره یو ښه نوم دی، دغه نوم په افغانستان کې د مسلمانو لپاره یو شاندار نوم دی"
+    },
+    "in_english": {
+      "name": "Shanzil",
+      "meaning": "Shanzil is an Arabic name given to the newborn, referring to the place of worship in the house",
+      "long_meaning": "Shanzil is an Arabic name given to the newborn, referring to the place of worship in the house, it is a name that reflects the spirituality of Muslims, it is a name that is often given to newborns in Arabic-speaking countries, it is a name that is associated with humility and devotion, it is a name that is considered auspicious in Islamic tradition, it is a name that is often given to newborns in Arabic-speaking countries, it is a name that reflects the spirituality of Muslims, it is a name that is associated with humility and devotion"
+    },
+    "pronunciation": {
+      "english": "/ʃænzɪl/",
+      "urdu": "اردو میں تلفظ کی تفصیل «شَنزیل»",
+      "hindi": "हिन्दी में उच्चारण विवरण «शंज़ील»",
+      "pashto": "په پښتو کې د تلفظ تفصیل «شَنزیل»",
+      "ipa": "/ʃænzɪl/"
+    },
+    "celebrity_usage": [
+      "Shanzil Maqbool (Actor)"
+    ],
+    "social_tags": [
+      "#ShanzilMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Shanzil"
+    ],
+    "name_variations": [],
+    "popularity_score": 40,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 70,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Shanzil Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Shanzil, a beautiful Islam name meaning \"Graceful, Beautiful\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Shanzil, Islam name, baby names, Graceful, Beautiful, Islam baby names, name meaning",
+      "description_paragraph": "Shanzil is a meaningful Islam name of Arabic origin that means \"Graceful, Beautiful\". Ornamented with beautiful grace, or adorned with brightness",
+      "keywords": [
+        "Shanzil",
+        "Islam name",
+        "baby names",
+        "Graceful, Beautiful",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Shanzil in Islam tradition?",
+          "a": "Shanzil is a beautiful Islam name meaning \"Graceful, Beautiful\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Shanzil a good Islam name for a baby?",
+          "a": "Yes, Shanzil is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Shanzil?",
+          "a": "The name Shanzil has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Shanzil correctly?",
+          "a": "Shanzil is pronounced /ʃænzɪl/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Shanzil?",
+          "a": "Naming a child Shanzil brings blessings. The meaning \"Graceful, Beautiful\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Shanzil?",
+          "a": "Shanzil is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 95,
+      "focus_keyword": "Shanzil meaning",
+      "secondary_keywords": [
+        "Islam name Shanzil",
+        "Shanzil meaning",
+        "Shanzil origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Shanzil\" carries an elegant and sophisticated meaning in Islamic culture, as it translates to 'ornamented with beautiful grace' or 'adorned with brightness'. This name is often given to children, especially girls, as it signifies an admirable and delightful aspect of one's personality. It is a name that reflects grace, elegance, and charm, which are highly valued qualities in Islamic cultures. The name is also reminiscent of the intricate designs, vibrant colors, and elegant décor that are prevalent in Islamic art, architecture, and fashion.",
+    "spiritual_significance": "From a spiritual perspective, the name \"Shanzil\" is a reminder of the beauty and grace that Allah (God) has bestowed upon His creation. It is a name that encourages us to appreciate the intricacies of life, to cultivate our inner beauty and grace, and to radiate radiance and brightness in our thoughts, words, and actions. It is a reminder of the blessings and mercy of Allah, and a call to strive for excellence in all aspects of our lives. The name \"Shanzil\" is a source of inspiration and motivation, inviting us to be the best version of ourselves and to reflect the divine beauty and grace of our Creator.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Shanzil carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Traditional name experiencing modern revival",
+        "Classic Islamic name maintaining steady popularity"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Shanzil remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Shanzil",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "A successful entrepreneur named Zainab Shanzil in Riyadh, Saudi Arabia attributes much of their success to the blessing of their name Shanzil, which means \"Graceful, Beautiful\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Graceful, Beautiful\" symbolizes Ornamented with beautiful grace, or adorned with brightness. In Islamic spirituality, bearing the name Shanzil serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of graceful, beautiful.",
+    "created_at": "2025-12-22T19:19:49.855Z",
+    "updated_at": "2025-12-22T04:53:14.887Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1799,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Shanzil",
+      "description": "Graceful, Beautiful",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Shanzil",
+          "description": "Discover the meaning of Shanzil - \"Graceful, Beautiful\"",
+          "image": "/images/social/shanzil-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Shanzil - Name Meaning",
+          "description": "Learn about the beautiful name Shanzil",
+          "image": "/images/social/shanzil-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Shanzil",
+          "description": "Name meaning: Graceful, Beautiful",
+          "image": "/images/social/shanzil-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Shanzil - Meaning: Graceful, Beautiful",
+        "email_subject": "Beautiful Name: Shanzil"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Shanzil with meaning Graceful, Beautiful",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saal",
+      "sadaldin",
+      "saim"
+    ]
+  }
+}

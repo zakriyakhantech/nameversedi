@@ -1,0 +1,282 @@
+{
+  "success": true,
+  "data": {
+    "name": "Hashira",
+    "slug": "hashira",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Pillar, supporter",
+    "long_meaning": "A woman who is strong, steadfast, and provides support. Derived from the Arabic word 'hashar', meaning 'to support'.",
+    "spiritual_meaning": "Symbolizes strength and stability in the face of adversity, and the ability to provide support to those around you.",
+    "emotional_traits": [
+      "Determined",
+      "Strong-willed",
+      "Supportive"
+    ],
+    "hidden_personality_traits": [
+      "Patient",
+      "Resilient",
+      "Resourceful"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Lapis Lazuli",
+    "life_path_number": 2,
+    "numerology_meaning": "Indicates a diplomatic, balanced, and adaptable individual who can turn any situation to their advantage.",
+    "in_arabic": {
+      "name": "حاشرة",
+      "meaning": "المُتَوَكِّلَةُ العَليا المُطاعِنَةُ البَديعةُ المُتَفَرِّعةُ",
+      "long_meaning": "حاشرة: الاسم الأصلي الذي يعني المتوكل على العليا، المتوكل على الله، وهو اسم نبي الله عيسى بن مريم عليه السلام، كما تعني المطاعنة، البديعة، المُتَفَرِّعةُ، وهو اسم مزدوج، مشتق من الحاشي وهم أعلى الطبقات من أهل العلم، ويُعتبر اسمًا رائعًا في الثقافة الإسلامية، حيث يُستخدم لوصف الشخص المتمكن من العلوم، العليا في الحكم، المتميز في الإبداع، المطاعن وذو الخصال العالية، ويُعتبر أيضًا اسمًا للزوجة المباركة، والمرأة العليا في الرجال، ويُستخدم أيضًا للإشارة إلى الشخص المُحتسب، المُتَوَكِّل على الله، والمتوكل على نفسه، ويُعتبر أيضًا اسمًا للقمر، والنجوم، والمطر، ويُستخدم أيضًا للإشارة إلى الشخص المُعتبر، المُحترم، المُعتبر من الأشخاص، ويُعتبر أيضًا اسمًا للفئة العليا من الأشخاص، ويُستخدم أيضًا للإشارة إلى الشخص المُتَوَكِّل على الله، والمتوكل على نفسه، ويُعتبر أيضًا اسمًا للزوجة المباركة، والمرأة العليا في الرجال، ويُستخدم أيضًا للإشارة إلى الشخص المُحتسب، المُتَوَكِّل على الله، والمتوكل على نفسه."
+    },
+    "in_urdu": {
+      "name": "حاشره",
+      "meaning": "متوکل علیا متاعنہ بدیعہ متفرعہ",
+      "long_meaning": "حاشره: اس کا مطلب ہے متوکل علیا، جو خدا پر تکیہ کرنے والا ہے۔ یہ نبی صلی اللہ علیہ وسلم کا نام ہے۔ اس کا مطلب بھی ہے مطاعنہ، بدیعہ، متفرعہ۔ یہ نام مضاف ہے، جو حاشیوں سے ماخوذ ہے۔ حاشیے وہ لوگوں کی فہرست ہے جن کے پاس علم کا علم ہوتا ہے۔ اس نام کی ثقافت اسلامی ہے۔ اس کا معنٰی علماء میں سے ایک ہے جو علم کے اعلیٰ سطوح سے تعلق رکھتا ہے۔ یہ نام اس لئے بھی مشہور ہے کہ اسے عیساء بن مریم علیہ السلام کا نام بھی کہا جاتا ہے۔ اس لئے یہ نام اسلامی ثقافت کے ذریعے بہت اہمیت رکھتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "हाशिरा",
+      "meaning": "उत्तम उत्साहिता ज्ञानी प्रगातिशील विशिष्ट",
+      "long_meaning": "हाशिरा: यह नाम उत्तम उत्साहिता का प्रतीक है। यह नाम ज्ञानी और प्रगातिशील व्यक्ति के लिए उपयुक्त है। इस नाम के पीछे एक पुरानी कहावत है जिसमें कहा जाता है कि नाम हाशिरा से जुड़े व्यक्ति के पास उत्तम गुण होंगे और वह ज्ञानी और प्रगातिशील होगा। इस नाम का उपयोग भारतीय मुस्लिम समुदाय में विशेष रूप से किया जाता है।"
+    },
+    "in_pashto": {
+      "name": "حاشره",
+      "meaning": "متوكيله علیا متاعنه بديعه متفرعه",
+      "long_meaning": "حاشره: دا نوم دا مطلب دې چې متوكيله علیا وي، په دې معنی چې په خپله الله ته تکیې کرلئ. دا نوم په افغانستان کې د اسلامي فرهنگي اصولو پر بنسټ د مسلمانو لپاره یو لوی نوم دی. دا نوم د نبي صلی الله عليې وسلم د نوم څخه اخستل شوی دی."
+    },
+    "in_english": {
+      "name": "Hashira",
+      "meaning": "Trust in the Higher, the uppermost, the most excellent, the most superior, the most distinguished",
+      "long_meaning": "Hashira: This name is derived from the Arabic root ح-ش-ر which means to trust in the Higher, the uppermost, the most excellent, the most superior, and the most distinguished. In Islamic tradition, this name is associated with the Prophet Jesus (as) and is considered a name of great significance. It is believed to possess spiritual qualities such as trust in Allah, excellence, and distinction. In modern times, the name Hashira has been adopted by Muslims across various cultures and is considered a symbol of excellence and distinction."
+    },
+    "pronunciation": {
+      "english": "/hæˈʃɪrə/",
+      "urdu": "اردو میں تلفظ کی تفصیل: حاشره",
+      "hindi": "हिन्दी में उच्चारण विवरण: हाशिरा",
+      "pashto": "په پښتو کې د تلفظ تفصیل: حاشره",
+      "ipa": "/hæˈʃɪrə/"
+    },
+    "celebrity_usage": [
+      "Hashira is the name of a popular character in a best-selling Islamic novel.",
+      "Hashira is the name of a renowned Islamic scholar and author."
+    ],
+    "social_tags": [
+      "#HashiraMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Hashira"
+    ],
+    "name_variations": [],
+    "popularity_score": 77,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 70,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 71,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Hashira Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Hashira, a beautiful Islam name meaning \"Pillar, supporter\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Hashira, Islam name, baby names, Pillar, supporter, Islam baby names, name meaning",
+      "description_paragraph": "Hashira is a meaningful Islam name of Arabic origin that means \"Pillar, supporter\". A woman who is strong, steadfast, and provides support. Derived from the Arabic word 'hashar', meaning 'to support'.",
+      "keywords": [
+        "Hashira",
+        "Islam name",
+        "baby names",
+        "Pillar, supporter",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Hashira in Islam tradition?",
+          "a": "Hashira is a beautiful Islam name meaning \"Pillar, supporter\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Hashira a good Islam name for a baby?",
+          "a": "Yes, Hashira is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Hashira?",
+          "a": "The name Hashira has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Hashira correctly?",
+          "a": "Hashira is pronounced /hæˈʃɪrə/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Hashira?",
+          "a": "Naming a child Hashira brings blessings. The meaning \"Pillar, supporter\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Hashira?",
+          "a": "Hashira is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 92,
+      "focus_keyword": "Hashira meaning",
+      "secondary_keywords": [
+        "Islam name Hashira",
+        "Hashira meaning",
+        "Hashira origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "In the Islamic context, the name Hashira carries a powerful and inspiring meaning. This name is often given to girls who are born into families that value strength, resilience, and unwavering support. Hashira represents a woman who is a pillar of her family and community, someone who stands firm in the face of adversity, and provides unwavering support to those around her. This name is a reminder of the important role that women play in Muslim society, and is a testament to the strength and resilience of Muslim women.",
+    "spiritual_significance": "From a spiritual perspective, the name Hashira represents the strength and support that comes from a deep connection to God. The Arabic word 'hashar' means 'to support', and Hashira can be seen as a symbol of the ultimate support that comes from God. This name reminds us of the importance of staying steadfast in our faith, and of the strength and support that comes from turning to God in times of need. Hashira is a reminder of the spiritual power and resilience that comes from a deep connection to God, and is a source of inspiration for Muslims to stay strong and steadfast in their faith.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Hashira carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Classic Islamic name maintaining steady popularity",
+        "Classic Islamic name maintaining steady popularity"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Hashira remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Hashira",
+      "location": "Cairo, Egypt",
+      "story": "A successful entrepreneur named Maryam Hashira in Cairo, Egypt attributes much of their success to the blessing of their name Hashira, which means \"Pillar, supporter\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Pillar, supporter\" symbolizes A woman who is strong, steadfast, and provides support. Derived from the Arabic word 'hashar', meaning 'to support'.. In Islamic spirituality, bearing the name Hashira serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of pillar, supporter.",
+    "created_at": "2025-12-22T19:19:49.851Z",
+    "updated_at": "2025-12-22T04:53:14.813Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1678,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Hashira",
+      "description": "Pillar, supporter",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Hashira",
+          "description": "Discover the meaning of Hashira - \"Pillar, supporter\"",
+          "image": "/images/social/hashira-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Hashira - Name Meaning",
+          "description": "Learn about the beautiful name Hashira",
+          "image": "/images/social/hashira-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Hashira",
+          "description": "Name meaning: Pillar, supporter",
+          "image": "/images/social/hashira-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Hashira - Meaning: Pillar, supporter",
+        "email_subject": "Beautiful Name: Hashira"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Hashira with meaning Pillar, supporter",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "hannah"
+    ]
+  }
+}

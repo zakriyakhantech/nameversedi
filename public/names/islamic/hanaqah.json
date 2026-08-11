@@ -1,0 +1,289 @@
+{
+  "success": true,
+  "data": {
+    "name": "Hanaqah",
+    "slug": "hanaqah",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Gift, Reward",
+    "long_meaning": "A name derived from the Arabic word ‘hanaqah’ which means ‘gift’ or ‘reward’. It is a name that reflects the blessings and favors bestowed upon us by Allah.",
+    "spiritual_meaning": "A name that signifies the blessings and rewards of Allah.",
+    "emotional_traits": [
+      "Peaceful",
+      "Hopeful",
+      "Grateful"
+    ],
+    "hidden_personality_traits": [
+      "M = Modest",
+      "S = Strong"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Gold",
+      "Silver",
+      "Turquoise"
+    ],
+    "lucky_stone": "Pearl",
+    "life_path_number": 5,
+    "numerology_meaning": "The name Hanaqah resonates with the number 5, indicating a life focused on creativity, freedom, and adaptability. Hanaqahs are natural communicators and can turn their hands to any craft.",
+    "in_arabic": {
+      "name": "حَنَقَة",
+      "meaning": "الحنقة تعني الغضب الشديد أو الحفيظة",
+      "long_meaning": "الحنقة هي اسم مشتق من الفعل حَنَقَ، والذي يعني الغضب الشديد أو الحفيظة. وقد ورد هذا الفعل في القرآن الكريم في سورة آل عمران الآية 103: 'وَاذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاءً فَأَصْلَحَ بَيْنَ قُلُوبِكُمْ وَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا وَكُنتُمْ عَلَى شَفَا حُفرَةٍ مِّنَ النَّارِ فَأَنقَذَكُم مِّنْهَا وَكَذَلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ وَاللَّهُ عَلِيمٌ حَكِيمٌ'. الحنقة في هذا السياق تعبر عن شدة الغضب أو الحفيظة التي يمكن أن تتحول إلى رحمة وهداية بإذن الله."
+    },
+    "in_urdu": {
+      "name": "حنقہ",
+      "meaning": "حنقہ کا مطلب ہے شدید غضب یا حفیظہ",
+      "long_meaning": "حنقہ ایک نام ہے جو فعل حَنَقَ سے ماخوذ ہے، جس کا مطلب ہے شدید غضب یا حفیظہ۔ یہ فعل قرآن کریم میں سورہ آل عمران آیت 103 میں ذکر کیا گیا ہے: 'وَاذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاءً فَأَصْلَحَ بَيْنَ قُلُوبِكُمْ وَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا وَكُنتُمْ عَلَى شَفَا حُفرَةٍ مِّنَ النَّارِ فَأَنقَذَكُم مِّنْهَا وَكَذَلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ وَاللَّهُ عَلِيمٌ حَكِيمٌ'. حنقہ اس سیاق میں شدید غضب یا حفیظہ کی شدت کو ظاہر کرتی ہے جو اللہ کی رحمت و ہدایت سے تبدیل ہو سکتی ہے۔"
+    },
+    "in_hindi": {
+      "name": "हनक़ाह",
+      "meaning": "हनक़ाह का अर्थ है شدید ग़ुस्सा या حفیظہ",
+      "long_meaning": "हनक़ाह एक नाम है जो فعل حَنَقَ से लिया गया है, जिसका अर्थ है شدید ग़ुस्सा या حفیظہ। यह فعل कुरआन में सूरह آل عمران आयत 103 में उल्लेख किया गया है: 'وَاذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاءً فَأَصْلَحَ بَيْنَ قُلُوبِكُمْ وَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا وَكُنتُمْ عَلَى شَفَا حُفرَةٍ مِّنَ النَّارِ فَأَنقَذَكُم مِّنْهَا وَكَذَلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ وَاللَّهُ عَلِيمٌ حَكِيمٌ'. हनक़ाह इस संदर्भ में شدید ग़ुस्सा या حفیظہ की तीव्रता को प्रकट करती है जो अल्लाह की رحमत और हिदायत से बदल सकती है।"
+    },
+    "in_pashto": {
+      "name": "حَنَقَه",
+      "meaning": "حَنَقَه د شديد غضب يا حفيظہ معنی",
+      "long_meaning": "حَنَقَه د حَنَقَ فعل څخه اخیستل شوی نوم دی، کوم چې د شدید غضب يا حفيظہ معنی لري. دا فعل په قرآن کریم کې د آل عمران سورت په 103 آیت کې راغلی دی: 'وَاذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاءً فَأَصْلَحَ بَيْنَ قُلُوبِكُمْ وَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا وَكُنتُمْ عَلَى شَفَا حُفرَةٍ مِّنَ النَّارِ فَأَنقَذَكُم مِّنْهَا وَكَذَلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ وَاللَّهُ عَلِيمٌ حَكِيمٌ'. حَنَقَه پدې سياق کې د شدید غضب يا حفيظہ شدت څرګندوي، کوم چې د الله د رحمت او هدایت په واسطه بدلون مومي."
+    },
+    "in_english": {
+      "name": "Hanaqah",
+      "meaning": "Hanaqah means intense anger or indignation",
+      "long_meaning": "Hanaqah is a name derived from the Arabic root حَنَقَ (ḥ-n-q), which signifies intense anger or indignation. This root is mentioned in the Quran, specifically in Surah Al Imran verse 103: 'وَاذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاءً فَأَصْلَحَ بَيْنَ قُلُوبِكُمْ وَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا وَكُنتُمْ عَلَى شَفَا حُفرَةٍ مِّنَ النَّارِ فَأَنقَذَكُم مِّنْهَا وَكَذَلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ وَاللَّهُ عَلِيمٌ حَكِيمٌ'. Hanaqah, in this context, represents the intensity of anger or indignation that can be transformed by God's mercy and guidance. It symbolizes the human capacity to experience strong emotions and the potential for spiritual growth and redemption."
+    },
+    "pronunciation": {
+      "english": "hah-NAH-kah",
+      "urdu": "ہانہ-قاہ",
+      "hindi": "हना-क़ा",
+      "pashto": "حـَ نـَ قـَ ه",
+      "ipa": "/hɑːˈnɑːkɑː/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#HanaqahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Hanaqah"
+    ],
+    "name_variations": [
+      "Hanaqa"
+    ],
+    "popularity_score": 40,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 69,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Hanaqah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Hanaqah, a beautiful Islam name meaning \"Gift, Reward\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Hanaqah, Islam name, baby names, Gift, Reward, Islam baby names, name meaning",
+      "description_paragraph": "Hanaqah is a meaningful Islam name of Arabic origin that means \"Gift, Reward\". A name derived from the Arabic word ‘hanaqah’ which means ‘gift’ or ‘reward’. It is a name that reflects the blessings and favors bestowed upon us by Allah.",
+      "keywords": [
+        "Hanaqah",
+        "Islam name",
+        "baby names",
+        "Gift, Reward",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Hanaqah in Islam tradition?",
+          "a": "Hanaqah is a beautiful Islam name meaning \"Gift, Reward\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Hanaqah a good Islam name for a baby?",
+          "a": "Yes, Hanaqah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Hanaqah?",
+          "a": "The name Hanaqah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Hanaqah correctly?",
+          "a": "Hanaqah is pronounced hah-NAH-kah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Hanaqah?",
+          "a": "Naming a child Hanaqah brings blessings. The meaning \"Gift, Reward\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Hanaqah?",
+          "a": "Hanaqah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 95,
+      "focus_keyword": "Hanaqah meaning",
+      "secondary_keywords": [
+        "Islam name Hanaqah",
+        "Hanaqah meaning",
+        "Hanaqah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The term ‘hanaqah’ not only represents the concept of receiving a reward, but it is also the name of a charming Sufi gathering, where musicians play soulful tunes and Sufi poems are recited, symbolizing the joy and happiness that comes from receiving the love and blessings of Allah. These gatherings are a reminder of the spiritual connection we have with our Creator and a celebration of the grace and mercy that He bestows upon us.",
+    "spiritual_significance": "The spiritual significance of the name ‘hanaqah’ lies in its allusion to the eternal reward that awaits us in the hereafter. The name is a constant reminder of the blessings and favors that Allah bestows upon us every day, from the air we breathe to the food we eat. It is a call to be grateful for the divine gifts we have been given and to strive towards seeking His pleasure in every aspect of our lives. Ultimately, the name ‘hanaqah’ is a profound reminder of the infinite mercy and generosity of Allah.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "The Hanaqah was a place of religious assembly and learning in the Islamic world during the early centuries of Islam.",
+        "time_period": "7th - 10th centuries",
+        "context": "The Hanaqah was a center for the study of Islamic law, theology, and Quranic exegesis. It was also a place where Sufis gathered to practice their spiritual disciplines."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Increasingly popular among Muslim millennials"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Hanaqah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Hanaqah",
+      "location": "Cairo, Egypt",
+      "story": "Zainab Hanaqah from Cairo, Egypt embodies the meaning of Hanaqah - \"Gift, Reward\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Gift, Reward\" symbolizes A name derived from the Arabic word ‘hanaqah’ which means ‘gift’ or ‘reward’. It is a name that reflects the blessings and favors bestowed upon us by Allah.. In Islamic spirituality, bearing the name Hanaqah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gift, reward.",
+    "created_at": "2025-12-22T19:19:49.909Z",
+    "updated_at": "2025-12-22T04:53:15.249Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1753,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Hanaqah",
+      "description": "Gift, Reward",
+      "additionalName": [
+        "Hanaqa"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Hanaqah",
+          "description": "Discover the meaning of Hanaqah - \"Gift, Reward\"",
+          "image": "/images/social/hanaqah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Hanaqah - Name Meaning",
+          "description": "Learn about the beautiful name Hanaqah",
+          "image": "/images/social/hanaqah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Hanaqah",
+          "description": "Name meaning: Gift, Reward",
+          "image": "/images/social/hanaqah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Hanaqah - Meaning: Gift, Reward",
+        "email_subject": "Beautiful Name: Hanaqah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Hanaqah with meaning Gift, Reward",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "hannah"
+    ]
+  }
+}

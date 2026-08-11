@@ -1,0 +1,300 @@
+{
+  "success": true,
+  "data": {
+    "name": "Naaila",
+    "slug": "naaila",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Female companion",
+    "long_meaning": "A female companion, a female friend or a woman who is a companion.",
+    "spiritual_meaning": "A female companion of the Prophet (peace be upon him)",
+    "emotional_traits": [
+      "Kind",
+      "Just",
+      "Peaceful"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "L = Loyal"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Pink",
+      "Lilac"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 1,
+    "numerology_meaning": "The number one is a symbol of new beginnings and leadership. People with the number one are independent and individualistic, and they are often seen as pioneers and trailblazers in their fields.",
+    "in_arabic": {
+      "name": "نائلة",
+      "meaning": "نائلة تعني النجاح و الفوز في الحياة و الآخرة",
+      "long_meaning": "نائلة هي اسم مؤنث مشتق من الجذر النوني الذي يعني النجاح و الفوز. ورد ذكره في القرآن الكريم في سورة آل عمران الآية 110، حيث قال تعالى: 'كنتم خير أمة أخرجت للناس تأمرون بالمعروف و تنهون عن المنكر و تؤمنون بالله و لو آمن أهل الكتاب لكان خيرًا لهم منكم منهم المؤمنون و أكثرهم الفاسقون'. و تعتبر نائلة من الأسماء التي تحمل معاني إيجابية و محمودة في الثقافة الإسلامية."
+    },
+    "in_urdu": {
+      "name": "نائلا",
+      "meaning": "نائلا کا مطلب ہے زندگی میں کامیابی حاصل کرنا",
+      "long_meaning": "نائلا ایک مؤنث نام ہے جو عربی زبان کے جذر 'ن-و-ل' سے ماخوذ ہے، جس کا مطلب ہے کامیابی حاصل کرنا یا فوز حاصل کرنا۔ یہ نام جنوبی ایشیا میں مسلمانوں کے درمیان میں بہت مقبول ہے اور اکثر اس کا انتخاب اس لیے کیا جاتا ہے کیونکہ یہ نام اسلامی اقدار اور مثالی صفات کی نمائندگی کرتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "नाइला",
+      "meaning": "नाइला का अर्थ है जीवन में सफलता प्राप्त करना",
+      "long_meaning": "नाइला एक सुंदर और अर्थपूर्ण नाम है जो अरबी भाषा से लिया गया है। इसका अर्थ है 'सफलता' या 'जीवन में आगे बढ़ना'। यह नाम भारतीय मुस्लिम समुदाय में बहुत पसंद किया जाता है क्योंकि यह नाम सकारात्मक ऊर्जा और उच्च आदर्शों की भावना को दर्शाता है।"
+    },
+    "in_pashto": {
+      "name": "نايله",
+      "meaning": "نايله د بريا او د ژوند د برياليتوب معنا لري",
+      "long_meaning": "نايله د ښځينو يو نوم دی چې د عربي ژبې څخه اخيستل شوي دي. دغه نوم د برياليتوب، کاميابۍ او د ژوند د موفقيت معنا لري. په افغانستان کې د مسلمانانو تر منځ ډېر مشهور دی او د ديني او کلتوري ارزښتونو د منعکس کولو لپاره کارول کېږي."
+    },
+    "in_english": {
+      "name": "Naaila",
+      "meaning": "Naaila means success, achievement, and progress in life",
+      "long_meaning": "Naaila is a beautiful and meaningful name derived from the Arabic root 'n-w-l', which signifies success, achievement, and progress. This name holds significant spiritual and cultural importance in Islamic tradition and is widely used across various Muslim cultures. It symbolizes positive attributes and desirable qualities, making it a popular choice for parents seeking a name with deep meaning and resonance."
+    },
+    "pronunciation": {
+      "english": "NAY-lah",
+      "urdu": "نائلا کا تلفظ نایلا ہے",
+      "hindi": "नाइला का उच्चारण नायला है",
+      "pashto": "د نايله تلفظ نايله دي",
+      "ipa": "/ˈnɑː.ɪ.lɑː/"
+    },
+    "celebrity_usage": [
+      "Naila Aman",
+      "Naila Jabir",
+      "Naila Kibria"
+    ],
+    "social_tags": [
+      "#NaailaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Naaila"
+    ],
+    "name_variations": [
+      "Naila"
+    ],
+    "popularity_score": 69,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 69,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 65,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 66,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Naaila Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Naaila, a beautiful Islam name meaning \"Female companion\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Naaila, Islam name, baby names, Female companion, Islam baby names, name meaning",
+      "description_paragraph": "Naaila is a meaningful Islam name of Arabic origin that means \"Female companion\". A female companion, a female friend or a woman who is a companion.",
+      "keywords": [
+        "Naaila",
+        "Islam name",
+        "baby names",
+        "Female companion",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Naaila in Islam tradition?",
+          "a": "Naaila is a beautiful Islam name meaning \"Female companion\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Naaila a good Islam name for a baby?",
+          "a": "Yes, Naaila is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Naaila?",
+          "a": "The name Naaila has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Naaila correctly?",
+          "a": "Naaila is pronounced NAY-lah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Naaila?",
+          "a": "Naming a child Naaila brings blessings. The meaning \"Female companion\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Naaila?",
+          "a": "Naaila is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 98,
+      "focus_keyword": "Naaila meaning",
+      "secondary_keywords": [
+        "Islam name Naaila",
+        "Naaila meaning",
+        "Naaila origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "In the Islamic culture, the name Naila holds a unique significance as it carries the meaning of a woman who is a companion. This name has been given to numerous women in Muslim communities throughout history and continues to be used today. Naila can refer to a wife, a sister, or a friend, emphasizing the importance of strong and meaningful relationships between women and men.",
+    "spiritual_significance": "From a spiritual perspective, the name Naila carries the deeper meaning of a woman who is a companion in the journey towards Allah. This companionship represents the idea of being supportive, understanding, and kind towards others in their spiritual quest. Additionally, the name Naila can be seen as a reminder of the eternal companion, Prophet Muhammad (PBUH), who is the ultimate guide and companion for Muslims on their spiritual journey. Thus, the name Naila carries both a cultural and spiritual significance, emphasizing the importance of meaningful relationships and the commitment towards Allah and the Prophet in Islamic traditions.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Ali ibn Abi Talib was the fourth caliph of Islam and a cousin and son-in-law of Muhammad. The name Naaila carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Islamic history"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Ali is a common name in the Middle East and South Asia"
+      ],
+      "platforms": [
+        "Ali is a popular name on social media platforms"
+      ],
+      "modern_context": "The name Naaila remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Layla Naaila",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Layla Naaila from Kuala Lumpur, Malaysia embodies the meaning of Naaila - \"Female companion\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Female companion\" symbolizes A female companion, a female friend or a woman who is a companion.. In Islamic spirituality, bearing the name Naaila serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of female companion.",
+    "created_at": "2025-12-22T19:19:49.834Z",
+    "updated_at": "2025-12-22T04:53:14.58Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1673,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Naaila",
+      "description": "Female companion",
+      "additionalName": [
+        "Naila"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Naaila",
+          "description": "Discover the meaning of Naaila - \"Female companion\"",
+          "image": "/images/social/naaila-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Naaila - Name Meaning",
+          "description": "Learn about the beautiful name Naaila",
+          "image": "/images/social/naaila-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Naaila",
+          "description": "Name meaning: Female companion",
+          "image": "/images/social/naaila-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Naaila - Meaning: Female companion",
+        "email_subject": "Beautiful Name: Naaila"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Naaila with meaning Female companion",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "nevaeh",
+      "naina",
+      "nadeen",
+      "nora",
+      "namik",
+      "norah",
+      "nina",
+      "nihal"
+    ]
+  }
+}

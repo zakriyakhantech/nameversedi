@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Ghazal",
+    "slug": "ghazal",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "islamic",
+    "meaning": "Poetry"
+  }
+}

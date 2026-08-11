@@ -1,0 +1,279 @@
+{
+  "success": true,
+  "data": {
+    "name": "Hudad",
+    "slug": "hudad",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "(Male or Female or Unisex)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "The Straight Path",
+    "long_meaning": "In Islamic terminology, Huda refers to the Straight Path of Allah. It is the path that leads to paradise and away from the fires of hell. In the Quran, Allah says, 'We have guided you to the Straight Way. The Way of those upon whom Allah has bestowed favor among the worlds.' (2:5.)",
+    "spiritual_meaning": "Following the path of righteousness towards Allah.",
+    "emotional_traits": [
+      "Righteous",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "M = Modest"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Green"
+    ],
+    "lucky_stone": "Aqeeq",
+    "life_path_number": 6,
+    "numerology_meaning": "People with the life path number 6 are nurturing and caring. They are responsible and love to help others. In Islamic numerology, this number is associated with the Prophet Muhammad (pbuh) and the virtue of sabr (patience).",
+    "in_arabic": {
+      "name": "هُدَد",
+      "meaning": "مصطلح يُستخدم في اللغة العربية لتحديد الحدود أو الأوضاع",
+      "long_meaning": "هُدَد هي كلمة عربية تعني الحدود أو الأوضاع. في اللغة العربية، يُستخدم هذا المصطلح لتحديد حد أو حالة معينة، ويُمكن أن يشير إلى الحدود الجغرافية أو الحدود الاجتماعية. يُعتبر هُدَد مصطلحًا شائعًا في النصوص الدينية والفقهية، مثل القرآن الكريم، حيث يشير إلى الحدود المتوقعة من الله للناس. في السياق الاجتماعي، يمكن أن تشير إلى الحدود أو الأوضاع التي يتعين على الأفراد التمسك بها. في الثقافة العربية، يُعتبر هُدَد مصطلحًا بارزًا لتحديد الحدود بين الأشياء، ويُعتبر جزءًا مهمًا من اللغة العربية."
+    },
+    "in_urdu": {
+      "name": "حدد",
+      "meaning": "ایک اصطلاح ہے جو حدود یا حالات کی وضاحت کرتا ہے",
+      "long_meaning": "حدحd ایک اصطلاح ہے جو حدود یا حالات کی وضاحت کرتا ہے۔ اردو میں یہ اصطلاح حد یا حالہ کی وضاحت کے لئے استعمال ہوتا ہے، اور یہ حدود جیو گرافی کی یا معاشرتی حدود کی وضاحت کر سکتا ہے۔ قرآن و حديث میں یہ اصطلاح استعمال ہوتی ہے، جہاں یہ حدود اللہ کی وضاحت کی جاتی ہے جو لوگوں پر لگتی ہیں۔ معاشرتی معانے میں یہ اصطلاح حد یا حالہ کی وضاحت کے لئے استعمال ہوتی ہے۔ پاکستان اور بھارت میں مسلمانوں کے معاشرے میں یہ اصطلاح خاصا مقبول ہے۔"
+    },
+    "in_hindi": {
+      "name": "हुडद",
+      "meaning": "एक शब्द है जो सीमाओं या स्थितियों को परिभाषित करता है",
+      "long_meaning": "हुडद एक शब्द है जो सीमाओं या स्थितियों को परिभाषित करता है। हिंदी में, यह शब्द सीमाओं की या सामाजिक सीमाओं की परिभाषा करने के लिए उपयोग किया जाता है। कुरआन और हदीस में, यह शब्द उपयोग किया जाता है, जहां यह सीमाओं की परिभाषा की जाती है जो अल्लाह ने लोगों पर लगाई हैं। सामाजिक अर्थ में, यह शब्द सीमाओं या स्थितियों की परिभाषा के लिए उपयोग किया जाता है। भारत में मुस्लिम समुदाय में, यह शब्द विशेष रूप से लोकप्रिय है।"
+    },
+    "in_pashto": {
+      "name": "هېدېډ",
+      "meaning": "د حدودو یا حالاتو په وختلو",
+      "long_meaning": "هېدېډ د حدودو یا حالاتو په وختلو کې د عربي ټکیګي دی. پښتو کې یې د حدودو یا حالاتو په وختلو کې کارول کېږي، او په دې ډول د جغرافیایي حدودو یا معاشرتي حدودو په وختلو کې کارول کېږي. په اسلامي اصطلاح کې د هېدېډ په کارولو سره د الله په حدودو څخه خبرو کېږي. د معاشرتي معنا څخه یې د حدودو یا حالاتو په وختلو کې کارول کېږي. په افغانستان کې د پښتو ټکيګي په کارولو سره یې د حدودو یا حالاتو په وختلو کې کارول کېږي."
+    },
+    "in_english": {
+      "name": "Hudad",
+      "meaning": "The Straight Path",
+      "long_meaning": "In Islamic terminology, Huda refers to the Straight Path of Allah. It is the path that leads to paradise and away from the fires of hell. In the Quran, Allah says, 'We have guided you to the Straight Way. The Way of those upon whom Allah has bestowed favor among the worlds.' (2:5.)"
+    },
+    "pronunciation": {
+      "english": "/ˈhʊdæd/",
+      "urdu": "اُردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ˈhʊdæd/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#HudadMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Hudad"
+    ],
+    "name_variations": [],
+    "popularity_score": 74,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 79,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Hudad Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Hudad, a beautiful Islam name meaning \"The Straight Path\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Hudad, Islam name, baby names, The Straight Path, Islam baby names, name meaning",
+      "description_paragraph": "Hudad is a meaningful Islam name of Arabic origin that means \"The Straight Path\". In Islamic terminology, Huda refers to the Straight Path of Allah. It is the path that leads to paradise and away from the fires of hell. In the Quran, Allah says, 'We have guided you to the Straight Way. The Way of those upon whom Allah has bestowed favor among the worlds.' (2:5.)",
+      "keywords": [
+        "Hudad",
+        "Islam name",
+        "baby names",
+        "The Straight Path",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Hudad in Islam tradition?",
+          "a": "Hudad is a beautiful Islam name meaning \"The Straight Path\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Hudad a good Islam name for a baby?",
+          "a": "Yes, Hudad is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Hudad?",
+          "a": "The name Hudad has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Hudad correctly?",
+          "a": "Hudad is pronounced /ˈhʊdæd/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Hudad?",
+          "a": "Naming a child Hudad brings blessings. The meaning \"The Straight Path\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Hudad?",
+          "a": "Hudad is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 96,
+      "focus_keyword": "Hudad meaning",
+      "secondary_keywords": [
+        "Islam name Hudad",
+        "Hudad meaning",
+        "Hudad origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The term \"Hudud\" is also used in Islamic jurisprudence to denote the prescribed punishments for certain crimes in the Shari'ah (Islamic Law). These punishments are considered necessary for maintaining social order and for deterring wrongdoing, thus reinforcing the cultural importance of justice and fairness in society.",
+    "spiritual_significance": "On a deeper level, Huda signifies the guidance and wisdom bestowed upon humans by Allah to help them navigate the complexities of life and make the right choices leading to spiritual growth and salvation. The Islamic concept of Huda emphasizes the importance of seeking divine guidance in all aspects of life, from the mundane to the profound.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "The term 'Hudud' refers to the prescribed punishments in Islamic law for specified offenses. These punishments were established during the early Islamic period, specifically during the caliphate of Umar ibn Al-Khattab (634-644 AD).",
+        "time_period": "634-644 AD",
+        "context": "Formation of Islamic legal system and establishment of Hudud punishments"
+      },
+      {
+        "reference": "The concept of Hudud was further developed during the Fatimid Caliphate (909-1171 AD) under the legal scholars known as the Fuqaha. They expanded the scope of Hudud to include moral and social offenses, and emphasized the importance of the intent (qasd) in the commission of a crime.",
+        "time_period": "909-1171 AD",
+        "context": "Expansion and refinement of Hudud under the Fatimid Caliphate"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Popular choice for newborns in Muslim communities",
+        "Trending in Muslim baby name searches"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Hudad remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Hudad",
+      "location": "Dubai, UAE",
+      "story": "A successful entrepreneur named Fatima Hudad in Dubai, UAE attributes much of their success to the blessing of their name Hudad, which means \"The Straight Path\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"The Straight Path\" symbolizes In Islamic terminology, Huda refers to the Straight Path of Allah. It is the path that leads to paradise and away from the fires of hell. In the Quran, Allah says, 'We have guided you to the Straight Way. The Way of those upon whom Allah has bestowed favor among the worlds.' (2:5.). In Islamic spirituality, bearing the name Hudad serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of the straight path.",
+    "created_at": "2025-12-22T19:19:49.944Z",
+    "updated_at": "2025-12-22T04:53:15.602Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1564,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Hudad",
+      "description": "The Straight Path",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "(Male or Female or Unisex)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Hudad",
+          "description": "Discover the meaning of Hudad - \"The Straight Path\"",
+          "image": "/images/social/hudad-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Hudad - Name Meaning",
+          "description": "Learn about the beautiful name Hudad",
+          "image": "/images/social/hudad-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Hudad",
+          "description": "Name meaning: The Straight Path",
+          "image": "/images/social/hudad-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Hudad - Meaning: The Straight Path",
+        "email_subject": "Beautiful Name: Hudad"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Hudad with meaning The Straight Path",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "hannah"
+    ]
+  }
+}

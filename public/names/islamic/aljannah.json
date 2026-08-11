@@ -1,0 +1,295 @@
+{
+  "success": true,
+  "data": {
+    "name": "AlJannah",
+    "slug": "aljannah",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Heaven, Paradise",
+    "long_meaning": "In Islamic tradition, AlJannah refers to the eternal and blissful abode of the righteous in the afterlife. It is described as a lush, verdant garden filled with rivers, fruits, and delights. The Prophet Muhammad (pbuh) often spoke of its beauty and blessings.",
+    "spiritual_meaning": "A symbol of eternal peace, beauty, and reward for the righteous.",
+    "emotional_traits": [
+      "Peaceful",
+      "Beautiful"
+    ],
+    "hidden_personality_traits": [
+      "M"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Green",
+      "Blue"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 6,
+    "numerology_meaning": "The 6 life path number is associated with love, harmony, and balance. Those with this number often have strong family ties and a nurturing personality.",
+    "in_arabic": {
+      "name": "الجنّة",
+      "meaning": "المكان الذي يُجازى به العباد في الآخرة بعد ما يُنجَز من أعمالهم الصالحة",
+      "long_meaning": "المكان الذي يُجازى به العباد في الآخرة بعد ما يُنجَز من أعمالهم الصالحة، حيثُ يُحسِنون في دار النعيم، وَيُستَمتعون بِسعادة دائمة، وَيُكَمِّلون حياتهم بِالرزق الجيد، وَيُحَلو في الجنة، وَيُزَوجون بِالمؤمِنات الحسنات، وَيَلبَسون ثياب النعيم، وَيَخَفِّضون درجاتهم، وَيُكَبِّرون بِالجنة، وَيُحَفِّضوهم في الدار، وَيُقَيَّموا في دار السعادة"
+    },
+    "in_urdu": {
+      "name": "الجنہ",
+      "meaning": "مکمل ہوا جنت، جہاں انسانوں کو جنت میں داخل کیا جاتا ہے",
+      "long_meaning": "مکمل ہوا جنت، جہاں انسانوں کو جنت میں داخل کیا جاتا ہے، جہاں وہ اپنی اچھی کوششوں کا ثمرہ لیتے ہیں۔ یہاں وہ دوسروں کی طرح اپنے گھر میں سکونت پزیر ہوتے ہیں۔ جنت ایک جگہ ہے جہاں انصاف ہوتا ہے، اور وہاں کوئی دھوکہ نہیں دیتے۔ وہاں انسانوں کو اپنے کاموں کی پاداش میں جنت کا انعام دیا جاتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "अलज़न्हा",
+      "meaning": "मानव के बाद की दुनिया में जहां उन्हें सुख-शांति और समृद्धि का अनुभव होता है",
+      "long_meaning": "मानव के बाद की दुनिया में जहां उन्हें सुख-शांति और समृद्धि का अनुभव होता है, जहां वे अपनी अच्छी कार्यों के परिणाम को प्राप्त करते हैं। यहां मानव अपने आवास में रहते हैं और अपने परिवार के साथ शांति से जीवन व्यतीत करते हैं। इसे जीवन का उच्चतम स्तर माना जाता है, जहां मानव अपने कर्तव्यों को पूरा करते हुए जीवन का समापन करते हैं।"
+    },
+    "in_pashto": {
+      "name": "الجنہ",
+      "meaning": "د څوک د چارو د لوړ څوک د جنت کې",
+      "long_meaning": "د څوک د چارو د لوړ څوک د جنت کې، کوم دا یو ځایه ده چې انسان څښېل شوی د پوره ګټورتې ځانګړتیاوې لري، او په کوم کې د انسان ځانګړتیاوې پوره کېږي، دا ځایه ده چې د انسان د ګټورتو ځانګړتیاوو له مخې پوره کوي، په کوم دا ځایه ده چې د انسان د ګټورتو ځانګړتیاوو له مخې پوره کوي."
+    },
+    "in_english": {
+      "name": "AlJannah",
+      "meaning": "Heaven, Paradise",
+      "long_meaning": "In Islamic tradition, AlJannah refers to the eternal and blissful abode of the righteous in the afterlife. It is described as a lush, verdant garden filled with rivers, fruits, and delights. The Prophet Muhammad (pbuh) often spoke of its beauty and blessings."
+    },
+    "pronunciation": {
+      "english": "AH-leem",
+      "urdu": "الجنہ",
+      "hindi": "अलज़न्हा",
+      "pashto": "الجنہ",
+      "ipa": "/ˈɑː.liːm/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#AlJannahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#AlJannah"
+    ],
+    "name_variations": [
+      "AlJanna"
+    ],
+    "popularity_score": 48,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 68,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "AlJannah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of AlJannah, a beautiful Islam name meaning \"Heaven, Paradise\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "AlJannah, Islam name, baby names, Heaven, Paradise, Islam baby names, name meaning",
+      "description_paragraph": "AlJannah is a meaningful Islam name of Arabic origin that means \"Heaven, Paradise\". In Islamic tradition, AlJannah refers to the eternal and blissful abode of the righteous in the afterlife. It is described as a lush, verdant garden filled with rivers, fruits, and delights. The Prophet Muhammad (pbuh) often spoke of its beauty and blessings.",
+      "keywords": [
+        "AlJannah",
+        "Islam name",
+        "baby names",
+        "Heaven, Paradise",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of AlJannah in Islam tradition?",
+          "a": "AlJannah is a beautiful Islam name meaning \"Heaven, Paradise\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is AlJannah a good Islam name for a baby?",
+          "a": "Yes, AlJannah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name AlJannah?",
+          "a": "The name AlJannah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce AlJannah correctly?",
+          "a": "AlJannah is pronounced AH-leem in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child AlJannah?",
+          "a": "Naming a child AlJannah brings blessings. The meaning \"Heaven, Paradise\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name AlJannah?",
+          "a": "AlJannah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 90,
+      "focus_keyword": "AlJannah meaning",
+      "secondary_keywords": [
+        "Islam name AlJannah",
+        "AlJannah meaning",
+        "AlJannah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name AlJannah carries a profound cultural impact on the Islamic world, as it represents an essential belief shared by Muslims. The idea of AlJannah functions as a source of motivation and hope for believers, as they strive to lead righteous lives in the present world in order to secure a place in this paradise. It is also a symbol of unity and shared values, as Muslims from all corners of the globe can come together in their belief in the existence of this spiritual haven.",
+    "spiritual_significance": "From a spiritual perspective, AlJannah represents the ultimate reward for those who have obeyed Allah's commands and lived a life in accordance with Islamic teachings. It is a reminder of the fleeting nature of this world and the importance of focusing on the next life. The promise of AlJannah provides comfort and solace to Muslims, as they navigate the challenges of this world, knowing that their faithfulness and piety will be rewarded with eternal happiness and bliss.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name AlJannah carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Traditional name experiencing modern revival",
+        "Classic Islamic name maintaining steady popularity"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name AlJannah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima AlJannah",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "A successful entrepreneur named Fatima AlJannah in Kuala Lumpur, Malaysia attributes much of their success to the blessing of their name AlJannah, which means \"Heaven, Paradise\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Heaven, Paradise\" symbolizes In Islamic tradition, AlJannah refers to the eternal and blissful abode of the righteous in the afterlife. It is described as a lush, verdant garden filled with rivers, fruits, and delights. The Prophet Muhammad (pbuh) often spoke of its beauty and blessings.. In Islamic spirituality, bearing the name AlJannah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of heaven, paradise.",
+    "created_at": "2025-12-22T19:19:49.918Z",
+    "updated_at": "2025-12-22T04:53:15.334Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1502,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "AlJannah",
+      "description": "Heaven, Paradise",
+      "additionalName": [
+        "AlJanna"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: AlJannah",
+          "description": "Discover the meaning of AlJannah - \"Heaven, Paradise\"",
+          "image": "/images/social/aljannah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "AlJannah - Name Meaning",
+          "description": "Learn about the beautiful name AlJannah",
+          "image": "/images/social/aljannah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "AlJannah",
+          "description": "Name meaning: Heaven, Paradise",
+          "image": "/images/social/aljannah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: AlJannah - Meaning: Heaven, Paradise",
+        "email_subject": "Beautiful Name: AlJannah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "AlJannah with meaning Heaven, Paradise",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "arsala",
+      "amelia",
+      "amalia",
+      "anika",
+      "anaan",
+      "alraaz",
+      "amber",
+      "anila",
+      "aaidah",
+      "aryan"
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "success": true,
+  "data": {
+    "name": "Salam",
+    "slug": "salam",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Peace",
+    "long_meaning": "A greeting of peace, conveying a sense of harmony and serenity.",
+    "spiritual_meaning": "A symbol of the divine peace that descends upon the Prophet Muhammad (peace be upon him).",
+    "emotional_traits": [
+      "Peaceful",
+      "Kind",
+      "Just"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "L = Loyal"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Green",
+      "Blue"
+    ],
+    "lucky_stone": "Rose Quartz",
+    "life_path_number": 11,
+    "numerology_meaning": "A master number representing intuition, illumination, and inspiration",
+    "in_arabic": {
+      "name": "سلام",
+      "meaning": "السلام هو اسم يعني السلام والتحية والهدوء",
+      "long_meaning": "السلام هو اسم مشتق من الفعل سلم، وهو يعني السلام والتحية والهدوء. ورد ذكر هذا الاسم في القرآن الكريم في عدة آيات، منها قوله تعالى: 'وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يَا بَنِي إِسْرَائِيلَ إِنِّي رَسُولُ اللَّهِ إِلَيْكُمْ مُصَدِّقًا لِمَا بَيْنَ يَدَيَّ مِنَ التَوْرَاةِ وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِن بَعْدِي اسْمُهُ أَحْمَدٌ' (الصف: 6). وقد وردت روايات أن النبي محمد صلى الله عليه وسلم كان يتحيا أصحابه بالسلام."
+    },
+    "in_urdu": {
+      "name": "سلام",
+      "meaning": "سلام کا مطلب ہے امن، سکون اور تحفظ",
+      "long_meaning": "سلام ایک ایسا نام ہے جو امن، سکون اور تحفظ کی علامت ہے۔ یہ نام عربی زبان کے الفاظ 'سلم' سے ماخوذ ہے، جس کا مطلب ہے امن اور تحفظ۔ اسلام میں سلام کا بہت اہمیت ہے، اور مسلمان ایک دوسرے کو سلام کے طور پر استعمال کرتے ہیں۔ قرآن کریم میں بھی سلام کا ذکر ہے، جیسے کہ 'وَلَمَّا جَاءَ أَحْمَدٌ قَالَ يَا بَنِي إِسْرَائِيلَ إِنِّي لَكُمْ رَسُولُ اللَّهِ وَأَنِّي لَكُمْ مُصَدِّقٌ لِمَا بَيْنَ يَدَيَّ مِنَ التَوْرَاةِ' (الصف: 6)."
+    },
+    "in_hindi": {
+      "name": "सलाम",
+      "meaning": "सलाम का अर्थ है शांति, सुरक्षा और संरक्षण",
+      "long_meaning": "सलाम एक ऐसा नाम है जो शांति, सुरक्षा और संरक्षण का प्रतीक है। यह नाम अरबी भाषा के शब्द 'स्लम' से लिया गया है, जिसका अर्थ है शांति और सुरक्षा। इस्लाम में सलाम बहुत महत्वपूर्ण है, और मुसलमान एक दूसरे को सलाम के रूप में उपयोग करते हैं। कुरआन में भी सलाम का उल्लेख है, जैसे कि 'और जब अहमद आया, तो उसने कहा, हे बनी इसराइल! मैं तुम्हारा अल्लाह का रसूल हूँ, और मैं तुम्हारे सामने जो कुछ है उसकी तसदीक करने वाला हूँ' (सूरतुल सफ: 6)।"
+    },
+    "in_pashto": {
+      "name": "سلام",
+      "meaning": "سلام د امن، سول او خوندیتوب معنی لري",
+      "long_meaning": "سلام یو داسې نوم دی چی د امن، سول او خوندیتوب نښه ده. دا نوم د عربی کلمې 'سلم' څخه اخیستل شوی دی، کوم چی د امن او خوندیتوب معنی لري. په اسلام کې سلام ډیر اهمیت لري، او مسلمانان یو بل ته سلام په کارولو. قرآن کریم کې هم سلام یادونه ده، لکه 'او کله چې احمد راغی، نو ویې ویل، ای بني اسرائیلو! زه ستاسو لپاره د الله رَسُول یم، او زه ستاسو مخکي څه دی د تصدیق کوونکی یم' (الصف: ۶)."
+    },
+    "in_english": {
+      "name": "Salam",
+      "meaning": "Salam means peace, safety, and security",
+      "long_meaning": "Salam is a name that symbolizes peace, safety, and security. It is derived from the Arabic root 'سلم' (salama), which means to be safe or to be at peace. In Islam, Salam is a significant concept, as Muslims greet each other with 'As-salamu alaykum' (peace be upon you). The name Salam is mentioned in the Quran, emphasizing the importance of peace and safety. Throughout Islamic tradition, Salam has been a revered name, reflecting the values of serenity, harmony, and protection."
+    },
+    "pronunciation": {
+      "english": "sah-lahm",
+      "urdu": "اردو میں تلفظ کی تفصیل: سَلام",
+      "hindi": "हिन्दी में उच्चारण विवरण: सलाम",
+      "pashto": "په پښتو کې د تلفظ تفصیل: سَلام",
+      "ipa": "/sæˈlɑːm/"
+    },
+    "celebrity_usage": [
+      "Salam Al-Fayyad"
+    ],
+    "social_tags": [
+      "#SalamMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Salam"
+    ],
+    "name_variations": [],
+    "popularity_score": 57,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 76,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Salam Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Salam, a beautiful Islam name meaning \"Peace\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Salam, Islam name, baby names, Peace, Islam baby names, name meaning",
+      "description_paragraph": "Salam is a meaningful Islam name of Arabic origin that means \"Peace\". A greeting of peace, conveying a sense of harmony and serenity.",
+      "keywords": [
+        "Salam",
+        "Islam name",
+        "baby names",
+        "Peace",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Salam in Islam tradition?",
+          "a": "Salam is a beautiful Islam name meaning \"Peace\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Salam a good Islam name for a baby?",
+          "a": "Yes, Salam is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Salam?",
+          "a": "The name Salam has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Salam correctly?",
+          "a": "Salam is pronounced sah-lahm in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Salam?",
+          "a": "Naming a child Salam brings blessings. The meaning \"Peace\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Salam?",
+          "a": "Salam is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 91,
+      "focus_keyword": "Salam meaning",
+      "secondary_keywords": [
+        "Islam name Salam",
+        "Salam meaning",
+        "Salam origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "In Islamic culture, saying \"Salam\" is a common greeting used to imply goodwill and friendship towards others. The word \"Salam\" is derived from the Arabic root words \"Sala\" meaning safe and \"Salam\" meaning peace. This greeting is not only used as a simple greeting but also as a way to end a conversation or an argument peacefully.",
+    "spiritual_significance": "In Islamic spirituality, \"Salam\" is used to signify the attainment of inner peace and tranquility. The Prophet Muhammad (PBUH) is said to have mentioned that saying \"Salam\" upon entering one's own house signifies seeking refuge from the chaos of the outside world and seeking blessings for one's household. The word \"Salam\" also represents the greeting given to angels and the prayers of Prophets and righteous people in the heavens. It is believed that the first thing that the believers will hear in the hereafter is the greeting of \"As Salamu Alaikum\" from Allah SWT. Therefore, the concept of \"Salam\" holds deep spiritual significance as a reminder of the importance of maintaining peace and inner harmony in one's personal life and the greater world.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that The name Salam is mentioned in the Quran. The name Salam carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "The name Salam is associated with the concept of peace and security in Islamic tradition."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "increasing popularity in the Middle East"
+      ],
+      "platforms": [
+        "social media",
+        "islamic forums"
+      ],
+      "modern_context": "The name Salam remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Salam",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "A successful entrepreneur named Maryam Salam in Kuala Lumpur, Malaysia attributes much of their success to the blessing of their name Salam, which means \"Peace\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Peace\" symbolizes A greeting of peace, conveying a sense of harmony and serenity.. In Islamic spirituality, bearing the name Salam serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of peace.",
+    "created_at": "2025-12-22T19:19:49.836Z",
+    "updated_at": "2025-12-22T04:53:14.638Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1372,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Salam",
+      "description": "Peace",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Salam",
+          "description": "Discover the meaning of Salam - \"Peace\"",
+          "image": "/images/social/salam-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Salam - Name Meaning",
+          "description": "Learn about the beautiful name Salam",
+          "image": "/images/social/salam-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Salam",
+          "description": "Name meaning: Peace",
+          "image": "/images/social/salam-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Salam - Meaning: Peace",
+        "email_subject": "Beautiful Name: Salam"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Salam with meaning Peace",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saal",
+      "saim",
+      "sadaldin"
+    ]
+  }
+}

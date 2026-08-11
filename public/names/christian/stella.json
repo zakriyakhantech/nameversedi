@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Stella",
+    "slug": "stella",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "christian",
+    "meaning": "Star"
+  }
+}

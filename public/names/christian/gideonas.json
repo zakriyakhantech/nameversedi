@@ -1,0 +1,224 @@
+{
+  "success": true,
+  "data": {
+    "name": "Gideonas",
+    "slug": "gideonas",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
+    ],
+    "gender": "(Male)",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "short_meaning": "God's mighty man",
+    "long_meaning": "Gideon is a Hebrew name derived from the word yadon, which means 'a father'. In the Old Testament, Gideon is a powerful warrior and judge of Israel who delivers his people from the Midianites. God chose Gideon to be a leader despite his initial doubts and weaknesses. Gideon's faith and bravery led him to defeat the Midianites with only 300 men, using torches hidden in jars to confuse the enemy. This story is a testament to God's power and faithfulness in providing victory against seemingly insurmountable odds.",
+    "spiritual_meaning": "Gideon's name represents God's strength and provision in the face of adversity.",
+    "emotional_traits": [
+      "Courageous",
+      "Faithful"
+    ],
+    "hidden_personality_traits": [
+      "L = Loyal",
+      "S = Strong"
+    ],
+    "lucky_number": 6,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Gold",
+      "Brown"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 3,
+    "numerology_meaning": "Creativity, self-expression, and communication",
+    "in_hebrew": {
+      "name": "גידאונס",
+      "meaning": "גדעון הוא שופט ומנהיג גדול בישראל",
+      "long_meaning": "השם גידאונס נגזר מהשם העברי גדעון, שפירושו גדעון הוא שופט ומנהיג גדול בישראל. השם גדעון מורכב מהמילים גד ו-עון, שפירושם כרת או חיתוך, ומכאן שמשמעות השם גידאונס היא כורת או חיתוך, וגם שופט ומנהיג."
+    },
+    "in_greek": {
+      "name": "Γιδεώνας",
+      "meaning": "Γιδεώνας ο ισχυρός κριτής και ηγέτης",
+      "long_meaning": "Το όνομα Γιδεώνας προέρχεται από το εβραϊκό όνομα Γεδεών, που σημαίνει Γιδεώνας ο ισχυρός κριτής και ηγέτης. Το όνομα Γεδεών αποτελείται από τις λέξεις γεδε και -ών, που σημαίνει κόπτης ή κοπής, και από εδώ το Γιδεώνας σημαίνει κόπτης ή κοπής, αλλά και ισχυρός κριτής και ηγέτης."
+    },
+    "in_latin": {
+      "name": "Gideonas",
+      "meaning": "Gideonas magnus iudex et dux",
+      "long_meaning": "Nomen Gideonas derivatur ex nomine hebraeo Geideon, quod significat Gideonas magnus iudex et dux. Nomen Geideon constat ex vocibus ge et -deon, quod significat abscisor vel abscisionem, et hinc Gideonas dicitur abscisor vel abscisionem, sed et magnus iudex et dux."
+    },
+    "in_english": {
+      "name": "Gideonas",
+      "meaning": "Mighty warrior, great judge and leader",
+      "long_meaning": "The name Gideonas originates from the Hebrew name Geideon, meaning mighty warrior, great judge and leader. Derived from the Hebrew words 'ge' and 'deon', signifying cutter or cutting, Gideonas connotes strength and leadership. In the biblical context, Gideon was a prominent judge and military leader in Israel, known for his faith and courage. The name Gideonas symbolizes power, wisdom, and spiritual guidance, reflecting the values of Christian tradition."
+    },
+    "pronunciation": {
+      "english": "Gid-ee-uh-nas",
+      "biblical": "גידאונס (Gide'on)",
+      "ipa": "/ˌɡɪd.iˈɑː.nəs/"
+    },
+    "celebrity_usage": [
+      "Gideon Baxter (Actor)",
+      "Gideon Haigh (Writer)"
+    ],
+    "social_tags": [
+      "#GideonasMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Gideonas"
+    ],
+    "name_variations": [],
+    "popularity_score": 65,
+    "popularity_by_region": [
+      {
+        "region": "United States",
+        "country_code": "US",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "Poland",
+        "country_code": "PL",
+        "score": 85,
+        "year": 2024
+      }
+    ],
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Judges",
+      "verse_reference": "Judges 6:1-8:35",
+      "note": "Gideon was a judge and military leader in Israel, known for his faith and courage in the face of adversity."
+    },
+    "saint_reference": {
+      "is_saint_name": false,
+      "saint_name": "",
+      "note": ""
+    },
+    "cultural_impact": "Gideon's story has been passed down through generations, and the name has become a symbol of strength and courage in Jewish and Christian cultures. It is a reminder that even the weakest and most uncertain individuals can accomplish great feats when placed in God's hands. The name Gideon is also popular in various languages and dialects around the world, including \"Gidadhoni\" in Swahili, \"Jideon\" in Igbo, and \"Judhaan\" in Telugu.",
+    "spiritual_significance": "For those given the name Gideon or bearing it as a nickname, it carries a spiritual significance that calls them to trust in God's power and provision, even when faced with daunting challenges. It serves as a reminder to be brave in the face of adversity and to rely on God for strength and guidance. The story of Gideon also highlights the importance of obedience and faith, as Gideon's initial reluctance to lead the Israelites was eventually replaced with courage and determination as he followed God's will.",
+    "historical_references": [
+      {
+        "reference": "Gideon is mentioned in the Hebrew Bible as a judge who led the Israelites against the Midianites. He is said to have defeated them with an army of 300 men, using torches hidden in jars to deceive the enemy. This event is recorded in the book of Judges, chapter 7.",
+        "time_period": "12th century BCE",
+        "context": "Ancient Near East, Israelite civilization"
+      },
+      {
+        "reference": "According to the New Testament book of Judges in the Bible, Gideon is also identified as a man who personally prepared an ephod, an object of idolatrous worship, to be used by the Israelites as a ‘token of their devotion to the LORD’. This episode is recorded in Judges 8:22-27.",
+        "time_period": "12th century BCE",
+        "context": "Ancient Near East, Israelite civilization"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Biblical character, military leader, judge in the Old Testament",
+        "Known for leading a small army to defeat a large Midianite force",
+        "Symbol of courage and faith in the face of overwhelming odds"
+      ],
+      "platforms": [
+        "Christian literature and media",
+        "Educational and historical contexts",
+        "Pop culture and entertainment"
+      ],
+      "modern_context": "The name 'Gideonas' continues to be relevant in modern culture, particularly in Christian literature and media where it is often used to represent stories of courage and faith. In educational and historical contexts, Gideonas is studied as a significant military leader and judge in ancient Israel. In pop culture and entertainment, the name is referenced in films, books, and music, reflecting the enduring appeal of the biblical character's story of leading a small army to defeat a large force against all odds."
+    },
+    "name_in_real_life": {
+      "person_name": "Sarah Gideonas",
+      "location": "New York, United States",
+      "story": "Sarah Gideonas, a minister in New York, United States, shares that their name Gideonas meaning \"God's mighty man\" has been a constant source of inspiration, guiding them to serve others and live according to Christian values."
+    },
+    "spiritual_symbolism": "Gideon signifies a \"mighty warrior of God.\" His name derives from the Hebrew word \"jedid,\" meaning beloved, and \"yahweh-jiddo,\" meaning God knows. Thus, Gideon embodies the strength and faith that comes from being deeply loved by God.",
+    "seo": {
+      "seo": {
+        "title": "Gideonas: The Mighty Man of God in Christianity",
+        "meta_description": "Discover the meaning and religious significance of the Hebrew name Gideonas, a powerful warrior and judge in the Old Testament who led Israel to victory against the Midianites with God's help.",
+        "description_paragraph": "Gideonas is a Hebrew name with a rich history and cultural significance in Christianity. Derived from the word yadon, which means 'a father', this name is a testament to God's might and faithfulness in providing victory against seemingly insurmountable odds. In the Old Testament, Gideon is a powerful warrior and judge of Israel who delivers his people from the Midianites using only 300 men and torches hidden in jars to confuse the enemy. This story is a powerful reminder of the importance of faith and courage in the face of adversity.",
+        "keywords": [
+          "Gideonas",
+          "Hebrew name",
+          "Old Testament",
+          "Christianity",
+          "Israel",
+          "Midianites",
+          "warrior",
+          "judge",
+          "faith",
+          "courage"
+        ],
+        "faq": [
+          {
+            "q": "What does Gideonas mean?",
+            "a": "Gideonas is a Hebrew name derived from the word yadon, which means 'a father'."
+          },
+          {
+            "q": "Is Gideonas a Christianity name?",
+            "a": "Yes, Gideonas is a name with strong religious significance in Christianity, as it is derived from the Old Testament story of Gideon, a powerful warrior and judge of Israel who led his people to victory against the Midianites with God's help."
+          },
+          {
+            "q": "How to pronounce Gideonas?",
+            "a": "Gideonas is pronounced as JEE-dee-oh-nas."
+          },
+          {
+            "q": "Is Gideonas popular today?",
+            "a": "Gideonas is a less common name, but it has been gaining popularity in recent years due to its rich history and cultural significance in Christianity."
+          },
+          {
+            "q": "What is the origin of Gideonas?",
+            "a": "Gideonas is a Hebrew name, derived from the word yadon, which means 'a father'."
+          }
+        ]
+      },
+      "title": "Gideonas Name Meaning in (Hebrew) | Christianity",
+      "meta_description": "Discover the meaning of Gideonas, a beautiful Christian name meaning \"God's mighty man\". Learn about its Biblical origin, spiritual significance, and cultural importance in Christian tradition.",
+      "description_paragraph": "Gideonas is a meaningful Christian name of (Hebrew) origin that means \"God's mighty man\". Gideon is a Hebrew name derived from the word yadon, which means 'a father'. In the Old Testament, Gideon is a powerful warrior and judge of Israel who delivers his people from the Midianites. God chose Gideon to be a leader despite his initial doubts and weaknesses. Gideon's faith and bravery led him to defeat the Midianites with only 300 men, using torches hidden in jars to confuse the enemy. This story is a testament to God's power and faithfulness in providing victory against seemingly insurmountable odds. Parents choosing this name for their child seek to bestow blessings and godly attributes upon them.",
+      "keywords": [
+        "Gideonas",
+        "Christianity name",
+        "(Hebrew) origin",
+        "Gideonas meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Gideonas mean?",
+          "a": "Gideonas means \"God's mighty man\" and is a popular Christian name with deep spiritual significance."
+        },
+        {
+          "q": "Is Gideonas a good Christian name?",
+          "a": "Yes, Gideonas is a beautiful Christian name that carries positive meaning and is widely used in Christian communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Gideonas?",
+          "a": "Gideonas has (Hebrew) origins and is rooted in Christian tradition and culture."
+        },
+        {
+          "q": "Is Gideonas mentioned in the Bible?",
+          "a": "Gideonas is a name with Biblical connections and carries significance in Christian scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Gideonas?",
+          "a": "Naming a child Gideonas is believed to bring blessings and embodies the beautiful meaning of \"God's mighty man\", which can inspire godly character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "google_adsense": "ca-pub-1234567890123456",
+      "affiliate_programs": [
+        "amazon"
+      ]
+    },
+    "updated_at": "2025-12-23T04:50:20.525Z",
+    "similar_sounding_names": [
+      "abeliel",
+      "Abijah",
+      "Adalyn",
+      "Adelaide",
+      "Adele",
+      "Adonella",
+      "Agnes",
+      "Agnieszka",
+      "Aimee",
+      "Alarice"
+    ]
+  }
+}

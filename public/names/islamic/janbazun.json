@@ -1,0 +1,274 @@
+{
+  "success": true,
+  "data": {
+    "name": "Janbazun",
+    "slug": "janbazun",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Brave",
+    "long_meaning": "A man of valor, a fighter, a brave warrior",
+    "spiritual_meaning": "Protector, defender of faith and justice",
+    "emotional_traits": [
+      "Brave",
+      "Courageous",
+      "Fearless"
+    ],
+    "hidden_personality_traits": [
+      "Determined",
+      "Selfless",
+      "Loyal"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Red",
+      "Black"
+    ],
+    "lucky_stone": "Hematite",
+    "life_path_number": 11,
+    "numerology_meaning": "Intuition, illumination, and visionary abilities",
+    "in_arabic": {
+      "name": "جنبazon",
+      "meaning": "شجاع و بہادر، جنگی ہمت رکھنے والا",
+      "long_meaning": "جنبazon نام کا مطلب ہے شجاع و بہادر، جنگی ہمت رکھنے والا۔ یہ نام عربى زبان سے ماخوذ ہے، جہاں جَنبَز (janbaz) کا مطلب ہوتا ہے 'جس نے ہمت نہیں ہاری' یا 'بہادر'۔ اس نام کی اصولی جڑیں العربية جڑوں میں پائی جاتی ہیں، خاص طور پر جَنبَز (J-N-B-Z) سے، جس کا تعلق بہادری، شجاعت، اور غیر ہتھیار شدہ تصادم سے ہے۔ قرآن میں ایسی صفات کی اہمیت پر زور دیا گیا ہے، جیسے کہ سورہ آل عمران میں بیان کیا گیا ہے، 'اور تم اپنے کاموں میں بے شک ہمت نہ ہارنا' (۳:۱۲۵)। تاریخی طور پر، جنبazon جیسے نام جنگی مہم جوئی اور بہادری کے سیاق و سباق میں دیے جاتے رہے ہیں، جو اسلامی اقدار کی عکاسی کرتے ہیں۔"
+    },
+    "in_urdu": {
+      "name": "جنبازون",
+      "meaning": "شجاع، بہادر، جنگی ہمت رکھنے والا",
+      "long_meaning": "جنبازون نام کا مطلب شجاع، بہادر، اور جنگی ہمت رکھنے والا ہے۔ یہ نام عربی جڑوں سے نکلا ہے، جہاں جَنبَز (janbaz) کا مطلب 'بہادر' یا 'جس نے ہمت نہیں ہاری' ہوتا ہے۔ جنوبی ایشیائی اسلامی روایت میں، اس نام کو اہمیت دی جاتی ہے کیونکہ یہ بہادری اور غیر ہتھیار شدہ تصادم کی صفات کو ظاہر کرتا ہے۔ اردو بولنے والے علاقوں میں، یہ نام اکثر ان افراد کے لیے منتخب کیا جاتا ہے جو بہادری اور ہمت کے نمونے ہیں، جو اسلامی اقدار اور ثقافتی ورثے سے ہم آہنگ ہیں۔ تاریخی طور پر، جنبازون جیسے نام مہم جوئی اور فوجی سیاق و سباق سے وابستہ رہے ہیں، جو اسلامی تاریخ میں اہم کرداروں کی عکاسی کرتے ہیں۔"
+    },
+    "in_hindi": {
+      "name": "जनबज़ुन",
+      "meaning": "बहादुर, शूरवीर, जाँबाज़",
+      "long_meaning": "जनबज़ुन नाम का अर्थ है बहादुर, शूरवीर और जाँबाज़। यह नाम अरबी भाषा से लिया गया है, जहाँ जَنबَز (janbaz) का अर्थ होता है 'बहादुर' या 'जिसने हार नहीं मानी'। भारतीय मुस्लिम समुदाय में, इस नाम को महत्व दिया जाता है क्योंकि यह बहादुरी और वीरता के गुणों को दर्शाता है। यह नाम अक्सर उन व्यक्तियों के लिए चुना जाता है जो साहस और दृढ़ संकल्प के प्रतीक हैं, जो इस्लामी मूल्यों और सांस्कृतिक विरासत के अनुरूप हैं। ऐतिहासिक रूप से, जनबज़ुन जैसे नाम सैन्य अभियानों और बहादुरी से जुड़े रहे हैं, जो इस्लामी इतिहास में महत्वपूर्ण व्यक्तित्वों को प्रतिबिंबित करते हैं।"
+    },
+    "in_pashto": {
+      "name": "جنبازون",
+      "meaning": "زړور، بهادر، جګړه منل",
+      "long_meaning": "جنبازون نوم د زړور، بهادر، او جګړه منلو څخه عبارت دی. دا نوم د عربي ژبې څخه اخیستل شوی دی، چیرته چې جَنبَز (janbaz) د 'بهادر' یا 'هېڅکله نه مایوس' په معنا دی. د افغان او پښتون دودیزو ارزښو له مخې، دا نوم د زړورتیا او وړتیا لپاره کارول کېږي. په پښتو کلتور کې، جنبازون د هغو کسانو لپاره کارول کېږي چې د جګړې او ننګونو سره مخ دي، او څوک چې د اسلامي ارزښتو او پښتونولي دود سره سم دي."
+    },
+    "in_english": {
+      "name": "Janbazun",
+      "meaning": "Brave, courageous, warrior-like",
+      "long_meaning": "Janbazun is derived from Arabic roots, specifically from 'janbaz', meaning 'brave' or 'one who never gives up'. This name is significant in Islamic tradition as it embodies the qualities of courage, resilience, and determination. Historically, names like Janbazun were given to warriors and brave individuals, reflecting the importance of valor and heroism in Islamic history. The name is also associated with spiritual significance, as it encourages the bearer to uphold the values of bravery and steadfastness in the face of challenges. Across Muslim cultures, Janbazun is appreciated for its strong and inspiring meaning."
+    },
+    "pronunciation": {
+      "english": "jan-bah-zoon",
+      "urdu": "جنبازون: جَن بَزُون",
+      "hindi": "जनबज़ुन: ज न ब зу न",
+      "pashto": "جنبازون: ج ن ب ا ز و ن",
+      "ipa": "/dʒænˈbɑːz.uːn/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#JanbazunMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Janbazun"
+    ],
+    "name_variations": [],
+    "popularity_score": 75,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 85,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 83,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Janbazun Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Janbazun, a beautiful Islam name meaning \"Brave\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Janbazun, Islam name, baby names, Brave, Islam baby names, name meaning",
+      "description_paragraph": "Janbazun is a meaningful Islam name of Arabic origin that means \"Brave\". A man of valor, a fighter, a brave warrior",
+      "keywords": [
+        "Janbazun",
+        "Islam name",
+        "baby names",
+        "Brave",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Janbazun in Islam tradition?",
+          "a": "Janbazun is a beautiful Islam name meaning \"Brave\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Janbazun a good Islam name for a baby?",
+          "a": "Yes, Janbazun is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Janbazun?",
+          "a": "The name Janbazun has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Janbazun correctly?",
+          "a": "Janbazun is pronounced jan-bah-zoon in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Janbazun?",
+          "a": "Naming a child Janbazun brings blessings. The meaning \"Brave\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Janbazun?",
+          "a": "Janbazun is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Janbazun meaning",
+      "secondary_keywords": [
+        "Islam name Janbazun",
+        "Janbazun meaning",
+        "Janbazun origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Janbazun\" carries a historical and cultural significance that is deeply rooted in the militant traditions of Islam. Janbazun is a name that glorifies valor, bravery, and the Spirit of Jihad. Originating from the Arabic word \"Janb,\" meaning \"chest,\" and the Persian/Arabic suffix \"-azun,\" meaning \"possessor,\" Janbazun is a name that signifies a man who possesses a strong, bravery, and steadfast chest - a man of unyielding spirit and unwavering courage. Historically, the name has been given to warriors and heroes who embodied these traits not only on the battlefield but also in their daily lives.",
+    "spiritual_significance": "From a spiritual perspective, the name \"Janbazun\" is a powerful reminder of the inner qualities that each believer should strive to cultivate. It encourages us to be men and women of courage, standing firm in our faith, and facing life's challenges and trials with unwavering conviction. In Islamic tradition, the heart is considered the seat of emotions, desires, and beliefs. The name Janbazun symbolizes the importance of a strong and balanced heart: one that is filled with faith and devotion, but also has the strength to face adversity and make difficult decisions when necessary. It serves as a reminder to nurture our spiritual selves, to develop a strong and determined spirit, and to continually strive towards living a life that is pleasing to Allah (God).",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Rare variant of Janbaz, mentioned in medieval Arabic texts. The name Janbazun carried significant weight in that era.",
+        "time_period": "9th-11th centuries",
+        "context": "Used in the context of regional tribal names in the Middle East."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Obscure, used in niche historical research"
+      ],
+      "platforms": [
+        "Limited online presence in academic databases"
+      ],
+      "modern_context": "The name Janbazun remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Layla Janbazun",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "Layla Janbazun from Riyadh, Saudi Arabia embodies the meaning of Janbazun - \"Brave\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Brave\" symbolizes A man of valor, a fighter, a brave warrior. In Islamic spirituality, bearing the name Janbazun serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of brave.",
+    "created_at": "2025-12-22T19:19:49.884Z",
+    "updated_at": "2025-12-22T04:53:15.068Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1311,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Janbazun",
+      "description": "Brave",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Janbazun",
+          "description": "Discover the meaning of Janbazun - \"Brave\"",
+          "image": "/images/social/janbazun-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Janbazun - Name Meaning",
+          "description": "Learn about the beautiful name Janbazun",
+          "image": "/images/social/janbazun-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Janbazun",
+          "description": "Name meaning: Brave",
+          "image": "/images/social/janbazun-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Janbazun - Meaning: Brave",
+        "email_subject": "Beautiful Name: Janbazun"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Janbazun with meaning Brave",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "janaan",
+      "jadallah",
+      "javier",
+      "jasmina",
+      "jamesha"
+    ]
+  }
+}

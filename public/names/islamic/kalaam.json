@@ -1,0 +1,287 @@
+{
+  "success": true,
+  "data": {
+    "name": "Kalaam",
+    "slug": "kalaam",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "(Male)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Speech, Word",
+    "long_meaning": "The name Kalaam is derived from the Arabic word ‘kalima’, which means ‘word’ or ‘speech’. In Islamic context, it is considered a spiritual name and is often used for boys. It symbolizes the importance of righteous and wise speech in one's daily life. In the Quran, Allah says, 'And when it is said to them, 'Believe in what Allah has revealed,' they say, 'We believe in it.' They are not believers. But when they are invited to Allah, evasive and disdainful, Allah is Knowing of that which they conceal.' (Al-Baqarah, 2:89)",
+    "spiritual_meaning": "A name symbolizing the importance of righteous and wise speech.",
+    "emotional_traits": [
+      "Righteous",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "M = Modest"
+    ],
+    "lucky_number": 15,
+    "lucky_day": "(Thursday)",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "(Aqeeq)",
+    "life_path_number": 3,
+    "numerology_meaning": "People with the name Kalaam are creative, passionate, and determined individuals. They are natural communicators and have a strong desire to express themselves.",
+    "in_arabic": {
+      "name": "كالام",
+      "meaning": "الكلام هو القدرة على التعبير عن الأفكار والمشاعر",
+      "long_meaning": "الكلام في اللغة العربية يعني القدرة على التعبير عن الأفكار والمشاعر من خلال اللغة، وهو من صفات الله تعالى التي وردت في القرآن الكريم، حيث يقول الله تعالى: \"وَكُلُ شَيْءٍ عِنْدَهُ بِمِقْدَارٍ * وَهُوَ بِكُلِ شَيْءٍ مُحِيطٌ * وَهُوَ عَلَى كُلِ شَيْءٍ قَدِيرٌ * وَأَخَذْنَ مِنَ الْكِتَابِ مَوَاضِعَ الرُشْدِ وَأَهْدَيْنَاهُ فِيمَا بَعْدُ لِنُرِيَهُ مِنَ الآيَاتِ مَثَلَ الْكَلِمِ الطَيِبِ كَالشَجَرِ الطَيِبِ أَصْلُهُ ثَابِتٌ وَفَرْعُهُ فِي السَّمَاءِ\" (الرعد: 8-10)، والكلام يوحي بالحكمة والبلاغة"
+    },
+    "in_urdu": {
+      "name": "کلام",
+      "meaning": "کلام کا مطلب ہے اپنے خیالات اور جذبات کا اظہار کرنا",
+      "long_meaning": "اردو میں کلام کا لفظی معنی ہے اپنے خیالات اور جذبات کا اظہار کرنا، جو کہ اسلامی ثقافت میں ایک اہم صفت مانا جاتا ہے، خاص طور پر جب اس کا تعلق اللہ تعالی کی صفات سے ہوتا ہے، جیسے کہ قرآن مجید میں ذکر ہے: \"و كل شيء عنده بمقدار\" (الرعد: 8)، اور کلام کے ذریعے انسان اپنے رائے اور سوچ کا اظہار کرتا ہے"
+    },
+    "in_hindi": {
+      "name": "कलाम",
+      "meaning": "कलाम का अर्थ है अपने विचारों और भावनाओं को व्यक्त करना",
+      "long_meaning": "देवनागरी लिपि में कलाम का नाम भारतीय मुस्लिम परंपरा में बहुत महत्व रखता है, क्योंकि यह नाम न केवल एक अच्छी विशेषता को दर्शाता है, बल्कि यह कुरआन की आयतों से भी प्रेरित है, जहां अल্লাহ की शक्ति और ज्ञान को कलाम के रूप में वर्णित किया गया है: \"और हर चीज उसके लिए एक माप है\" (الرعد: 8), जो बुद्धिमत्ता और अभिव्यक्ति की शक्ति को दर्शाता है"
+    },
+    "in_pashto": {
+      "name": "کلام",
+      "meaning": "کلام د خپلو افکارو او احساساتو د څرګندولو معنی لري",
+      "long_meaning": "په پښتو کې د کلام نوم ډیر ستر اهمیت لري، ځکه چې دا د پښتنو د کلتور او د اسلامي دين يوه مهمه برخه ده، کلام د حکمت او بلاغت د څرګندولو لپاره کارول کيږي، لکه څنګه چې قرآن کريم فرمايي: \"او هر څه د هغه په نزد کې د يو مقدار په اساس دي\" (الرعد: 8)"
+    },
+    "in_english": {
+      "name": "Kalaam",
+      "meaning": "Kalaam represents the ability to express thoughts and emotions through language",
+      "long_meaning": "The name Kalaam originates from Arabic roots, specifically from the word 'كلام' which means speech, discourse, or conversation. In Islamic theology, Kalaam refers to the attribute of Allah, signifying His power of speech and expression. The Quran mentions: 'And everything with Him has a determined extent' (الرعد: 8), highlighting the wisdom and eloquence associated with Kalaam. This name symbolizes the ability to articulate thoughts and feelings effectively, reflecting a significant aspect of human communication and divine attributes in Islamic tradition"
+    },
+    "pronunciation": {
+      "english": "kah-LAHM",
+      "urdu": "اردو میں تلفظ کی تفصیل: کلام",
+      "hindi": "हिन्दी में उच्चारण विवरण: कलाम",
+      "pashto": "په پښتو کې د تلفظ تفصیل: کلام",
+      "ipa": "/kɑːˈlɑːm/"
+    },
+    "celebrity_usage": [
+      "Kalaam Zafar, Pakistani actor"
+    ],
+    "social_tags": [
+      "#KalaamMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Kalaam"
+    ],
+    "name_variations": [
+      "Kalam"
+    ],
+    "popularity_score": 49,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 77,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Kalaam Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Kalaam, a beautiful Islam name meaning \"Speech, Word\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Kalaam, Islam name, baby names, Speech, Word, Islam baby names, name meaning",
+      "description_paragraph": "Kalaam is a meaningful Islam name of Arabic origin that means \"Speech, Word\". The name Kalaam is derived from the Arabic word ‘kalima’, which means ‘word’ or ‘speech’. In Islamic context, it is considered a spiritual name and is often used for boys. It symbolizes the importance of righteous and wise speech in one's daily life. In the Quran, Allah says, 'And when it is said to them, 'Believe in what Allah has revealed,' they say, 'We believe in it.' They are not believers. But when they are invited to Allah, evasive and disdainful, Allah is Knowing of that which they conceal.' (Al-Baqarah, 2:89)",
+      "keywords": [
+        "Kalaam",
+        "Islam name",
+        "baby names",
+        "Speech, Word",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Kalaam in Islam tradition?",
+          "a": "Kalaam is a beautiful Islam name meaning \"Speech, Word\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Kalaam a good Islam name for a baby?",
+          "a": "Yes, Kalaam is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Kalaam?",
+          "a": "The name Kalaam has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Kalaam correctly?",
+          "a": "Kalaam is pronounced kah-LAHM in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Kalaam?",
+          "a": "Naming a child Kalaam brings blessings. The meaning \"Speech, Word\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Kalaam?",
+          "a": "Kalaam is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 98,
+      "focus_keyword": "Kalaam meaning",
+      "secondary_keywords": [
+        "Islam name Kalaam",
+        "Kalaam meaning",
+        "Kalaam origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Kalaam is rooted in the ancient Arabic language and culture, which embraces the spoken word and the power of language. The name carries the essence of communication and eloquence – two crucial aspects of Arabic heritage.",
+    "spiritual_significance": "In Islamic tradition, Kalaam represents the significance of wise and righteous speech. The Prophet Muhammad (PBUH) emphasized the importance of speaking kindly and truthfully. Kalaam conveys the message that every word we utter has the potential to impact ourselves and others, and that we should choose our words wisely. The name also emphasizes the importance of understanding and following the teachings of Allah, which are conveyed through the Quran – a powerful ‘Kalima’ or word from Allah.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Kalaam is mentioned in the Hadith as a term for 'speech' or 'discourse' The name Kalaam carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "The name Kalaam is associated with the Islamic tradition of Hadith, where it refers to the Prophet Muhammad's words and actions."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "increasing use in Islamic scholarship and education"
+      ],
+      "platforms": [
+        "social media, academic journals, and Islamic websites"
+      ],
+      "modern_context": "The name Kalaam remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Kalaam",
+      "location": "Istanbul, Turkey",
+      "story": "A successful entrepreneur named Aisha Kalaam in Istanbul, Turkey attributes much of their success to the blessing of their name Kalaam, which means \"Speech, Word\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Speech, Word\" symbolizes The name Kalaam is derived from the Arabic word ‘kalima’, which means ‘word’ or ‘speech’. In Islamic context, it is considered a spiritual name and is often used for boys. It symbolizes the importance of righteous and wise speech in one's daily life. In the Quran, Allah says, 'And when it is said to them, 'Believe in what Allah has revealed,' they say, 'We believe in it.' They are not believers. But when they are invited to Allah, evasive and disdainful, Allah is Knowing of that which they conceal.' (Al-Baqarah, 2:89). In Islamic spirituality, bearing the name Kalaam serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of speech, word.",
+    "created_at": "2025-12-22T19:19:49.946Z",
+    "updated_at": "2025-12-22T04:53:15.628Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1205,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Kalaam",
+      "description": "Speech, Word",
+      "additionalName": [
+        "Kalam"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "(Male)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Kalaam",
+          "description": "Discover the meaning of Kalaam - \"Speech, Word\"",
+          "image": "/images/social/kalaam-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Kalaam - Name Meaning",
+          "description": "Learn about the beautiful name Kalaam",
+          "image": "/images/social/kalaam-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Kalaam",
+          "description": "Name meaning: Speech, Word",
+          "image": "/images/social/kalaam-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Kalaam - Meaning: Speech, Word",
+        "email_subject": "Beautiful Name: Kalaam"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Kalaam with meaning Speech, Word",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "kabir",
+      "kashish",
+      "kayan"
+    ]
+  }
+}

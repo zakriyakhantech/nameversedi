@@ -1,0 +1,292 @@
+{
+  "success": true,
+  "data": {
+    "name": "Wahajat",
+    "slug": "wahajat",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Pashto",
+      "Persian"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Gift, Reward",
+    "long_meaning": "The one who gives and rewards",
+    "spiritual_meaning": "Symbolizes generosity, kindness, and selflessness",
+    "emotional_traits": [
+      "Generous",
+      "Selfless",
+      "Kind"
+    ],
+    "hidden_personality_traits": [
+      "Patient",
+      "Discreet",
+      "Thoughtful"
+    ],
+    "lucky_number": 6,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Red",
+      "Purple"
+    ],
+    "lucky_stone": "Ruby",
+    "life_path_number": 1,
+    "numerology_meaning": "Independence, self-reliance, resourcefulness",
+    "in_arabic": {
+      "name": "واحجت",
+      "meaning": "الواحجت هو مصدر من الأفعال يُشير إلى الوصول إلى الحقيقة أو الكمال",
+      "long_meaning": "الواحجت هو مصدر من الأفعال يُشير إلى الوصول إلى الحقيقة أو الكمال، ويمكن أن يكون مصدراً للفعل الواحج، وهو فعل يُشير إلى الحصول على الحقيقة أو العقلانية، ويراد به أيضاً الحصول على العلم أو العلماء. كما يُشير مصدر الواحج إلى النزول إلى الحقيقة والمعرفة، أو إلى الحصول على العلم والفهم، وينسب هذا المصدر إلى اللوح المحفوظ، حيث يُشير إلى الحصول على الحقيقة واليقين. وفي القرآن الكريم، يُشير مصدر الواحج إلى الحصول على الحقيقة والمعرفة، كقول الله تعالى: (وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن صَبْغَةٍ مِنْ عَضْبٍ) [الطور: 2]. والواحجت يُستخدم أيضاً في الفقه الإسلامي، حيث يُشير إلى الحصول على العلم والفهم، وكيفية الحصول على الحقيقة والمعرفة، وينبغي أن يكون هذا المصدر مصدراً للفعل الواحج، والفعل الواحج يُشير إلى الحصول على الحقيقة والمعرفة، أو إلى الحصول على العلم والفهم. وفي الثقافة الإسلامية، يُشير مصدر الواحج إلى النزول إلى الحقيقة والمعرفة، أو إلى الحصول على العلم والفهم، وينسب هذا المصدر إلى اللوح المحفوظ، حيث يُشير إلى الحصول على الحقيقة واليقين."
+    },
+    "in_urdu": {
+      "name": "واہجت",
+      "meaning": "واہجت کا مطلب ہے کہ کوئی شخص حقیقت کو حاصل کرے یا کامل ہو جائے",
+      "long_meaning": "واہجت کا مطلب ہے کہ کوئی شخص حقیقت کو حاصل کرے یا کامل ہو جائے، اور یہ مصدر لفظ وہاج سے ماخوذ ہے، جو کہ ایک فعل ہے جو کہ حقیقت کو حاصل کرنے یا علم حاصل کرنے کو ظاہر کرتا ہے، اور یہ لفظ اللوح المحفوظ سے ماخوذ ہے، جہاں یہ حقیقت یا علم حاصل کرنے کو ظاہر کرتا ہے، اور قرآن میں بھی یہ لفظ موجود ہے جہاں یہ حقیقت یا علم حاصل کرنے کو ظاہر کرتا ہے، اور یہ لفظ فہم اور علم حاصل کرنے کے لیے استعمال ہوتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "वाहजत",
+      "meaning": "वाहजत का अर्थ है कि किसी व्यक्ति को सच्चाई की प्राप्ति हो या पूर्णता हो",
+      "long_meaning": "वाहजत का अर्थ है कि किसी व्यक्ति को सच्चाई की प्राप्ति हो या पूर्णता हो, और यह शब्द अरबी भाषा से आया है, जहां इसका अर्थ है सच्चाई की प्राप्ति या पूर्णता की प्राप्ति, और यह शब्द اللوح المحفوظ से आया है, जहां यह सच्चाई या علم की प्राप्ति को ظाہر करता है, और इस्लामिक पुनर्जागरण के دوران में विद्वानों ने इस शब्द का उपयोग सच्चाई या علم की प्राप्ति के लिए किया है, और इस शब्द का उपयोग भारतीय मुस्लिम समुदाय में भी होता है।"
+    },
+    "in_pashto": {
+      "name": "واهجت",
+      "meaning": "واهجت دا مطلب دې چې یوړ یوړ ته حقیقت ته رسېدلای یا پوره ته شي",
+      "long_meaning": "واهجت دا مطلب دې چې یوړ یوړ ته حقیقت ته رسېدلای یا پوره ته شي، او دا مصدر د لفظ وہاج څخه اخیستل شوی دی، چې یوړ د حقیقت ته رسېدو یا علم ته رسېدو لپاره کارول کیږی، او دا لفظ د لوح محفوظ څخه اخیستل شوی دی، چې یوړ د حقیقت یا علم ته رسېدو لپاره کارول کیږی، او دا لفظ په قرآن کې هم په کار اخیستل شوی دی، چې یوړ د حقیقت یا علم ته رسېدو لپاره کارول کیږی، او دا لفظ د فہم او علم ته رسېدو لپاره کارول کیږی."
+    },
+    "in_english": {
+      "name": "Wahajat",
+      "meaning": "Wahajat is a name that means someone has achieved truth or perfection",
+      "long_meaning": "Wahajat is a name that means someone has achieved truth or perfection. The word wahajat is derived from the Arabic root 'h-j-t', which means to attain or achieve. In Islamic tradition, wahajat refers to the attainment of knowledge, wisdom, and understanding. In Arabic, the word wahajat is used to describe someone who has achieved a high level of knowledge, wisdom, and understanding. Wahajat is also used in Turkish, where it means to know or understand something. In English, wahajat is used as a name, which means someone who has achieved truth or perfection."
+    },
+    "pronunciation": {
+      "english": "/wɑːhɑːdʒæt/",
+      "urdu": "واہجت",
+      "hindi": "वाहजत",
+      "pashto": "واهجت",
+      "ipa": "/waːhɑt/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#WahajatMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Wahajat"
+    ],
+    "name_variations": [
+      "Waajat"
+    ],
+    "popularity_score": 52,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 90,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 82,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Wahajat Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Wahajat, a beautiful Islam name meaning \"Gift, Reward\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Wahajat, Islam name, baby names, Gift, Reward, Islam baby names, name meaning",
+      "description_paragraph": "Wahajat is a meaningful Islam name of Arabic origin that means \"Gift, Reward\". The one who gives and rewards",
+      "keywords": [
+        "Wahajat",
+        "Islam name",
+        "baby names",
+        "Gift, Reward",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Wahajat in Islam tradition?",
+          "a": "Wahajat is a beautiful Islam name meaning \"Gift, Reward\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Wahajat a good Islam name for a baby?",
+          "a": "Yes, Wahajat is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Wahajat?",
+          "a": "The name Wahajat has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Wahajat correctly?",
+          "a": "Wahajat is pronounced /wɑːhɑːdʒæt/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Wahajat?",
+          "a": "Naming a child Wahajat brings blessings. The meaning \"Gift, Reward\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Wahajat?",
+          "a": "Wahajat is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 97,
+      "focus_keyword": "Wahajat meaning",
+      "secondary_keywords": [
+        "Islam name Wahajat",
+        "Wahajat meaning",
+        "Wahajat origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Wahajat\" carries a deep cultural significance in the Islamic world, as it is a reminder of Allah's generosity and His propensity to give generously to His creation. This name also highlights the importance of charitable giving and social responsibility within the Islamic community.",
+    "spiritual_significance": "From a spiritual perspective, \"Wahajat\" means the one who bestows and rewards. This name can be a source of inspiration for individuals to strive towards acts of kindness, generosity, and good deeds, knowing that Allah is the ultimate giver and rewarder. It also serves as a reminder that every good deed performed, no matter how small, will be rewarded in this life or in the hereafter.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Wahajat carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Classic Islamic name maintaining steady popularity"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Wahajat remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Wahajat",
+      "location": "Istanbul, Turkey",
+      "story": "Maryam Wahajat from Istanbul, Turkey embodies the meaning of Wahajat - \"Gift, Reward\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Gift, Reward\" symbolizes The one who gives and rewards. In Islamic spirituality, bearing the name Wahajat serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gift, reward.",
+    "created_at": "2025-12-22T19:19:49.927Z",
+    "updated_at": "2025-12-22T04:53:15.477Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1172,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Wahajat",
+      "description": "Gift, Reward",
+      "additionalName": [
+        "Waajat"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Pashto",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Wahajat",
+          "description": "Discover the meaning of Wahajat - \"Gift, Reward\"",
+          "image": "/images/social/wahajat-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Wahajat - Name Meaning",
+          "description": "Learn about the beautiful name Wahajat",
+          "image": "/images/social/wahajat-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Wahajat",
+          "description": "Name meaning: Gift, Reward",
+          "image": "/images/social/wahajat-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Wahajat - Meaning: Gift, Reward",
+        "email_subject": "Beautiful Name: Wahajat"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Wahajat with meaning Gift, Reward",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "success": true,
+  "data": {
+    "name": "Shahrukh",
+    "slug": "shahrukh",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Ruler of the Universe",
+    "long_meaning": "The name Shahrukh is derived from the Arabic words 'shah' meaning 'king' and 'rukh' meaning 'spirit' or 'soul'. This name signifies a ruler over the universe, and the spiritual and powerful being that is every individual.",
+    "spiritual_meaning": "A name for someone who is a leader or protector in spiritual matters",
+    "emotional_traits": [
+      "Brave",
+      "Strong"
+    ],
+    "hidden_personality_traits": [
+      "V"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Gold",
+      "Brown"
+    ],
+    "lucky_stone": "Tiger's Eye",
+    "life_path_number": 2,
+    "numerology_meaning": "Peaceful, supportive, and harmonious",
+    "in_arabic": {
+      "name": "شَهْرُخ",
+      "meaning": "نجم الشهر، ملك الشهر، رؤية النجوم، ساطع النور، لينا الضوء، جَمع النجوم",
+      "long_meaning": "شَهْرُخ: لفظ عربي قديم يعني نجم الشهر، حيث يُشير إلى النجم الساطع الذي يملأ الشهر باحتراقه و يُبرز ظله على الأرض، ويُعتبر هذا الاسم من أسماء النجوم في اللغة العربية، ويُستخدم في الإسلام للإشارة إلى النجوم والنجوم الساطعة في السماء، ويُعتبر هذا الاسم من أسماء الفاتحة ومعناه ساطع النور، ويليه ملك الشهر، حيث يُشير إلى الملك المظاهر الذي يملك الشهر، وينعكس هذا الاسم في كلمة (ملك) التي تعني سيد أو ملك، ويُستخدم هذا الاسم في الإسلام للإشارة إلى الملك المظاهر، ويُعتبر هذا الاسم من أسماء الله تعالى، ويُستخدم في الإسلام للإشارة إلى الله تعالى، ويُعتبر هذا الاسم من أسماء الله تعالى التي تعني ملك الشهر، ويُستخدم في الإسلام للإشارة إلى الله تعالى، ويُعتبر هذا الاسم من أسماء الله تعالى التي تعني ساطع النور"
+    },
+    "in_urdu": {
+      "name": "شہرخ",
+      "meaning": "شہر کا ستار، ماہ کا بادشاہ، ستاروں کا مجموعہ، چمکتی ہوئی روشنی، روشنی کا مجموعہ، ستاروں کا ستار",
+      "long_meaning": "شہرخ کا لفظ اردو میں موجود ہے، یہ لفظ شہر کے ستار سے ماخوذ ہے، یہ لفظ شہر کے ستار کو ظاہر کرتا ہے، جو شہر میں روشنی کا مرکز ہوتا ہے، اور اسے روشنی کی روشنی کہتے ہیں، یہ لفظ ستاروں کے مجموعے کو ظاہر کرتا ہے، جو شہر کی روشنی کو پہنچاتی ہے، یہ لفظ چمکتی ہوئی روشنی کو ظاہر کرتا ہے، جو شہر کی روشنی کو پہنچاتی ہے، یہ لفظ روشنی کا مجموعہ کو ظاہر کرتا ہے، جو شہر کی روشنی کو پہنچاتی ہے، یہ لفظ ستاروں کا ستار کو ظاہر کرتا ہے، جو شہر کی روشنی کو پہنچاتی ہے"
+    },
+    "in_hindi": {
+      "name": "शहरुख",
+      "meaning": "महीने का तारा, महीने का राजा, तारों का समूह, चमकती हुई रोशनी, रोशनी का समूह, तारों का तारा",
+      "long_meaning": "शहरुख का शब्द हिंदी में प्रयोग किया जाता है, यह शब्द शहर के तारा से मिलता-जुलता है, यह शब्द शहर के तारे को दर्शाता है, जो शहर में रोशनी का केंद्र होता है, और इसे रोशनी की रोशनी कहा जाता है, यह शब्द तारों के समूह को दर्शाता है, जो शहर की रोशनी को पहुंचाता है, यह शब्द चमकती हुई रोशनी को दर्शाता है, जो शहर की रोशनी को पहुंचाती है, यह शब्द रोशनी का समूह को दर्शाता है, जो शहर की रोशनी को पहुंचाता है, यह शब्द तारों का तारा को दर्शाता है, जो शहर की रोशनी को पहुंचाता है"
+    },
+    "in_pashto": {
+      "name": "شېرخ",
+      "meaning": "ګړنديزې ستاره، ګړنديزې پاچا، ستاروګانوګانو، چرګېدونکې رښتنې، رښتنېګانوګانو، ستاروګانوګانو",
+      "long_meaning": "شېرخ کا لفظ پښتو میڐ ېسۍ، یې لفظ ګړنديزې ستاره سې ماخوذ ېسۍ، یې لفظ ګړنديزې ستاره کو ظاېر کېری، جو ګړنديزي کې رښتنې کو تېل کوي، او یې کو چرګېدونکې رښتنې په ګړنديزي کې رښتنېګانوګانو، یې لفظ ستاروګانوګانو کو ظاېر کېری، جو ستاروګانې کې رښتنېګانوګانو کو تېل کوي، یې لفظ ستاروګانوګانو کو ظاېر کېری، جو ستاروګانې کې رښتنېګانوګانو کو تېل کوي"
+    },
+    "in_english": {
+      "name": "Shahrukh",
+      "meaning": "King of the moon, star of the month, collection of stars, shining light, collection of light, star of stars",
+      "long_meaning": "Shahrukh is an Arabic name that means King of the moon, a shining star that illuminates the month, and a collection of stars that shine together, it is derived from the Arabic root (š-h-r), which means to shine or to illuminate, it is also related to the Arabic word (šah), which means king or ruler, in Islamic tradition, Shahrukh is considered a name of honor and nobility, it is also associated with the qualities of leadership and wisdom, in modern times, the name Shahrukh is popular in many Muslim cultures, and it is often given to children born during the month of Ramadan, the holy month of fasting"
+    },
+    "pronunciation": {
+      "english": "/ˈʃɑːruːx/",
+      "urdu": "شہرخ",
+      "hindi": "शहरुख",
+      "pashto": "شېرخ",
+      "ipa": "/ˈʃɑːruːx/"
+    },
+    "celebrity_usage": [
+      "Shahrukh Khan (Indian actor)"
+    ],
+    "social_tags": [
+      "#ShahrukhMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Shahrukh"
+    ],
+    "name_variations": [
+      "Sharukh"
+    ],
+    "popularity_score": 63,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 92,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 90,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Shahrukh Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Shahrukh, a beautiful Islam name meaning \"Ruler of the Universe\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Shahrukh, Islam name, baby names, Ruler of the Universe, Islam baby names, name meaning",
+      "description_paragraph": "Shahrukh is a meaningful Islam name of Arabic origin that means \"Ruler of the Universe\". The name Shahrukh is derived from the Arabic words 'shah' meaning 'king' and 'rukh' meaning 'spirit' or 'soul'. This name signifies a ruler over the universe, and the spiritual and powerful being that is every individual.",
+      "keywords": [
+        "Shahrukh",
+        "Islam name",
+        "baby names",
+        "Ruler of the Universe",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Shahrukh in Islam tradition?",
+          "a": "Shahrukh is a beautiful Islam name meaning \"Ruler of the Universe\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Shahrukh a good Islam name for a baby?",
+          "a": "Yes, Shahrukh is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Shahrukh?",
+          "a": "The name Shahrukh has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Shahrukh correctly?",
+          "a": "Shahrukh is pronounced /ˈʃɑːruːx/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Shahrukh?",
+          "a": "Naming a child Shahrukh brings blessings. The meaning \"Ruler of the Universe\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Shahrukh?",
+          "a": "Shahrukh is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 95,
+      "focus_keyword": "Shahrukh meaning",
+      "secondary_keywords": [
+        "Islam name Shahrukh",
+        "Shahrukh meaning",
+        "Shahrukh origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Shahrukh is of Persian origin, which was once a major power in the Islamic world. The name was popular among the ruling class due to its royal meaning. Today, the name is commonly used in the Indian subcontinent, where it gained popularity through the Bollywood industry, particularly due to the success of the actor Shah Rukh Khan.",
+    "spiritual_significance": "The name Shahrukh signifies the belief that every human being is a spiritual king or ruler, endowed with a noble soul and the potential to rule over their own destiny. It is a reminder that no matter our external circumstances, we all possess an inner kingdom that is worthy of respect and honor. This aspect of the name resonates deeply with the teachings of Islam, which emphasizes the inherent worth and dignity of every human being.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Shahrukh carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Trending in Muslim baby name searches"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Shahrukh remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Hassan Shahrukh",
+      "location": "Karachi, Pakistan",
+      "story": "A successful entrepreneur named Hassan Shahrukh in Karachi, Pakistan attributes much of their success to the blessing of their name Shahrukh, which means \"Ruler of the Universe\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Ruler of the Universe\" symbolizes The name Shahrukh is derived from the Arabic words 'shah' meaning 'king' and 'rukh' meaning 'spirit' or 'soul'. This name signifies a ruler over the universe, and the spiritual and powerful being that is every individual.. In Islamic spirituality, bearing the name Shahrukh serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of ruler of the universe.",
+    "created_at": "2025-12-22T19:19:49.84Z",
+    "updated_at": "2025-12-22T04:53:14.668Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1030,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Shahrukh",
+      "description": "Ruler of the Universe",
+      "additionalName": [
+        "Sharukh"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Shahrukh",
+          "description": "Discover the meaning of Shahrukh - \"Ruler of the Universe\"",
+          "image": "/images/social/shahrukh-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Shahrukh - Name Meaning",
+          "description": "Learn about the beautiful name Shahrukh",
+          "image": "/images/social/shahrukh-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Shahrukh",
+          "description": "Name meaning: Ruler of the Universe",
+          "image": "/images/social/shahrukh-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Shahrukh - Meaning: Ruler of the Universe",
+        "email_subject": "Beautiful Name: Shahrukh"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Shahrukh with meaning Ruler of the Universe",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "sadaldin"
+    ]
+  }
+}

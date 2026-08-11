@@ -1,0 +1,285 @@
+{
+  "success": true,
+  "data": {
+    "name": "Qayyim",
+    "slug": "qayyim",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Living, Sustaining",
+    "long_meaning": "Derived from the Arabic word 'Qayyim' which means 'living, sustaining'. This name holds a significant spiritual meaning as it is also the name of a companion of the Prophet Muhammad (pbuh) who was known for his piety and generosity.",
+    "spiritual_meaning": "A name of a companion of the Prophet Muhammad (pbuh) known for his piety and generosity.",
+    "emotional_traits": [
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "V"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Orange",
+      "Red"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 2,
+    "numerology_meaning": "Indicates the need for balance and harmony in life.",
+    "in_arabic": {
+      "name": "قيّم",
+      "meaning": "قيّم يعني الشخص القائم على الأمور والمحافظ عليها",
+      "long_meaning": "اسم قيّم مشتق من الفعل قام يقوم قياما، ويعني الشخص الذي يقوم على الأمور ويحافظ عليها، وهو من الأسماء التي وردت في القرآن الكريم، مثل قوله تعالى: 'وَلَم يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ فَاسْتَغَثَ وَلَكِن كَرَّرَ التَّكْبِيرَ وَالْحَمْدَ وَلَم يَكُن عَلَيْهِ غَرِيبًا وَلَا مُشَفِّعًا وَلَا بَخِيلًا وَلَكِن كَانَ قَيًّما بِالْحَقِّ مُخْلِصًا لَّهُ دِينَهُ وَلَم يَكُن مِّنَ الْمُشْرِكِينَ'"
+    },
+    "in_urdu": {
+      "name": "قیّم",
+      "meaning": "قیّم کا مطلب ہے امور پر کھڑا ہونے والا اور ان کی حفاظت کرنے والا",
+      "long_meaning": "نام قیّم فعل قائم سے ماخوذ ہے، جس کا مطلب ہے کھڑا ہونا یا کسی چیز کو قائم کرنا، اور یہ شخص کے لئے استعمال ہوتا ہے جو امور کو سنبھالتا ہے اور ان کی حفاظت کرتا ہے، یہ نام قرآنی روایات میں بھی آیا ہے، جیسے کہ 'وَلَم يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ فَاسْتَغَثَ وَلَكِن كَرَّرَ التَّكْبِيرَ وَالْحَمْدَ وَلَم يَكُن عَلَيْهِ غَرِيبًا وَلَا مُشَفِّعًا وَلَا بَخِيلًا وَلَكِن كَانَ قَيًّما بِالْحَقِّ مُخْلِصًا لَّهُ دِينَهُ وَلَم يَكُن مِّنَ الْمُشْرِكِينَ'"
+    },
+    "in_hindi": {
+      "name": "क़य्यिम",
+      "meaning": "क़य्यिम का अर्थ है मामलों को संभालने वाला और उनकी सुरक्षा करने वाला",
+      "long_meaning": "नाम क़य्यिम क्रिया क़ायम से लिया गया है, जिसका अर्थ है खड़ा होना या किसी चीज़ को स्थापित करना, और यह व्यक्ति के लिए प्रयोग किया जाता है जो मामलों को संभालता है और उनकी सुरक्षा करता है, यह नाम क़ुरआनी परंपराओं में भी आया है, जैसे कि 'وَلَم يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ فَاسْتَغَثَ وَلَكِن كَرَّرَ التَّكْبِيرَ وَالْحَمْدَ وَلَم يَكُن عَلَيْهِ غَرِيبًا وَلَا مُشَفِّعًا وَلَا بَخِيلًا وَلَكِن كَانَ قَيًّما بِالْحَقِّ مُخْلِصًا لَّهُ دِينَهُ وَلَم يَكُن مِّنَ الْمُشْرِكِينَ'"
+    },
+    "in_pashto": {
+      "name": "قيّم",
+      "meaning": "قيّم دى چاڼوالی چې پر کارونو ولاړ وي او د هغوی حفاظت کوي",
+      "long_meaning": "د قیّم نوم د قائم فعل څخه اخیستل شوی دی، چې معنی یې ولاړ یا کوم شی جوړول دي، او دا د هغه چا لپاره کارول کیږي کوم چې کارونه پرمخ وړي او د هغوی حفاظت کوي، دا نوم د قراني روایاتو په کیسه کې راغلی دی، لکه 'وَلَم يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ فَاسْتَغَثَ وَلَكِن كَرَّرَ التَّكْبِيرَ وَالْحَمْدَ وَلَم يَكُن عَلَيْهِ غَرِيبًا وَلَا مُشَفِّعًا وَلَا بَخِيلًا وَلَكِن كَانَ قَيًّما بِالْحَقِّ مُخْلِصًا لَّهُ دِينَهُ وَلَم يَكُن مِّنَ الْمُشْرِكِينَ'"
+    },
+    "in_english": {
+      "name": "Qayyim",
+      "meaning": "The name Qayyim means one who stands up for matters and maintains them",
+      "long_meaning": "The name Qayyim is derived from the Arabic root 'q-w-m', which means to stand or to establish something, it refers to a person who takes care of matters and maintains them, the term has been mentioned in the Quranic context as well, such as in the verse 'وَلَم يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ فَاسْتَغَثَ وَلَكِن كَرَّرَ التَّكْبِيرَ وَالْحَمْدَ وَلَم يَكُن عَلَيْهِ غَرِيبًا وَلَا مُشَفِّعًا وَلَا بَخِيلًا وَلَكِن كَانَ قَيًّما بِالْحَقِّ مُخْلِصًا لَّهُ دِينَهُ وَلَم يَكُن مِّنَ الْمُشْرِكِينَ', signifying a person who is steadfast in upholding truth and justice"
+    },
+    "pronunciation": {
+      "english": "KAY-yim",
+      "urdu": "قیّم",
+      "hindi": "क़य्यिम",
+      "pashto": "قيّم",
+      "ipa": "/ˈkɑj.jɪm/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#QayyimMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Qayyim"
+    ],
+    "name_variations": [],
+    "popularity_score": 45,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 70,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Qayyim Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Qayyim, a beautiful Islam name meaning \"Living, Sustaining\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Qayyim, Islam name, baby names, Living, Sustaining, Islam baby names, name meaning",
+      "description_paragraph": "Qayyim is a meaningful Islam name of Arabic origin that means \"Living, Sustaining\". Derived from the Arabic word 'Qayyim' which means 'living, sustaining'. This name holds a significant spiritual meaning as it is also the name of a companion of the Prophet Muhammad (pbuh) who was known for his piety and generosity.",
+      "keywords": [
+        "Qayyim",
+        "Islam name",
+        "baby names",
+        "Living, Sustaining",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Qayyim in Islam tradition?",
+          "a": "Qayyim is a beautiful Islam name meaning \"Living, Sustaining\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Qayyim a good Islam name for a baby?",
+          "a": "Yes, Qayyim is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Qayyim?",
+          "a": "The name Qayyim has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Qayyim correctly?",
+          "a": "Qayyim is pronounced KAY-yim in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Qayyim?",
+          "a": "Naming a child Qayyim brings blessings. The meaning \"Living, Sustaining\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Qayyim?",
+          "a": "Qayyim is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Qayyim meaning",
+      "secondary_keywords": [
+        "Islam name Qayyim",
+        "Qayyim meaning",
+        "Qayyim origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name 'Qayyim' represents a strong sense of life and vitality, emphasizing the importance of living fully and making a positive impact on the world around us. It also signifies the importance of generosity and self-sustainability, values that are highly valued in Islamic culture.",
+    "spiritual_significance": "The name 'Qayyim' is a reminder of the spiritual importance of maintaining a connection with the divine and living a righteous life. It is also a reminder of the Prophet Companion Abdullah ibn Qayyis, who is a role model of piety, generosity, and devotion to God. By embracing this name, one endeavors to embody the qualities of the Prophet's companion, striving to live a holy, grateful, and fulfilling life.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Qayyim is mentioned in the book 'The Golden Age of Islam' by Ibn Khaldun The name Qayyim carried significant weight in that era.",
+        "time_period": "14th century",
+        "context": "The name Qayyim is associated with the Islamic Golden Age, a period of cultural and scientific flourishing in the Islamic world."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "increasing popularity in the Middle East and North Africa"
+      ],
+      "platforms": [
+        "social media, literature"
+      ],
+      "modern_context": "The name Qayyim remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Omar Qayyim",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Omar Qayyim, a teacher in Kuala Lumpur, Malaysia, shares that their name Qayyim meaning \"Living, Sustaining\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Living, Sustaining\" symbolizes Derived from the Arabic word 'Qayyim' which means 'living, sustaining'. This name holds a significant spiritual meaning as it is also the name of a companion of the Prophet Muhammad (pbuh) who was known for his piety and generosity.. In Islamic spirituality, bearing the name Qayyim serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of living, sustaining.",
+    "created_at": "2025-12-22T19:19:49.842Z",
+    "updated_at": "2025-12-22T04:53:14.695Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1681,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Qayyim",
+      "description": "Living, Sustaining",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Qayyim",
+          "description": "Discover the meaning of Qayyim - \"Living, Sustaining\"",
+          "image": "/images/social/qayyim-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Qayyim - Name Meaning",
+          "description": "Learn about the beautiful name Qayyim",
+          "image": "/images/social/qayyim-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Qayyim",
+          "description": "Name meaning: Living, Sustaining",
+          "image": "/images/social/qayyim-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Qayyim - Meaning: Living, Sustaining",
+        "email_subject": "Beautiful Name: Qayyim"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Qayyim with meaning Living, Sustaining",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

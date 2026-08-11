@@ -1,0 +1,297 @@
+{
+  "success": true,
+  "data": {
+    "name": "Bashshar",
+    "slug": "bashshar",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Bringer of Good News",
+    "long_meaning": "Bashshar is an Arabic name that means 'bringer of good news' or 'harbinger of joy'. It is a name that symbolizes happiness and positivity.",
+    "spiritual_meaning": "In Islamic tradition, Bashshar is reminiscent of the Prophet Muhammad's (peace be upon him) role as a bringer of good news and guidance to humanity.",
+    "emotional_traits": [
+      "Optimistic",
+      "Cheerful",
+      "Kind",
+      "Generous"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "C = Charismatic",
+      "L = Loyal",
+      "D = Diplomatic"
+    ],
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 1,
+    "numerology_meaning": "Innovation, leadership, new beginnings",
+    "in_arabic": {
+      "name": "بشير",
+      "meaning": "بشير يعني الشخص الذي يأتي بالبشارة",
+      "long_meaning": "بشير هو اسم مشتق من الفعل بشر، والذي يعني أن يأتي بالبشارة أو الخبر السار. في اللغة العربية، يُستخدم هذا الاسم للإشارة إلى الشخص الذي يبشر بالخير أو يأتي بالأخبار السارة. وفي القرآن الكريم، نجد أن كلمة بشرى تأتي في عدة مواضع، منها قول الله تعالى: \"فَبَشِّرْ عِبَادِي\" (سبأ: ٧)، أي أخبرهم بالخير والرحمة. ومن هنا، يأتي الاسم بشير كدلالة على الشخص الذي يتحلى بالبشارة والخير."
+    },
+    "in_urdu": {
+      "name": "بشیر",
+      "meaning": "بشیر کا مطلب ہے خوشخبری دینے والا",
+      "long_meaning": "بشیر ایک عربی نام ہے جس کا مطلب ہے خوشخبری دینے والا یا اچھی خبر لانے والا۔ یہ نام بشارت سے ماخوذ ہے، جس کا مطلب ہے خوشخبری یا اچھی خبر۔ اسلامی روایات میں، بشیر وہ شخص ہے جو اچھی خبر یا بشارت لاتا ہے، جیسے کہ قرآن مجید میں کہا گیا ہے: \"فَبَشِّرْ عِبَادِي\" (سبأ: ٧)। یہ نام جنوبی ایشیائی مسلمانوں کے درمیان میں بھی مقبول ہے، جو اس کی خوشخبری اور اچھے معنی کی وجہ سے اسے اپنے بچوں کے لیے منتخب کرتے ہیں۔"
+    },
+    "in_hindi": {
+      "name": "बशीर",
+      "meaning": "बशीर का अर्थ है खुशखबरी देने वाला",
+      "long_meaning": "बशीर एक अरबी नाम है जिसका अर्थ है खुशखबरी देने वाला या अच्छी खबर लाने वाला। यह नाम بشارت (बशारत) से लिया गया है, जिसका अर्थ है खुशखबरी या अच्छी खबर। इस्लामी परंपरा में, बशीर वह व्यक्ति है जो अच्छी खबर या खुशखबरी लाता है, जैसा कि कुरआन में कहा गया है: \"فَبَشِّرْ عِبَادِي\" (सबा: ٧)। भारतीय मुस्लिम समुदाय में, यह नाम अपनी सकारात्मक अर्थ और आध्यात्मिक महत्व के कारण लोकप्रिय है।"
+    },
+    "in_pashto": {
+      "name": "بشير",
+      "meaning": "بشير د ښې خبرې راوړونکی معنی لري",
+      "long_meaning": "بشير د عربي نوم څخه اخیستل شوی دی چې معنی یې د ښې خبرې راوړونکی یا خوشخبري ورکوونکی دی. دا نوم د بشارت څخه مشتق شوی دی، چې د خوشخبري یا ښې خبرې معنی ورکوي. په اسلامي دود کې، بشير هغه څوک دی چې ښې خبرې یا خوشخبري راوړي، لکه څنګه چې قرآن کې فرمايي: \"فَبَشِّرْ عِبَادِي\" (سبأ: ٧). په افغان او پښتون دود کې، دا نوم د خپلو مثبتو مانا او روحاني اهميت له امله مشهور دی."
+    },
+    "in_english": {
+      "name": "Bashshar",
+      "meaning": "The one who brings good news or glad tidings",
+      "long_meaning": "Bashshar is an Arabic name derived from the root 'b-sh-r', which means to bring good news or glad tidings. In Islamic tradition, the name Bashshar signifies someone who brings joy and positivity. The Quran mentions 'bashara' (glad tidings) in several verses, emphasizing the importance of spreading good news. Historically, the name Bashshar has been used across various Muslim cultures, symbolizing the bearer of good news and happiness."
+    },
+    "pronunciation": {
+      "english": "bash-shar",
+      "urdu": "اردو میں تلفظ کی تفصیل: بشیر",
+      "hindi": "हिन्दी में उच्चारण विवरण: बशीर",
+      "pashto": "په پښتو کې د تلفظ تفصیل: بشير",
+      "ipa": "/bæʃˈʃɑːr/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#BashsharMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Bashshar"
+    ],
+    "name_variations": [],
+    "popularity_score": 55,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 86,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 75,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Bashshar Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Bashshar, a beautiful Islam name meaning \"Bringer of Good News\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Bashshar, Islam name, baby names, Bringer of Good News, Islam baby names, name meaning",
+      "description_paragraph": "Bashshar is a meaningful Islam name of Arabic origin that means \"Bringer of Good News\". Bashshar is an Arabic name that means 'bringer of good news' or 'harbinger of joy'. It is a name that symbolizes happiness and positivity.",
+      "keywords": [
+        "Bashshar",
+        "Islam name",
+        "baby names",
+        "Bringer of Good News",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Bashshar in Islam tradition?",
+          "a": "Bashshar is a beautiful Islam name meaning \"Bringer of Good News\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Bashshar a good Islam name for a baby?",
+          "a": "Yes, Bashshar is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Bashshar?",
+          "a": "The name Bashshar has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Bashshar correctly?",
+          "a": "Bashshar is pronounced bash-shar in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Bashshar?",
+          "a": "Naming a child Bashshar brings blessings. The meaning \"Bringer of Good News\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Bashshar?",
+          "a": "Bashshar is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 90,
+      "focus_keyword": "Bashshar meaning",
+      "secondary_keywords": [
+        "Islam name Bashshar",
+        "Bashshar meaning",
+        "Bashshar origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "Bashshar is a name that holds a significant place in Islamic culture due to its meaning, which embodies the spirit of hope and happiness. In a world often overshadowed by negativity and despair, the name Bashshar serves as a reminder of the importance of good news, joy, and positivity. It is a name that resonates with the Islamic values of peace and contentment.",
+    "spiritual_significance": "In a spiritual sense, Bashshar represents the belief in the message of hope and joy that comes from Allah. The name reminds us of the importance of spreading positivity, finding joy in the small things, and living life with a joyful and optimistic outlook. Furthermore, the name Bashshar can be seen as a reminder of the Prophet Muhammad's (peace be upon him) role as a bringer of good news to humanity. He brought the message of Islam, which brought hope, peace, and joy to millions of people around the world. Thus, the name Bashshar holds spiritual significance as a reminder of the power of optimism, positivity, and the message of hope and joy that comes from Allah.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Bashshar ibn Burd was a famous Arab poet who lived during the Umayyad Caliphate in the 8th century. The name Bashshar carried significant weight in that era.",
+        "time_period": "8th century",
+        "context": "Bashshar was a prominent figure in the Arabic literary scene during the Umayyad Caliphate and is known for his poetry."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Bashshar is a popular name in the Middle East and North Africa",
+        "It is also used as a given name in other parts of the world"
+      ],
+      "platforms": [
+        "Social media platforms such as Facebook and Twitter",
+        "Messaging apps like WhatsApp and Telegram"
+      ],
+      "modern_context": "The name Bashshar remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khalid Bashshar",
+      "location": "Istanbul, Turkey",
+      "story": "Khalid Bashshar from Istanbul, Turkey embodies the meaning of Bashshar - \"Bringer of Good News\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Bringer of Good News\" symbolizes Bashshar is an Arabic name that means 'bringer of good news' or 'harbinger of joy'. It is a name that symbolizes happiness and positivity.. In Islamic spirituality, bearing the name Bashshar serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of bringer of good news.",
+    "created_at": "2025-12-22T19:19:49.797Z",
+    "updated_at": "2025-12-22T04:53:14.315Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1570,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Bashshar",
+      "description": "Bringer of Good News",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Bashshar",
+          "description": "Discover the meaning of Bashshar - \"Bringer of Good News\"",
+          "image": "/images/social/bashshar-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Bashshar - Name Meaning",
+          "description": "Learn about the beautiful name Bashshar",
+          "image": "/images/social/bashshar-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Bashshar",
+          "description": "Name meaning: Bringer of Good News",
+          "image": "/images/social/bashshar-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Bashshar - Meaning: Bringer of Good News",
+        "email_subject": "Beautiful Name: Bashshar"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Bashshar with meaning Bringer of Good News",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "binesh",
+      "baseema",
+      "banujah",
+      "buthayna",
+      "buhayyah",
+      "basbas",
+      "busrah",
+      "badri",
+      "baraaa"
+    ]
+  }
+}

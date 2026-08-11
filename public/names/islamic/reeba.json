@@ -1,0 +1,281 @@
+{
+  "success": true,
+  "data": {
+    "name": "Reeba",
+    "slug": "reeba",
+    "language": [
+      "Arabic",
+      "English"
+    ],
+    "gender": "female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Flow",
+    "long_meaning": "The one who flows, or the one who is easy to approach",
+    "spiritual_meaning": "Signifies the ability to flow with life and adapt to change",
+    "emotional_traits": [
+      "Calm",
+      "Easygoing",
+      "Flexible"
+    ],
+    "hidden_personality_traits": [
+      "Intuitive",
+      "Introspective",
+      "Observant"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Lapis Lazuli",
+    "life_path_number": 2,
+    "numerology_meaning": "Indicates adaptability and diplomacy",
+    "in_arabic": {
+      "name": "ريبة",
+      "meaning": "الاسم يعني الشك أو الريب في القلب",
+      "long_meaning": "اسم ريبة مشتق من الجذر العربي 'ر-ي-ب' والذي يعني الشك أو الريب. يستخدم الاسم في اللغة العربية لوصف حالة من الشك أو التردد في القلب. وقد ورد هذا الجذر في القرآن الكريم في عدة مواضع، منها قوله تعالى: 'وَمَا أُبرِئُ نَفْسِيَ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّيَ إِنَّ رَبِّيَ غَفُورٌ رَحِيمٌ' (سورة يوسف، الآية 53). يعتبر اسم ريبة من الأسماء ذات المعنى العميق في الثقافة الإسلامية."
+    },
+    "in_urdu": {
+      "name": "ریبہ",
+      "meaning": "نام کا مطلب ہے شک یا دل میں ريب",
+      "long_meaning": "ریبہ نام عربی جڑ 'ر-ي-ب' سے ماخوذ ہے جس کا مطلب ہے شک یا دل میں ريب. یہ نام اردو زبان میں ان خواتین کے لیے استعمال کیا جاتا ہے جو اپنے دل میں شک یا تردد رکھتی ہیں. عربی زبان میں اس جڑ کا استعمال قرآن کریم میں بھی ہوا ہے، جیسے کہ سورہ یوسف میں: 'وَمَا أُبرِئُ نَفْسِيَ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّيَ إِنَّ رَبِّيَ غَفُورٌ رَحِيمٌ' (سورہ یوسف، آیت 53). یہ نام اسلامی ثقافت میں گہری اہمیت رکھتا ہے."
+    },
+    "in_hindi": {
+      "name": "रीबा",
+      "meaning": "नाम का अर्थ है संदेह या दिल में रीब",
+      "long_meaning": "रीबा नाम अरबी मूल 'र-ई-ब' से लिया गया है जिसका अर्थ है संदेह या दिल में रीब. यह नाम देवनागरी लिपि में उन महिलाओं के लिए प्रयोग किया जाता है जिनके दिल में संदेह या तर्क होता है. अरबी भाषा में इस मूल का प्रयोग कुरआन में भी हुआ है, जैसे कि सूरा यूसुफ में: 'وَمَا أُبرِئُ نَفْسِيَ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّيَ إِنَّ رَبِّيَ غَفُورٌ رَحِيمٌ' (सूरा यूसुफ, आयत 53). यह नाम भारतीय मुस्लिम समुदाय में महत्वपूर्ण है."
+    },
+    "in_pashto": {
+      "name": "ریبه",
+      "meaning": "د نوم مطلب دی شک یا په زړه کې ريب",
+      "long_meaning": "ریبه نوم د عربي جڑ 'ر-ي-ب' څخه اخیستل شوی دی چې مطلب یې شک یا په زړه کې ريب دی. دا نوم د پښتو ژبې د هغو ښځو لپاره کارول کیږي چې په خپل زړه کې شک یا تردید لري. په عربي ژبه کې د دې جڑ استعمال په قرآن کریم کې هم شوی دی، لکه څنګه چې د سورة یوسف په آیت 53 کې: 'وَمَا أُبرِئُ نَفْسِيَ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّيَ إِنَّ رَبِّيَ غَفُورٌ رَحِيمٌ'. دا نوم د افغان او پښتون دودیزو ټولنو کې مهم دی."
+    },
+    "in_english": {
+      "name": "Reeba",
+      "meaning": "The name means doubt or suspicion in the heart",
+      "long_meaning": "The name Reeba is derived from the Arabic root 'ر-ي-ب' (r-y-b), which means doubt, suspicion, or uncertainty. This root is mentioned in the Quran, specifically in Surah Yusuf (12:53): 'And I do not absolve myself; indeed, the soul is a strong inciter to evil, except for those on whom my Lord has mercy. Indeed, my Lord is Forgiving and Merciful.' The name Reeba holds significance in Islamic culture, symbolizing a state of introspection and self-doubt. It is used in various Muslim communities around the world to signify a person who embodies these qualities."
+    },
+    "pronunciation": {
+      "english": "Ree-bah",
+      "urdu": "ریبا کا تلفظ ہے 'ری-با'",
+      "hindi": "रीबा का उच्चारण है 'री-बा'",
+      "pashto": "ریبه د تلفظ دی 'ری-به'",
+      "ipa": "/ˈriːbɑː/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#ReebaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Reeba"
+    ],
+    "name_variations": [
+      "Riba"
+    ],
+    "popularity_score": 58,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 88,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 87,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Reeba Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Reeba, a beautiful Islam name meaning \"Flow\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Reeba, Islam name, baby names, Flow, Islam baby names, name meaning",
+      "description_paragraph": "Reeba is a meaningful Islam name of Arabic origin that means \"Flow\". The one who flows, or the one who is easy to approach",
+      "keywords": [
+        "Reeba",
+        "Islam name",
+        "baby names",
+        "Flow",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Reeba in Islam tradition?",
+          "a": "Reeba is a beautiful Islam name meaning \"Flow\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Reeba a good Islam name for a baby?",
+          "a": "Yes, Reeba is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Reeba?",
+          "a": "The name Reeba has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Reeba correctly?",
+          "a": "Reeba is pronounced Ree-bah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Reeba?",
+          "a": "Naming a child Reeba brings blessings. The meaning \"Flow\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Reeba?",
+          "a": "Reeba is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Reeba meaning",
+      "secondary_keywords": [
+        "Islam name Reeba",
+        "Reeba meaning",
+        "Reeba origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The term \"Reeba\" can be traced back to the Arabic language, which is the primary religious and linguistic framework of the Islamic culture. In terms of cultural impact, the name could signify someone who is approachable, easygoing, or flowing. This name could be an excellent choice for a child if the parents aspire for them to possess such qualities in life, enabling them to easily connect and communicate with people.",
+    "spiritual_significance": "In the spiritual context, the name \"Reeba\" can be seen as a reminder of Allah's divine presence and ease of approach. As Muslims, we believe that Allah is the ultimate Reeba, the one who is always there for us, flowing with His mercy and compassion. This can serve as an inspiration for us to strive towards maintaining a strong relationship with Him, by being mindful of our actions, words, and thoughts, and staying simple and approachable in our approach towards seeking His closeness.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Reeba carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Gaining popularity in Western Muslim communities",
+        "Gaining popularity in Western Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Reeba remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Layla Reeba",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "Layla Reeba, a teacher in Riyadh, Saudi Arabia, shares that their name Reeba meaning \"Flow\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Flow\" symbolizes The one who flows, or the one who is easy to approach. In Islamic spirituality, bearing the name Reeba serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of flow.",
+    "created_at": "2025-12-22T19:19:49.854Z",
+    "updated_at": "2025-12-22T04:53:14.865Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1469,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Reeba",
+      "description": "Flow",
+      "additionalName": [
+        "Riba"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "English"
+      ],
+      "religion": "Islam",
+      "gender": "female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Reeba",
+          "description": "Discover the meaning of Reeba - \"Flow\"",
+          "image": "/images/social/reeba-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Reeba - Name Meaning",
+          "description": "Learn about the beautiful name Reeba",
+          "image": "/images/social/reeba-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Reeba",
+          "description": "Name meaning: Flow",
+          "image": "/images/social/reeba-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Reeba - Meaning: Flow",
+        "email_subject": "Beautiful Name: Reeba"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Reeba with meaning Flow",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "ruhi",
+      "roshan",
+      "rawahah",
+      "raahil"
+    ]
+  }
+}

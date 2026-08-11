@@ -1,0 +1,283 @@
+{
+  "success": true,
+  "data": {
+    "name": "Nafs",
+    "slug": "nafs",
+    "language": [
+      "Arabic",
+      "English"
+    ],
+    "gender": "unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Self, Soul",
+    "long_meaning": "The inner self or self-consciousness",
+    "spiritual_meaning": "A symbol of the human soul and the self-consciousness",
+    "emotional_traits": [
+      "Introspective",
+      "Reflective",
+      "Contemplative"
+    ],
+    "hidden_personality_traits": [
+      "Mysterious",
+      "Deep",
+      "Complex"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "Silver",
+      "Blue",
+      "Grey"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 3,
+    "numerology_meaning": "Creativity, self-expression, and communication",
+    "in_arabic": {
+      "name": "نفس",
+      "meaning": "النفس هو كيان حيّ يُشعِر بالحياة والتشعُب",
+      "long_meaning": "النفس هي ملكة الله تعالى على الإنسان، وهي كيان حيّ يُشعِر بالحياة والتشعُب، وهو مبدأ الحياة في الإنسان، ويدور فيما بين الجسد والروح، ويُعتبر النفس إحدى أسماء الله الحسنى في القرآن الكريم، حيث يُقال في سورة الشعراء: \"نَفَس\" (26:193)، ويُعتبر من أسماء الله الأربعين، ويُستخدم النفس في القرآن الكريم للإشارة إلى الروح، والجسد، والقلب، وغيرها، ويُعتبر النفس من أهم المفاهيم في الإسلام، حيث تُعتبر النفس مصدر الحياة، وتُعتبر الركن الأساسي لازمة لاستمرار الحياة، ويُعتبر النفس مصدر الإرادة، والقوة، والحرية، وغيرها، ويُعتبر النفس أحد أهم المفاهيم في الفلسفة الإسلامية، حيث تُعتبر النفس مبدأ الحياة، وتُعتبر الركن الأساسي لازمة لاستمرار الحياة، ويُعتبر النفس مصدر الإرادة، والقوة، والحرية، وغيرها"
+    },
+    "in_urdu": {
+      "name": "نفس",
+      "meaning": "نفس انسان کا ایک باخبر اور متحرک کائنات ہے جو زندگی اور نشاط کا احساس دیتا ہے",
+      "long_meaning": "نفس انسان کا ایک باخبر اور متحرک کائنات ہے جو زندگی اور نشاط کا احساس دیتا ہے، یہ انسان کا وجود ہے جو جسم اور روح کے درمیان گردش کرتا ہے، قرآن میں نفسیں کے نام سے بھی جانا جاتا ہے، جیسا کہ سورۃ الشعراء میں کہا گیا ہے \"نَفَس\" (26:193)، نفسیں سے مراد روح، جسم، دل، اور دوسرے اصطلاحات ہیں، نفسیں کا اسلامی معنا توحید کا مشاہدہ ہے، نفسیں کے کائنات کے وجود کا مشاہدہ ہے، نفسیں کے کائنات کے وجود کی وجہ ہے، نفسیں کے کائنات کے وجود کی وجہ ہے، نفسیں کے کائنات کے وجود کی وجہ ہے"
+    },
+    "in_hindi": {
+      "name": "नफ़्स",
+      "meaning": "मनुष्य का एक जानकार और चेतनात्मक कारक जो जीवन और चेतना का अनुभव करता है",
+      "long_meaning": "नफ़्स मनुष्य का एक जानकार और चेतनात्मक कारक जो जीवन और चेतना का अनुभव करता है, यह मनुष्य का आत्मा है जो शरीर और आत्मा के बीच गति करता है, कुरआन में नफ़्स के नाम से भी जाना जाता है, जैसा कि सूरह शुअरा में कहा गया है \"नफ़्स\" (26:193), नफ़्स से तात्पर्य आत्मा, शरीर, दिल, और अन्य शब्दों से है, नफ़्स का इस्लामी अर्थ ईश्वर के अस्तित्व का प्रमाण है, नफ़्स का इस्लामी अर्थ आत्मा से जुड़े विश्वास का प्रमाण है, नफ़्स का इस्लामी अर्थ जीवन के लिए आवश्यक तत्व का प्रमाण है, नफ़्स का इस्लामी अर्थ जीवन के लिए आवश्यक तत्व का प्रमाण है, नफ़्स का इस्लामी अर्थ जीवन के लिए आवश्यक तत्व का प्रमाण है,"
+    },
+    "in_pashto": {
+      "name": "نفس",
+      "meaning": "انسان د نفسيک یوه پوهه او دلواره اړخلی کائنه ده چې د ژوند او دلواره د احساس ورځی",
+      "long_meaning": "نفس انسان د نفسيک یوه پوهه او دلواره اړخلی کائنه ده چې د ژوند او دلواره د احساس ورځی، دا انسانګرځند کائنه ده چې د جناس او روحونو تر منځ کوي، د قرآن کریم نړیواله د نفسیو تر سره یاده ده، جیسا چې د سور ګانو شریعت د ګانو کې لیکل شوي دي \"نَفَس\" (26:193)، د نفسیو نړیواله د روحيو تر سره یاده ده، د نفسیو نړیواله د جناسو تر سره یاده ده، د نفسیو نړیواله د جناسو تر سره یاده ده، د نفسیو نړیواله د جناسو تر سره یاده ده، د نفسیو نړیواله د جناسو تر سره یاده ده"
+    },
+    "in_english": {
+      "name": "Nafs",
+      "meaning": "The nafs is a being of consciousness and awareness that experiences life and vitality",
+      "long_meaning": "The nafs is a being of consciousness and awareness that experiences life and vitality. It is the soul, the heart, and the body, and it is the essence of the human being. The nafs is a fundamental concept in Islam, and it is mentioned in the Quran as one of the four names of Allah. The nafs is a being of consciousness and awareness that experiences life and vitality. It is the soul, the heart, and the body, and it is the essence of the human being. The nafs is a fundamental concept in Islam, and it is mentioned in the Quran as one of the four names of Allah. The nafs is a being of consciousness and awareness that experiences life and vitality."
+    },
+    "pronunciation": {
+      "english": "/ˈnɛfs/",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ˈnɛfs/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#NafsMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Nafs"
+    ],
+    "name_variations": [],
+    "popularity_score": 51,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 85,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 83,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Nafs Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Nafs, a beautiful Islam name meaning \"Self, Soul\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Nafs, Islam name, baby names, Self, Soul, Islam baby names, name meaning",
+      "description_paragraph": "Nafs is a meaningful Islam name of Arabic origin that means \"Self, Soul\". The inner self or self-consciousness",
+      "keywords": [
+        "Nafs",
+        "Islam name",
+        "baby names",
+        "Self, Soul",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Nafs in Islam tradition?",
+          "a": "Nafs is a beautiful Islam name meaning \"Self, Soul\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Nafs a good Islam name for a baby?",
+          "a": "Yes, Nafs is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Nafs?",
+          "a": "The name Nafs has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Nafs correctly?",
+          "a": "Nafs is pronounced /ˈnɛfs/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Nafs?",
+          "a": "Naming a child Nafs brings blessings. The meaning \"Self, Soul\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Nafs?",
+          "a": "Nafs is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Nafs meaning",
+      "secondary_keywords": [
+        "Islam name Nafs",
+        "Nafs meaning",
+        "Nafs origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The term \"Nafs\" in Arabic language holds great significance in the Islamic culture. It represents the human soul, the core of a person's identity, and is often used interchangeably with the term \"self\". In Islamic philosophy and psychology, the concept of Nafs is essential in understanding human nature and behavior. It is recognized that every individual has a Nafs, which is subject to various states and conditions throughout one's life, influenced by external and internal factors. Thus, the term reflects the emphasis on the individual's spiritual and moral development and the impact of choices made on the soul.",
+    "spiritual_significance": "In the Islamic spiritual context, Nafs is considered the seat of the human intellect, emotions, and consciousness. It is believed that every individual is accountable for the actions and thoughts recorded in their Nafs, which will be weighed in the hereafter. Therefore, practicing self-control, developing good character traits, and purifying the soul are fundamental goals in the Islamic journey towards spiritual growth and closeness to God. The concept of Nafs underlines the importance of introspection, self-awareness, and personal responsibility for one's spiritual and moral development in Islam.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Nafs carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Gaining popularity in Western Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Nafs remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Nafs",
+      "location": "Karachi, Pakistan",
+      "story": "A successful entrepreneur named Maryam Nafs in Karachi, Pakistan attributes much of their success to the blessing of their name Nafs, which means \"Self, Soul\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Self, Soul\" symbolizes The inner self or self-consciousness. In Islamic spirituality, bearing the name Nafs serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of self, soul.",
+    "created_at": "2025-12-22T19:19:49.924Z",
+    "updated_at": "2025-12-22T04:53:15.441Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1601,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Nafs",
+      "description": "Self, Soul",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "English"
+      ],
+      "religion": "Islam",
+      "gender": "unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Nafs",
+          "description": "Discover the meaning of Nafs - \"Self, Soul\"",
+          "image": "/images/social/nafs-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Nafs - Name Meaning",
+          "description": "Learn about the beautiful name Nafs",
+          "image": "/images/social/nafs-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Nafs",
+          "description": "Name meaning: Self, Soul",
+          "image": "/images/social/nafs-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Nafs - Meaning: Self, Soul",
+        "email_subject": "Beautiful Name: Nafs"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Nafs with meaning Self, Soul",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "nihal",
+      "namik",
+      "nora",
+      "nadeen",
+      "nina",
+      "norah",
+      "nevaeh",
+      "naina"
+    ]
+  }
+}

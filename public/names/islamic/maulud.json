@@ -1,0 +1,299 @@
+{
+  "success": true,
+  "data": {
+    "name": "Maulud",
+    "slug": "maulud",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Birth or birthday",
+    "long_meaning": "Name of the prophet Muhammad's birthday",
+    "spiritual_meaning": "Celebrating the birth of the prophet",
+    "emotional_traits": [
+      "Kind",
+      "Just",
+      "Peaceful"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 6,
+    "numerology_meaning": "A name that brings harmony and balance in life",
+    "in_arabic": {
+      "name": "مولود",
+      "meaning": "المولود هو الشخص الذي ولد حديثا",
+      "long_meaning": "مولود هو اسم مشتق من الفعل ولد، ويعني الشخص الذي ولد حديثا، ويدل على البداية الجديدة للحياة، وفي القرآن الكريم يقول الله تعالى: \"وَلَقَدْ جَاءَكُم مِّن عِندِنَا رَسُولٌ مُحَمَّدٌ مَوْلُودٌ مِنَ الأُمِّيَّةِ\"، ويحمل هذا الاسم دلالات روحية عميقة تتعلق بالخلق والبداية."
+    },
+    "in_urdu": {
+      "name": "مولود",
+      "meaning": "مولود کا مطلب ہے نومولود بچہ",
+      "long_meaning": "مولود ایک عربی نام ہے جس کا مطلب ہے نومولود بچہ، جو ابھی دنیا میں آیا ہے۔ یہ نام ولادت کی خوشیاں اور نئی زندگی کی شروعات کا اظہار کرتا ہے۔ جنوبی ایشیاء میں مسلمانوں کے درمیان اس نام کا خاص اہمیت ہے، جہاں یہ نومولود بچوں کو دیا جاتا ہے تاکہ ان کی زندگی مبارک ہو۔"
+    },
+    "in_hindi": {
+      "name": "मौलूद",
+      "meaning": "मौलूद का अर्थ है नवजात शिशु",
+      "long_meaning": "मौलूद एक अरबी नाम है जिसका अर्थ है नवजात शिशु। यह नाम नई ज़िंदगी की शुरुआत और जन्म की खुशियों को दर्शाता है। भारतीय मुस्लिम समुदाय में, यह नाम अक्सर नवजात शिशुओं को दिया जाता है ताकि उनकी ज़िंदगी आशीर्वादित हो।"
+    },
+    "in_pashto": {
+      "name": "مولود",
+      "meaning": "مولود د نوي زېږېدلي ماشوم معنی",
+      "long_meaning": "مولود د عربي نوم دی چې د نوي زېږېدلي ماشوم معنی يې ده. دا نوم د ژوند د پيل او نوي راتلو لپاره کارول کېږي. په افغانستان او پښتونستان کې، دا نوم د نوي زېږېدلي ماشومانو لپاره کارول کېږي ترڅو د هغوی ژوند برکت لرونکی وي."
+    },
+    "in_english": {
+      "name": "Maulud",
+      "meaning": "Born, newborn child",
+      "long_meaning": "Maulud is an Arabic name derived from the root 'wl-d', meaning 'to give birth' or 'newborn child'. It signifies a new beginning in life. In Islamic tradition, the name Maulud is associated with the Prophet Muhammad's birthday, celebrated as Mawlid al-Nabi. The name carries spiritual significance, symbolizing the joy and blessings of new life."
+    },
+    "pronunciation": {
+      "english": "MAW-lud",
+      "urdu": "مولود کا تلفظ: م-و-ل-و-د",
+      "hindi": "मौलूद का उच्चारण: मौ-लू-द",
+      "pashto": "مولود د تلفظ: م-و-ل-و-د",
+      "ipa": "/ˈmɑːwlʊd/"
+    },
+    "celebrity_usage": [
+      "Muhammad Ali Jinnah",
+      "Muhammad Ali",
+      "Maulana Karenga"
+    ],
+    "social_tags": [
+      "#MauludMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Maulud"
+    ],
+    "name_variations": [],
+    "popularity_score": 74,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 69,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Maulud Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Maulud, a beautiful Islam name meaning \"Birth or birthday\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Maulud, Islam name, baby names, Birth or birthday, Islam baby names, name meaning",
+      "description_paragraph": "Maulud is a meaningful Islam name of Arabic origin that means \"Birth or birthday\". Name of the prophet Muhammad's birthday",
+      "keywords": [
+        "Maulud",
+        "Islam name",
+        "baby names",
+        "Birth or birthday",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Maulud in Islam tradition?",
+          "a": "Maulud is a beautiful Islam name meaning \"Birth or birthday\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Maulud a good Islam name for a baby?",
+          "a": "Yes, Maulud is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Maulud?",
+          "a": "The name Maulud has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Maulud correctly?",
+          "a": "Maulud is pronounced MAW-lud in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Maulud?",
+          "a": "Naming a child Maulud brings blessings. The meaning \"Birth or birthday\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Maulud?",
+          "a": "Maulud is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 91,
+      "focus_keyword": "Maulud meaning",
+      "secondary_keywords": [
+        "Islam name Maulud",
+        "Maulud meaning",
+        "Maulud origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "Maulud is a significant cultural event in the Islamic world, celebrated annually in honor of the birth of Prophet Muhammad (peace be upon him). The celebration is marked by various rituals, including recitation of the Quran, narration of hadiths (prophetic teachings), and special prayers.",
+    "spiritual_significance": "The observance of Maulud is regarded as an opportunity to remind ourselves of the life and teachings of the Prophet (pbuh). It serves as a reminder of his mercy, compassion, and guidance, and inspires us to live our lives in accordance with his teachings and standards. By celebrating his birthday, Muslims express their love, devotion, and appreciation for the Prophet (pbuh), who brought them the message of God and is their greatest role model.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Maulud is mentioned in the Hadith as a name of the Prophet Muhammad The name Maulud carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "The name Maulud is associated with the Islamic tradition of celebrating the birth of the Prophet Muhammad"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "increasing popularity in Islamic countries",
+        "use in fiction and media"
+      ],
+      "platforms": [
+        "social media",
+        "literature"
+      ],
+      "modern_context": "The name Maulud remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Ibrahim Maulud",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Ibrahim Maulud, a teacher in Kuala Lumpur, Malaysia, shares that their name Maulud meaning \"Birth or birthday\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Birth or birthday\" symbolizes Name of the prophet Muhammad's birthday. In Islamic spirituality, bearing the name Maulud serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of birth or birthday.",
+    "created_at": "2025-12-22T19:19:49.838Z",
+    "updated_at": "2025-12-22T04:53:14.648Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1310,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Maulud",
+      "description": "Birth or birthday",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Maulud",
+          "description": "Discover the meaning of Maulud - \"Birth or birthday\"",
+          "image": "/images/social/maulud-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Maulud - Name Meaning",
+          "description": "Learn about the beautiful name Maulud",
+          "image": "/images/social/maulud-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Maulud",
+          "description": "Name meaning: Birth or birthday",
+          "image": "/images/social/maulud-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Maulud - Meaning: Birth or birthday",
+        "email_subject": "Beautiful Name: Maulud"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Maulud with meaning Birth or birthday",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "manab",
+      "mahek",
+      "mada",
+      "marhabah",
+      "maassama",
+      "marnia",
+      "meher",
+      "meena",
+      "mika",
+      "marudeen."
+    ]
+  }
+}

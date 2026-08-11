@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Maya",
+    "slug": "maya",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "islamic",
+    "meaning": "Water"
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "success": true,
+  "data": {
+    "name": "Maryaam",
+    "slug": "maryaam",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Bitter or Wished for",
+    "long_meaning": "Maryaam is the Arabic form of Mary, referring to the mother of Jesus in Islamic tradition. It signifies a wished-for child, often associated with bitterness and longing.",
+    "spiritual_meaning": "In Islamic tradition, Maryaam is a symbol of purity, virtue, and devotion, as exemplified by the Virgin Mary in the Quran.",
+    "emotional_traits": [
+      "Kind",
+      "Compassionate",
+      "Peaceful",
+      "Devout"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "C = Compassionate",
+      "L = Loyal",
+      "D = Dutiful"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Green",
+      "White"
+    ],
+    "lucky_stone": "Jade",
+    "life_path_number": 5,
+    "numerology_meaning": "The number 5 symbolizes change, adventure, and personal freedom. People with this number are often independent, resourceful, and adaptable. They thrive on new experiences and are not afraid to take risks.",
+    "in_arabic": {
+      "name": "مريم",
+      "meaning": "اسم مؤنث مشتق من مرام و هو بمعنى السيدة أو العالية",
+      "long_meaning": "مريم هو اسم علم مؤنث من أصل عربي و مشتق من كلمة مرام، و يعني السيدة أو العالية في الشأن و المكانة. و هو اسم إحدى السور في القرآن الكريم و هي السورة 19، و ذكر اسم مريم في القرآن الكريم 34 مرة، و يعتبر من الأسماء المحببة عند المسلمين و يطلق على الإناث تيمنا بالسيدة مريم عليها السلام."
+    },
+    "in_urdu": {
+      "name": "مریم",
+      "meaning": "سیدہ، اعلیٰ قدرتی، خاتون، اللہ تعالیٰ کی محبوبہ خادمہ",
+      "long_meaning": "مریم ایک مؤنث نام ہے جو عربی زبان سے ماخوذ ہے۔ اس کا مطلب ہے سیدہ، اعلیٰ قدرتی، خاتون یا اللہ تعالیٰ کی محبوبہ خادمہ۔ یہ نام اسلامی تقویم میں اہم سمجھا جاتا ہے کیونکہ مریم علیہ السلام قرآن کریم میں ذکر کی جانے والی اہم شخصیات میں سے ایک ہیں۔ اس نام کا استعمال دنیا بھر کے مسلمانوں میں عام ہے، خاص طور پر جنوبی ایشیا میں جہاں اردو زبان بولی جاتی ہے۔"
+    },
+    "in_hindi": {
+      "name": "मरियम",
+      "meaning": "सुंदरता की प्रतीक, उच्च दर्जा प्राप्त महिला, प्रियतमा",
+      "long_meaning": "मरियम एक सुंदर और अर्थपूर्ण नाम है जो अरबी भाषा से लिया गया है। इसका अर्थ है सुंदरता की प्रतीक, उच्च दर्जा प्राप्त महिला या प्रियतमा। इस नाम का धार्मिक और सांस्कृतिक महत्व है, खासकर इस्लामी परंपरा में। मरियम या हज़रत मریم, ईसा मसीह की माता के रूप में जानी जाती हैं और उन्हें पवित्र आत्मा माना जाता है। इस नाम का चयन अक्सर माता की भक्ति और पवित्रता के प्रतीक के रूप में किया जाता है।"
+    },
+    "in_pashto": {
+      "name": "مريم",
+      "meaning": "عالیه رتبه ښځه، محترمه، د خدای محبوبه نجل",
+      "long_meaning": "مريم د ښځو یو نوم دی چی د عربي ژبې څخه اخیستل شوی دی. دا نوم د هغې سترګو او معنوي لوړوالی څرګندوي. په افغانستان او پاکستان کې د پښتو وینا کوونکو کې دا نوم ډیر مشهور دی او د مریم علیہ السلام په احترام سره کارول کیږي، څوک چې د حضرت عیسی علیہ السلام مور وه."
+    },
+    "in_english": {
+      "name": "Maryaam",
+      "meaning": "Bitter, wished-for child, lady, highly placed woman",
+      "long_meaning": "Maryaam, derived from the Arabic root 'm-r-y-m', signifies a lady, a highly placed woman, or a bitter, wished-for child. This name holds significant spiritual and cultural importance in Islamic tradition as it is the name of the Virgin Mary, mother of Jesus Christ, referred to as Maryam in the Quran. The name symbolizes purity, devotion, and exalted status. It is widely used across Muslim cultures and is often chosen for its religious connotations and historical significance."
+    },
+    "pronunciation": {
+      "english": "MAR-yam",
+      "urdu": "مرِیَم",
+      "hindi": "मरियम",
+      "pashto": "مَریم",
+      "ipa": "/ˈmɑːrjəm/"
+    },
+    "celebrity_usage": [
+      "Maryam D'Abo",
+      "Maryam Zakaria"
+    ],
+    "social_tags": [
+      "#MaryaamMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Maryaam"
+    ],
+    "name_variations": [
+      "Maryam"
+    ],
+    "popularity_score": 58,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 69,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 65,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Maryaam Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Maryaam, a beautiful Islam name meaning \"Bitter or Wished for\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Maryaam, Islam name, baby names, Bitter or Wished for, Islam baby names, name meaning",
+      "description_paragraph": "Maryaam is a meaningful Islam name of Arabic origin that means \"Bitter or Wished for\". Maryaam is the Arabic form of Mary, referring to the mother of Jesus in Islamic tradition. It signifies a wished-for child, often associated with bitterness and longing.",
+      "keywords": [
+        "Maryaam",
+        "Islam name",
+        "baby names",
+        "Bitter or Wished for",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Maryaam in Islam tradition?",
+          "a": "Maryaam is a beautiful Islam name meaning \"Bitter or Wished for\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Maryaam a good Islam name for a baby?",
+          "a": "Yes, Maryaam is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Maryaam?",
+          "a": "The name Maryaam has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Maryaam correctly?",
+          "a": "Maryaam is pronounced MAR-yam in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Maryaam?",
+          "a": "Naming a child Maryaam brings blessings. The meaning \"Bitter or Wished for\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Maryaam?",
+          "a": "Maryaam is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 95,
+      "focus_keyword": "Maryaam meaning",
+      "secondary_keywords": [
+        "Islam name Maryaam",
+        "Maryaam meaning",
+        "Maryaam origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Maryaam carries a rich cultural heritage in both the Islamic and Christian traditions, embodying the profound significance of motherhood and the reverence for the blessed mothers of prophets in religious beliefs. It also represents a symbol of hope, love, and longing for a child, especially in the challenging circumstances of infertility or difficult pregnancies.",
+    "spiritual_significance": "In Islamic spirituality, Maryaam is regarded as an embodiment of the virtues of purity, humility, patience, and devotion. Her story is a reminder of God's mercy, love, and care for His creation, as she carried and raised Jesus under His guidance. The name Maryaam brings a sense of peace, love, and reverence for the Divine, inspiring those who bear or are named after it to cultivate devotion and virtuous character.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Prophet Muhammad's daughter The name Maryaam carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Maryaam is one of the daughters of Prophet Muhammad"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "popular in some Muslim communities"
+      ],
+      "platforms": [
+        "social media"
+      ],
+      "modern_context": "The name Maryaam remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Maryaam",
+      "location": "Dubai, UAE",
+      "story": "A successful entrepreneur named Maryam Maryaam in Dubai, UAE attributes much of their success to the blessing of their name Maryaam, which means \"Bitter or Wished for\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Bitter or Wished for\" symbolizes Maryaam is the Arabic form of Mary, referring to the mother of Jesus in Islamic tradition. It signifies a wished-for child, often associated with bitterness and longing.. In Islamic spirituality, bearing the name Maryaam serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of bitter or wished for.",
+    "created_at": "2025-12-22T19:19:49.804Z",
+    "updated_at": "2025-12-22T04:53:14.493Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1781,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Maryaam",
+      "description": "Bitter or Wished for",
+      "additionalName": [
+        "Maryam"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Maryaam",
+          "description": "Discover the meaning of Maryaam - \"Bitter or Wished for\"",
+          "image": "/images/social/maryaam-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Maryaam - Name Meaning",
+          "description": "Learn about the beautiful name Maryaam",
+          "image": "/images/social/maryaam-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Maryaam",
+          "description": "Name meaning: Bitter or Wished for",
+          "image": "/images/social/maryaam-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Maryaam - Meaning: Bitter or Wished for",
+        "email_subject": "Beautiful Name: Maryaam"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Maryaam with meaning Bitter or Wished for",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "meena",
+      "marudeen.",
+      "mahek",
+      "maassama",
+      "manab",
+      "mada",
+      "meher",
+      "mika",
+      "marhabah",
+      "marnia"
+    ]
+  }
+}

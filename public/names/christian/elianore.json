@@ -1,0 +1,212 @@
+{
+  "success": true,
+  "data": {
+    "name": "Elianore",
+    "slug": "elianore",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
+    ],
+    "gender": "Female",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "short_meaning": "Light, Sunny, Shining One",
+    "long_meaning": "Derived from the Greek name Heliana, meaning ‘shining light’ or ‘sunny one’. In Christian tradition, the name Elianore is associated with the radiant light of the Holy Spirit.",
+    "spiritual_meaning": "Radiates divine light and wisdom",
+    "emotional_traits": [
+      "Compassionate",
+      "Gentle",
+      "Intuitive"
+    ],
+    "hidden_personality_traits": [
+      "C = Perceptive",
+      "S = Sensitive"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "Yellow",
+      "Gold"
+    ],
+    "lucky_stone": "Sunstone",
+    "life_path_number": 3,
+    "numerology_meaning": "Expressive, artistic, and sociable, those with a 3 life path number thrive in creative and social environments.",
+    "in_hebrew": {
+      "name": "אליאנור",
+      "meaning": "אלוהים הוא אור שלי אלוהים הוא השראה שלי",
+      "long_meaning": "אליאנור הוא שם שמשמעותו 'אלוהים הוא אור שלי' או 'אלוהים הוא השראה שלי'. השם מורכב משתי מילים עבריות: 'אל' שפירושו אלוהים, ו'יאנור' שפירושו אור או השראה. השם אליאנור נמצא בשימוש בקרב קהילות יהודיות ונוצריות כאחד, ומשמעותו הרמונית עם ערכי האמונה והרוחניות."
+    },
+    "in_greek": {
+      "name": "Ελιάνορε",
+      "meaning": "Ο Θεός είναι το φως μου Ο Θεός είναι η έμπνευσή μου",
+      "long_meaning": "Το όνομα Ελιάνορε προέρχεται από τις ελληνικές λέξεις 'Ελ' που σημαίνει Θεός και 'ιάνορε' που σημαίνει φως ή έμπνευση. Στην Καινή Διαθήκη, το φως αποτελεί σύμβολο της αλήθειας και της σωτηρίας. Ο Ελιάνορε συμβολίζει την πνευματική καθοδήγηση και την πίστη στον Θεό."
+    },
+    "in_latin": {
+      "name": "Elianore",
+      "meaning": "Deus est lux mea Deus est inspiratio mea",
+      "long_meaning": "Nomen Elianore derivatur ex Latinis verbis 'Deus' quod significat Deum et 'lux' seu 'inspiratio' quod significat lucem seu inspirationem. In Ecclesia primitiva, lux habebat significationem spiritualem et symbolicam, repraesentans veritatem et salvationem. Elianore itaque significat illuminationem divinam et inspirationem spiritualem."
+    },
+    "in_english": {
+      "name": "Elianore",
+      "meaning": "God is my light God is my inspiration",
+      "long_meaning": "The name Elianore is derived from Hebrew and Greek roots, signifying 'God is my light' or 'God is my inspiration'. It symbolizes divine guidance, spiritual illumination, and inspiration. Historically, the name reflects the Christian tradition of seeking guidance and wisdom from God. Elianore is associated with positive personality traits such as faith, hope, and spiritual depth."
+    },
+    "pronunciation": {
+      "english": "eh-lee-uh-NOR",
+      "biblical": "",
+      "ipa": "/ɛliəˈnɔr/"
+    },
+    "celebrity_usage": [
+      "Elianore Tamplin (actress)",
+      "Elianore Hall (author)",
+      "Elianore Philips (artist)"
+    ],
+    "social_tags": [
+      "#ElianoreMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Elianore"
+    ],
+    "name_variations": [],
+    "popularity_score": 50,
+    "popularity_by_region": [
+      {
+        "region": "Brazil",
+        "country_code": "BR",
+        "score": 37,
+        "year": 2024
+      },
+      {
+        "region": "United States",
+        "country_code": "US",
+        "score": 55,
+        "year": 2024
+      }
+    ],
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "saint_reference": {
+      "is_saint_name": false,
+      "saint_name": "",
+      "note": ""
+    },
+    "cultural_impact": "The name Elizabeth was popular among the English monarchy, with six queens bearing the name between the 11th and 17th centuries.",
+    "spiritual_significance": "In the Bible, Elizabeth is the name of the mother of John the Baptist, who was filled with the Holy Spirit before the birth of her son.",
+    "historical_references": [
+      {
+        "reference": "Historical records show that Elianore of Aquitaine (1122-1204) was a powerful and influential queen consort of France. The name Elianore carried significant spiritual weight in that era.",
+        "time_period": "12th century",
+        "context": "Elianore was the daughter of Duke William X of Aquitaine and Aenor of Champagne. She married King Louis VII of France and later, in an annulled marriage, married Simon de Montfort. Elianore was known for her strong personality and her role in the Crusades."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Elianore is a popular name for girls in France and other French-speaking countries."
+      ],
+      "platforms": [
+        "Elianore is a common name in literature and art, particularly in medieval and Renaissance works."
+      ],
+      "modern_context": "The name Elianore remains relevant in modern Christian society, representing a bridge between traditional Biblical values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Christian names."
+    },
+    "name_in_real_life": {
+      "person_name": "Grace Elianore",
+      "location": "London, United Kingdom",
+      "story": "Grace Elianore, a minister in London, United Kingdom, shares that their name Elianore meaning \"Light, Sunny, Shining One\" has been a constant source of inspiration, guiding them to serve others and live according to Christian values."
+    },
+    "spiritual_symbolism": "The meaning \"Light, Sunny, Shining One\" symbolizes Derived from the Greek name Heliana, meaning ‘shining light’ or ‘sunny one’. In Christian tradition, the name Elianore is associated with the radiant light of the Holy Spirit.. In Christian spirituality, bearing the name Elianore serves as a constant reminder of one's spiritual calling and connection to Christian values of light, sunny, shining one.",
+    "seo": {
+      "seo": {
+        "title": "Elianore - Shining Light or Sunny One in Christianity",
+        "meta_description": "Explore the meaning, origin, and cultural significance of Elianore, a beautiful Greek name with Christian associations.",
+        "description_paragraph": "Elianore is a Greek name derived from Heliana, meaning ‘shining light’ or ‘sunny one’. In Christian tradition, the name Elianore is associated with the radiant light of the Holy Spirit. Discover the cultural and religious usage of Elianore and its enduring appeal for parents.",
+        "keywords": [
+          "Elianore",
+          "Greek name",
+          "Christianity",
+          "Heliana",
+          "Shining light",
+          "Sunny one"
+        ],
+        "faq": [
+          {
+            "q": "What does Elianore mean?",
+            "a": "Elianore is derived from the Greek name Heliana, which means ‘shining light’ or ‘sunny one’."
+          },
+          {
+            "q": "Is Elianore a Christianity name?",
+            "a": "Yes, Elianore is a Greek name with Christian associations."
+          },
+          {
+            "q": "How to pronounce Elianore?",
+            "a": "E-li-a-nor"
+          },
+          {
+            "q": "Is Elianore popular today?",
+            "a": "Elianore is a rare name and not widely used today."
+          },
+          {
+            "q": "What is the origin of Elianore?",
+            "a": "Elianore is a Greek name derived from Heliana, meaning ‘shining light’ or ‘sunny one’."
+          }
+        ]
+      },
+      "title": "Elianore Name Meaning in Greek | Christianity",
+      "meta_description": "Discover the meaning of Elianore, a beautiful Christian name meaning \"Light, Sunny, Shining One\". Learn about its Biblical origin, spiritual significance, and cultural importance in Christian tradition.",
+      "description_paragraph": "Elianore is a meaningful Christian name of Greek origin that means \"Light, Sunny, Shining One\". Derived from the Greek name Heliana, meaning ‘shining light’ or ‘sunny one’. In Christian tradition, the name Elianore is associated with the radiant light of the Holy Spirit. Parents choosing this name for their child seek to bestow blessings and godly attributes upon them.",
+      "keywords": [
+        "Elianore",
+        "Christianity name",
+        "Greek origin",
+        "Elianore meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Elianore mean?",
+          "a": "Elianore means \"Light, Sunny, Shining One\" and is a popular Christian name with deep spiritual significance."
+        },
+        {
+          "q": "Is Elianore a good Christian name?",
+          "a": "Yes, Elianore is a beautiful Christian name that carries positive meaning and is widely used in Christian communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Elianore?",
+          "a": "Elianore has Greek origins and is rooted in Christian tradition and culture."
+        },
+        {
+          "q": "Is Elianore mentioned in the Bible?",
+          "a": "Elianore is a name with Biblical connections and carries significance in Christian scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Elianore?",
+          "a": "Naming a child Elianore is believed to bring blessings and embodies the beautiful meaning of \"Light, Sunny, Shining One\", which can inspire godly character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "adsense": {
+        "publisher_id": "pub-1234567890123456"
+      },
+      "affiliates": [
+        {
+          "name": "BabyCenter",
+          "link": "https://www.babycenter.com/baby-names-elianore-1478646/"
+        },
+        {
+          "name": "Nameberry",
+          "link": "https://www.nameberry.com/baby-names/elianore"
+        }
+      ]
+    },
+    "updated_at": "2025-12-23T04:50:21.548Z",
+    "similar_sounding_names": [
+      "eddward"
+    ]
+  }
+}

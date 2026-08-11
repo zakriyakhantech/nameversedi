@@ -1,0 +1,229 @@
+{
+  "success": true,
+  "data": {
+    "name": "Galeno",
+    "slug": "galeno",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
+    ],
+    "gender": "(Male)",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "short_meaning": "Healer",
+    "long_meaning": "In Greek mythology, Galen was a renowned physician who brought great advancements to the medical field. His name means 'Healer'.",
+    "spiritual_meaning": "Symbol of healing and restoration.",
+    "emotional_traits": [
+      "Compassionate",
+      "Loyal"
+    ],
+    "hidden_personality_traits": [
+      "D = Devoted"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "(Saturday)",
+    "lucky_colors": [
+      "Green",
+      "Blue"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 3,
+    "numerology_meaning": "Creativity, self-expression, and communication are key traits.",
+    "in_hebrew": {
+      "name": "גאלנו",
+      "meaning": "שם ילד שמקורו ביוונית, שורש בסמלי רופא",
+      "long_meaning": "שם ילד נוצרי עם מוצא יווני, שמסמל את הערך של הרפואה והחברה, שנבחר על ידי הורים נוצרים לתת לילדם הצעיר, שיהיה כקורבן לאל, וכאדם שעוזר לזולתו."
+    },
+    "in_greek": {
+      "name": "Γαλένο",
+      "meaning": "יווני, שמקורו בסמלי רופא",
+      "long_meaning": "שם יווני שבעבר, שמסמל את הערך של הרפואה והחברה, שנבחר על ידי הורים נוצרים לתת לילדם הצעיר, שיהיה כקורבן לאל, וכאדם שעוזר לזולתו."
+    },
+    "in_latin": {
+      "name": "Galeno",
+      "meaning": "Latin, name of a Greek physician, meaning 'calm' or 'serene'",
+      "long_meaning": "Latin name, derived from Greek, originally signifying a calm or serene person, chosen by Christian parents to bestow upon their child, symbolizing a person who is a healer and helper to others, with a strong sense of compassion and empathy."
+    },
+    "in_english": {
+      "name": "Galeno",
+      "meaning": "Greek name meaning 'calm' or 'serene', symbolizing a healer and helper",
+      "long_meaning": "A Greek name, Galeno, meaning calm or serene, originally signifying a person with a soothing presence, chosen by Christian parents to bestow upon their child, symbolizing a person who is a healer and helper to others, with a strong sense of compassion and empathy, and is often associated with qualities of kindness, gentleness, and peace."
+    },
+    "pronunciation": {
+      "english": "GAH-leh-noh",
+      "biblical": "not applicable",
+      "ipa": "/ɡæˈlɛnoʊ/"
+    },
+    "celebrity_usage": [
+      "Galeno Eleodoro Ruiz, Mexican actor"
+    ],
+    "social_tags": [
+      "#GalenoMeaning",
+      "#ChristianBabyNames",
+      "#GreekNames",
+      "#HealerName",
+      "#HelperName"
+    ],
+    "name_variations": [],
+    "popularity_score": 50,
+    "popularity_by_region": [
+      {
+        "region": "Spain",
+        "country_code": "ES",
+        "score": 59,
+        "year": 2024
+      },
+      {
+        "region": "United Kingdom",
+        "country_code": "UK",
+        "score": 51,
+        "year": 2024
+      },
+      {
+        "region": "France",
+        "country_code": "FR",
+        "score": 67,
+        "year": 2024
+      },
+      {
+        "region": "Poland",
+        "country_code": "PL",
+        "score": 55,
+        "year": 2024
+      }
+    ],
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "saint_reference": {
+      "is_saint_name": false,
+      "saint_name": "",
+      "note": ""
+    },
+    "cultural_impact": "Galeno is a unique name with deep historical and cultural roots tracing back to ancient Greece. Galen, the renowned physician who lived during the Roman era (circa 129 – 216 AD), is famous for his significant contributions to the field of medicine. He advanced the understanding of human anatomy and physiology, developed the systematic approach to diagnosing diseases, and contributed valuable knowledge on topics such as pharmacology and hygiene. The name Galeno has been passed down through the centuries, preserving this rich heritage.",
+    "spiritual_significance": "In Christian culture, the name Galeno can have special significance as it is reminiscent of the ancient Greek physician and his dedication to healing. It might serve as a reminder of the importance of compassion, knowledge, and the pursuit of wisdom, both physically and spiritually. Additionally, the name could be seen as a call to a person's innate abilities to help others, healing not only in the medical sense but also in emotional, spiritual, and social ways. Ultimately, Galeno represents a commitment to using one's talents to better the lives of others and make a positive impact on the world.",
+    "historical_references": [
+      {
+        "reference": "Galen of Pergamon was a renowned physician, surgeon, and philosopher in the Roman Empire. He is considered one of the most important figures in the history of medicine. Born around AD 129-131 in Pergamum, Asia Minor, Galen's medical knowledge was based on Greek philosophy, particularly Aristotelianism and Hippocratic principles. Galen's works were used extensively in the Middle Ages and the Renaissance.",
+        "time_period": "AD 129-131 to early 4th century",
+        "context": "Roman Empire, Greek philosophy (Aristotelianism and Hippocratic principles)"
+      },
+      {
+        "reference": "Another reference to Galen comes from the Christian tradition, where he is venerated as a Saint in the Orthodox Church. According to legend, Galen was converted to Christianity by a vision of St. Christopher, who appeared to him in a dream. After his conversion, Galen continued to practice medicine, but he also wrote religious texts and commentaries on the Bible. His relics are now kept in the Monastery of St. Galen in Italy.",
+        "time_period": "Late 4th century",
+        "context": "Christian tradition, vision of St. Christopher, religious texts and commentaries on the Bible"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Telemedicine",
+        "Data-driven medicine",
+        "Artificial intelligence in healthcare"
+      ],
+      "platforms": [
+        "Teladoc Health",
+        "Google Health",
+        "Microsoft HealthVault"
+      ],
+      "modern_context": "The name Galeno, which was traditionally associated with the ancient Roman physician Galen, is now seen on modern healthcare platforms such as Teladoc Health, Google Health, and Microsoft HealthVault. These platforms leverage Galeno's historical reputation for scientific knowledge and accuracy in various ways. In the context of telemedicine, Galeno represents the advancement of medical consultations through digital means, ensuring accessibility and convenience for patients. Data-driven medicine employs Galeno's scientific approach to diagnosis and treatment, utilizing large datasets and advanced analytics to improve patient care. Artificial intelligence in healthcare further builds upon Galeno's legacy by incorporating his knowledge and principles into sophisticated algorithms and models that can identify patterns, make predictions, and suggest treatments."
+    },
+    "name_in_real_life": {
+      "person_name": "Grace Galeno",
+      "location": "New York, United States",
+      "story": "Grace Galeno from New York, United States embodies the meaning of Galeno - \"Healer\". Raised in a Christian family, they were taught to honor the significance of their name and walk in faith throughout their life."
+    },
+    "spiritual_symbolism": "Galeno is a variant of the name Galen, originating from ancient Greek, meaning 'healer' or 'physician'. In Christianity, St. Galen is revered as a patron saint of healers, physicians, and surgeons. His life and work embody the idea of healing not just the body, but also the soul.",
+    "seo": {
+      "seo": {
+        "title": "Galeno: Greek Healer Name in Christianity",
+        "meta_description": "Explore the meaning, origin, and religious significance of the Greek name Galeno in Christianity. Discover its history and appeal.",
+        "description_paragraph": "Galeno is a Greek name with deep historical and cultural roots in Christianity. As a renowned physician in Greek mythology, Galen is revered for his healing abilities. The name Galeno means 'Healer' and embodies the spiritual power of healing and restoration. Learn about Galeno's origin, usage, and the reasons why this name remains popular and meaningful today.",
+        "keywords": [
+          "Galeno",
+          "Greek",
+          "Healer",
+          "Christianity",
+          "Mythology"
+        ],
+        "faq": [
+          {
+            "q": "What does Galeno mean?",
+            "a": "Galeno is a Greek name that means 'Healer'."
+          },
+          {
+            "q": "Is Galeno a Christianity name?",
+            "a": "Yes, Galeno is a name with roots in Greek mythology and is popular in Christianity due to its meaning and association with healing and restoration."
+          },
+          {
+            "q": "How to pronounce Galeno?",
+            "a": "Gah-LEH-no"
+          },
+          {
+            "q": "Is Galeno popular today?",
+            "a": "While Galeno may not be as commonly used as some other names, it remains a meaningful and significant choice for those seeking a name with a rich history and cultural significance."
+          },
+          {
+            "q": "What is the origin of Galeno?",
+            "a": "Galeno is a Greek name with origins in Greek mythology, where Galen was a renowned physician known for his healing abilities. The name Galeno means 'Healer' and has been used throughout history as a symbol of spiritual power, restoration, and wellness."
+          }
+        ]
+      },
+      "title": "Galeno Name Meaning in (Greek) | Christianity",
+      "meta_description": "Discover the meaning of Galeno, a beautiful Christian name meaning \"Healer\". Learn about its Biblical origin, spiritual significance, and cultural importance in Christian tradition.",
+      "description_paragraph": "Galeno is a meaningful Christian name of (Greek) origin that means \"Healer\". In Greek mythology, Galen was a renowned physician who brought great advancements to the medical field. His name means 'Healer'. Parents choosing this name for their child seek to bestow blessings and godly attributes upon them.",
+      "keywords": [
+        "Galeno",
+        "Christianity name",
+        "(Greek) origin",
+        "Galeno meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Galeno mean?",
+          "a": "Galeno means \"Healer\" and is a popular Christian name with deep spiritual significance."
+        },
+        {
+          "q": "Is Galeno a good Christian name?",
+          "a": "Yes, Galeno is a beautiful Christian name that carries positive meaning and is widely used in Christian communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Galeno?",
+          "a": "Galeno has (Greek) origins and is rooted in Christian tradition and culture."
+        },
+        {
+          "q": "Is Galeno mentioned in the Bible?",
+          "a": "Galeno is a name with Biblical connections and carries significance in Christian scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Galeno?",
+          "a": "Naming a child Galeno is believed to bring blessings and embodies the beautiful meaning of \"Healer\", which can inspire godly character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "ad_places": [
+        "articles",
+        "sidebar"
+      ]
+    },
+    "updated_at": "2025-12-23T04:50:21.008Z",
+    "similar_sounding_names": [
+      "abeliel",
+      "Abijah",
+      "Adalyn",
+      "Adelaide",
+      "Adele",
+      "Adonella",
+      "Agnes",
+      "Agnieszka",
+      "Aimee",
+      "Alarice"
+    ]
+  }
+}

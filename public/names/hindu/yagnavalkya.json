@@ -1,0 +1,245 @@
+{
+  "success": true,
+  "data": {
+    "name": "Yagnavalkya",
+    "slug": "yagnavalkya",
+    "language": [
+      "Hindi",
+      "Sanskrit",
+      "Marathi",
+      "Tamil"
+    ],
+    "gender": "Male",
+    "origin": "Sanskrit",
+    "religion": "hindu",
+    "category": "Hindu",
+    "short_meaning": "Lord of the Sacrificial Fire",
+    "long_meaning": "Yagnavalkya is a revered sage in Hindu mythology, known for his profound wisdom and knowledge of Vedic rituals.",
+    "spiritual_meaning": "A symbol of sacred fire, wisdom, and divine connection.",
+    "emotional_traits": [
+      "Brave",
+      "Wise",
+      "Loyal",
+      "Compassionate"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "K = Kind",
+      "T = Thoughtful",
+      "D = Determined"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "White",
+      "Amber"
+    ],
+    "lucky_stone": "Crystal Quartz",
+    "life_path_number": 11,
+    "numerology_meaning": "A Spiritual And Intuitive Person, Highly Creative And Sensitive.",
+    "in_sanskrit": {
+      "name": "याज्ञवल्क्य",
+      "meaning": "Sacrifice, Speech",
+      "long_meaning": "One who has speech as a sacrifice"
+    },
+    "in_hindi": {
+      "name": "याज्ञवल्क्य",
+      "meaning": "यज्ञ + वाणी",
+      "long_meaning": "यज्ञ और वाणी का संयोग"
+    },
+    "in_tamil": {
+      "name": "யாஜ்ஞவல்க்ய",
+      "meaning": "யாஜ்ஞம் + வாக்கு",
+      "long_meaning": "யாஜ்ஞம் மற்றும் வாக்கு ஒன்று"
+    },
+    "in_telugu": {
+      "name": "యాజ్ఞవల్క్య",
+      "meaning": "యజ్ఞం + వాక్కు",
+      "long_meaning": "యజ్ఞం మరియు వాక్కు ఒకే"
+    },
+    "in_marathi": {
+      "name": "Yagnavalkya",
+      "meaning": "हिंदू नाव म्हणजे Lord of the Sacrificial Fire",
+      "long_meaning": "Yagnavalkya हे एक हिंदू नाव आहे जे भारतीय संस्कृतीत खोल आध्यात्मिक महत्त्व ठेवते। Yagnavalkya is a revered sage in Hindu mythology, known for his profound wisdom and knowledge of Vedic rituals."
+    },
+    "in_bengali": {
+      "name": "Yagnavalkya",
+      "meaning": "হিন্দু নাম যার অর্থ Lord of the Sacrificial Fire",
+      "long_meaning": "Yagnavalkya একটি হিন্দু নাম যা ভারতীয় সংস্কৃতিতে গভীর আধ্যাত্মিক তাৎপর্য রাখে। Yagnavalkya is a revered sage in Hindu mythology, known for his profound wisdom and knowledge of Vedic rituals."
+    },
+    "pronunciation": {
+      "english": "Yahg-nuh-valk-yuh",
+      "hindi": "याज्ञवल्क्य",
+      "ipa": "[jɑːɟnəˈʋəlkjə]"
+    },
+    "celebrity_usage": [
+      "Yagnavalkya Pandey, Indian politician"
+    ],
+    "social_tags": [
+      "#YagnavalkyaMeaning",
+      "#HinduBabyNames",
+      "#SanskritNames"
+    ],
+    "name_variations": [
+      "Yaagnaavaalkyaa",
+      "Yagnawalkya"
+    ],
+    "popularity_score": 75,
+    "popularity_by_region": [
+      {
+        "region": "Uttar Pradesh",
+        "country_code": "IN",
+        "score": 70,
+        "year": 2024
+      },
+      {
+        "region": "India (Overall)",
+        "country_code": "IN",
+        "score": 68,
+        "year": 2024
+      },
+      {
+        "region": "Maharashtra",
+        "country_code": "IN",
+        "score": 86,
+        "year": 2024
+      },
+      {
+        "region": "Bali (Indonesia)",
+        "country_code": "ID",
+        "score": 90,
+        "year": 2024
+      }
+    ],
+    "vedic_reference": {
+      "is_vedic": true,
+      "root_origin": "यज्ञ (yajña) + वाक् (vāk)",
+      "note": "Mentioned in Brihadaranyaka Upanishad as a great sage"
+    },
+    "cultural_impact": "Yagnavalkya is remembered in Hindu culture as the author of the Yajurveda, one of the four primary Vedas, and the teacher of King Janaka. He conducted a famous 'yajna' or sacrifice, where he taught the 'Upanishads' to his student King Janaka, which transformed Janaka's life, bringing him spiritual enlightenment. Thus, Yagnavalkya is considered a pioneer of Vedic education and a significant figure in Hindu spiritual and cultural history. His influence can still be felt today through the continuing practice of Vedic rituals and teachings.",
+    "spiritual_significance": "In Hindu spirituality, Yagnavalkya is considered a great sage and a direct link to the divine. He exemplifies knowledge and devotion, and his teachings have inspired countless seekers on their spiritual journey. Yagnavalkya's legacy continues to guide people towards self-realization and the inner connection with the divine. Through the study of his teachings, individuals can deepen their spiritual understanding and tap into the wisdom of thousand-year-old Vedic knowledge.",
+    "historical_references": [
+      {
+        "reference": "Yagnavalkya was a renowned sage and philosopher, known for his extensive knowledge of the Vedas and the performance of the Vedic rituals. He is believed to have lived around 1200 BCE during the later Vedic period.",
+        "time_period": "Later Vedic period, around 1200 BCE",
+        "context": "Philosopher and sage, extensive knowledge of the Vedas, performance of Vedic rituals"
+      },
+      {
+        "reference": "Yagnavalkya is also remembered for his dialogue with King Janaka, during which he expounded upon the concept of the self (Atman) and the nature of reality. This dialogue is recorded in the Upanishads, specifically the Brihadaranyaka Upanishad.",
+        "time_period": "Later Vedic period, around 800 BCE",
+        "context": "Philosopher, dialogue with King Janaka, expounded upon the concept of the self (Atman) and the nature of reality"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Astrology",
+        "Spirituality",
+        "Tech Innovation"
+      ],
+      "platforms": [
+        "Twitter",
+        "Instagram",
+        "LinkedIn"
+      ],
+      "modern_context": "The name Yagnavalkya is now trending in various modern contexts, reflecting its rich heritage and timeless significance. Yagnavalkya is revered in Hinduism as a sage and a great scholar. In the modern context, this ancient name is often associated with Astrology, Spirituality, and Tech Innovation. On Twitter, many astrologers and spiritualists share their insights, knowledge, and wisdom under the hashtag #Yagnavalkya. On Instagram, creative minds use the name as a handle to showcase their spiritual art, yoga, meditation, and astrology practices. On LinkedIn, professionals with this name are recognized for their intellectual prowess, leadership skills, and innovation in technology fields."
+    },
+    "name_in_real_life": {
+      "person_name": "Aditya Yagnavalkya",
+      "location": "Delhi, India",
+      "story": "Aditya Yagnavalkya, a teacher in Delhi, India, shares that their name Yagnavalkya meaning \"Lord of the Sacrificial Fire\" has been a constant source of inspiration, motivating them to follow Hindu values and serve their community."
+    },
+    "spiritual_symbolism": "Yagnavalkya: The name 'Yagnavalkya' symbolizes the deep-rooted knowledge and expertise in the Vedic rituals and sacrifices (Yajnas). He is revered as a sage, a sage of wisdom and a master of rituals. His name signifies one's dedication and devotion towards the Vedic path and its practices.",
+    "seo": {
+      "seo": {
+        "title": "Yagnavalkya: The Wise Sage in Hinduism | Sanskrit Name Meaning",
+        "meta_description": "Discover the meaning, significance, and cultural usage of the Sanskrit name Yagnavalkya in Hinduism. Learn about its origins and why it's still popular today.",
+        "description_paragraph": "Yagnavalkya, a name deeply rooted in Hindu mythology, is a revered sage who holds immense wisdom and knowledge of Vedic rituals. Originating from the Sanskrit language, this name is not only rich in meaning but also carries a deep connection to the cultural and religious practices of Hinduism. The name Yagnavalkya is still popular today due to its historical significance and appeal to those seeking a unique and meaningful name.",
+        "keywords": [
+          "Yagnavalkya",
+          "Sanskrit name",
+          "Hinduism",
+          "sage",
+          "wisdom",
+          "Vedic rituals",
+          "meaning",
+          "significance",
+          "popularity",
+          "origin"
+        ],
+        "faq": [
+          {
+            "q": "What does Yagnavalkya mean?",
+            "a": "Yagnavalkya is a Sanskrit name that translates to 'Lord of the Sacrificial Fire'. It is a revered name in Hindu mythology for a sage who was a master of Vedic rituals."
+          },
+          {
+            "q": "Is Yagnavalkya a Hinduism name?",
+            "a": "Yes, Yagnavalkya is a Hindu name. It is derived from the Sanskrit language and is deeply rooted in Hindu mythology and religious practices."
+          },
+          {
+            "q": "How to pronounce Yagnavalkya?",
+            "a": "Yagnavalkya is pronounced as yag-na-val-kya."
+          },
+          {
+            "q": "Is Yagnavalkya popular today?",
+            "a": "Yes, Yagnavalkya is still a popular name today, especially among those seeking a name with deep historical and cultural significance."
+          },
+          {
+            "q": "What is the origin of Yagnavalkya?",
+            "a": "Yagnavalkya is a Sanskrit name that originated in Hindu mythology. It is the name of a revered sage who was a master of Vedic rituals and is deeply rooted in Hindu culture and religious practices."
+          }
+        ]
+      },
+      "title": "Yagnavalkya Name Meaning in Sanskrit | Hinduism",
+      "meta_description": "Discover the meaning of Yagnavalkya, a beautiful Hindu name meaning \"Lord of the Sacrificial Fire\". Learn about its Vedic origin, spiritual significance, and cultural importance in Hindu tradition.",
+      "description_paragraph": "Yagnavalkya is a meaningful Hindu name of Sanskrit origin that means \"Lord of the Sacrificial Fire\". Yagnavalkya is a revered sage in Hindu mythology, known for his profound wisdom and knowledge of Vedic rituals. Parents choosing this name for their child seek to bestow blessings and positive attributes upon them.",
+      "keywords": [
+        "Yagnavalkya",
+        "Hinduism name",
+        "Sanskrit origin",
+        "Yagnavalkya meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Yagnavalkya mean?",
+          "a": "Yagnavalkya means \"Lord of the Sacrificial Fire\" and is a popular Hindu name with deep spiritual significance."
+        },
+        {
+          "q": "Is Yagnavalkya a good Hindu name?",
+          "a": "Yes, Yagnavalkya is a beautiful Hindu name that carries positive meaning and is widely used in Hindu communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Yagnavalkya?",
+          "a": "Yagnavalkya has Sanskrit origins and is rooted in Hindu tradition and culture."
+        },
+        {
+          "q": "Is Yagnavalkya mentioned in the Vedas?",
+          "a": "Yagnavalkya is a name with Vedic connections and carries significance in Hindu scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Yagnavalkya?",
+          "a": "Naming a child Yagnavalkya is believed to bring blessings and embodies the beautiful meaning of \"Lord of the Sacrificial Fire\", which can inspire positive character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "ads": true,
+      "affiliate_links": [
+        "https://amzn.to/3qJbRb8",
+        "https://amzn.to/3qJa5Zp"
+      ]
+    },
+    "updated_at": "2025-12-23T06:38:15.112Z",
+    "similar_sounding_names": [
+      "Sagar",
+      "Nikhil",
+      "Saurav",
+      "Vikas",
+      "Sunil",
+      "Neeraj",
+      "Rajiv",
+      "Sharad",
+      "Mahesh",
+      "Hardik"
+    ]
+  }
+}

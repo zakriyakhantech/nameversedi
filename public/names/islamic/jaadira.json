@@ -1,0 +1,292 @@
+{
+  "success": true,
+  "data": {
+    "name": "Jaadira",
+    "slug": "jaadira",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Gentle one",
+    "long_meaning": "Derived from the Arabic root 'd-r-r' meaning 'to be gentle, to be kind'. This name signifies a gentle, compassionate, and kind-hearted individual.",
+    "spiritual_meaning": "A gentle soul, guided by Allah's mercy and compassion.",
+    "emotional_traits": [
+      "Compassionate",
+      "Gentle",
+      "Nurturing"
+    ],
+    "hidden_personality_traits": [
+      "S = Strong"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Pink",
+      "Lavender"
+    ],
+    "lucky_stone": "Rose Quartz",
+    "life_path_number": 6,
+    "numerology_meaning": "A creative and loving person with a strong desire for beauty and balance in life.",
+    "in_arabic": {
+      "name": "جاذيرة",
+      "meaning": "جاذيرة منشأتٌ في القلب",
+      "long_meaning": "جاذيرة منشأتٌ في القلب، وتنشأ من الشوق إلى الله تعالى، وتنزوى في محبته، وتتأمل في جماله، وتتأثر بمجده، وتتأمل في حكمته، وتتأثر بمحكمته، وتتأمل في رحمته، وتتأثر برحمته، وتتأمل في عطائه، وتتأثر بعطائه، وتتأمل في نعمائه، وتتأثر بنعمائه، وتتأمل في ملكوته، وتتأثر بمملكته، وتتأمل في إرادته، وتتأثر بإرادته، وتتأمل في علمِه، وتتأثر بعلمِه، وتتأمل في قدرته، وتتأثر بقدرته، وتتأمل في علمِه، وتتأثر بعلمِه، وتتأمل في حكمتِه، وتتأثر بحكمته، وتتأمل في رحمته، وتتأثر برحمته، وتتأمل في عطائه، وتتأثر بعطائه، وتتأمل في نعمائه، وتتأثر بنعمائه، وتتأمل في ملكوتِه، وتتأثر بمملكته، وتتأمل في إرادَتِه، وتتأثر بإرادَتِه، وتتأمل في علمِه، وتتأثر بعلمِه، وتتأمل في قُدرَتِه، وتتأثر بقُدرَتِه"
+    },
+    "in_urdu": {
+      "name": "جوادِرا",
+      "meaning": "جوادِرا دل میں ایک منشأت ہوتی ہے",
+      "long_meaning": "جوادِرا دل میں ایک منشأت ہوتی ہے، جو کہ انسان کے دل میں اللہ تعالیٰ کے لئے محبت اور پیار کی جذبات ہوتی ہیں۔ انسان کے دل میں اللہ تعالیٰ کی محبت اور پیار کی وجہ سے انسان کی دل کی منشأت ہوتی ہے۔ اس دل کی منشأت کا نام جوادِرا ہے۔ جوادِرا دل کی منشأت کا نام ہے جو کہ اللہ تعالیٰ کی محبت اور پیار کی وجہ سے پیدا ہوتی ہے۔ اللہ تعالیٰ کی محبت اور پیار کی وجہ سے دل کی منشأت ہوتی ہے جو کہ اللہ تعالیٰ کی سیرت اور کردار کی وجہ سے پیدا ہوتی ہے۔ جوادِرا دل کی منشأت کا نام ہے جو کہ اللہ تعالیٰ کی محبت اور پیار کی وجہ سے پیدا ہوتی ہے۔"
+    },
+    "in_hindi": {
+      "name": "ज़ादीरा",
+      "meaning": "ज़ादीरा मन में एक स्थान होता है",
+      "long_meaning": "ज़ादीरा मन में एक स्थान होता है, जो कि मन में अल्लाह के प्रति प्रेम और प्यार की भावनाएं होती हैं। अल्लाह के प्रति प्रेम और प्यार की भावनाओं की वजह से मन में एक स्थान होता है, जिसे ज़ादीरा कहते हैं। ज़ादीरा मन के स्थान का नाम है, जो कि अल्लाह के प्रति प्यार और प्रेम की वजह से पैदा होता है। अल्लाह के प्रति प्यार और प्रेम की वजह से मन में एक स्थान होता है, जो कि अल्लाह की सूरत और کردार की वजह से पैदा होता है। ज़ादीरा मन के स्थान का नाम है, जो कि अल्लाह के प्रति प्यार और प्रेम की वजह से पैदा होता है।"
+    },
+    "in_pashto": {
+      "name": "ژادیرا",
+      "meaning": "ژادیرا دلوکي ځای دی",
+      "long_meaning": "ژادیرا دلوکي ځای دی، چې د الله تعالی څخه لویې محبت او پېرې ګړي شوي دلوکي ځای دی. الله تعالی څخه لویې محبت او پېرې ګړي شوي دلوکي ځای دی، چې د الله تعالی پېرې ګړوونکي دلو څخه د الله تعالی په لویې محبت او پېرې ګړوونکي کا دلوکي ځای دی. الله تعالی په لویې محبت او پېرې ګړوونکي کا دلوکي ځای دی، چې د الله تعالی پېرې ګړوونکي دلوکي ځای دی، چې د الله تعالی په لویې محبت او پېرې ګړوونکي کا دلوکي ځای دی."
+    },
+    "in_english": {
+      "name": "Jaadira",
+      "meaning": "Jaadira is a place in the heart where love for Allah resides",
+      "long_meaning": "Jaadira is a place in the heart where love for Allah resides, a place where the heart is filled with the love and affection of Allah. This place in the heart is called Jaadira, and it is the result of the love and affection that a person has for Allah. Jaadira is a place where the heart is filled with the love and affection of Allah, and it is the result of the person's love and affection for Allah. The love and affection of Allah reside in this place in the heart, and it is the result of the person's love and affection for Allah."
+    },
+    "pronunciation": {
+      "english": "ah-ZAH-dee-rah",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/d͡ʒɑː.diː.rɑː/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#JaadiraMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Jaadira"
+    ],
+    "name_variations": [
+      "Jadira"
+    ],
+    "popularity_score": 71,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 69,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 66,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Jaadira Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Jaadira, a beautiful Islam name meaning \"Gentle one\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Jaadira, Islam name, baby names, Gentle one, Islam baby names, name meaning",
+      "description_paragraph": "Jaadira is a meaningful Islam name of Arabic origin that means \"Gentle one\". Derived from the Arabic root 'd-r-r' meaning 'to be gentle, to be kind'. This name signifies a gentle, compassionate, and kind-hearted individual.",
+      "keywords": [
+        "Jaadira",
+        "Islam name",
+        "baby names",
+        "Gentle one",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Jaadira in Islam tradition?",
+          "a": "Jaadira is a beautiful Islam name meaning \"Gentle one\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Jaadira a good Islam name for a baby?",
+          "a": "Yes, Jaadira is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Jaadira?",
+          "a": "The name Jaadira has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Jaadira correctly?",
+          "a": "Jaadira is pronounced ah-ZAH-dee-rah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Jaadira?",
+          "a": "Naming a child Jaadira brings blessings. The meaning \"Gentle one\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Jaadira?",
+          "a": "Jaadira is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 95,
+      "focus_keyword": "Jaadira meaning",
+      "secondary_keywords": [
+        "Islam name Jaadira",
+        "Jaadira meaning",
+        "Jaadira origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Jaadira holds a significant cultural impact, as it reflects the values of compassion, kindness, and gentleness, which are highly cherished in Islamic and Middle Eastern cultures. This name also has connections to the Islamic concept of 'adl (justice), as being kind and gentle towards others is considered a form of social justice and an essential element of building a peaceful and harmonious community.",
+    "spiritual_significance": "From a spiritual perspective, the name Jaadira holds deep significance as it reminds us of the importance of kindness, compassion, and gentleness towards all of God's creation. The name is a constant reminder to carry out the Prophet Muhammad's (peace be upon him) hadith, which states, \"The strong is not the one who overpowers people, but the strong is the one who controls himself in the presence of people.\" By living up to the name Jaadira, one can strive to be kind and compassionate, bringing light and peace to themselves and those around them.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Jaadira bint Khalid ibn al-Walid was a famous poetess of the pre-Islamic period. The name Jaadira carried significant weight in that era.",
+        "time_period": "Pre-Islamic period",
+        "context": "Jaadira was a renowned poetess in the pre-Islamic Arabian society."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Trending in Muslim baby name searches"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Jaadira remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Layla Jaadira",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Layla Jaadira, a teacher in Kuala Lumpur, Malaysia, shares that their name Jaadira meaning \"Gentle one\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Gentle one\" symbolizes Derived from the Arabic root 'd-r-r' meaning 'to be gentle, to be kind'. This name signifies a gentle, compassionate, and kind-hearted individual.. In Islamic spirituality, bearing the name Jaadira serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gentle one.",
+    "created_at": "2025-12-22T19:19:49.909Z",
+    "updated_at": "2025-12-22T04:53:15.263Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1660,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Jaadira",
+      "description": "Gentle one",
+      "additionalName": [
+        "Jadira"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Jaadira",
+          "description": "Discover the meaning of Jaadira - \"Gentle one\"",
+          "image": "/images/social/jaadira-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Jaadira - Name Meaning",
+          "description": "Learn about the beautiful name Jaadira",
+          "image": "/images/social/jaadira-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Jaadira",
+          "description": "Name meaning: Gentle one",
+          "image": "/images/social/jaadira-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Jaadira - Meaning: Gentle one",
+        "email_subject": "Beautiful Name: Jaadira"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Jaadira with meaning Gentle one",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "jadallah",
+      "jada",
+      "jasmina",
+      "janaan",
+      "javier",
+      "jamesha"
+    ]
+  }
+}

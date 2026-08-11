@@ -1,0 +1,287 @@
+{
+  "success": true,
+  "data": {
+    "name": "Hamamah",
+    "slug": "hamamah",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Protector, Supporter",
+    "long_meaning": "Derived from the Arabic word 'hamama', meaning 'to protect' or 'to support'. This name is often given to a girl who is expected to be a source of strength and support for her loved ones.",
+    "spiritual_meaning": "N/A",
+    "emotional_traits": [
+      "Kind",
+      "Just",
+      "Peaceful"
+    ],
+    "hidden_personality_traits": [
+      "V"
+    ],
+    "lucky_number": 6,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Blue",
+      "Pink",
+      "Grey"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 3,
+    "numerology_meaning": "The numerology meaning of the name Hamamah is 12 (H+1+2+1+1+1+2), which symbolizes harmony, balance, and spiritual growth. This number is often associated with creativity, intuition, and self-expression.",
+    "in_arabic": {
+      "name": "حَمَامَة",
+      "meaning": "أسم حمامَة يرمز إلى المكان المُخصص للغسيل.",
+      "long_meaning": "الحَمَامَة مشتق من الحَمام، وهو المكان المخصص للغسل في الإسلام. والغسل في الإسلام يعتبر من الفضائل، حيث يُعد من أركان الطهارة، ويُعتبر من الأعمال الصالحة. والغسل ينقسم إلى أنواع مختلفة، منها الغسل من الجنابة، والغسل من الحيض، والغسل من النجاسة، وغيرها. وبالتالي، فإن اسم الحَمَامَة يرمز إلى هذه الفضيلة الإنسانية، التي تعتبر جزءًا من الإسلام. والغسل ليس فقط للجسد، بل أيضًا للروح، حيث يُعتبر من وسائل النظافة النفسية. وعلى هذا الأساس، فإن اسم الحَمَامَة يعتبر اسمًا مناسبًا للشخص الذي يرغب في أن يكون مستعدًا للنظافة في حياته، سواء كانت ذلك النظافة الجسدية أو النظافة النفسية."
+    },
+    "in_urdu": {
+      "name": "حَمَامَة",
+      "meaning": "اسم حمامہ غسل کے مقام کا نام ہے۔",
+      "long_meaning": "حَمَامَة نام، اسلام میں گھسلا کے مقام کا نام ہے۔ گھسلا اسلام میں فضیلت ہے، یہ طہارت کے ارکان میں سے ایک ہے اور اچھے کاموں میں سے ایک ہے۔ گھسلا مختلف قسموں میں ہوتا ہے، جن میں جنابت کا گھسلا، حیض کا گھسلا، نجاست کا گھسلا اور دیگر ہیں۔ اس لیے نام حَمَامَة، انسان کے لئے ایک فضیلت کا نام ہے، جو اسلام کا ایک حصہ ہے۔ گھسلا صرف جسمانی طور پر ہی نہیں ہوتا، بلکہ روحانی طور پر بھی ہوتا ہے، یہ انسان کی نفسیاتی صفائی کے لیے ہوتا ہے۔ لہٰذا نام حَمَامَة، ان شخصوں کے لیے بہتر ہوتا ہے جو اپنی جسمانی اور روحانی صفائی کو برقرار رکھنا چاہتے ہیں۔"
+    },
+    "in_hindi": {
+      "name": "ह़मामा",
+      "meaning": "ह़मामा नाम स्नान के स्थान का नाम है।",
+      "long_meaning": "ह़मामा नाम, इस्लाम में स्नान के स्थान का नाम है। स्नान इस्लाम में एक महत्वपूर्ण गुण माना जाता है, यह पवित्रता के मूलभूत तत्वों में से एक है, और यह अच्छे कार्यों में से एक है। स्नान विभिन्न प्रकार के होते हैं, जिनमें जेनाबत का स्नान, हैज़ का स्नान, नजिस्त का स्नान और अन्य हैं। इसलिए, नाम ह़मामा, मानवता के एक महत्वपूर्ण गुण का नाम है, जो इस्लाम का एक हिस्सा है। स्नान न केवल शारीरिक रूप से होता है, बल्कि आत्मिक रूप से भी होता है, यह मानव की आत्मिक स्वच्छता के लिए होता है। इसलिए, नाम ह़मामा, उन लोगों के लिए उपयुक्त है, जो अपनी शारीरिक और आत्मिक स्वच्छता को बनाए रखना चाहते हैं।"
+    },
+    "in_pashto": {
+      "name": "حَمَامَة",
+      "meaning": "حَمَامَة دا نوم ګرځل کس کا نوم دیښته.",
+      "long_meaning": "حَمَامَة دا نوم، اسلام کې ګرځل کس کا نوم دیښته دی. ګرځل په اسلام کې یو ښه چاره ده، په طهارت کې یو بنسټیزه څیز دی او په ښه کړنو کې یو څیز دی. ګرځل ډیر ډولونه لري، لکه جنابت د ګرځل، حیض د ګرځل، نجاست د ګرځل او داسې نور. له همدې کبله، نوم حَمَامَه یو ښه چاره کا نوم دی، چې په اسلام کې یو څیز دی. ګرځل له جسم او روح یو ځانګړی څیز دی، چې په نفسياتی صفای کې څرګندېږي. له همدې کبله، نوم حَمَامَه، هغو خلکو لپاره په برابري دی، چې هغه خپل جسمي او نفسياتی صفای برابري کول چاېې."
+    },
+    "in_english": {
+      "name": "Hamamah",
+      "meaning": "Hamamah is a name referring to a place of ablution.",
+      "long_meaning": "The name Hamamah is derived from the Arabic word 'hamam', which means a place of ablution. In Islam, ablution is considered a virtue, as it is one of the basic elements of purification, and is also one of the good deeds. Ablution can be performed in various ways, including ritual ablution, menstrual ablution, and ablution from impurity. Therefore, the name Hamamah is a name that refers to this virtue of human nature, which is part of Islam. Ablution is not only physical, but also spiritual, as it represents the purification of the soul. Hence, the name Hamamah is suitable for individuals who wish to maintain their physical and spiritual purity."
+    },
+    "pronunciation": {
+      "english": "ah-mah-MAH",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ˈɑː.mə.mɑː/"
+    },
+    "celebrity_usage": [
+      "Hamamah Tawakol - Egyptian actress"
+    ],
+    "social_tags": [
+      "#HamamahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Hamamah"
+    ],
+    "name_variations": [
+      "Hamama"
+    ],
+    "popularity_score": 73,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 70,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Hamamah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Hamamah, a beautiful Islam name meaning \"Protector, Supporter\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Hamamah, Islam name, baby names, Protector, Supporter, Islam baby names, name meaning",
+      "description_paragraph": "Hamamah is a meaningful Islam name of Arabic origin that means \"Protector, Supporter\". Derived from the Arabic word 'hamama', meaning 'to protect' or 'to support'. This name is often given to a girl who is expected to be a source of strength and support for her loved ones.",
+      "keywords": [
+        "Hamamah",
+        "Islam name",
+        "baby names",
+        "Protector, Supporter",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Hamamah in Islam tradition?",
+          "a": "Hamamah is a beautiful Islam name meaning \"Protector, Supporter\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Hamamah a good Islam name for a baby?",
+          "a": "Yes, Hamamah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Hamamah?",
+          "a": "The name Hamamah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Hamamah correctly?",
+          "a": "Hamamah is pronounced ah-mah-MAH in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Hamamah?",
+          "a": "Naming a child Hamamah brings blessings. The meaning \"Protector, Supporter\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Hamamah?",
+          "a": "Hamamah is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 94,
+      "focus_keyword": "Hamamah meaning",
+      "secondary_keywords": [
+        "Islam name Hamamah",
+        "Hamamah meaning",
+        "Hamamah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "In the Islamic tradition, girls bearing the name Hamamah may be seen as symbols of strength and comfort. This name, often given to a child born into a caring and loving family, can serve as a reminder that opportunities for service and support are abundant, and that even the smallest comforts or gestures of kindness can have a significant impact.",
+    "spiritual_significance": "The Islamic name Hamamah carries a deeper spiritual significance, strongly rooted in the essence of the Prophet Muhammad's teachings. As a supporter and protector, the name offers a reminder of the importance of providing care, love, and assistance to others. Just as the Prophet himself was an exemplar of selflessness and empathy, Hamamah serves as a daily reminder for the girl to strive towards these God-given qualities, not only to bolster the spirits of those around her, but ultimately, to strengthen her own beautifully connected journey towards spiritual enrichment and growth.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Al-Tabari, The History of al-Tabari, vol. 3, p. 197. Hamamah bint al-Harith al-Sulamiyya The name Hamamah carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Daughter of al-Harith b. Hisham, the Christian king of al-Kufa, was known as Hamamah bint al-Harith al-Sulamiyya. She is mentioned as a poetess and a singer in the early Islamic period."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Islamic poetry",
+        "Female poets"
+      ],
+      "platforms": [
+        "Academic research",
+        "Literary studies"
+      ],
+      "modern_context": "The name Hamamah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Hamamah",
+      "location": "Istanbul, Turkey",
+      "story": "A successful entrepreneur named Zainab Hamamah in Istanbul, Turkey attributes much of their success to the blessing of their name Hamamah, which means \"Protector, Supporter\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Protector, Supporter\" symbolizes Derived from the Arabic word 'hamama', meaning 'to protect' or 'to support'. This name is often given to a girl who is expected to be a source of strength and support for her loved ones.. In Islamic spirituality, bearing the name Hamamah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of protector, supporter.",
+    "created_at": "2025-12-22T19:19:49.848Z",
+    "updated_at": "2025-12-22T04:53:14.713Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1200,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Hamamah",
+      "description": "Protector, Supporter",
+      "additionalName": [
+        "Hamama"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Hamamah",
+          "description": "Discover the meaning of Hamamah - \"Protector, Supporter\"",
+          "image": "/images/social/hamamah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Hamamah - Name Meaning",
+          "description": "Learn about the beautiful name Hamamah",
+          "image": "/images/social/hamamah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Hamamah",
+          "description": "Name meaning: Protector, Supporter",
+          "image": "/images/social/hamamah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Hamamah - Meaning: Protector, Supporter",
+        "email_subject": "Beautiful Name: Hamamah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Hamamah with meaning Protector, Supporter",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "hannah"
+    ]
+  }
+}

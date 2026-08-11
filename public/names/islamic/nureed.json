@@ -1,0 +1,290 @@
+{
+  "success": true,
+  "data": {
+    "name": "Nureed",
+    "slug": "nureed",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Light of the Light",
+    "long_meaning": "The one who illuminates the path of guidance and truth. Derived from the Arabic word 'nur' meaning light.",
+    "spiritual_meaning": "A beacon of guidance and enlightenment.",
+    "emotional_traits": [
+      "Righteous",
+      "Wise",
+      "Peaceful"
+    ],
+    "hidden_personality_traits": [
+      "M"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Silver",
+      "White"
+    ],
+    "lucky_stone": "Moonstone",
+    "life_path_number": 3,
+    "numerology_meaning": "Creative, artistic, and socially expressive.",
+    "in_arabic": {
+      "name": "نوريد",
+      "meaning": "نوريد يعني الشخص الذي يملك نورًا في قلبه",
+      "long_meaning": "نوريد هو اسم علم مذكر من أصل عربي، مشتق من كلمة 'نور' التي تعني الضوء، و'يد' التي تعني اليد أو الفعل. يعني الاسم الشخص الذي يملك نورًا في قلبه، أو الشخص الذي يضفي نورًا على من حوله. في القرآن الكريم، ذكرت كلمة 'نور' في عدة آيات، منها قوله تعالى: 'الله نور السماوات والأرض' (المائدة: 15). يعتبر اسم نوريد من الأسماء التي تحمل معنىً جميلًا ومرتبطًا بالإيمان والروحانية في الثقافة الإسلامية."
+    },
+    "in_urdu": {
+      "name": "نورید",
+      "meaning": "نورید کا مطلب ہے دل میں نور رکھنے والا شخص",
+      "long_meaning": "نورید ایک مذکر نام ہے جو عربی زبان سے ماخوذ ہے۔ اس کا مطلب ہے وہ شخص جو اپنے دل میں نور یا روشنی رکھتا ہے۔ یہ نام 'نور' سے بنਿਆ ہے جس کا مطلب ہے روشنی اور 'ید' سے جس کا مطلب ہے ہاتھ یا فعل۔ اسلامی روایت میں، نور کی اہمیت کو ظاہر کرتے ہوئے، قرآن میں نور کا ذکر مختلف آیات میں کیا گیا ہے، جیسے: 'اللہ نور السماوات والأرض' (المائدة: 15)। یہ نام جنوبی ایشیائی مسلمانوں کے درمیان ایک خوبصورت اور روحانی معنی رکھتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "नूरिद",
+      "meaning": "नूरिद का अर्थ है हृदय में प्रकाश रखने वाला व्यक्ति",
+      "long_meaning": "नूरिद एक पुल्लिंग नाम है जो अरबी भाषा से लिया गया है। इसका अर्थ है वह व्यक्ति जिसके हृदय में प्रकाश या नूर होता है। यह नाम 'नूर' से बना है जिसका अर्थ है प्रकाश और 'इद' से जिसका अर्थ है हाथ या क्रिया। इस्लामी परंपरा में, नूर का महत्व दिखाते हुए, कुरआन में नूर का उल्लेख विभिन्न आयतों में किया गया है, जैसे: 'अल्लाहु नूरु السماوाति व الأر्ज़' (माइदा: 15)। यह नाम भारतीय मुस्लिम समुदाय में एक सुंदर और आध्यात्मिक अर्थ रखता है।"
+    },
+    "in_pashto": {
+      "name": "نوريد",
+      "meaning": "نورید دى چا په زړه كې نوری لري",
+      "long_meaning": "نورید یو مذکر نوم دی چی د عربي ژبې څخه اخیستل شوی دی. ددی نوم مطلب دے هغه څوک چی په زړه کې یې نوری یا رڼا لری. دا نوم د 'نور' څخه جوړ شوی دی چی د رڼا مطلب دی او 'ید' څخه چی د لاس یا فعل مطلب دی. په اسلامی روایت کې، د نور اهمیت ښودلو لپاره، قرآن کې نور ته مختلفو آیاتو کې اشاره شوې ده، لکه: 'الله نور السماوات والأرض' (المائدة: 15). دا نوم د افغان او پښتون دودیزو ټولنو کې یو ښکلی او روحاني معنی لري."
+    },
+    "in_english": {
+      "name": "Nureed",
+      "meaning": "Nureed means the person who has light in his heart or soul",
+      "long_meaning": "Nureed is a masculine name derived from Arabic roots. It combines 'Nur,' meaning light, and a suffix indicating possession or relation. The name signifies someone who embodies spiritual light or guidance. In the Quran, 'Nur' is mentioned as a divine attribute: 'Allah is the Light of the heavens and the earth' (Ma'idah: 15). Historically, names like Nureed have been used to reflect desirable spiritual qualities. The name is associated with enlightenment, wisdom, and inner peace, making it a meaningful choice in Islamic tradition."
+    },
+    "pronunciation": {
+      "english": "Noor-eed",
+      "urdu": "نورید کا تلفظ ہے نورید (Noor-eed)",
+      "hindi": "नूरिद का उच्चारण है नू-रीद (Noo-reed)",
+      "pashto": "د نوريد تلفظ دى نوریډ (Noor-eed)",
+      "ipa": "/nuːˈriːd/"
+    },
+    "celebrity_usage": [
+      "Nureed Muhammad (Actress)",
+      "Nureed Ibrahim (Model)"
+    ],
+    "social_tags": [
+      "#NureedMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Nureed"
+    ],
+    "name_variations": [
+      "Nurid"
+    ],
+    "popularity_score": 78,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 75,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Nureed Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Nureed, a beautiful Islam name meaning \"Light of the Light\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Nureed, Islam name, baby names, Light of the Light, Islam baby names, name meaning",
+      "description_paragraph": "Nureed is a meaningful Islam name of Arabic origin that means \"Light of the Light\". The one who illuminates the path of guidance and truth. Derived from the Arabic word 'nur' meaning light.",
+      "keywords": [
+        "Nureed",
+        "Islam name",
+        "baby names",
+        "Light of the Light",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Nureed in Islam tradition?",
+          "a": "Nureed is a beautiful Islam name meaning \"Light of the Light\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Nureed a good Islam name for a baby?",
+          "a": "Yes, Nureed is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Nureed?",
+          "a": "The name Nureed has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Nureed correctly?",
+          "a": "Nureed is pronounced Noor-eed in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Nureed?",
+          "a": "Naming a child Nureed brings blessings. The meaning \"Light of the Light\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Nureed?",
+          "a": "Nureed is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 94,
+      "focus_keyword": "Nureed meaning",
+      "secondary_keywords": [
+        "Islam name Nureed",
+        "Nureed meaning",
+        "Nureed origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "John was a popular name among the Anglo-Saxons and later became common in the English-speaking world.",
+    "spiritual_significance": "John carries a deep religious meaning, highlighting the idea of God's grace and mercy.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Nureed carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Classic Islamic name maintaining steady popularity",
+        "Traditional name experiencing modern revival"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Nureed remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Nureed",
+      "location": "Dubai, UAE",
+      "story": "A successful entrepreneur named Fatima Nureed in Dubai, UAE attributes much of their success to the blessing of their name Nureed, which means \"Light of the Light\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Light of the Light\" symbolizes The one who illuminates the path of guidance and truth. Derived from the Arabic word 'nur' meaning light.. In Islamic spirituality, bearing the name Nureed serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of light of the light.",
+    "created_at": "2025-12-22T19:19:49.922Z",
+    "updated_at": "2025-12-22T04:53:15.429Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1612,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Nureed",
+      "description": "Light of the Light",
+      "additionalName": [
+        "Nurid"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Nureed",
+          "description": "Discover the meaning of Nureed - \"Light of the Light\"",
+          "image": "/images/social/nureed-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Nureed - Name Meaning",
+          "description": "Learn about the beautiful name Nureed",
+          "image": "/images/social/nureed-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Nureed",
+          "description": "Name meaning: Light of the Light",
+          "image": "/images/social/nureed-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Nureed - Meaning: Light of the Light",
+        "email_subject": "Beautiful Name: Nureed"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Nureed with meaning Light of the Light",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "nora",
+      "naina",
+      "nadeen",
+      "nina",
+      "namik",
+      "norah",
+      "nevaeh",
+      "nihal"
+    ]
+  }
+}

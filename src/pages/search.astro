@@ -1,0 +1,120 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+const { q } = Astro.url.searchParams;
+const query = (q || '').trim().toLowerCase();
+---
+
+<Layout title={query ? `Search results for "${query}" | NameVerse` : "Search names | NameVerse"} description="Search baby names by meaning, origin, religion or keyword.">
+  <main class="nv-page min-h-screen">
+    <div class="nv-container nv-section">
+      <div class="mx-auto max-w-4xl">
+        <h1 class="nv-display text-3xl font-bold text-nv-text sm:text-4xl">Search Names</h1>
+        <p class="mt-2 text-nv-text-secondary">Search 65,000+ Islamic, Hindu, Christian and global names.</p>
+
+        <form action="/search" method="get" class="mt-6 flex gap-2">
+          <input
+            type="search"
+            name="q"
+            value={query}
+            placeholder="Search names, meanings, origins..."
+            autocomplete="off"
+            class="flex-1 rounded-2xl border border-nv-border bg-white px-4 py-3 text-sm text-nv-text placeholder:text-nv-text-muted focus:outline-none focus:ring-2 focus:ring-[color:var(--nv-accent-2)]"
+          />
+          <button
+            type="submit"
+            class="rounded-2xl bg-[color:var(--nv-ink)] px-6 py-3 text-sm font-bold text-white transition hover:bg-slate-800"
+          >
+            Search
+          </button>
+        </form>
+
+        {query && (
+          <div class="mt-8">
+            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted">Results for "{query}"</h2>
+            <div id="search-results" class="mt-4 space-y-3">
+              <p class="text-sm text-nv-text-muted">Loading results...</p>
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  </main>
+
+  {query && (
+    <script>
+      (function() {
+        const query = `${query}`;
+        const resultsContainer = document.getElementById('search-results');
+        if (!resultsContainer) return;
+
+        const religionLabels = {
+          christian: 'Christian',
+          hindu: 'Hindu',
+          islamic: 'Islamic',
+          italian: 'Italian'
+        };
+
+        const religionColors = {
+          christian: 'bg-blue-50 text-blue-700',
+          hindu: 'bg-orange-50 text-orange-700',
+          islamic: 'bg-emerald-50 text-emerald-700',
+          italian: 'bg-green-50 text-green-700'
+        };
+
+        async function search() {
+          try {
+            const [christian, hindu, islamic, italian] = await Promise.all([
+              fetch('/names/christian/_search-index.json').then(r => r.json()),
+              fetch('/names/hindu/_search-index.json').then(r => r.json()),
+              fetch('/names/islamic/_search-index.json').then(r => r.json()),
+              fetch('/names/italian/_search-index.json').then(r => r.json())
+            ]);
+
+            const indexes = [
+              ...christian.map(item => ({ ...item, religion: 'christian' })),
+              ...hindu.map(item => ({ ...item, religion: 'hindu' })),
+              ...islamic.map(item => ({ ...item, religion: 'islamic' })),
+              ...italian.map(item => ({ ...item, religion: 'italian' }))
+            ];
+
+            const filtered = indexes.filter(item =>
+              item.name.toLowerCase().includes(query) ||
+              item.slug.toLowerCase().includes(query) ||
+              (item.meaning && item.meaning.toLowerCase().includes(query))
+            );
+
+            if (!filtered.length) {
+              resultsContainer.innerHTML = '<p class="text-sm text-nv-text-muted">No matching names found.</p>';
+              return;
+            }
+
+            resultsContainer.innerHTML = filtered.slice(0, 50).map(item => {
+              const href = `/names/${item.religion}/${item.slug}`;
+              return `
+                <a href="${href}" class="flex items-center justify-between gap-3 rounded-xl border border-nv-border bg-white p-4 transition hover:bg-nv-surface-subtle">
+                  <div class="min-w-0">
+                    <div class="text-sm font-bold text-nv-text">${item.name}</div>
+                    <div class="mt-0.5 text-xs text-nv-text-muted">${item.meaning || 'Meaning not available'}</div>
+                  </div>
+                  <span class="shrink-0 rounded-full px-2.5 py-1 text-xs font-bold ${religionColors[item.religion] || 'bg-gray-100 text-gray-700'}">${religionLabels[item.religion] || item.religion}</span>
+                </a>
+              `;
+            }).join('');
+
+            if (filtered.length > 50) {
+              const more = document.createElement('p');
+              more.className = 'text-xs text-nv-text-muted mt-3';
+              more.textContent = `Showing 50 of ${filtered.length} results.`;
+              resultsContainer.appendChild(more);
+            }
+          } catch (e) {
+            resultsContainer.innerHTML = '<p class="text-sm text-red-600">Failed to load search results. Please try again.</p>';
+          }
+        }
+
+        search();
+      })();
+    </script>
+  )}
+</Layout>

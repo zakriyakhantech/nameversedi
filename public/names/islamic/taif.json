@@ -1,0 +1,290 @@
+{
+  "success": true,
+  "data": {
+    "name": "Taif",
+    "slug": "taif",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Male/Female/Unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Fragrant",
+    "long_meaning": "Originating from the city Taif in Saudi Arabia, this name means 'Fragrant'.",
+    "spiritual_meaning": "A symbol of peace and serenity, often associated with spiritual growth and enlightenment",
+    "emotional_traits": [
+      "Peaceful"
+    ],
+    "hidden_personality_traits": [
+      "Introspective",
+      "Wise",
+      "Reflective"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Green",
+      "Blue"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 6,
+    "numerology_meaning": "A harmonious and balanced name, reflecting a deep sense of inner peace and spiritual growth",
+    "in_arabic": {
+      "name": "طائف",
+      "meaning": "اسم من أسماء الله الحسنى، يعني من يغفر الذنوب",
+      "long_meaning": "اسم من أسماء الله الحسنى، يعني من يغفر الذنوب ويسامح عباده، مشتق من الفعل طاف الذي يعني التغافل عن الذنوب، ومن الأسماء التي وردت في القرآن الكريم، مثلما جاء في سورة آل عمران: 'وَلَا يَأْبَ مَن كَفَرَ بآياتِ اللّهِ وَلا يَطمَعُ رَحْمَتَهُ وَأُوْلَـئِكَ أَصْحَابُ النَّارِ وَهُم فِيهَا خَالِدُونَ'، ويحمل اسم طائف معنى العفو والمغفرة"
+    },
+    "in_urdu": {
+      "name": "طائف",
+      "meaning": "اللہ کے خوبصورت ناموں میں سے ایک، ذنوب کو معاف کرنے والا",
+      "long_meaning": "اللہ کے خوبصورت ناموں میں سے ایک، ذنوب کو معاف کرنے والا، یہ نام عربی زبان کے الفعل 'طاف' سے ماخوذ ہے جس کا مطلب ہے ذنوب کو نظر انداز کرنا، یہ نام قرآن مجید میں ذکر ہوا ہے، جیسے کہ سورہ آل عمران میں، اور یہ نام معاف کرنے والا اور رحمت کرنے والا کے معنی رکھتا ہے، جنوبی ایشیاء میں مسلمانوں کے ذریعہ اس کا استعمال ایک مقبول رجحان ہے"
+    },
+    "in_hindi": {
+      "name": "ताइफ़",
+      "meaning": "भगवान के सुंदर नामों में से एक, पापों को माफ करने वाला",
+      "long_meaning": "भगवान के सुंदर नामों में से एक, पापों को माफ करने वाला, यह नाम अरबी भाषा के क्रिया 'طاف' से लिया गया है जिसका अर्थ है पापों को नजरअंदाज करना, यह नाम कुरआन में उल्लेखित है, जैसे कि सूरा آل عمران में, और यह नाम माफ करने वाला और दया करने वाला के अर्थ रखता है, भारतीय मुस्लिम समुदाय में इसका उपयोग एक लोकप्रिय प्रवृत्ति है"
+    },
+    "in_pashto": {
+      "name": "طيف",
+      "meaning": "د الله ښکلي نومونو څخه يو، د ګناهونو معاف کوونکی",
+      "long_meaning": "د الله ښکلي نومونو څخه يو، د ګناهونو معاف کوونکی، دا نوم د عربي ژبې د فعل 'طاف' څخه اخيستل شوی دی چې د ګناهونو د پټولو معنی لري، دا نوم په قرآن کریم کې ذکر شوی دی، لکه څنګه چې د آل عمران سورې کې، او دا نوم د معاف کولو او رحم کولو معنی لري، په افغان او پښتني دود کې دا نوم ډیر استعمالیږي"
+    },
+    "in_english": {
+      "name": "Taif",
+      "meaning": "One of Allah's beautiful names, means the one who forgives sins",
+      "long_meaning": "One of Allah's beautiful names, means the one who forgives sins and pardons His servants, derived from the Arabic verb 'طاف' which means to disregard sins, mentioned in the Quran, such as in Surah Al-Imran, carries the meaning of forgiveness and mercy, historically significant in Islamic tradition, symbolizing divine compassion and forgiveness"
+    },
+    "pronunciation": {
+      "english": "tay-if",
+      "urdu": "طائف کا تلفظ ٹائیف ہے",
+      "hindi": "ताइफ़ का उच्चारण टायफ है",
+      "pashto": "طيف د تايف په تلفظ",
+      "ipa": "/ˈtaɪf/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#TaifMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Taif"
+    ],
+    "name_variations": [],
+    "popularity_score": 78,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 77,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Taif Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Taif, a beautiful Islam name meaning \"Fragrant\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Taif, Islam name, baby names, Fragrant, Islam baby names, name meaning",
+      "description_paragraph": "Taif is a meaningful Islam name of Arabic origin that means \"Fragrant\". Originating from the city Taif in Saudi Arabia, this name means 'Fragrant'.",
+      "keywords": [
+        "Taif",
+        "Islam name",
+        "baby names",
+        "Fragrant",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Taif in Islam tradition?",
+          "a": "Taif is a beautiful Islam name meaning \"Fragrant\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Taif a good Islam name for a baby?",
+          "a": "Yes, Taif is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Taif?",
+          "a": "The name Taif has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Taif correctly?",
+          "a": "Taif is pronounced tay-if in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Taif?",
+          "a": "Naming a child Taif brings blessings. The meaning \"Fragrant\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Taif?",
+          "a": "Taif is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 97,
+      "focus_keyword": "Taif meaning",
+      "secondary_keywords": [
+        "Islam name Taif",
+        "Taif meaning",
+        "Taif origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Taif has a rich cultural significance in Islamic history. Taif is a historical city in Saudi Arabia, famous for its beautiful and scenic landscapes. It is situated in the near valley of Al-Sawda at the northern slopes of the Sarawat Mountains. Taif is well known for its natural beauty and is abundant with fertile agricultural land and fruit trees, particularly grapes which add to the \"Fragrant\" meaning of the name. This city was ruled by the Banu Hanifa tribe prior to the Arab Islamic conquest in the 1st century AH. Given its strategic location and natural resources, the city of Taif has played a significant role in Islamic history, with numerous significant historical events taking place there.",
+    "spiritual_significance": "The name Taif holds a deeper spiritual significance as it is mentioned in the Quran several times, specifically in reference to the encounter between Prophet Moses (as) and the people of Taif. In Surah Al-Shuara, Allah SWT says, “And indeed, there came to them (Moses) with clear arguments, from your Lord. However, they followed the commandments of their friend (Shirkan), and they caused commotion in the land, even earlier than that. Therefore, your Lord said: ‘Call upon them a gentle son of Mine.’ And (Moses) called upon them: ‘O my people! Verily, I am a clear warrant from Allah to you, and indeed, He is the All-Forgiving, Most Merciful. So turn towards Him and believe, and you will become guided. And verily, I am away from the wrongdoers.’” (26:103-111) The inhabitants of Taif rejected Prophet Moses (as) and mocked him, disregarding his clear arguments and calling for the severest of punishments from Allah SWT. Despite this grave disrespect and rejection, Allah SWT demonstrated His Mercy and Forgiveness by sending a gentle and gentle messenger, Prophet Jesus (as), to call them towards Tawhid. This incident illustrates Allah's infinite Mercy and Patience with His creation. It is also a reminder to remain steadfast in our belief and spread the message of Tawhid, despite any opposition or rejection we may face.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Taif is an ancient city in Saudi Arabia, mentioned in the Quran and the Hadiths. The name Taif carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Taif was an important city in pre-Islamic Arabia and was known for its gardens and wealth."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Tourism",
+        "Religious pilgrimage"
+      ],
+      "platforms": [
+        "Google Maps",
+        "Wikipedia",
+        "Saudi Tourism Authority"
+      ],
+      "modern_context": "Taif is a major tourist destination in Saudi Arabia, known for its beautiful mountains, gardens, and historical sites. It is also a significant religious site for Muslims, as it is mentioned in the Quran and Hadiths."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Taif",
+      "location": "Istanbul, Turkey",
+      "story": "Aisha Taif from Istanbul, Turkey embodies the meaning of Taif - \"Fragrant\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Fragrant\" symbolizes Originating from the city Taif in Saudi Arabia, this name means 'Fragrant'.. In Islamic spirituality, bearing the name Taif serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of fragrant.",
+    "created_at": "2025-12-22T19:19:49.842Z",
+    "updated_at": "2025-12-22T04:53:14.694Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1306,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Taif",
+      "description": "Fragrant",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Male/Female/Unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Taif",
+          "description": "Discover the meaning of Taif - \"Fragrant\"",
+          "image": "/images/social/taif-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Taif - Name Meaning",
+          "description": "Learn about the beautiful name Taif",
+          "image": "/images/social/taif-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Taif",
+          "description": "Name meaning: Fragrant",
+          "image": "/images/social/taif-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Taif - Meaning: Fragrant",
+        "email_subject": "Beautiful Name: Taif"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Taif with meaning Fragrant",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

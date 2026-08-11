@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Luca",
+    "slug": "luca",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "christian",
+    "meaning": "Light"
+  }
+}

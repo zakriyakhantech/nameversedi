@@ -1,0 +1,228 @@
+{
+  "success": true,
+  "data": {
+    "name": "Sanskar",
+    "slug": "sanskar",
+    "language": [
+      "Hindi",
+      "Sanskrit",
+      "Marathi",
+      "Tamil"
+    ],
+    "gender": "Male",
+    "origin": "Sanskrit",
+    "religion": "hindu",
+    "category": "Hindu",
+    "short_meaning": "Sacred Tradition",
+    "long_meaning": "Refers to the religious and moral practices, teachings, and values that are imparted and passed down through generations in Hindu culture.",
+    "spiritual_meaning": "Symbolizes the preservation and continuity of the spiritual and cultural heritage.",
+    "emotional_traits": [
+      "Brave",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "V=Virtuous",
+      "T=Thoughtful"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Yellow",
+      "Gold"
+    ],
+    "lucky_stone": "Yellow Jade",
+    "life_path_number": 8,
+    "numerology_meaning": "A spiritual journey of self-discovery and mastery, leading to a life of abundance and success.",
+    "in_sanskrit": {
+      "name": "संस्कार",
+      "meaning": "Sacred Rituals",
+      "long_meaning": "Purification Processes"
+    },
+    "in_hindi": {
+      "name": "संस्कार",
+      "meaning": "संस्करण",
+      "long_meaning": "स्वतंत्र करण"
+    },
+    "in_tamil": {
+      "name": "சங்கர்",
+      "meaning": "அழையத்துல் வித்தியங்கள்",
+      "long_meaning": "அழையத்துல் அர்த்தகல் வித்தியங்கள்"
+    },
+    "in_telugu": {
+      "name": "శంఖరప్రభవ",
+      "meaning": "శమ్భోదదేశప్రభవ",
+      "long_meaning": "శమ్భోదదేశప్రభవోద్ధరణము"
+    },
+    "in_marathi": {
+      "name": "Sanskar",
+      "meaning": "हिंदू नाव म्हणजे Sacred Tradition",
+      "long_meaning": "Sanskar हे एक हिंदू नाव आहे जे भारतीय संस्कृतीत खोल आध्यात्मिक महत्त्व ठेवते। Refers to the religious and moral practices, teachings, and values that are imparted and passed down through generations in Hindu culture."
+    },
+    "in_bengali": {
+      "name": "Sanskar",
+      "meaning": "হিন্দু নাম যার অর্থ Sacred Tradition",
+      "long_meaning": "Sanskar একটি হিন্দু নাম যা ভারতীয় সংস্কৃতিতে গভীর আধ্যাত্মিক তাৎপর্য রাখে। Refers to the religious and moral practices, teachings, and values that are imparted and passed down through generations in Hindu culture."
+    },
+    "pronunciation": {
+      "english": "Sans-kar",
+      "hindi": "संस्कार",
+      "ipa": "/sə̃skaːr/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#SanskarMeaning",
+      "#HinduBabyNames",
+      "#SanskritNames"
+    ],
+    "name_variations": [
+      "Saanskaar"
+    ],
+    "popularity_score": 75,
+    "popularity_by_region": [
+      {
+        "region": "Mauritius",
+        "country_code": "MU",
+        "score": 69,
+        "year": 2024
+      },
+      {
+        "region": "India (Overall)",
+        "country_code": "IN",
+        "score": 68,
+        "year": 2024
+      },
+      {
+        "region": "Uttar Pradesh",
+        "country_code": "IN",
+        "score": 94,
+        "year": 2024
+      }
+    ],
+    "vedic_reference": {
+      "is_vedic": true,
+      "root_origin": "Vedas",
+      "note": "The term 'Sanskar' is derived from the Vedas, specifically the Rigveda, where it is mentioned as 'Sanskara' or 'Sanskarana', which means 'purification processes'. These processes were essential for the spiritual and physical development of an individual, and were an integral part of ancient Indian culture."
+    },
+    "cultural_impact": "The Sanskars represent the cultural traditions and practices that form an integral part of Hindu religious and social life. They include rituals and ceremonies performed at various stages of life, such as naming ceremony (Namkaran), thread ceremony (Upanayana), initiation (Vidyarambha), marriage (Vivah), and death rites. These practices not only reinforce social norms and values but also allow for continuity and cohesion within the community.",
+    "spiritual_significance": "Sanskars are seen as divine interventions in a person's life, guiding them on their spiritual journey. They are a means of purifying the soul and strengthening one's connection with the divine. Each Sanskars marks a transition in one's spiritual growth and represents an opportunity to renew one's commitment to Dharma (duty), Artha (prosperity), Kama (desire), and Moksha (liberation). Through these practices, individuals strive to attain inner peace and fulfill their ultimate spiritual goals.",
+    "historical_references": [
+      {
+        "reference": "The concept of sanskar or sacred rites is mentioned in the ancient Hindu texts such as the Vedas and the Upanishads. Sanskar refers to the various rituals and ceremonies that are performed at different stages of an individual's life, from birth to death.",
+        "time_period": "Vedic and Upanishadic period (circa 1500 BCE to 500 BCE)",
+        "context": "Religious and cultural practices"
+      },
+      {
+        "reference": "Sanskar also includes the concept of 'samskara', which refers to the inner transformation of an individual's soul through the performance of these rituals. This concept is elaborated upon in the works of the medieval Hindu philosopher Shankara (circa 788-820 CE).",
+        "time_period": "Medieval period (circa 7th to 13th centuries)",
+        "context": "Philosophical and spiritual practices"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "spiritual growth",
+        "personal development",
+        "cultural preservation"
+      ],
+      "platforms": [
+        "social media",
+        "workshops and seminars",
+        "online courses"
+      ],
+      "modern_context": "The term 'Sanskar' in modern context refers to various cultural practices and rituals that contribute to personal and spiritual growth, primarily in the Hindu tradition. These practices, rooted in ancient wisdom, are increasingly being adopted and shared through various modern platforms. On social media, individuals and communities engage in discussions and practices that help preserve and spread the knowledge of Sanskar. In workshops and seminars, people gather to learn and experience these practices in a group setting. Online courses offer a more structured and self-paced learning experience for those interested in deepening their understanding of Sanskar."
+    },
+    "name_in_real_life": {
+      "person_name": "Amit Sanskar",
+      "location": "Mumbai, India",
+      "story": "A devoted individual named Amit Sanskar in Mumbai, India attributes much of their spiritual journey to their name Sanskar, which means \"Sacred Tradition\". They believe their name has guided them on the path of righteousness."
+    },
+    "spiritual_symbolism": "Sanskar signifies the sacred imprints or rituals that shape an individual's spiritual and moral growth throughout their life in Hindu tradition. These imprints, passed down through generations, foster a deep connection with culture, values, and the divine.",
+    "seo": {
+      "seo": {
+        "title": "Sanskar: The Sacred Hindu Tradition Name for Boys | Baby Names",
+        "meta_description": "Discover the meaning and significance of the Hindu name Sanskar, which signifies sacred tradition. Learn about its origin, cultural usage, and popularity today.",
+        "description_paragraph": "The Hindu name Sanskar is deeply rooted in the rich history and cultural traditions of Hinduism. It refers to the religious and moral practices, teachings, and values that are imparted and passed down through generations. This name holds a deep significance in Hindu culture and is considered an auspicious and meaningful choice for a baby boy.",
+        "keywords": [
+          "Sanskar",
+          "Hinduism name",
+          "Sacred tradition",
+          "Baby boy name",
+          "Indian name"
+        ],
+        "faq": [
+          {
+            "q": "What does Sanskar mean?",
+            "a": "Sanskar is a Hindu name that signifies sacred tradition."
+          },
+          {
+            "q": "Is Sanskar a Hinduism name?",
+            "a": "Yes, Sanskar is a name of Hindu origin."
+          },
+          {
+            "q": "How to pronounce Sanskar?",
+            "a": "Sanskar is pronounced as 'san-skar'."
+          },
+          {
+            "q": "Is Sanskar popular today?",
+            "a": "Sanskar is a less common name but holds significant cultural and religious value in Hindu communities."
+          },
+          {
+            "q": "What is the origin of Sanskar?",
+            "a": "Sanskar is a Hindu name originating from the Sanskrit language."
+          }
+        ]
+      },
+      "title": "Sanskar Name Meaning in Sanskrit | Hinduism",
+      "meta_description": "Discover the meaning of Sanskar, a beautiful Hindu name meaning \"Sacred Tradition\". Learn about its Vedic origin, spiritual significance, and cultural importance in Hindu tradition.",
+      "description_paragraph": "Sanskar is a meaningful Hindu name of Sanskrit origin that means \"Sacred Tradition\". Refers to the religious and moral practices, teachings, and values that are imparted and passed down through generations in Hindu culture. Parents choosing this name for their child seek to bestow blessings and positive attributes upon them.",
+      "keywords": [
+        "Sanskar",
+        "Hinduism name",
+        "Sanskrit origin",
+        "Sanskar meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Sanskar mean?",
+          "a": "Sanskar means \"Sacred Tradition\" and is a popular Hindu name with deep spiritual significance."
+        },
+        {
+          "q": "Is Sanskar a good Hindu name?",
+          "a": "Yes, Sanskar is a beautiful Hindu name that carries positive meaning and is widely used in Hindu communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Sanskar?",
+          "a": "Sanskar has Sanskrit origins and is rooted in Hindu tradition and culture."
+        },
+        {
+          "q": "Is Sanskar mentioned in the Vedas?",
+          "a": "Sanskar is a name with Vedic connections and carries significance in Hindu scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Sanskar?",
+          "a": "Naming a child Sanskar is believed to bring blessings and embodies the beautiful meaning of \"Sacred Tradition\", which can inspire positive character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "price": 19.99,
+      "currency": "USD",
+      "affiliate_program": {
+        "commission_percentage": 20,
+        "cookie_length": 30
+      }
+    },
+    "updated_at": "2025-12-23T06:38:14.938Z",
+    "similar_sounding_names": [
+      "Sagar",
+      "Nikhil",
+      "Saurav",
+      "Vikas",
+      "Sunil",
+      "Neeraj",
+      "Rajiv",
+      "Sharad",
+      "Mahesh",
+      "Hardik"
+    ]
+  }
+}

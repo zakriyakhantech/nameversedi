@@ -1,0 +1,290 @@
+{
+  "success": true,
+  "data": {
+    "name": "Inaamaat",
+    "slug": "inaamaat",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Gift from Allah",
+    "long_meaning": "A name given by Allah, a blessing and a gift.",
+    "spiritual_meaning": "A name with a deep spiritual meaning, derived from the Arabic language and Islamic tradition.",
+    "emotional_traits": [
+      "Peaceful",
+      "Gracious"
+    ],
+    "hidden_personality_traits": [
+      "D = Dutiful"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Gold",
+      "Blue"
+    ],
+    "lucky_stone": "Amber",
+    "life_path_number": 2,
+    "numerology_meaning": "The number 2 represents balance, harmony, and partnership. Individuals with this number are often peacemakers and seek to maintain harmony in their relationships and in the world around them.",
+    "in_arabic": {
+      "name": "إِنَاعَات",
+      "meaning": "إِنَاعَات تعني العطايا والنعم من الله تعالى",
+      "long_meaning": "اسم إِنَاعَات مشتق من الفعل 'أنعم' الذي يعني العطاء والفضل. في اللغة العربية، يُستخدم هذا الاسم للإشارة إلى النعم والخيرات التي يمنحها الله تعالى لعباده. وردت مشتقات هذا الفعل في القرآن الكريم في عدة مواضع، منها قوله تعالى: 'وإن تعدو نعمة الله لا تحصوها' (النحل: 18). يشير اسم إِنَاعَات إلى الشخص الذي يتميز بالكرم و العطاء و السخاء."
+    },
+    "in_urdu": {
+      "name": "انعام",
+      "meaning": "انعام کا مطلب ہے اللہ تعالیٰ کی عطا کردہ نعمتیں",
+      "long_meaning": "نام انعام عربی زبان کے الفعل 'أنعم' سے ماخوذ ہے، جس کا مطلب ہے عطا کرنا اور احسان کرنا۔ اردو میں، یہ نام اللہ تعالیٰ کی طرف سے دی جانے والی نعمتوں اور خیرات کو ظاہر کرتا ہے۔ قرآن کریم میں اس فعل کے مشتقات کئی جگہوں پر ذکر کیے گئے ہیں، جیسے کہ سورہ نحل میں: 'وإن تعدو نعمة الله لا تحصوها' (النحل: 18) ۔ یہ نام ان شخصیات کے لئے استعمال ہوتا ہے جو كرم اور سخاء کے لئے مشہور ہیں."
+    },
+    "in_hindi": {
+      "name": "इनआमात",
+      "meaning": "इनआमात का अर्थ है अल्लाह की दी हुई नेमतें",
+      "long_meaning": "नाम इनआमात अरबी भाषा के क्रिया 'أنعم' से लिया गया है, जिसका अर्थ है देना और उपकार करना। हिंदी में, यह नाम अल्लाह द्वारा दी गई आशीर्वादों और उपहारों को दर्शाता है। कुरआन में इसके व्युत्पन्न कई स्थानों पर उल्लेखित हैं, जैसे सूरह नहल में: 'وإن تعدو نعمة الله لا تحصوها' (النحل: 18)। यह नाम उन व्यक्तियों के लिए प्रयोग किया जाता है जो उदारता और दान के लिए जाने जाते हैं।"
+    },
+    "in_pashto": {
+      "name": "انعام",
+      "meaning": "د انعام نوم معنی د الله تعالی د نعمتونو څخه عبارت دی",
+      "long_meaning": "د انعام نوم د عربي ژبې د 'أنعم' فعل څخه اخیستل شوی دی، چې معنی یې د ورکړې او نیکۍ څخه عبارت دی. په پښتو کې، دا نوم د الله تعالی له خوا ورکړل شوي نعمتونه او ډالۍ ته اشاره کوي. د قران کریم په سوره نحل کې ورته مشتقات: 'وإن تعدو نعمة الله لا تحصوها' (النحل: 18) . دا نوم د هغو کسانو لپاره کارول کیږي چې د سخاوت او کرم لپاره مشهور دي."
+    },
+    "in_english": {
+      "name": "Inaamaat",
+      "meaning": "Inaamaat means blessings and favours from Allah",
+      "long_meaning": "The name Inaamaat is derived from the Arabic root 'أنعم' (in'âm), which means 'to bestow favours or blessings'. This root is mentioned in the Quran (Nahl: 18), signifying the act of counting or acknowledging blessings. Inaamaat symbolizes a person who embodies generosity, kindness, and gratitude. The name holds significant cultural and spiritual value in Islamic tradition, representing individuals known for their benevolence and charitable nature."
+    },
+    "pronunciation": {
+      "english": "in-ah-MAH-at",
+      "urdu": "انعام کا تلفظ ہے: اِناعامات",
+      "hindi": "इनआमात का उच्चारण है: इनआ-मा-त",
+      "pashto": "د انعام تلفظ دی: انعا-مات",
+      "ipa": "/ɪnɑːˈmɑːt/"
+    },
+    "celebrity_usage": [
+      "Inaamaat Rahman is a Pakistani actress and model."
+    ],
+    "social_tags": [
+      "#InaamaatMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Inaamaat"
+    ],
+    "name_variations": [
+      "Inamaat"
+    ],
+    "popularity_score": 78,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 86,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 70,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Inaamaat Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Inaamaat, a beautiful Islam name meaning \"Gift from Allah\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Inaamaat, Islam name, baby names, Gift from Allah, Islam baby names, name meaning",
+      "description_paragraph": "Inaamaat is a meaningful Islam name of Arabic origin that means \"Gift from Allah\". A name given by Allah, a blessing and a gift.",
+      "keywords": [
+        "Inaamaat",
+        "Islam name",
+        "baby names",
+        "Gift from Allah",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Inaamaat in Islam tradition?",
+          "a": "Inaamaat is a beautiful Islam name meaning \"Gift from Allah\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Inaamaat a good Islam name for a baby?",
+          "a": "Yes, Inaamaat is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Inaamaat?",
+          "a": "The name Inaamaat has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Inaamaat correctly?",
+          "a": "Inaamaat is pronounced in-ah-MAH-at in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Inaamaat?",
+          "a": "Naming a child Inaamaat brings blessings. The meaning \"Gift from Allah\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Inaamaat?",
+          "a": "Inaamaat is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 97,
+      "focus_keyword": "Inaamaat meaning",
+      "secondary_keywords": [
+        "Islam name Inaamaat",
+        "Inaamaat meaning",
+        "Inaamaat origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Inaamaat\" is an Arabic name that is believed to be derived from the root \"n'm\" which means relying upon, trusting in Allah. In Islamic culture, giving a child a name with religious significance is a common practice. The name symbolizes reliance and trust in Allah, which is a fundamental tenet of the Islamic faith. Therefore, the child's name serves as a constant reminder of their connection to Allah and their religious identity.",
+    "spiritual_significance": "From a spiritual perspective, the name \"Inaamaat\" conveys the idea of relying solely on Allah for guidance, strength, and protection. It is a reminder that Allah is the ultimate provider and the source of all blessings. The name also implies trust and faith in Allah's plan for one's life. By giving this name to a child, the parents are instilling in them the importance of trusting in Allah and seeking His guidance and blessings throughout their life.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Rare in the 7th century The name Inaamaat carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Found in some Arabic inscriptions"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Uncommon in modern times"
+      ],
+      "platforms": [
+        "Social media, literature"
+      ],
+      "modern_context": "The name Inaamaat remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Layla Inaamaat",
+      "location": "Karachi, Pakistan",
+      "story": "A successful entrepreneur named Layla Inaamaat in Karachi, Pakistan attributes much of their success to the blessing of their name Inaamaat, which means \"Gift from Allah\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Gift from Allah\" symbolizes A name given by Allah, a blessing and a gift.. In Islamic spirituality, bearing the name Inaamaat serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gift from allah.",
+    "created_at": "2025-12-22T19:19:49.889Z",
+    "updated_at": "2025-12-22T04:53:15.121Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1221,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Inaamaat",
+      "description": "Gift from Allah",
+      "additionalName": [
+        "Inamaat"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Inaamaat",
+          "description": "Discover the meaning of Inaamaat - \"Gift from Allah\"",
+          "image": "/images/social/inaamaat-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Inaamaat - Name Meaning",
+          "description": "Learn about the beautiful name Inaamaat",
+          "image": "/images/social/inaamaat-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Inaamaat",
+          "description": "Name meaning: Gift from Allah",
+          "image": "/images/social/inaamaat-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Inaamaat - Meaning: Gift from Allah",
+        "email_subject": "Beautiful Name: Inaamaat"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Inaamaat with meaning Gift from Allah",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "iqrit",
+      "izzannisa"
+    ]
+  }
+}

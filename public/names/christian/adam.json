@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Adam",
+    "slug": "adam",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "christian",
+    "meaning": "Man, earth"
+  }
+}

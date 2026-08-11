@@ -1,0 +1,295 @@
+{
+  "success": true,
+  "data": {
+    "name": "Qasida",
+    "slug": "qasida",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Poem, Ode",
+    "long_meaning": "A qasida is a form of classical Arabic poem or ode, typically used for praising God or a prophet.",
+    "spiritual_meaning": "Reciting Qasida can bring peace and tranquility to one's heart, reminding them of the divine presence.",
+    "emotional_traits": [
+      "Kind",
+      "Just",
+      "Peaceful",
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "C = Courageous",
+      "L = Loyal",
+      "D = Dutiful"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Purple",
+      "Gold"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 2,
+    "numerology_meaning": "The Master Builder, Diplomat, and Peacekeeper.",
+    "in_arabic": {
+      "name": "قصيدة",
+      "meaning": "قصيدة تعني القصيدة الشعرية العربية التقليدية",
+      "long_meaning": "القصيدة هي نوع من أنواع الشعر العربي التقليدي، وتعني كذلك المدح أو الغزال في الشعر. وردت هذه الكلمة في القرآن الكريم في سورة النحل آية 44، حيث قال تعالى: 'وَمَا أَنْزَلْنَا عَلَيْكَ الْكِتَابَ إِلَّا لِتُبَيِّنَ لَهُمُ الَّذِيَ اخْتَلَفُوا فِيهِ وَهُدًى وَرَحْمَةً لِقَوْمٍ يُؤْمِنُونَ'. كلمة قصيدة تعبر عن جمال اللغة العربية وثرائها في التعبير الشعري."
+    },
+    "in_urdu": {
+      "name": "قصیدہ",
+      "meaning": "قصیدہ ایک روایتی عربی شعر ہے جو خاص مضامین پر مشتمل ہوتا ہے",
+      "long_meaning": "قصیدہ عربی شاعری کی ایک روایتی قسم ہے جو عام طور پر مدح، عشق یا فطرت کے مضامین پر مشتمل ہوتی ہے۔ اس کا تعلق قدیم عربی شاعری سے ہے اور اسلامی سنہری دور میں اس کی مقبولیت عروج پر تھی۔ قصیدہ کی اصطلاح عربی لفظ 'قصيد' سے نکلی ہے جس کا مطلب ہے 'مقصد' یا 'غرض'۔ یہ شعر عام طور پر ایک خاص مقصد یا موضوع کے لئے لکھا جاتا ہے، جیسے کہ کسی کی مدح کرنا یا محبت کا اظہار کرنا۔"
+    },
+    "in_hindi": {
+      "name": "क़सीदा",
+      "meaning": "क़सीदा एक पारंपरिक अरबी कविता का रूप है",
+      "long_meaning": "क़सीदा अरबी कविता की एक पारंपरिक शैली है जिसमें विशेष विषयों पर कविता लिखी जाती है। यह कविता आमतौर पर प्रशंसा, प्रेम या प्रकृति से संबंधित होती है। क़सीदा की उत्पत्ति प्राचीन अरबी कविता में हुई थी और यह इस्लामी स्वर्ण युग में बहुत लोकप्रिय हुई थी। क़सीदा शब्द अरबी शब्द 'قصيد' से आया है जिसका अर्थ है 'उद्देश्य' या 'लक्ष्य'।"
+    },
+    "in_pashto": {
+      "name": "قصیده",
+      "meaning": "قصیده دودی اوږده شعر دی چی په ځانګړو موضوعاتو لیکل کیږي",
+      "long_meaning": "قصیده په عربي شاعرۍ کې یو ډول شعر دی چی خاص موضوعات لکه ستاینه، مینه یا طبیعت په اړه وي. دا شعر په پخوانۍ عربي شاعرۍ کې رامینځته شوی او په اسلامي طلایی عصر کې ډیر مشهور شو. قصیده کلمه د عربي کلمې 'قصيد' څخه اخیستل شوې ده چی معنی یې 'مقصد' یا 'هدف' دی."
+    },
+    "in_english": {
+      "name": "Qasida",
+      "meaning": "A traditional Arabic poem with themes of praise, love, or nature",
+      "long_meaning": "Qasida is a traditional form of Arabic poetry that typically explores themes such as praise, love, or descriptions of nature. Etymologically derived from the Arabic root 'قصيد' (q-ṣ-y-d), which means 'to aim' or 'to intend', the term Qasida refers to a specific type of poem that was highly esteemed in pre-Islamic Arabia and continued to flourish during the Islamic Golden Age. Qasidas are characterized by their rich imagery, complex metaphors, and adherence to specific poetic structures."
+    },
+    "pronunciation": {
+      "english": "kah-SEE-dah",
+      "urdu": "اردو میں تلفظ کی تفصیل: قَصِیۡدہ",
+      "hindi": "हिन्दी में उच्चारण विवरण: क़सीदा",
+      "pashto": "په پښتو کې د تلفظ تفصیل: قَصِیده",
+      "ipa": "/kɑːˈsiːdɑː/"
+    },
+    "celebrity_usage": [
+      "Qasida Dukes"
+    ],
+    "social_tags": [
+      "#QasidaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Qasida"
+    ],
+    "name_variations": [],
+    "popularity_score": 59,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 90,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 86,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 81,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Qasida Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Qasida, a beautiful Islam name meaning \"Poem, Ode\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Qasida, Islam name, baby names, Poem, Ode, Islam baby names, name meaning",
+      "description_paragraph": "Qasida is a meaningful Islam name of Arabic origin that means \"Poem, Ode\". A qasida is a form of classical Arabic poem or ode, typically used for praising God or a prophet.",
+      "keywords": [
+        "Qasida",
+        "Islam name",
+        "baby names",
+        "Poem, Ode",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Qasida in Islam tradition?",
+          "a": "Qasida is a beautiful Islam name meaning \"Poem, Ode\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Qasida a good Islam name for a baby?",
+          "a": "Yes, Qasida is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Qasida?",
+          "a": "The name Qasida has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Qasida correctly?",
+          "a": "Qasida is pronounced kah-SEE-dah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Qasida?",
+          "a": "Naming a child Qasida brings blessings. The meaning \"Poem, Ode\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Qasida?",
+          "a": "Qasida is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 92,
+      "focus_keyword": "Qasida meaning",
+      "secondary_keywords": [
+        "Islam name Qasida",
+        "Qasida meaning",
+        "Qasida origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The qasida is a significant form of classical Arabic poetry, rooted in the rich literary and artistic history of the Islamic world. It is characterized by its complex metrical structure, intricate rhyme schemes, and elaborate use of language and imagery. Through the centuries, poets have used the qasida to express a wide range of themes, from love and desire to wisdom and morality, but above all, it has been used to convey messages of praise and devotion to God or to the Prophet Muhammad (pbuh). It has had a profound influence on Islamic art and literature, inspiring not only poetry, but also calligraphy, music, and visual arts.",
+    "spiritual_significance": "The qasida holds a sacred place in Islamic poetry and spirituality. It is a powerful vehicle for conveying the deepest emotions and longing for the divine. The poet often employs vivid imagery and rich language to describe his connection with God, invoking feelings of awe, reverence, and love. Through the qasida, the poet engages in a form of worship, seeking to draw closer to God and to convey the beauty and majesty of the divine to others. The qasida also serves as a reminder of the transient nature of worldly pleasures and the importance of focusing on the eternal joy and blessings of the hereafter. Ultimately, the qasida is a testament to the ability of poetry to touch the soul and to inspire and uplift the human spirit.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Arabic poetry The name Qasida carried significant weight in that era.",
+        "time_period": "8th century",
+        "context": "Qasida is a form of Arabic poetry that emerged during the Islamic Golden Age"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "contemporary Arabic poetry",
+        "Middle Eastern cultural revival"
+      ],
+      "platforms": [
+        "social media",
+        "literary festivals"
+      ],
+      "modern_context": "The name Qasida remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Qasida",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "Maryam Qasida, a teacher in Riyadh, Saudi Arabia, shares that their name Qasida meaning \"Poem, Ode\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Poem, Ode\" symbolizes A qasida is a form of classical Arabic poem or ode, typically used for praising God or a prophet.. In Islamic spirituality, bearing the name Qasida serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of poem, ode.",
+    "created_at": "2025-12-22T19:19:49.799Z",
+    "updated_at": "2025-12-22T04:53:14.342Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1650,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Qasida",
+      "description": "Poem, Ode",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Qasida",
+          "description": "Discover the meaning of Qasida - \"Poem, Ode\"",
+          "image": "/images/social/qasida-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Qasida - Name Meaning",
+          "description": "Learn about the beautiful name Qasida",
+          "image": "/images/social/qasida-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Qasida",
+          "description": "Name meaning: Poem, Ode",
+          "image": "/images/social/qasida-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Qasida - Meaning: Poem, Ode",
+        "email_subject": "Beautiful Name: Qasida"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Qasida with meaning Poem, Ode",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

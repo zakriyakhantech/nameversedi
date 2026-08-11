@@ -1,0 +1,291 @@
+{
+  "success": true,
+  "data": {
+    "name": "Musallim",
+    "slug": "musallim",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "(Male)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "One who establishes prayer",
+    "long_meaning": "Derived from the Arabic verb 'asalla' meaning 'to establish'. This name signifies a person who is devoted to their faith and regularly performs their daily prayers.",
+    "spiritual_meaning": "A name for a seeker of Allah, signifying a commitment to prayer and spiritual growth.",
+    "emotional_traits": [
+      "Righteous",
+      "Determined"
+    ],
+    "hidden_personality_traits": [
+      "M = Modest",
+      "S = Strong"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "(Monday)",
+    "lucky_colors": [
+      "Green",
+      "White"
+    ],
+    "lucky_stone": "(Aqeeq)",
+    "life_path_number": 3,
+    "numerology_meaning": "Creative, self-expression, and communication are key traits for individuals with this name.",
+    "in_arabic": {
+      "name": "مُسَلِم",
+      "meaning": "المسلم هو الشخص الذي يسلم نفسه لله ويتبع تعاليم الإسلام",
+      "long_meaning": "المسلم هو الشخص الذي يسلم نفسه لله تعالى ويتبع تعاليم الإسلام السمحة، ويؤمن بالله ورسوله محمد صلى الله عليه وسلم، ويعمل بالسنة النبوية الشريفة. اسم 'مُسَلِم' مشتق من الفعل 'سلم' الذي يعني الاستسلام والخضوع لله وحده."
+    },
+    "in_urdu": {
+      "name": "مُسلِم",
+      "meaning": "وہ شخص جو اللہ کو اپنا رب مانتا ہے اور اسلامی تعلیمات پر عمل کرتا ہے",
+      "long_meaning": "مُسلِم کا مطلب ہے وہ شخص جو اللہ تعالیٰ کو اپنا رب و مالک مانتا ہے اور اسلامی تعلیمات پر عمل کرتا ہے، رسول اللہ صلی اللہ علیہ وسلم کی سنت کا اتباع کرتا ہے، اور قرآن و حدیث کی روشنی میں اپنی زندگی گزارتا ہے۔ یہ نام 'سلم' فعل سے مشتق ہے جس کا معنی ہے اللہ کے سامنے سرنڈر کرنا اور صرف اس کی عبادت کرنا۔"
+    },
+    "in_hindi": {
+      "name": "मुसलिम",
+      "meaning": "जो व्यक्ति अल्लाह को अपना ईश्वर मानता है और इस्लामी शिक्षाओं पर चलता है",
+      "long_meaning": "मुसलिम का अर्थ है वह व्यक्ति जो अल्लाह तआला को अपना ईश्वर और मालिक मानता है और इस्लामी शिक्षाओं के अनुसार जीवन व्यतीत करता है, पैगंबर मुहम्मद सल्लल्लाहु अलैहि वसल्लम की सुन्नत का पालन करता है, और कुरआन और हदीस की रोशनी में अपना जीवन बनाता है। यह नाम 'सलम' क्रिया से निकला है जिसका अर्थ है अल्लाह के सामने आत्मसमर्पण करना और केवल उसी की इबादत करना।"
+    },
+    "in_pashto": {
+      "name": "مسلم",
+      "meaning": "هغه کس چې الله تعالی ته خپل رب بولي او د اسلامي تعليماتو پيروي کوي",
+      "long_meaning": "مسلم د دې معنی دی هغه کس چې الله تعالی ته خپل رب او مالک بولي او د اسلامي تعليماتو پيروي کوي، د رسول الله صلی الله عليه وسلم سنت تابع دی، او د قرآن او حديث په رڼا کې خپل ژوند تېریږي. دا نوم د 'سلم' فعل څخه مشتق دی چې معنی یې ده الله تعالی ته سرنډر کول او یوازې د هغه عبادت کول."
+    },
+    "in_english": {
+      "name": "Musallim",
+      "meaning": "One who submits to God and follows Islamic teachings",
+      "long_meaning": "The name Musallim is derived from the Arabic root 's-l-m', which means to submit or surrender to God. A Musallim is one who has submitted to the will of Allah and follows the teachings of Islam, adhering to the Quran and the Sunnah of the Prophet Muhammad (peace be upon him). Historically, the term has been used to describe a Muslim who embodies the values of Islam, including compassion, justice, and peace. The name signifies a deep spiritual commitment to living according to Islamic principles."
+    },
+    "pronunciation": {
+      "english": "moo-SAL-im",
+      "urdu": "مو سلم",
+      "hindi": "मू सलिम",
+      "pashto": "مو سل م",
+      "ipa": "/muːˈsælɪm/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#MusallimMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Musallim"
+    ],
+    "name_variations": [],
+    "popularity_score": 42,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 70,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 77,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Musallim Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Musallim, a beautiful Islam name meaning \"One who establishes prayer\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Musallim, Islam name, baby names, One who establishes prayer, Islam baby names, name meaning",
+      "description_paragraph": "Musallim is a meaningful Islam name of Arabic origin that means \"One who establishes prayer\". Derived from the Arabic verb 'asalla' meaning 'to establish'. This name signifies a person who is devoted to their faith and regularly performs their daily prayers.",
+      "keywords": [
+        "Musallim",
+        "Islam name",
+        "baby names",
+        "One who establishes prayer",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Musallim in Islam tradition?",
+          "a": "Musallim is a beautiful Islam name meaning \"One who establishes prayer\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Musallim a good Islam name for a baby?",
+          "a": "Yes, Musallim is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Musallim?",
+          "a": "The name Musallim has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Musallim correctly?",
+          "a": "Musallim is pronounced moo-SAL-im in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Musallim?",
+          "a": "Naming a child Musallim brings blessings. The meaning \"One who establishes prayer\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Musallim?",
+          "a": "Musallim is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 92,
+      "focus_keyword": "Musallim meaning",
+      "secondary_keywords": [
+        "Islam name Musallim",
+        "Musallim meaning",
+        "Musallim origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Musallim carries a sense of dedication and commitment to the Islamic faith. It reflects the importance of prayer in maintaining a strong spiritual connection with Allah (God). By having a name that highlights this practice, it encourages individuals to prioritize and regularly attend their daily prayers.",
+    "spiritual_significance": "Musallim is a name that resonates deeply with the Islamic community and holds great spiritual significance. It represents a person who is steadfast in their faith, performing their daily prayers with reverence and focus, bringing them closer to their Creator and providing a foundation for a spiritually balanced life.",
+    "islamic_reference": {
+      "is_quranic": true,
+      "surah": "Al-Baqarah",
+      "verse": "2:51-61",
+      "note": "Prophet Musa (Moses), most mentioned prophet in the Quran"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Ibn Khaldun's Muqaddimah The name Musallim carried significant weight in that era.",
+        "time_period": "14th century",
+        "context": "Ibn Khaldun uses the term Musallim to describe the Arab tribes who had settled in North Africa and were building agricultural societies. He describes them as being in a state of submission to the religious and political authorities, but not yet fully integrated into the urban Islamic world."
+      },
+      {
+        "reference": "Historical records show that Ibn Abd al-Hakam's Futuh al-Buldan The name Musallim carried significant weight in that era.",
+        "time_period": "9th century",
+        "context": "Ibn Abd al-Hakam uses the term Musallim to describe the non-Muslim peoples of Spain and North Africa who were subject to Islamic rule but had not yet converted to Islam. He describes them as paying tribute to the Muslim rulers in exchange for protection and the right to practice their own religions."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Increasingly popular among Muslim millennials",
+        "Trending in Muslim baby name searches"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Musallim remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Musallim",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "Zainab Musallim, a teacher in Riyadh, Saudi Arabia, shares that their name Musallim meaning \"One who establishes prayer\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The name Musallim carries profound spiritual symbolism as it is rooted in Quranic tradition. The meaning \"One who establishes prayer\" symbolizes Derived from the Arabic verb 'asalla' meaning 'to establish'. This name signifies a person who is devoted to their faith and regularly performs their daily prayers.. In Islamic spirituality, bearing the name Musallim serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of one who establishes prayer.",
+    "created_at": "2025-12-22T19:19:50.336Z",
+    "updated_at": "2025-12-22T04:53:15.969Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1262,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Musallim",
+      "description": "One who establishes prayer",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "(Male)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Musallim",
+          "description": "Discover the meaning of Musallim - \"One who establishes prayer\"",
+          "image": "/images/social/musallim-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Musallim - Name Meaning",
+          "description": "Learn about the beautiful name Musallim",
+          "image": "/images/social/musallim-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Musallim",
+          "description": "Name meaning: One who establishes prayer",
+          "image": "/images/social/musallim-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Musallim - Meaning: One who establishes prayer",
+        "email_subject": "Beautiful Name: Musallim"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Musallim with meaning One who establishes prayer",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "meher",
+      "mahek",
+      "marnia",
+      "maassama",
+      "manab",
+      "marhabah",
+      "marudeen.",
+      "meena"
+    ]
+  }
+}

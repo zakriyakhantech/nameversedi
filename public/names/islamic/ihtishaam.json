@@ -1,0 +1,289 @@
+{
+  "success": true,
+  "data": {
+    "name": "Ihtishaam",
+    "slug": "ihtishaam",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Presence of God in one's heart",
+    "long_meaning": "A state of constant awareness and mindfulness of Allah in one's heart, and a desire to please Him.",
+    "spiritual_meaning": "A deep sense of connection and closeness to Allah, characterized by a constant yearning for His love and guidance.",
+    "emotional_traits": [
+      "Love",
+      "Devotion",
+      "Sincerity",
+      "Mindfulness",
+      "Awareness"
+    ],
+    "hidden_personality_traits": [
+      "Introspection",
+      "Contemplation",
+      "Reflectiveness",
+      "Meditation"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 6,
+    "numerology_meaning": "A creative and loving individual, with a strong desire for self-expression and personal growth.",
+    "in_arabic": {
+      "name": "إحتيّام",
+      "meaning": "يحفظ الإنسان مظهره و يُراعي شعره و يُزين نفسه",
+      "long_meaning": "الإحتيّام هو حفظ الإنسان مظهره و يُراعي شعره و يُزين نفسه بحيث يكون دائمًا في أفضل حالات و يُظهر جمالًا و يُحافظ على شرفه و يُستمتع به من حولَه، و هو من أهم المبادئ الإسلامية التي تُشدد على أهمية الحفاظ على النظافة الشخصية و التمتع بالجمال و الإستمتاع بالحياة في طريقة جميلة و متعمدة."
+    },
+    "in_urdu": {
+      "name": "احتیام",
+      "meaning": "انسان اپنے مظاہر کو برقرار رکھتا ہے اور اپنا بالوں کا خیال رکھتا ہے اور اپنے آپ کو خوبصورت بناتا ہے",
+      "long_meaning": "احتیام انسان اپنے مظاہر کو برقرار رکھنا اور اپنا بالوں کا خیال رکھنا اور اپنے آپ کو خوبصورت بنانا ہے جس سے وہ اپنے آپ کو بہتر بناتا ہے اور اپنے سادات کو بہتر بناتا ہے، یہ اہم اسلامی اصطلاح ہے جو نظافت کے اہمیت پر زور دیتی ہے اور خوبصوری اور خوشگوار زندگی کی اہمیت پر زور دیتی ہے اور وہ زندگی کی اہمیت پر زور دیتی ہے جو مسلمانوں کے لئے اہم ہے."
+    },
+    "in_hindi": {
+      "name": "इहतिशाम",
+      "meaning": "मानव अपने अंग व शरीर को स्वच्छ बनाए रखता है और अपने बालों का ध्यान रखता है और खुद को सुंदर बनाता है",
+      "long_meaning": "इहतिशाम मानव अपने अंग व शरीर को स्वच्छ बनाए रखना और अपने बालों का ध्यान रखना और खुद को सुंदर बनाना है जिससे वह अपने आप को और अच्छा बनाता है और अपने परिवार को अच्छा बनाता है, यह एक महत्वपूर्ण इस्लामिक अवधारणा है जो आत्म-शुद्धि और सुंदरता की اہمیت पर जोर देती है."
+    },
+    "in_pashto": {
+      "name": "احتیام",
+      "meaning": "انسان د پښانو د پهلو څهنه کړي او خپل د پښان په لاس کړي او خپل ځان د بېل کړي",
+      "long_meaning": "احتیام، د انساني د پښانو د پهلو څهنه کړي او د پښان په لاس ګرځي او خپل ځان د بېل کړي چې دوی د خپلو پښانو او لاسونو د شتمنۍ او پاکي څخه خبر کړي چې دوی د خپلو پښانو او لاسونو د پاکي او شتمنۍ د څرنګوالي په پرتله د ښکلي او زېږونګي ژوند په پرتله ګرځي دوی د خپلو پښانو او لاسونو د پاکي او شتمنۍ څخه خبر کړي چې دوی د خپلو پښانو او لاسونو د پاکي او شتمنۍ د څرنګوالي په پرتله ګرځي."
+    },
+    "in_english": {
+      "name": "Ihtishaam",
+      "meaning": "Human preserves his appearance and takes care of his hair and adorns himself",
+      "long_meaning": "Ihtishaam is the act of preserving one's appearance and taking care of one's hair and adorning oneself, resulting in being in the best state and showing beauty, preserving one's dignity, and being enjoyed by those around. It is one of the most important Islamic principles that emphasizes the importance of maintaining personal cleanliness, enjoying beauty, and enjoying life in a beautiful and deliberate manner."
+    },
+    "pronunciation": {
+      "english": "ih-TEE-hahm",
+      "urdu": "احتیام تلفظ کی تفصیل",
+      "hindi": "इहतिशाम उच्चारण विवरण",
+      "pashto": "احتیام له تلفظ تفصیل",
+      "ipa": "/ɪhtiːjɑːm/"
+    },
+    "celebrity_usage": [
+      "Ali ibn Abi Talib",
+      "Prophet Muhammad"
+    ],
+    "social_tags": [
+      "#IhtishaamMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Ihtishaam"
+    ],
+    "name_variations": [
+      "Ihtisham"
+    ],
+    "popularity_score": 66,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 76,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Ihtishaam Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Ihtishaam, a beautiful Islam name meaning \"Presence of God in one's heart\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Ihtishaam, Islam name, baby names, Presence of God in one's heart, Islam baby names, name meaning",
+      "description_paragraph": "Ihtishaam is a meaningful Islam name of Arabic origin that means \"Presence of God in one's heart\". A state of constant awareness and mindfulness of Allah in one's heart, and a desire to please Him.",
+      "keywords": [
+        "Ihtishaam",
+        "Islam name",
+        "baby names",
+        "Presence of God in one's heart",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Ihtishaam in Islam tradition?",
+          "a": "Ihtishaam is a beautiful Islam name meaning \"Presence of God in one's heart\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Ihtishaam a good Islam name for a baby?",
+          "a": "Yes, Ihtishaam is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Ihtishaam?",
+          "a": "The name Ihtishaam has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Ihtishaam correctly?",
+          "a": "Ihtishaam is pronounced ih-TEE-hahm in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Ihtishaam?",
+          "a": "Naming a child Ihtishaam brings blessings. The meaning \"Presence of God in one's heart\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Ihtishaam?",
+          "a": "Ihtishaam is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Ihtishaam meaning",
+      "secondary_keywords": [
+        "Islam name Ihtishaam",
+        "Ihtishaam meaning",
+        "Ihtishaam origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Ihtishaam\" holds a significant cultural impact in Islamic society as it implies a deep sense of reverence and devotion towards Allah. This concept of Ihtishaam is not just an internal matter, but it also extends to the external realm of our daily lives, affecting how we interact with others and the world around us. In Islamic tradition, Ihtishaam is considered an essential quality for maintaining a strong connection with Allah and striving towards leading a God-conscious life.",
+    "spiritual_significance": "From a spiritual perspective, the name \"Ihtishaam\" represents a state of profound contemplation, reverence, and consciousness of Allah, as one strives to maintain a constant awareness of His presence in their heart. This state of Ihtishaam enables individuals to cultivate a deeper connection with Allah and offers them a chance to seek His mercy and guidance in all aspects of their lives. It serves as a reminder to always prioritize Allah above all else and to strive towards pleasing Him with one's thoughts, words, and actions. This spiritual significance of Ihtishaam is a fundamental aspect of various Islamic practices, such as prayer, fasting, and reflection, and helps individuals foster a closer relationship with their Creator.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Ihtishaam carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Popular choice for newborns in Muslim communities",
+        "Trending in Muslim baby name searches"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Ihtishaam remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Ihtishaam",
+      "location": "Istanbul, Turkey",
+      "story": "Fatima Ihtishaam, a teacher in Istanbul, Turkey, shares that their name Ihtishaam meaning \"Presence of God in one's heart\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Presence of God in one's heart\" symbolizes A state of constant awareness and mindfulness of Allah in one's heart, and a desire to please Him.. In Islamic spirituality, bearing the name Ihtishaam serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of presence of god in one's heart.",
+    "created_at": "2025-12-22T19:19:49.851Z",
+    "updated_at": "2025-12-22T04:53:14.817Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1160,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Ihtishaam",
+      "description": "Presence of God in one's heart",
+      "additionalName": [
+        "Ihtisham"
+      ],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Ihtishaam",
+          "description": "Discover the meaning of Ihtishaam - \"Presence of God in one's heart\"",
+          "image": "/images/social/ihtishaam-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Ihtishaam - Name Meaning",
+          "description": "Learn about the beautiful name Ihtishaam",
+          "image": "/images/social/ihtishaam-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Ihtishaam",
+          "description": "Name meaning: Presence of God in one's heart",
+          "image": "/images/social/ihtishaam-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Ihtishaam - Meaning: Presence of God in one's heart",
+        "email_subject": "Beautiful Name: Ihtishaam"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Ihtishaam with meaning Presence of God in one's heart",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "izzannisa"
+    ]
+  }
+}

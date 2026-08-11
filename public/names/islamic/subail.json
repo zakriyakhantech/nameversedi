@@ -1,0 +1,283 @@
+{
+  "success": true,
+  "data": {
+    "name": "Subail",
+    "slug": "subail",
+    "language": [
+      "Arabic",
+      "Urdu"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Noble",
+    "long_meaning": "Derived from the Arabic word 'Subulah' meaning 'noble' or 'nobility'",
+    "spiritual_meaning": "Symbolizes the noble journey of the soul towards Allah",
+    "emotional_traits": [
+      "Calm",
+      "Compassionate",
+      "Gentle"
+    ],
+    "hidden_personality_traits": [
+      "Introspective",
+      "Deeply reflective",
+      "Thoughtful"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 6,
+    "numerology_meaning": "A harmonious, compassionate, and loving person who is responsible, reliable, and caring",
+    "in_arabic": {
+      "name": "سبيل",
+      "meaning": "السبيل هو طريق أو مسار مستقيم للوصول إلى الله",
+      "long_meaning": "السبيل هو اسم مشتق من اللغة العربية، ويعني الطريق أو المسار المستقيم الذي يوصلك إلى الله. يعتبر اسم سبيل من الأسماء ذات المعنى العميق في الإسلام، حيث يرمز إلى الهداية والتوفيق الإلهي. وقد وردت كلمة 'سبيل' في القرآن الكريم في عدة مواضع، منها قوله تعالى: 'وهديناه السبيل' (الفرقان: 57)، مما يعزز أهميته في العقيدة الإسلامية."
+    },
+    "in_urdu": {
+      "name": "سبیل",
+      "meaning": "سبیل کا مطلب ہے سیدھا راستہ یا اللہ کی طرف جانے والا راستہ",
+      "long_meaning": "سبیل ایک عربی نام ہے جس کا مطلب ہے سیدھا راستہ یا اللہ کی طرف جانے والا راستہ۔ یہ نام اسلامی عقیدے میں گہری اہمیت رکھتا ہے، کیونکہ یہ الہی ہدایت اور توفیق کی علامت ہے۔ قرآن مجید میں 'سبیل' کا ذکر کئی جگہوں پر آیا ہے، جیسے کہ سورہ الفرقان میں: 'وهديناه السبيل' (الفرقان: 57)، جو اسلامی عقیدے میں اس کی اہمیت کو ظاہر کرتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "सुबैल",
+      "meaning": "सुबैल का अर्थ है सीधा रास्ता या ईश्वर की ओर जाने वाला मार्ग",
+      "long_meaning": "सुबैल एक अरबी नाम है जिसका अर्थ है सीधा रास्ता या ईश्वर की ओर जाने वाला मार्ग। यह नाम इस्लामी परंपरा में गहरा महत्व रखता है, क्योंकि यह ईश्वरीय मार्गदर्शन और अनुग्रह का प्रतीक है। कुरआन में 'सुबैल' का उल्लेख कई स्थानों पर आया है, जैसे कि सूरा अल-फ़ुरक़ान में: 'وهديناه السبيل' (الفرقان: 57), जो इस्लामी परंपरा में इसकी महत्ता को दर्शाता है।"
+    },
+    "in_pashto": {
+      "name": "سبيل",
+      "meaning": "سبيل د دې معنی دی چې مستقیم لار یا د الله تعالی طرف ځي",
+      "long_meaning": "سبيل د عربي نوم څخه اخیستل شوی دی، چې معنی یې مستقیم لار یا د الله تعالی طرف ځي. دا نوم د اسلامي عقیدې په منځ کې ډیر اهمیت لري، ځکه چې دا د الهي لارښوونې او برکت نښه ده. په قرآن کريم کې د 'سبيل' کلمه په ډیرو ځايونو کې راغلې ده، لکه د فرقان سورت کې: 'وهديناه السبيل' (الفرقان: 57)، چې د اسلامي عقيدې په منځ کې د هغې اهميت ښيي."
+    },
+    "in_english": {
+      "name": "Subail",
+      "meaning": "A straight path or way leading to God, divine guidance",
+      "long_meaning": "The name Subail originates from Arabic roots, specifically from the term 'sabīl' (سبيل), which means a straight path or way. In Islamic tradition, Subail symbolizes divine guidance and the path to righteousness. The Quran references 'sabīl' in several verses, emphasizing its significance in Islamic belief. For instance, Surah Al-Furqan states: 'And We guided him on the Way' (Al-Furqan: 57), underscoring the importance of finding the right path. The name Subail conveys a sense of spiritual direction and enlightenment, making it a meaningful choice for a child."
+    },
+    "pronunciation": {
+      "english": "soo-BAY-el",
+      "urdu": "سبیل کا تلفظ ہے سو بیل",
+      "hindi": "सुबैल का उच्चारण है सु-बेल",
+      "pashto": "د سبيل تلفظ دی سو بيل",
+      "ipa": "/sooˈbeɪl/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#SubailMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Subail"
+    ],
+    "name_variations": [],
+    "popularity_score": 76,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 66,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Subail Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Subail, a beautiful Islam name meaning \"Noble\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Subail, Islam name, baby names, Noble, Islam baby names, name meaning",
+      "description_paragraph": "Subail is a meaningful Islam name of Arabic origin that means \"Noble\". Derived from the Arabic word 'Subulah' meaning 'noble' or 'nobility'",
+      "keywords": [
+        "Subail",
+        "Islam name",
+        "baby names",
+        "Noble",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Subail in Islam tradition?",
+          "a": "Subail is a beautiful Islam name meaning \"Noble\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Subail a good Islam name for a baby?",
+          "a": "Yes, Subail is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Subail?",
+          "a": "The name Subail has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Subail correctly?",
+          "a": "Subail is pronounced soo-BAY-el in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Subail?",
+          "a": "Naming a child Subail brings blessings. The meaning \"Noble\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Subail?",
+          "a": "Subail is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 94,
+      "focus_keyword": "Subail meaning",
+      "secondary_keywords": [
+        "Islam name Subail",
+        "Subail meaning",
+        "Subail origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Subail\" is associated with grandeur, esteem, and honor. It is a name that is often given to individuals who are held in high regard in their communities. In some cultures, it may be given as a name to a child born into a noble or aristocratic family, or to an individual who has achieved significant accomplishments or personal growth.",
+    "spiritual_significance": "In Islamic culture, the spiritual significance of the name \"Subail\" is rooted in the belief that every human being is born with an inherent nobility, a closeness to the divine. The name serves as a daily reminder of this inherent worth and the importance of living a noble, virtuous life. It also serves as a reminder of the Prophet Muhammad's (peace be upon him) teachings, which emphasize the importance of treating all people with kindness, respect, and dignity, regardless of their background or social status. By embodying the spirit of \"Subail,\" individuals can strive to be noble and virtuous in both their actions and their character, permanently etching their names in the annals of history as individuals of great merit, esteem, and honor.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Subail carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Popular choice for newborns in Muslim communities",
+        "Gaining popularity in Western Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Subail remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Subail",
+      "location": "Dubai, UAE",
+      "story": "Maryam Subail, a teacher in Dubai, UAE, shares that their name Subail meaning \"Noble\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Noble\" symbolizes Derived from the Arabic word 'Subulah' meaning 'noble' or 'nobility'. In Islamic spirituality, bearing the name Subail serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of noble.",
+    "created_at": "2025-12-22T19:19:49.915Z",
+    "updated_at": "2025-12-22T04:53:15.316Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1337,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Subail",
+      "description": "Noble",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Subail",
+          "description": "Discover the meaning of Subail - \"Noble\"",
+          "image": "/images/social/subail-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Subail - Name Meaning",
+          "description": "Learn about the beautiful name Subail",
+          "image": "/images/social/subail-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Subail",
+          "description": "Name meaning: Noble",
+          "image": "/images/social/subail-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Subail - Meaning: Noble",
+        "email_subject": "Beautiful Name: Subail"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Subail with meaning Noble",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "sadaldin",
+      "saim",
+      "saal"
+    ]
+  }
+}

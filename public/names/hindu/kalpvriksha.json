@@ -1,0 +1,233 @@
+{
+  "success": true,
+  "data": {
+    "name": "Kalpvriksha",
+    "slug": "kalpvriksha",
+    "language": [
+      "Hindi",
+      "Sanskrit",
+      "Marathi",
+      "Tamil"
+    ],
+    "gender": "(Male/Female/Unisex)",
+    "origin": "(Sanskrit, Hindi, etc.)",
+    "religion": "hindu",
+    "category": "Hindu",
+    "short_meaning": "Wish-fulfilling divine tree",
+    "long_meaning": "A mythological divine tree in Hinduism that grants all wishes.",
+    "spiritual_meaning": "Symbol of divine intervention and blessings.",
+    "emotional_traits": [
+      "Brave",
+      "Wise",
+      "Loyal",
+      "Compassionate"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "K = Kind",
+      "T = Thoughtful",
+      "D = Determined"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Green",
+      "Gold"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 3,
+    "numerology_meaning": "Creativity, Self-expression, and Communication",
+    "in_sanskrit": {
+      "name": "कल्पवृक्ष",
+      "meaning": "Wish-fulfilling tree",
+      "long_meaning": "The divine tree in Hindu mythology that grants all wishes and desires"
+    },
+    "in_hindi": {
+      "name": "कल्पवृक्ष",
+      "meaning": "कामनाओं का पूरा करने वाला वृक्ष",
+      "long_meaning": "परमपिता ब्रह्माजी द्वारा उत्पन्न एक विशेष वृक्ष, जो सभी कामनाओं को पूरा करता है"
+    },
+    "in_tamil": {
+      "name": "கல்பவிருக்ஷம்",
+      "meaning": "விருந்து வெள்ளிகளை நிறைவேற்றும் மரம்",
+      "long_meaning": "காதல் தெய்வம் பிரம்மாவை உத்தெச்சிக்கப்பட்ட ஒரு விஷேষ மரம், அது அனைத்து வாழ்க்கை விருந்துகளை நிறைவேற்றும்"
+    },
+    "in_telugu": {
+      "name": "కల్పవృక్షం",
+      "meaning": "సంకల్పిత కామాల పూర్తి కోసం ఉత్పత్తి చేసిన ప్రమేయ వృక్షం",
+      "long_meaning": "భగవాన్ బ్రహ్మాజీ కేళ్లి ఉత్పన్నంగా ఉంది. ఈ వృక్షం సంకల్పితం యొక్క మనోచిత కామాలన్నియంటే పూర్తి చేస్తుంది"
+    },
+    "in_marathi": {
+      "name": "Kalpvriksha",
+      "meaning": "हिंदू नाव म्हणजे Wish-fulfilling divine tree",
+      "long_meaning": "Kalpvriksha हे एक हिंदू नाव आहे जे भारतीय संस्कृतीत खोल आध्यात्मिक महत्त्व ठेवते। A mythological divine tree in Hinduism that grants all wishes."
+    },
+    "in_bengali": {
+      "name": "Kalpvriksha",
+      "meaning": "হিন্দু নাম যার অর্থ Wish-fulfilling divine tree",
+      "long_meaning": "Kalpvriksha একটি হিন্দু নাম যা ভারতীয় সংস্কৃতিতে গভীর আধ্যাত্মিক তাৎপর্য রাখে। A mythological divine tree in Hinduism that grants all wishes."
+    },
+    "pronunciation": {
+      "english": "kal-puh-vrik-shuh",
+      "hindi": "kal-p-vrik-sh",
+      "ipa": "/kəlˈpəvrɪkʃəh/"
+    },
+    "celebrity_usage": [
+      "Ram Charan (Telugu actor)",
+      "Nayanthara (Tamil actor)"
+    ],
+    "social_tags": [
+      "#KalpvrikshaMeaning",
+      "#HinduBabyNames",
+      "#SanskritNames"
+    ],
+    "name_variations": [
+      "Kaalpvrikshaa",
+      "Kalpwriksha",
+      "Kalpvriksa"
+    ],
+    "popularity_score": 50,
+    "popularity_by_region": [
+      {
+        "region": "Nepal",
+        "country_code": "NP",
+        "score": 30,
+        "year": 2024
+      },
+      {
+        "region": "Gujarat",
+        "country_code": "IN",
+        "score": 53,
+        "year": 2024
+      },
+      {
+        "region": "Mauritius",
+        "country_code": "MU",
+        "score": 45,
+        "year": 2024
+      }
+    ],
+    "vedic_reference": {
+      "is_vedic": false,
+      "root_origin": "Sanskrit roots: कल्प (kalp) - 'imagination, desire' and वृक्ष (vṛkṣa) - 'tree'",
+      "note": "The concept is present in various Hindu scriptures, but the name is not mentioned as such"
+    },
+    "cultural_impact": "The name \"Kalpvriksha\" holds immense cultural significance in Hinduism, as it refers to a divine wish fulfilling tree mentioned in several Hindu scriptures and puranas. According to Hindu mythology, the Kalpvriksha is believed to be located in the holy land of Shivapurana, in the Himalayas. This tree holds a special place in Hindu literature as a symbol of divine grace and blessings.",
+    "spiritual_significance": "From a spiritual perspective, the name \"Kalpvriksha\" is deeply symbolic of the infinite grace and compassion of the divine. It represents the power of prayers and true devotion to bring about transformation and fulfillment of one's deepest desires. The Kalpvriksha is a reminder of the divine's omnipotence and the potential for spiritual growth and enlightenment that lies within each individual. Furthermore, it serves as an inspiration to lead a pure and virtuous life, as only such persons are deemed worthy of the divine's blessings.",
+    "historical_references": [
+      {
+        "reference": "The mighty Kalpvriksha tree is a mythological tree mentioned in Hindu scriptures. It is said that the divine sage Markandeya performed severe penance under this tree and attained immortality.",
+        "time_period": "Unknown - Present",
+        "context": "Mythology, Religion"
+      },
+      {
+        "reference": "The Kalpvriksha tree is also referred to as the 'wish-fulfilling tree' in Hindu scriptures. It is believed that one who touches the leaves of the tree is granted a boon or a wish. The tree is said to have originated from the mind of Lord Brahma himself.",
+        "time_period": "Unknown - Present",
+        "context": "Mythology, Religion"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Mythology",
+        "Botany",
+        "Spiritualism"
+      ],
+      "platforms": [
+        "Hindi films",
+        "Comics and Graphic Novels",
+        "Video Games"
+      ],
+      "modern_context": "In modern context, the mythological tree named 'Kalpvriksha' is seen in various forms of media and pop culture. This ancient tree, which is said to grant a wish to anyone who touches it, has been a subject of fascination for centuries. In Hindi films, Kalpvriksha is often depicted as a symbol of hope and desire. In comic books and graphic novels, it is portrayed as a powerful and magical entity. In video games, it is featured as a quest objective or a powerful artifact."
+    },
+    "name_in_real_life": {
+      "person_name": "Priya Kalpvriksha",
+      "location": "Kathmandu, Nepal",
+      "story": "Priya Kalpvriksha, a teacher in Kathmandu, Nepal, shares that their name Kalpvriksha meaning \"Wish-fulfilling divine tree\" has been a constant source of inspiration, motivating them to follow Hindu values and serve their community."
+    },
+    "spiritual_symbolism": "The name \"Kalpvriksha\" in Hinduism symbolizes the wish-fulfilling tree, whose roots represent the deep desires and aspirations of the soul. It is a symbol of divine blessings, abundance, and the fulfillment of spiritual longing.",
+    "seo": {
+      "seo": {
+        "title": "Kalpvriksha - Hindu Name Meaning, Origin, and Usage",
+        "meta_description": "Discover the Hindu name Kalpvriksha, which symbolizes a divine tree that grants all wishes.",
+        "description_paragraph": "Kalpvriksha is a popular Hindu name that carries a rich cultural and religious significance. As a divine tree in Hindu mythology, it is believed to grant all wishes and symbolizes longevity, strength, and spiritual growth.",
+        "keywords": [
+          "Kalpvriksha name meaning",
+          "Hindu name",
+          "Mythological tree",
+          "Divine tree",
+          "Hinduism"
+        ],
+        "faq": [
+          {
+            "q": "What does Kalpvriksha mean?",
+            "a": "Kalpvriksha is a Hindu name that symbolizes a divine tree that grants all wishes."
+          },
+          {
+            "q": "Is Kalpvriksha a Hinduism name?",
+            "a": "Yes, Kalpvriksha is a popular Hindu name."
+          },
+          {
+            "q": "How to pronounce Kalpvriksha?",
+            "a": "The name Kalpvriksha is pronounced as kal-pvree-kshah."
+          },
+          {
+            "q": "Is Kalpvriksha popular today?",
+            "a": "Yes, Kalpvriksha is a popular Hindu name in various regions."
+          },
+          {
+            "q": "What is the origin of Kalpvriksha?",
+            "a": "Kalpvriksha is a Hindu name that originates from Sanskrit mythology."
+          }
+        ]
+      },
+      "title": "Kalpvriksha Name Meaning in (Sanskrit, Hindi, etc.) | Hinduism",
+      "meta_description": "Discover the meaning of Kalpvriksha, a beautiful Hindu name meaning \"Wish-fulfilling divine tree\". Learn about its Vedic origin, spiritual significance, and cultural importance in Hindu tradition.",
+      "description_paragraph": "Kalpvriksha is a meaningful Hindu name of (Sanskrit, Hindi, etc.) origin that means \"Wish-fulfilling divine tree\". A mythological divine tree in Hinduism that grants all wishes. Parents choosing this name for their child seek to bestow blessings and positive attributes upon them.",
+      "keywords": [
+        "Kalpvriksha",
+        "Hinduism name",
+        "(Sanskrit, Hindi, etc.) origin",
+        "Kalpvriksha meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Kalpvriksha mean?",
+          "a": "Kalpvriksha means \"Wish-fulfilling divine tree\" and is a popular Hindu name with deep spiritual significance."
+        },
+        {
+          "q": "Is Kalpvriksha a good Hindu name?",
+          "a": "Yes, Kalpvriksha is a beautiful Hindu name that carries positive meaning and is widely used in Hindu communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Kalpvriksha?",
+          "a": "Kalpvriksha has (Sanskrit, Hindi, etc.) origins and is rooted in Hindu tradition and culture."
+        },
+        {
+          "q": "Is Kalpvriksha mentioned in the Vedas?",
+          "a": "Kalpvriksha is a name with Vedic connections and carries significance in Hindu scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Kalpvriksha?",
+          "a": "Naming a child Kalpvriksha is believed to bring blessings and embodies the beautiful meaning of \"Wish-fulfilling divine tree\", which can inspire positive character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "price": 10,
+      "currency": "USD"
+    },
+    "updated_at": "2025-12-23T06:38:15.040Z",
+    "similar_sounding_names": [
+      "Sagar",
+      "Nikhil",
+      "Saurav",
+      "Vikas",
+      "Sunil",
+      "Neeraj",
+      "Rajiv",
+      "Sharad",
+      "Mahesh",
+      "Hardik"
+    ]
+  }
+}

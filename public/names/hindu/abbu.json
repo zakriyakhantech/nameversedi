@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Abbu",
+    "slug": "abbu",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "hindu",
+    "meaning": "Father"
+  }
+}

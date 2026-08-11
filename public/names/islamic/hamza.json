@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Hamza",
+    "slug": "hamza",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "islamic",
+    "meaning": "Lion"
+  }
+}

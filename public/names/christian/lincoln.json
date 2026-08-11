@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Lincoln",
+    "slug": "lincoln",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "christian",
+    "meaning": "Lake colony"
+  }
+}

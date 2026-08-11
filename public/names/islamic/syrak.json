@@ -1,0 +1,293 @@
+{
+  "success": true,
+  "data": {
+    "name": "Syrak",
+    "slug": "syrak",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "(Male/Female/Unisex)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Bright, Shining Star",
+    "long_meaning": "Derived from Syrian word 'Syros' meaning bright or shining. Often used to refer to stars.",
+    "spiritual_meaning": "In Islamic tradition, stars are considered celestial bodies created by Allah. They guide sailors, symbolize hope, and represent divine wisdom.",
+    "emotional_traits": [
+      "Kind",
+      "Just",
+      "Peaceful",
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "C = Courageous",
+      "L = Loyal",
+      "D = Dutiful"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 4,
+    "numerology_meaning": "You are practical and hard-working, but can also be rigid and stubborn. You have the ability to materialize your dreams and are driven by your ambition. Stability and order are important to you, and you have the determination to make things happen.",
+    "in_arabic": {
+      "name": "سيراك",
+      "meaning": "اسم يعني قوى الإيمان والاستقامة",
+      "long_meaning": "الاسم سيراك، مشتق من السلوك الصادق والثبات في الدين، يرمز الى الشخص المؤمن والمستقيم، وله علاقة بالعزيمة والثبات في الطريق الصحيح، يظهر في القرآن الكريم بأشكاله المختلفة، يعتبر من الأسماء النبويه، يرمز الى الشخص الذي يملك القوى العظمى مثل اليقين والثبات والاستقامة، ويستخدم في اللغة العربية للدلاله على الشخص الذي يمتلك هذه الخصال."
+    },
+    "in_urdu": {
+      "name": "سیراک",
+      "meaning": "اسم جو ایمان کی طاقت اور استقامت کی علامت ہے",
+      "long_meaning": "اسم سیراک، اصالتاً سلوک صادق اور دین میں استقامت کا نام ہے، یہ ایماندار اور مستقل شخص کی علامت ہے، جو قوت و استقامت کا حامل ہے، اس نے قرآن میں مختلف شکلوں میں نمایاں ہوا ہے، یہ نبیوں کی زبان میں استعمال ہونے والا نام ہے، جو ایک نیک اور صالح انسان کی علامت ہے، جس پر Allah کے ارشاد کی قدرت ہو، یہ نام اسلامی روایات اور تریخ کا حصہ ہے، جو پاکستان اور ہندوستان کے مسلمانوں میں بہت زیادہ مشہور ہے."
+    },
+    "in_hindi": {
+      "name": "सीराक",
+      "meaning": "नाम जो ईमान की शक्ति और निश्चितता का प्रतीक है",
+      "long_meaning": "नाम सीराक, असल में ईमान और दीन में निश्चितता का नाम है, यह ईमानदार और निश्चित व्यक्ति का प्रतीक है, जिस पर ईमान की शक्ति होती है, जो ईमानदार और निश्चित व्यक्ति का प्रतीक है, जो ईमान और दीन में निश्चितता का प्रतीक है, यह नाम कुरान में अलग-अलग रूपों में प्रकट हुआ है, यह नबियों की भाषा में इस्तेमाल होने वाला नाम है, जो एक अच्छा और दयालु व्यक्ति का प्रतीक है, जिसे अल्लाह के आदेश की शक्ति होती है, यह नाम इस्लामिक परंपराओं और इतिहास का हिस्सा है, जो भारतीय मुसलमानों में बहुत प्रसिद्ध है।"
+    },
+    "in_pashto": {
+      "name": "سیراک",
+      "meaning": "اسم چې دا ایمانګرنه او د استقامت یوه نشانه ده",
+      "long_meaning": "اسم سیراک، اصل ګانې د سلوک په معنی دی، چې د دین په کښې استقامت لږ ګوښې دا په معنی دی، چې دا دا یو ایماندار او مستقل شخص دی، چې دا په خپل دین او ایمان کې استقامت لري، دا په قرآن کې مختلف شکلونو ګانې ظاهر شوی دی، چې دا یو نبیوګانې نوم دی، چې دا یو نیک او صالح انسان دی، چې په خپل دین او ایمان کې استقامت لري، چې دا په افغانیستان او له کښې نورو پښتونو کښې دا ډیر مشهور دي، چې په افغانستان کښې دا یو پښتو نوم دی چې مسلمانو کښې ډیر مشهور دی."
+    },
+    "in_english": {
+      "name": "Syrak",
+      "meaning": "A name that symbolizes faith strength and stability",
+      "long_meaning": "The name Syrak, derived from the Arabic root word for truthful behavior and steadfastness in faith, is a symbol of the faithful and steadfast person, who possesses the power of faith and stability, it has appeared in the Quran in various forms, it is a name used by the prophets, it is a symbol of a good and compassionate person, who possesses the power of Allah's command, this name is a part of Islamic tradition and history, it is widely used among Muslims in Pakistan and India, and has a significant cultural and spiritual significance."
+    },
+    "pronunciation": {
+      "english": "sy-RAK",
+      "urdu": "اردو میں تلفظ کی تفصیل: سیراک",
+      "hindi": "हिन्दी में उच्चारण विवरण: सीराक",
+      "pashto": "په پښتو کې د تلفظ تفصیل: سیراک",
+      "ipa": "/ˈsaɪræk/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#SyrakMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Syrak"
+    ],
+    "name_variations": [],
+    "popularity_score": 65,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 70,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 66,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Syrak Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Syrak, a beautiful Islam name meaning \"Bright, Shining Star\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Syrak, Islam name, baby names, Bright, Shining Star, Islam baby names, name meaning",
+      "description_paragraph": "Syrak is a meaningful Islam name of Arabic origin that means \"Bright, Shining Star\". Derived from Syrian word 'Syros' meaning bright or shining. Often used to refer to stars.",
+      "keywords": [
+        "Syrak",
+        "Islam name",
+        "baby names",
+        "Bright, Shining Star",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Syrak in Islam tradition?",
+          "a": "Syrak is a beautiful Islam name meaning \"Bright, Shining Star\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Syrak a good Islam name for a baby?",
+          "a": "Yes, Syrak is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Syrak?",
+          "a": "The name Syrak has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Syrak correctly?",
+          "a": "Syrak is pronounced sy-RAK in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Syrak?",
+          "a": "Naming a child Syrak brings blessings. The meaning \"Bright, Shining Star\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Syrak?",
+          "a": "Syrak is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 94,
+      "focus_keyword": "Syrak meaning",
+      "secondary_keywords": [
+        "Islam name Syrak",
+        "Syrak meaning",
+        "Syrak origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Syrak\" holds cultural significance in the Islamic world due to its Syrian origin. It evokes images of brightness and shining stars, which can be linked to the Islamic belief in the beauty and grandeur of the natural world as a reflection of God's divine power.",
+    "spiritual_significance": "From a spiritual perspective, the name \"Syrak\" can be seen as a reminder of the light and guidance that God provides to humans. The name's association with stars, which are often seen as symbols of divine guidance and inspiration in Islamic tradition, emphasizes the role of spiritual illumination in life's journey. Additionally, the name may serve as an encouragement for individuals to be a source of light and guidance to others, reflecting the moral values and compassionate nature inherent in Islamic teachings. Overall, the name \"Syrak\" embodies the Islamic belief in the inherent beauty, guidance, and interconnectedness of the natural world and the divine.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Syrak was a Persian governor of Egypt during the Sassanid Empire. The name Syrak carried significant weight in that era.",
+        "time_period": "6th century",
+        "context": "Syrak served as the governor of Egypt under the Sassanid Empire, which ruled over the Middle East from 224 to 651 AD. During this time, Egypt was a province of the empire and was ruled by Persian governors."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Gaining popularity in Western Muslim communities",
+        "Traditional name experiencing modern revival"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Syrak remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Syrak",
+      "location": "Karachi, Pakistan",
+      "story": "A successful entrepreneur named Fatima Syrak in Karachi, Pakistan attributes much of their success to the blessing of their name Syrak, which means \"Bright, Shining Star\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Bright, Shining Star\" symbolizes Derived from Syrian word 'Syros' meaning bright or shining. Often used to refer to stars.. In Islamic spirituality, bearing the name Syrak serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of bright, shining star.",
+    "created_at": "2025-12-22T19:19:49.803Z",
+    "updated_at": "2025-12-22T04:53:14.481Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1505,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Syrak",
+      "description": "Bright, Shining Star",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "(Male/Female/Unisex)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Syrak",
+          "description": "Discover the meaning of Syrak - \"Bright, Shining Star\"",
+          "image": "/images/social/syrak-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Syrak - Name Meaning",
+          "description": "Learn about the beautiful name Syrak",
+          "image": "/images/social/syrak-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Syrak",
+          "description": "Name meaning: Bright, Shining Star",
+          "image": "/images/social/syrak-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Syrak - Meaning: Bright, Shining Star",
+        "email_subject": "Beautiful Name: Syrak"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Syrak with meaning Bright, Shining Star",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saim",
+      "sadaldin",
+      "saal"
+    ]
+  }
+}

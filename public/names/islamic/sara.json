@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Sara",
+    "slug": "sara",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "islamic",
+    "meaning": "Princess"
+  }
+}

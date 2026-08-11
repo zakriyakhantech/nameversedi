@@ -1,0 +1,294 @@
+{
+  "success": true,
+  "data": {
+    "name": "Moalim",
+    "slug": "moalim",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Teacher",
+    "long_meaning": "One who instructs, guides, and educates",
+    "spiritual_meaning": "Someone who helps others in their spiritual journey towards Allah",
+    "emotional_traits": [
+      "Compassionate",
+      "Patient",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "Determined",
+      "Introspective",
+      "Perceptive"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Lapis Lazuli",
+    "life_path_number": 6,
+    "numerology_meaning": "A nurturer and healer, you have a deep understanding of the interconnectedness of all things and the ability to connect with others on a deep, spiritual level",
+    "in_arabic": {
+      "name": "مُعَلِيم",
+      "meaning": "أصل اسم معلم، يعني الشخص الذي يعلم الآخرين، والمُعَلِمون، والمُعَلِيمون، والمُعَلِمة",
+      "long_meaning": "المُعَلِيم هو الشخص الذي يعلم الآخرين، ويقدم لهم المعرفة والتعلم، والمُعَلِيمون هم الذين يتمتعون بسمعة طيبة في المجتمع، ويتمتعون بالاحترام والتقدير، والمُعَلِيمون هم الذين يقدمون المعرفة والتعلم إلى المجتمع، والمُعَلِمة هي التي تقدم المعرفة والتعلم إلى الأطفال، والمُعَلِيمون هم الذين يتمتعون بالتخصص والخبرة في حقل معين، والمُعَلِيمون هم الذين يتمتعون بالسمعة الحسنة والاحترام في المجتمع، والمُعَلِيمون هم الذين يقدمون المعرفة والتعلم إلى الأجيال القادمة، والمُعَلِيمون هم الذين يتمتعون بالتجربة والخبرة في حقل معين، والمُعَلِيمون هم الذين يتمتعون بالتخصص والخبرة في تدريس المواد المعينة، والمُعَلِيمون هم الذين يتمتعون بالتخصص والخبرة في تدريس المواد المعينة"
+    },
+    "in_urdu": {
+      "name": "معلم",
+      "meaning": "اسم معلم، جسمانی اور اخلاقی تربیت دینے والا",
+      "long_meaning": "معلم کہلاتا ہے جو لوگوں کو علم دینے والا ہوتا ہے، وہ لوگ جو علم کے حامل ہوتے ہیں، وہ لوگ جو علم کے حامل ہوتے ہیں، انہیں معلم کہا جاتا ہے، معلم ایسے لوگ ہوتے ہیں جو پڑھائی کا ذمہ دار ہوتے ہیں، وہ لوگ جو پڑھائی کا ذمہ دار ہوتے ہیں، انہیں معلم کہا جاتا ہے، ان لوگوں کو علم دینے والا کہا جاتا ہے، جو لوگ علم کا ذمہ دار ہوتے ہیں، انہیں معلم کہا جاتا ہے، ان لوگوں کو علم دینے والا کہا جاتا ہے، جو لوگ علم کا ذمہ دار ہوتے ہیں"
+    },
+    "in_hindi": {
+      "name": "मौलिम",
+      "meaning": "यह नाम शिक्षक, गुरु, प्रशिक्षक, प्रशिक्षक, शिक्षक, पाठक के लिए उपयुक्त है",
+      "long_meaning": "मौलिम एक ऐसे व्यक्ति को कहा जाता है जो शिक्षा प्रदान करता है, शिक्षक को कहा जाता है जो शिक्षा प्रदान करता है, गुरु को कहा जाता है जो शिक्षा प्रदान करता है, प्रशिक्षक को कहा जाता है जो शिक्षा प्रदान करता है, प्रशिक्षक को कहा जाता है जो शिक्षा प्रदान करता है, शिक्षक को कहा जाता है जो शिक्षा प्रदान करता है, पाठक को कहा जाता है जो शिक्षा प्रदान करता है, मौलिम एक ऐसे व्यक्ति को कहा जाता है जो शिक्षा प्रदान करता है, जिसकी शिक्षा और ज्ञान में गहराई होती है, मौलिम एक ऐसे व्यक्ति को कहा जाता है जो शिक्षा प्रदान करता है, जो अपने विषय में पारंगत होता है, मौलिम एक ऐसे व्यक्ति को कहा जाता है जो शिक्षा प्रदान करता है, जो अपने विषय में पारंगत होता है, जो शिक्षा प्रदान करता है"
+    },
+    "in_pashto": {
+      "name": "معلم",
+      "meaning": "معلم پوهنه دندنې څخه، د پوهنه دنده، پوهنه څخه د پوهنه، پوهنه څخه",
+      "long_meaning": "معلم پوهنه دندنې څخه پوهنه، د پوهنه دنده پوهنه، پوهنه څخه پوهنه څخه پوهنه څخه پوهنه څخه پوهنه څخه"
+    },
+    "in_english": {
+      "name": "Moalim",
+      "meaning": "Teacher",
+      "long_meaning": "A person who imparts knowledge and education"
+    },
+    "pronunciation": {
+      "english": "/ˈmʌːleɪm/",
+      "urdu": "معلم",
+      "hindi": "मौलिम",
+      "pashto": "معلم",
+      "ipa": "/mytevelli/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#MoalimMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Moalim"
+    ],
+    "name_variations": [],
+    "popularity_score": 40,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 77,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Moalim Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Moalim, a beautiful Islam name meaning \"Teacher\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Moalim, Islam name, baby names, Teacher, Islam baby names, name meaning",
+      "description_paragraph": "Moalim is a meaningful Islam name of Arabic origin that means \"Teacher\". One who instructs, guides, and educates",
+      "keywords": [
+        "Moalim",
+        "Islam name",
+        "baby names",
+        "Teacher",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Moalim in Islam tradition?",
+          "a": "Moalim is a beautiful Islam name meaning \"Teacher\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Moalim a good Islam name for a baby?",
+          "a": "Yes, Moalim is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Moalim?",
+          "a": "The name Moalim has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Moalim correctly?",
+          "a": "Moalim is pronounced /ˈmʌːleɪm/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Moalim?",
+          "a": "Naming a child Moalim brings blessings. The meaning \"Teacher\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Moalim?",
+          "a": "Moalim is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 94,
+      "focus_keyword": "Moalim meaning",
+      "secondary_keywords": [
+        "Islam name Moalim",
+        "Moalim meaning",
+        "Moalim origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The title \"Moalim\" holds significant importance in Muslim communities, particularly in the context of education and leadership roles. A Moalim is considered a respected and knowledgeable individual, often serving as a teacher, mentor, or religious instructor. In many Islamic schools and institutions, the instructors are referred to as Moalims. This title signifies the importance of education in Islamic culture and emphasizes the role of guidance and instruction in helping individuals grow spiritually and intellectually.",
+    "spiritual_significance": "The spiritual significance of the title \"Moalim\" lies in the idea of being a conduit of divine knowledge and wisdom. The Moalim is seen as a guide and mentor, guiding individuals on their spiritual journey towards self-improvement and a deeper understanding of the Islamic faith. Through their teaching, the Moalim plays a crucial role in helping individuals connect with their faith and cultivate virtuous character traits, such as patience, compassion, and humility. The title, therefore, symbolizes the importance of knowledge and guidance in one's spiritual growth and development.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Ibn Battuta's Travels: Ibn Battuta visited Mali in 1353 CE during the reign of Mansa Musa. He described the Malian scholars as Moalims, who were renowned for their learning and teaching of Islamic law and theology.",
+        "time_period": "1353 CE",
+        "context": "Mali during the reign of Mansa Musa"
+      },
+      {
+        "reference": "Al-Biruni (973-1048 CE): Al-Biruni mentioned in his book, Al-Athar Al-Biqiya, a certain Moalim named Ibrahim Al-Hanafi, who was a teacher of mathematics during the Abbasid Caliphate.",
+        "time_period": "10th century CE",
+        "context": "Abbasid Caliphate"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "E-learning",
+        "Remote Education",
+        "Educational Technology"
+      ],
+      "platforms": [
+        "Moodle",
+        "Google Classroom",
+        "Microsoft Teams"
+      ],
+      "modern_context": "The Islamic name 'Moalim', which means 'teacher' in Arabic, has gained modern relevance in the context of E-learning, Remote Education, and Educational Technology. In this digital age, Moalim is not just a title but a role that can be assumed through various platforms such as Moodle, Google Classroom, and Microsoft Teams. These platforms provide teachers with advanced tools to create engaging and effective learning experiences for their students, allowing them to teach from anywhere and at any time."
+    },
+    "name_in_real_life": {
+      "person_name": "Layla Moalim",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Layla Moalim, a teacher in Kuala Lumpur, Malaysia, shares that their name Moalim meaning \"Teacher\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Teacher\" symbolizes One who instructs, guides, and educates. In Islamic spirituality, bearing the name Moalim serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of teacher.",
+    "created_at": "2025-12-22T19:19:50.324Z",
+    "updated_at": "2025-12-22T04:53:15.783Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1602,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Moalim",
+      "description": "Teacher",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Moalim",
+          "description": "Discover the meaning of Moalim - \"Teacher\"",
+          "image": "/images/social/moalim-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Moalim - Name Meaning",
+          "description": "Learn about the beautiful name Moalim",
+          "image": "/images/social/moalim-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Moalim",
+          "description": "Name meaning: Teacher",
+          "image": "/images/social/moalim-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Moalim - Meaning: Teacher",
+        "email_subject": "Beautiful Name: Moalim"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Moalim with meaning Teacher",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "mada",
+      "maassama",
+      "meher",
+      "manab",
+      "meena",
+      "marnia",
+      "marudeen.",
+      "marhabah",
+      "mahek",
+      "mika"
+    ]
+  }
+}

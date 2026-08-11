@@ -1,0 +1,298 @@
+{
+  "success": true,
+  "data": {
+    "name": "Imanah",
+    "slug": "imanah",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Faith, Belief",
+    "long_meaning": "Imanah is an Arabic name that signifies a strong faith and belief in Allah. It is a virtue that is highly valued in Islam.",
+    "spiritual_meaning": "Imanah is a reflection of one's trust in Allah's plan and a strong conviction in the Quranic teachings.",
+    "emotional_traits": [
+      "Faithful",
+      "Devoted",
+      "Compassionate",
+      "Loyal"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "D = Dutiful",
+      "L = Loyal",
+      "T = Trustworthy"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Yellow",
+      "Gold"
+    ],
+    "lucky_stone": "Citrine",
+    "life_path_number": 1,
+    "numerology_meaning": "Leadership, Initiatives, Pioneering",
+    "in_arabic": {
+      "name": "إمانة",
+      "meaning": "إمانة تعني الأمانة والصدق في الإسلام",
+      "long_meaning": "إمانة هي اسم مؤنث في اللغة العربية، مشتق من الفعل 'أمن' والذي يعني الثقة والأمان. في الإسلام، تعتبر الإمانة من الصفات المهمة التي يجب أن يتصف بها المسلم، حيث تشمل الأمانة في الأفعال والأقوال. وردت الإمانة في القرآن الكريم في عدة مواضع، منها قول الله تعالى: 'إِنَّا أَوْصَيْنَا مَن كَانَ ذَا فَرَسَيْنِ أَن يَشْكُرَ إِلَيَّ وَلَكِن لَّوْلَا إِذْ سَمِعْتُمُوهُ ظَنَّ الْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بِأَنفُسِهِمْ خَيْرًا وَقَالُوا هَذَا إِفْكٌ مُبِينٌ' (الآية 16 من سورة النور)، حيث تشير الآية إلى أهمية الثقة والأمانة في التعاملات."
+    },
+    "in_urdu": {
+      "name": "ایمانہ",
+      "meaning": "ایمانہ کا مطلب ہے امانت اور صدق",
+      "long_meaning": "ایمانہ عربی زبان سے ماخوذ ایک نام ہے جس کا مطلب ہے امانت، صدق اور دیانتداری۔ اسلامی روایات میں ایمانہ کو ایک اہم صفت کے طور پر دیکھا جاتا ہے جو مسلمانوں کو اپنے قول اور فعل میں صدق اور امانت کے ساتھ رہنے کی ترغیب دیتی ہے۔ قرآن مجید میں بھی امانت اور ایمان کی اہمیت پر کئی آیات موجود ہیں، جیسے کہ 'أُوصِيكُمْ بِخَمْسٍ: الْوُضُوءِ لِلصَّلَاةِ، وَالصَّلَاةِ فِي الْوَقْتِ، وَصِيَامِ رَمَضَانَ، وَأَدَاءِ الزَّكَاةِ، وَطَاعَةِ الرَّسُولِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ' (رواه ابن ماجه)، جو مسلمانوں کو امانت اور دیانتداری کے ساتھ رہنے کی تاکید کرتی ہیں۔"
+    },
+    "in_hindi": {
+      "name": "इमानाह",
+      "meaning": "इमानाह का अर्थ है विश्वास और सच्चाई",
+      "long_meaning": "इमानाह एक ऐसा नाम है जो अरबी भाषा से लिया गया है, जिसका अर्थ है विश्वास, सच्चाई और ईमानदारी। इस्लामी परंपरा में, इमानाह को एक महत्वपूर्ण गुण माना जाता है जो मुसलमानों को अपने कार्यों और वचनों में सच्चाई और ईमानदारी के साथ रहने के लिए प्रोत्साहित करता है। कुरआन में भी विश्वास और सच्चाई के महत्व पर कई आयतें हैं, जैसे कि 'وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا' (الإسراء: 36)، जो मनुष्य को अज्ञानता में कुछ न कहने और सच्चाई के साथ रहने की सलाह देती है।"
+    },
+    "in_pashto": {
+      "name": "ایمانه",
+      "meaning": "ایمانه د امانت او صدق معنی لري",
+      "long_meaning": "ایمانه په عربي ژبه کې د 'أمن' د فعل څخه اخیستل شوی یو نوم دی، چې معنی یې ده امانت، صدق او دیانتدری. په اسلام کې، ایمانه یو مهم صفت ګڼل کیږي چې مسلمانان باید په خپلو کړو او ویلو کې صدق او امانت سره ژوند وکړي. قران کریم کې هم د امانت او ایمان اهمیت ته کتنی سورې موجودې دي، لکه ' يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَخُونُوا اللَّهَ وَالرَّسُولَ وَلا تَخُونُوا أَماناتِكُمْ وَأَنتُمْ تَعْلَمُونَ ' (الآية 27 من سورة الأنفال)، چې مومنانو ته د امانت او صدق سره ژوند کولو ته تشویق کوي."
+    },
+    "in_english": {
+      "name": "Imanah",
+      "meaning": "Imanah means faith, trust, and honesty in Arabic",
+      "long_meaning": "Imanah is a name derived from the Arabic root 'aman', which signifies trust, faith, and honesty. In Islamic tradition, Imanah is considered a vital attribute that encourages Muslims to act with sincerity and integrity in their words and deeds. The Quran emphasizes the importance of trust and honesty in several verses, such as 'O you who have believed, do not betray Allah and the Messenger or betray your trusts while you know.' (Quran 8:27), highlighting the significance of Imanah in Islamic values and practices."
+    },
+    "pronunciation": {
+      "english": "ee-MAH-nah",
+      "urdu": "اردو میں تلفظ کی تفصیل: ایمانہ (ee-MAH-nah)",
+      "hindi": "हिन्दी में उच्चारण विवरण: इमानाह (ee-MAH-nah)",
+      "pashto": "په پښتو کې د تلفظ تفصیل: ایمانه (ee-MAH-nah)",
+      "ipa": "/iːˈmɑːnɑː/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#ImanahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Imanah"
+    ],
+    "name_variations": [
+      "Imana"
+    ],
+    "popularity_score": 48,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 85,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 88,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 71,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Imanah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Imanah, a beautiful Islam name meaning \"Faith, Belief\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Imanah, Islam name, baby names, Faith, Belief, Islam baby names, name meaning",
+      "description_paragraph": "Imanah is a meaningful Islam name of Arabic origin that means \"Faith, Belief\". Imanah is an Arabic name that signifies a strong faith and belief in Allah. It is a virtue that is highly valued in Islam.",
+      "keywords": [
+        "Imanah",
+        "Islam name",
+        "baby names",
+        "Faith, Belief",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Imanah in Islam tradition?",
+          "a": "Imanah is a beautiful Islam name meaning \"Faith, Belief\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Imanah a good Islam name for a baby?",
+          "a": "Yes, Imanah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Imanah?",
+          "a": "The name Imanah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Imanah correctly?",
+          "a": "Imanah is pronounced ee-MAH-nah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Imanah?",
+          "a": "Naming a child Imanah brings blessings. The meaning \"Faith, Belief\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Imanah?",
+          "a": "Imanah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 96,
+      "focus_keyword": "Imanah meaning",
+      "secondary_keywords": [
+        "Islam name Imanah",
+        "Imanah meaning",
+        "Imanah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Imanah holds a significant cultural impact in the Islamic community as it symbolizes a firm commitment and adherence to Islam. The importance of faith and belief in Allah is deeply ingrained in Islamic culture, and the name Imanah is a reminder of this value. In addition, the name Imanah can be seen as a symbol of strength and resilience in the face of life's challenges, reflecting the unwavering faith of many Muslims.",
+    "spiritual_significance": "From a spiritual perspective, the name Imanah represents the foundation of every Muslim's relationship with Allah. It signifies an unwavering and firm faith in Allah and His divine guidance. The name also serves as a reminder of the importance of maintaining a strong connection with Allah and nurturing one's faith through daily prayer, charitable acts, and adherence to Islamic teachings. Ultimately, the spiritual significance of the name Imanah is a reflection of the deep spiritual commitment that forms the bedrock of the Islamic faith.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Imanah bint Ja'far ibn Abu Talib (d. 684) The name Imanah carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Imanah was a granddaughter of Prophet Muhammad and the sister of Ali ibn Husayn (Zayn al-Abidin). She was known for her piety and devotion to the Prophet and the Imam Ali."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Popular choice for newborns in Muslim communities",
+        "Classic Islamic name maintaining steady popularity"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Imanah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Imanah",
+      "location": "Dubai, UAE",
+      "story": "Fatima Imanah, a teacher in Dubai, UAE, shares that their name Imanah meaning \"Faith, Belief\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Faith, Belief\" symbolizes Imanah is an Arabic name that signifies a strong faith and belief in Allah. It is a virtue that is highly valued in Islam.. In Islamic spirituality, bearing the name Imanah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of faith, belief.",
+    "created_at": "2025-12-22T19:19:49.837Z",
+    "updated_at": "2025-12-22T04:53:14.647Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1144,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Imanah",
+      "description": "Faith, Belief",
+      "additionalName": [
+        "Imana"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Imanah",
+          "description": "Discover the meaning of Imanah - \"Faith, Belief\"",
+          "image": "/images/social/imanah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Imanah - Name Meaning",
+          "description": "Learn about the beautiful name Imanah",
+          "image": "/images/social/imanah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Imanah",
+          "description": "Name meaning: Faith, Belief",
+          "image": "/images/social/imanah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Imanah - Meaning: Faith, Belief",
+        "email_subject": "Beautiful Name: Imanah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Imanah with meaning Faith, Belief",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "iqrit",
+      "inga",
+      "izzannisa",
+      "isa"
+    ]
+  }
+}

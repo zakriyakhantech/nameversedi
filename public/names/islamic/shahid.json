@@ -1,0 +1,283 @@
+{
+  "success": true,
+  "data": {
+    "name": "Shahid",
+    "slug": "shahid",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Pashto",
+      "Persian"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Witness",
+    "long_meaning": "Someone who bears witness to the truth",
+    "spiritual_meaning": "A person who stands up for truth and justice",
+    "emotional_traits": [
+      "Brave",
+      "Daring",
+      "Bold"
+    ],
+    "hidden_personality_traits": [
+      "Determined",
+      "Resilient",
+      "Fearless"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "#7B68EE",
+      "#0072B2",
+      "#004E93"
+    ],
+    "lucky_stone": "Lapis Lazuli",
+    "life_path_number": 3,
+    "numerology_meaning": "Creativity, Self-expression, and Communication",
+    "in_arabic": {
+      "name": "شاهد",
+      "meaning": "الشاهد هو الذي يشهد على شيء ما أو يقدم شهادة",
+      "long_meaning": "الشاهد في اللغة العربية يعني الشخص الذي يشهد على شيء ما أو يقدم شهادة. وردت كلمة شاهد في القرآن الكريم في عدة مواضع، منها قوله تعالى: 'وَكُلُّهُمْ آتِيهِ يَوْمَ الْقِيَامَةِ فَرْدًا' 'وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ أُولَئِكَ يَنالُهُمُ الْكِتابُ' (الأنعام: 21). الشاهد اسم من أسماء الله الحسنى، ويعني الذي يشهد على جميع الأشياء، وهو من أسماء الله التي وردت في القرآن."
+    },
+    "in_urdu": {
+      "name": "شاہد",
+      "meaning": "شاہد وہ شخص ہوتا ہے جو کسی چیز کا مشاہدہ کرتا ہے یا گواہی دیتا ہے",
+      "long_meaning": "شاہد کا مطلب اردو میں وہ شخص ہوتا ہے جو کسی چیز کا مشاہدہ کرتا ہے یا گواہی دیتا ہے۔ یہ نام عربی زبان کے 'شاہد' سے ماخوذ ہے، جس کا مطلب ہے گواہ یا مشاہدہ کرنے والا۔ اسلامی تقالید میں، شاہد ایک ایسا شخص ہوتا ہے جو کسی واقعے یا معاملے کی گواہی دیتا ہے۔ قرآن مجید میں بھی شاہد کے متعلق آیات ہیں، جیسے کہ 'وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَئِكَ كَانَ عَنْهُ مَسْئُولًا' (الإسراء: 36)"
+    },
+    "in_hindi": {
+      "name": "शाहिद",
+      "meaning": "शाहिद वह व्यक्ति होता है जो किसी चीज़ का साक्षी होता है या गवाही देता है",
+      "long_meaning": "शाहिद का अर्थ हिंदी में वह व्यक्ति होता है जो किसी चीज़ का साक्षी होता है या गवाही देता है। यह नाम अरबी भाषा के 'शाहिद' से लिया गया है, जिसका अर्थ है गवाह या साक्षी। इस्लामी परंपरा में, शाहिद एक ऐसा व्यक्ति होता है जो किसी घटना या मामले की गवाही देता है। कुरआन में भी शाहिद के बारे में आयतें हैं, जैसे कि 'और तुम जो कुछ नहीं जानते उसके पीछे न चलो। निःसंदेह कान, आँख और दिल इनमें से हर एक का मालिक है, और तुम उसके बारे में उत्तरदायी होगे।' (अल-इसराः 36)"
+    },
+    "in_pashto": {
+      "name": "شاهد",
+      "meaning": "شاهد هغه څوک دی چی کوم شیء ګوري یا شاهدي ورکړي",
+      "long_meaning": "شاهد په پښتو کې هغه څوک دی چی کوم شیء ګوري یا شاهدي ورکړي. دا نوم د عربي ژبې څخه اخيستل شوی دی، چی د ګواہ یا شاهد معنی لري. په اسلامي دود کې، شاهد هغه څوک دی چی د کوم واقع يا پېښې شاهدي ورکړي. قرآن کريم کې هم د شاهد په اړه آيتونه دي، لکه 'او داسې چيزو ته پس نه ورځئ، کوم چې تاسو پکې خبر نه ياست. بيشکه غوږ، سترګې او زړه هر يوه د هغو په اړه پوښتنه کيږي.' (الإسراء: 36)"
+    },
+    "in_english": {
+      "name": "Shahid",
+      "meaning": "Witness, one who bears testimony or observes something",
+      "long_meaning": "The name Shahid originates from Arabic, meaning 'witness' or 'one who bears testimony'. In Islamic tradition, Shahid refers to a martyr or a witness to faith. The term is derived from the Arabic root 'sh-h-d', which appears in the Quran, such as in Surah Al-Baqarah, 'And do not kill the soul which Allah has forbidden, except by right.' (2: 33) and 'Whoever kills an innocent person, it is as if he has killed all of humanity.' (5: 32). The name symbolizes courage, conviction, and the importance of bearing witness to one's faith."
+    },
+    "pronunciation": {
+      "english": "shah-heed",
+      "urdu": "شاہد کا تلفظ شا-ہید ہے",
+      "hindi": "शाहिद का उच्चारण शा-हीद है",
+      "pashto": "شاهد د تلفظ شا-هيد دی",
+      "ipa": "/ʃɑːˈhiːd/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#ShahidMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Shahid"
+    ],
+    "name_variations": [
+      "Shaid"
+    ],
+    "popularity_score": 66,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 75,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Shahid Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Shahid, a beautiful Islam name meaning \"Witness\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Shahid, Islam name, baby names, Witness, Islam baby names, name meaning",
+      "description_paragraph": "Shahid is a meaningful Islam name of Arabic origin that means \"Witness\". Someone who bears witness to the truth",
+      "keywords": [
+        "Shahid",
+        "Islam name",
+        "baby names",
+        "Witness",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Shahid in Islam tradition?",
+          "a": "Shahid is a beautiful Islam name meaning \"Witness\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Shahid a good Islam name for a baby?",
+          "a": "Yes, Shahid is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Shahid?",
+          "a": "The name Shahid has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Shahid correctly?",
+          "a": "Shahid is pronounced shah-heed in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Shahid?",
+          "a": "Naming a child Shahid brings blessings. The meaning \"Witness\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Shahid?",
+          "a": "Shahid is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 95,
+      "focus_keyword": "Shahid meaning",
+      "secondary_keywords": [
+        "Islam name Shahid",
+        "Shahid meaning",
+        "Shahid origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The Islamic term \"Shahid\" has significant cultural importance as it refers to an individual who lays down their life for the sake of Islam and faith, becoming a martyr. This title conveys courage, self-sacrifice, devotion, and dedication to their beliefs in the face of adversity. Shahids hold a strong symbolic and historical place within Islamic communities, as they are revered and regarded with great honor, often celebrated and remembered in the months following their death, particularly during martyrs' commemoration events. Their stories of valor and commitment continue to inspire future generations.",
+    "spiritual_significance": "The term \"Shahid\" carries a profound spiritual meaning. At its core, it refers to someone who bears witness to the truth – the fundamental tenets of Islam – and, as a result, spreads the message of peace, love, and submission to God. In this sense, anyone who lives their life embodying these teachings and striving for truthfulness can be considered a spiritual \"Shahid.\" However, attaining the title of a martyr holds deep spiritual significance due to the supreme act of self-sacrifice. Ultimately, being a Shahid transcends worldly life and leads to eternal peace and prosperity in the hereafter.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Ibn Khaldun describes Shahid as the leader of the Banu Hilal tribe in the 11th century. The name Shahid carried significant weight in that era.",
+        "time_period": "11th century",
+        "context": "Ibn Khaldun's 'The Muqaddimah'"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "used as a given name in the Muslim world"
+      ],
+      "platforms": [
+        "social media, personal names"
+      ],
+      "modern_context": "The name Shahid is of Arabic origin and translates to 'witness' or 'martyr' in English. It is a name with historical significance, as it was borne by the leader of the Banu Hilal tribe during the Middle Ages. Today, the name is used as a given name in the Muslim world and can be found on various social media platforms and personal names."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Shahid",
+      "location": "Karachi, Pakistan",
+      "story": "Zainab Shahid from Karachi, Pakistan embodies the meaning of Shahid - \"Witness\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Witness\" symbolizes Someone who bears witness to the truth. In Islamic spirituality, bearing the name Shahid serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of witness.",
+    "created_at": "2025-12-22T19:19:49.855Z",
+    "updated_at": "2025-12-22T04:53:14.886Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1501,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Shahid",
+      "description": "Witness",
+      "additionalName": [
+        "Shaid"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Pashto",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Shahid",
+          "description": "Discover the meaning of Shahid - \"Witness\"",
+          "image": "/images/social/shahid-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Shahid - Name Meaning",
+          "description": "Learn about the beautiful name Shahid",
+          "image": "/images/social/shahid-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Shahid",
+          "description": "Name meaning: Witness",
+          "image": "/images/social/shahid-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Shahid - Meaning: Witness",
+        "email_subject": "Beautiful Name: Shahid"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Shahid with meaning Witness",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saim",
+      "sadaldin",
+      "saal"
+    ]
+  }
+}

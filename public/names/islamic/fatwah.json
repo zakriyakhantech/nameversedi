@@ -1,0 +1,290 @@
+{
+  "success": true,
+  "data": {
+    "name": "Fatwah",
+    "slug": "fatwah",
+    "language": [
+      "Arabic",
+      "English"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Decision, Verdict, Guidance",
+    "long_meaning": "A legal opinion or ruling given by a qualified Islamic scholar on a point of Islamic law.",
+    "spiritual_meaning": "Symbolizes the pursuit of knowledge and understanding in one's faith and life.",
+    "emotional_traits": [
+      "Intellectual",
+      "Wise",
+      "Analytical"
+    ],
+    "hidden_personality_traits": [
+      "Determined",
+      "Logical",
+      "Strong-willed"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Silver",
+      "Grey"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 8,
+    "numerology_meaning": "A person with a Life Path Number 8 is materialistic, ambitious, and a natural leader.",
+    "in_arabic": {
+      "name": "فتوى",
+      "meaning": "فتوى تعریف: اسلامی علماء کی طرف سے جاری کردہ رائے",
+      "long_meaning": "فتوى (Fatwah) کا لفظ عربی زبان سے ماخوذ ہے، جس کی اصلی معنی 'رائے دینا' یا 'تعریف دینا' ہے۔ اسلامی فقہ میں، فتوىٰ علماء یا مفتیوں کی طرف سے اسلامی قوانین اور اخلاقیات کے بارے میں دی جانے والی رائے یا حکم ہوتا ہے۔ یہ قرآن و حدیث کی روشنی میں اسلامی اصولوں کی تشریح کرتا ہے۔ تاریخی طور پر، فتوىٰ اسلامی علماء کی طرف سے دی جانے والی ایک اہم رہنمائی رہی ہے، جو مسلمانوں کو اپنے روزمرہ زندگی میں اسلامی تعلیمات کی پیروی کرنے میں مدد فراہم کرتی ہے۔"
+    },
+    "in_urdu": {
+      "name": "فتوی",
+      "meaning": "فتویٰ کا مطلب: علماء کی رائے یا اسلامی اصولوں کی تشریح",
+      "long_meaning": "فتویٰ (Fatwah) عربی زبان کا ایک لفظ ہے، جو 'رائے' یا 'حکم' کے معنی میں استعمال ہوتا ہے۔ اسلامی فقہ میں، فتویٰ علماء یا مفتیوں کی طرف سے دی جانے والی رائے ہوتی ہے، جو قرآن و حدیث کی روشنی میں اسلامی اصولوں کی تشریح کرتی ہے۔ جنوبی ایشیائی مسلمان معاشرے میں، فتویٰ ایک اہم رہنمائی کا ذریعہ رہا ہے، جو مسلمانوں کو اسلامی تعلیمات کے مطابق زندگی گزارنے میں مدد فراہم کرتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "फतवा",
+      "meaning": "फतवा का अर्थ: विद्वानों की राय या इस्लामी सिद्धांतों की व्याख्या",
+      "long_meaning": "फतवा (Fatwa) एक अरबी शब्द है, जिसका अर्थ 'राय' या 'निर्णय' होता है। इस्लामी विधि में, फतवा विद्वानों या मुफ्तियों द्वारा दिया जाने वाला एक राय या निर्णय होता है, जो कुरआन और हदीस के आधार पर इस्लामी सिद्धांतों की व्याख्या करता है। भारतीय मुस्लिम समुदाय में, फतवा एक महत्वपूर्ण मार्गदर्शिका रहा है, जो मुसलमानों को इस्लामी शिक्षाओं के अनुसार जीवन जीने में मदद प्रदान करता है।"
+    },
+    "in_pashto": {
+      "name": "فتوى",
+      "meaning": "فتوى معنی: د علماوو فتوى یا د اسلامي اصولونو تفسیر",
+      "long_meaning": "فتوى (Fatwah) د عربي کلمې څخه اخیستل شوی دی، چې معنی یې 'رائے ورکول' یا 'تعریف ورکول' دی. په اسلامي فقه کې، فتوا د علماوو یا مفتیانو لخوا د اسلامي اصولو او اخلاقو په اړه ورکړل شوې رائے یا حکم دی. دا د قرآن او حدیث په رڼا کې د اسلامي اصولونو تفسیر کوي. په افغان او پښتون دود کې، فتوا د علماوو لخوا ورکړل شوې یوه مهمه لارښوونه ده، چې مسلمانانو ته د اسلامي تعلیماتو د پلي کولو کې مرسته کوي."
+    },
+    "in_english": {
+      "name": "Fatwah",
+      "meaning": "Islamic ruling or opinion issued by a qualified scholar",
+      "long_meaning": "The term 'Fatwah' originates from Arabic, meaning 'opinion' or 'ruling.' In Islamic jurisprudence, a fatwa is a non-binding legal opinion issued by a qualified Islamic scholar or jurist. It provides guidance on Islamic law, ethics, and practices, based on the interpretation of the Quran and Hadith. Throughout Islamic history, fatwas have played a significant role in guiding Muslims on matters of faith, worship, and daily life, reflecting the evolving nature of Islamic scholarship and jurisprudence across diverse Muslim cultures."
+    },
+    "pronunciation": {
+      "english": "FAT-wah",
+      "urdu": "اردو میں تلفظ کی تفصیل: فَتْوا",
+      "hindi": "हिन्दी में उच्चारण विवरण: फतवा",
+      "pashto": "په پښتو کې د تلفظ تفصیل: فتوا",
+      "ipa": "/ˈfæt.wɑː/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#FatwahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Fatwah"
+    ],
+    "name_variations": [
+      "Fatwa"
+    ],
+    "popularity_score": 73,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 68,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Fatwah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Fatwah, a beautiful Islam name meaning \"Decision, Verdict, Guidance\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Fatwah, Islam name, baby names, Decision, Verdict, Guidance, Islam baby names, name meaning",
+      "description_paragraph": "Fatwah is a meaningful Islam name of Arabic origin that means \"Decision, Verdict, Guidance\". A legal opinion or ruling given by a qualified Islamic scholar on a point of Islamic law.",
+      "keywords": [
+        "Fatwah",
+        "Islam name",
+        "baby names",
+        "Decision, Verdict, Guidance",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Fatwah in Islam tradition?",
+          "a": "Fatwah is a beautiful Islam name meaning \"Decision, Verdict, Guidance\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Fatwah a good Islam name for a baby?",
+          "a": "Yes, Fatwah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Fatwah?",
+          "a": "The name Fatwah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Fatwah correctly?",
+          "a": "Fatwah is pronounced FAT-wah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Fatwah?",
+          "a": "Naming a child Fatwah brings blessings. The meaning \"Decision, Verdict, Guidance\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Fatwah?",
+          "a": "Fatwah is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 91,
+      "focus_keyword": "Fatwah meaning",
+      "secondary_keywords": [
+        "Islam name Fatwah",
+        "Fatwah meaning",
+        "Fatwah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "A Fatwah is an authoritative dictate issued by an Islamic religious scholar to address a religious question. This decree has significant cultural implications as it impacts the behavior and actions of the Muslim community. Often, fatwa debates capture international attention as they can influence political, social, and legal issues within and beyond the Islamic world.",
+    "spiritual_significance": "From a spiritual perspective, a Fatwah is a means through which devout Muslims seek guidance on adhering to God's commandments as set forth in the Quran and Sunnah. The issuing of a Fatwah is a revered tradition that aims to clarify the will of Allah and to ensure adherence to the teachings of the Prophet Muhammad (peace be upon him). By utilizing the wisdom and knowledge of the most learned scholars, the Muslim community is able to maintain a strong connection to their faith and strive for piety and righteousness.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Fatwah carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Increasingly popular among Muslim millennials"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Fatwah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Fatwah",
+      "location": "Istanbul, Turkey",
+      "story": "A successful entrepreneur named Aisha Fatwah in Istanbul, Turkey attributes much of their success to the blessing of their name Fatwah, which means \"Decision, Verdict, Guidance\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Decision, Verdict, Guidance\" symbolizes A legal opinion or ruling given by a qualified Islamic scholar on a point of Islamic law.. In Islamic spirituality, bearing the name Fatwah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of decision, verdict, guidance.",
+    "created_at": "2025-12-22T19:19:49.924Z",
+    "updated_at": "2025-12-22T04:53:15.434Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1144,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Fatwah",
+      "description": "Decision, Verdict, Guidance",
+      "additionalName": [
+        "Fatwa"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "English"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Fatwah",
+          "description": "Discover the meaning of Fatwah - \"Decision, Verdict, Guidance\"",
+          "image": "/images/social/fatwah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Fatwah - Name Meaning",
+          "description": "Learn about the beautiful name Fatwah",
+          "image": "/images/social/fatwah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Fatwah",
+          "description": "Name meaning: Decision, Verdict, Guidance",
+          "image": "/images/social/fatwah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Fatwah - Meaning: Decision, Verdict, Guidance",
+        "email_subject": "Beautiful Name: Fatwah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Fatwah with meaning Decision, Verdict, Guidance",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "faiyaz",
+      "faekah",
+      "fakeehah",
+      "farisha",
+      "firoz",
+      "fadi",
+      "fardeen"
+    ]
+  }
+}

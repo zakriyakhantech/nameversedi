@@ -1,0 +1,459 @@
+---
+// NameVerse Navbar — Astro conversion
+// React state converted to vanilla JS in <script> at bottom.
+
+const categoryLinks = [
+  { name: 'All Baby Names', href: '/names', icon: 'list', description: 'Browse the full name directory' },
+  { name: 'Islamic Names', href: '/islamic/boy-names', icon: 'book', description: 'Quranic, Arabic and Urdu names', badge: 'Popular' },
+  { name: 'Islamic Boy Names', href: '/islamic/boy-names', icon: 'book', description: 'Male Islamic names' },
+  { name: 'Islamic Girl Names', href: '/islamic/girl-names', icon: 'book', description: 'Female Islamic names' },
+  { name: 'Christian Names', href: '/christian/boy-names', icon: 'book', description: 'Biblical and modern names', badge: 'Popular' },
+  { name: 'Christian Boy Names', href: '/christian/boy-names', icon: 'book', description: 'Male Christian names' },
+  { name: 'Christian Girl Names', href: '/christian/girl-names', icon: 'book', description: 'Female Christian names' },
+  { name: 'Hindu Names', href: '/hindu/boy-names', icon: 'sparkles', description: 'Sanskrit and Vedic names', badge: 'Popular' },
+  { name: 'Hindu Boy Names', href: '/hindu/boy-names', icon: 'sparkles', description: 'Male Hindu names' },
+  { name: 'Hindu Girl Names', href: '/hindu/girl-names', icon: 'sparkles', description: 'Female Hindu names' },
+  { name: 'Biblical Names', href: '/names/christian/categories/biblical/1', icon: 'book', description: 'Names from the Bible' },
+  { name: 'Quranic Names', href: '/names/islamic/categories/quranic/1', icon: 'book', description: 'Names from the Quran' },
+];
+
+const exploreLinks = [
+  { name: 'By Meaning', href: '/names-by-meaning', icon: 'heart', description: 'Browse names by their meanings' },
+  { name: 'By Origin', href: '/names-by-origin', icon: 'globe', description: 'Names by linguistic origin' },
+  { name: 'By Letter', href: '/names/islamic/letter/a/1', icon: 'hash', description: 'A–Z name browsing' },
+  { name: 'Trending Names', href: '/trending-names', icon: 'trending', description: 'Names gaining search interest', badge: 'Hot' },
+  { name: 'Unique Names', href: '/unique-names', icon: 'sparkles', description: 'Distinctive naming ideas' },
+  { name: 'Popular Names', href: '/popularity', icon: 'heart', description: 'Popularity and discovery tools' },
+  { name: 'Name Meanings', href: '/name-meanings', icon: 'book', description: 'Meaning-led research' },
+  { name: 'Advanced Search', href: '/advanced-search', icon: 'search', description: 'Filter by meaning and origin' },
+  { name: 'Knowledge Graph', href: '/names-by-meaning', icon: 'sparkles', description: 'Entity relationships and connections' },
+];
+
+const resourceLinks = [
+  { name: 'Blog', href: '/blog', icon: 'book', description: 'Expert naming guides' },
+  { name: 'Expert Naming Guide', href: '/guides/expert-naming-guide', icon: 'sparkles', description: 'Decision framework' },
+  { name: 'Popular by State', href: '/popular-by-state', icon: 'globe', description: 'US state popularity' },
+  { name: 'Saved Names', href: '/my-names', icon: 'heart', description: 'Your personal shortlist' },
+  { name: 'About NameVerse', href: '/about', icon: 'book', description: 'Our mission and team' },
+];
+
+const navItems = [
+  { name: 'Home', href: '/', icon: 'home' },
+  { name: 'Names', href: '/names', dropdown: categoryLinks, icon: 'list' },
+  { name: 'Categories', href: '/names', dropdown: exploreLinks, icon: 'sparkles' },
+  { name: 'Blog', href: '/blog', icon: 'book' },
+  { name: 'About', href: '/about', icon: 'book' },
+];
+
+const directLinks = [
+  { name: 'Home', href: '/', icon: 'home' },
+  { name: 'About', href: '/about', icon: 'book' },
+];
+
+// Inline SVG icons
+const icons = {
+  home: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>`,
+  list: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="8" x2="21" y1="6" y2="6"/><line x1="8" x2="21" y1="12" y2="12"/><line x1="8" x2="21" y1="18" y2="18"/><line x1="3" x2="3.01" y1="6" y2="6"/><line x1="3" x2="3.01" y1="12" y2="12"/><line x1="3" x2="3.01" y1="18" y2="18"/></svg>`,
+  book: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>`,
+  sparkles: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/><path d="M20 3v4"/><path d="M22 5h-4"/></svg>`,
+  chevron: `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>`,
+  heart: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/></svg>`,
+  globe: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>`,
+  hash: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" x2="20" y1="9" y2="9"/><line x1="4" x2="20" y1="15" y2="15"/><line x1="10" x2="8" y1="3" y2="21"/><line x1="16" x2="14" y1="3" y2="21"/></svg>`,
+  trending: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/><polyline points="16 7 22 7 22 13"/></svg>`,
+  search: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>`,
+  sun: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>`,
+  moon: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>`,
+  menu: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/></svg>`,
+  x: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>`,
+};
+
+function getIcon(name) {
+  return icons[name] || icons.book;
+}
+---
+
+<nav class="nv-navbar-sticky sticky top-0 z-[100] border-b border-nv-border bg-nv-surface/90 backdrop-blur-md" id="nv-navbar" aria-label="Main navigation">
+  <div class="mx-auto flex h-14 max-w-7xl items-center justify-between gap-3 px-4 sm:px-6">
+    <!-- Logo -->
+    <a href="/" class="flex shrink-0 items-center gap-2.5" aria-label="NameVerse home">
+      <div class="grid h-9 w-9 place-items-center rounded-lg bg-nv-primary text-white shadow-sm">
+        <span class="text-lg font-black leading-none">N</span>
+      </div>
+      <div class="hidden sm:block">
+        <div class="text-sm font-black tracking-tight text-nv-text leading-none">NameVerse</div>
+        <div class="text-xs font-medium text-nv-text-muted leading-tight mt-0.5">Meanings & origins</div>
+      </div>
+    </a>
+
+    <!-- Desktop nav -->
+    <div class="hidden items-center gap-1 xl:flex">
+      {
+        navItems.map((item) => {
+          const iconName = item.icon;
+          const hasDropdown = Boolean(item.dropdown);
+          return (
+            <div class="relative" data-nav-item={item.name}>
+              {hasDropdown ? (
+                <button
+                  type="button"
+                  data-dropdown-trigger={item.name}
+                  aria-expanded="false"
+                  class="nv-nav-link inline-flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-sm font-semibold transition text-nv-text-secondary hover:bg-nv-surface-subtle hover:text-nv-text"
+                >
+                  <span class="h-4 w-4" set:html={getIcon(iconName)}></span>
+                  {item.name}
+                  <span class="nv-chevron h-3.5 w-3.5 transition" set:html={icons.chevron}></span>
+                </button>
+              ) : (
+                <a
+                  href={item.href}
+                  class="nv-nav-link inline-flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-sm font-semibold transition text-nv-text-secondary hover:bg-nv-surface-subtle hover:text-nv-text"
+                >
+                  <span class="h-4 w-4" set:html={getIcon(iconName)}></span>
+                  {item.name}
+                </a>
+              )}
+
+              {hasDropdown && (
+                <div
+                  data-dropdown-panel={item.name}
+                  class="nv-dropdown invisible absolute left-0 top-full z-50 mt-2 w-[280px] overflow-hidden rounded-xl border border-nv-border bg-nv-surface p-1.5 shadow-lg opacity-0"
+                >
+                  {item.dropdown.map((link) => (
+                    <a
+                      key={link.href}
+                      href={link.href}
+                      data-dropdown-link
+                      class="flex items-start gap-2.5 rounded-lg p-2.5 transition hover:bg-nv-surface-subtle"
+                    >
+                      <div class="grid h-8 w-8 shrink-0 place-items-center rounded-lg bg-nv-surface-subtle text-nv-accent">
+                        <span class="h-4 w-4" set:html={getIcon(link.icon)}></span>
+                      </div>
+                      <div class="min-w-0">
+                        <div class="flex items-center gap-1.5">
+                          <div class="text-sm font-semibold text-nv-text truncate">{link.name}</div>
+                          {link.badge && (
+                            <span class="shrink-0 rounded-full bg-nv-accent-subtle px-1.5 py-0.5 text-[10px] font-bold text-nv-accent uppercase tracking-wide">
+                              {link.badge}
+                            </span>
+                          )}
+                        </div>
+                        <div class="mt-0.5 text-xs leading-relaxed text-nv-text-muted">{link.description}</div>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              )}
+            </div>
+          );
+        })
+      }
+    </div>
+
+    <!-- Desktop actions -->
+    <div class="hidden items-center gap-2 xl:flex">
+      <button
+        type="button"
+        data-theme-toggle
+        class="grid h-9 w-9 place-items-center rounded-lg border border-nv-border bg-nv-surface text-nv-text-secondary transition hover:border-nv-accent hover:bg-nv-accent-subtle hover:text-nv-accent"
+        aria-label="Toggle theme"
+      >
+        <span class="h-4 w-4" data-theme-icon set:html={icons.moon}></span>
+      </button>
+      <a
+        href="/search"
+        class="inline-flex items-center gap-2 rounded-lg border border-nv-border bg-nv-surface px-3.5 py-2 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent hover:bg-nv-accent-subtle hover:text-nv-accent"
+        aria-label="Search names"
+      >
+        <span class="h-4 w-4" set:html={icons.search}></span>
+        Search
+      </a>
+      <a
+        href="/search"
+        class="inline-flex items-center justify-center rounded-lg bg-nv-primary px-4 py-2 text-sm font-semibold text-white transition hover:bg-nv-primary-hover"
+      >
+        Start searching
+      </a>
+    </div>
+
+    <!-- Mobile actions -->
+    <div class="flex items-center gap-1.5 lg:hidden">
+      <a href="/search" class="grid h-9 w-9 place-items-center rounded-lg border border-nv-border bg-nv-surface text-nv-text-secondary" aria-label="Search names">
+        <span class="h-4 w-4" set:html={icons.search}></span>
+      </a>
+      <button
+        type="button"
+        data-menu-toggle
+        class="grid h-9 w-9 place-items-center rounded-lg border border-nv-border bg-nv-surface text-nv-text-secondary"
+        aria-label="Open menu"
+      >
+        <span class="h-4 w-4" data-menu-icon set:html={icons.menu}></span>
+      </button>
+    </div>
+  </div>
+
+  <!-- Mobile menu -->
+  <div data-mobile-menu class="fixed inset-x-0 top-14 z-[102] hidden max-h-[calc(100vh-3.5rem)] flex-col bg-nv-surface shadow-xl lg:hidden">
+    <div class="flex-1 overflow-y-auto px-4 py-4">
+      <div class="mb-4 grid grid-cols-2 gap-2">
+        <button
+          type="button"
+          data-mobile-theme-toggle
+          class="rounded-lg border border-nv-border bg-nv-surface-subtle px-3 py-2.5 text-sm font-semibold text-nv-text-secondary"
+        >
+          Dark mode
+        </button>
+        <a href="/search" data-mobile-link class="rounded-lg bg-nv-primary px-3 py-2.5 text-center text-sm font-semibold text-white">
+          Search
+        </a>
+      </div>
+
+      <div class="space-y-1.5">
+        {
+          navItems.map((item) => {
+            const hasDropdown = Boolean(item.dropdown);
+            return (
+              <div class="overflow-hidden rounded-xl border border-nv-border bg-nv-surface" data-mobile-section>
+                <button
+                  type="button"
+                  data-mobile-trigger={item.name}
+                  class="flex w-full items-center justify-between gap-2 px-3 py-3 text-left"
+                >
+                  <div class="flex items-center gap-2.5">
+                    <div class="grid h-8 w-8 place-items-center rounded-lg bg-nv-accent-subtle text-nv-accent">
+                      <span class="h-4 w-4" set:html={getIcon(item.icon)}></span>
+                    </div>
+                    <div>
+                      <div class="text-sm font-semibold text-nv-text">{item.name}</div>
+                      <div class="text-xs text-nv-text-muted">{hasDropdown ? 'Open section' : 'Open page'}</div>
+                    </div>
+                  </div>
+                  {hasDropdown && (
+                    <span class="nv-mobile-chevron h-4 w-4 text-nv-text-muted transition" set:html={icons.chevron}></span>
+                  )}
+                </button>
+                {hasDropdown && (
+                  <div data-mobile-panel={item.name} class="hidden space-y-1 border-t border-nv-border bg-nv-surface-subtle px-2.5 py-2.5">
+                    {item.dropdown.map((link) => (
+                      <a
+                        key={link.href}
+                        href={link.href}
+                        data-mobile-link
+                        class="flex items-center gap-2.5 rounded-lg px-2.5 py-2.5 text-sm font-medium text-nv-text-secondary hover:bg-nv-surface"
+                      >
+                        <span class="h-4 w-4 text-nv-accent" set:html={getIcon(link.icon)}></span>
+                        {link.name}
+                      </a>
+                    ))}
+                  </div>
+                )}
+              </div>
+            );
+          })
+        }
+
+        {
+          directLinks.map((link) => (
+            <a
+              key={link.href}
+              href={link.href}
+              data-mobile-link
+              class="flex items-center gap-2.5 rounded-xl border border-nv-border bg-nv-surface px-3 py-3 text-sm font-semibold text-nv-text-secondary"
+            >
+              <span class="h-4 w-4 text-nv-accent" set:html={getIcon(link.icon)}></span>
+              {link.name}
+            </a>
+          ))
+        }
+      </div>
+
+      <div class="mt-4 flex gap-2">
+        <a href="/search" data-mobile-link class="flex-1 inline-flex items-center justify-center rounded-lg border border-nv-border bg-nv-surface px-4 py-3 text-sm font-semibold text-nv-text-secondary">
+          Search names
+        </a>
+        <a href="/search" data-mobile-link class="flex-1 inline-flex items-center justify-center rounded-lg bg-nv-accent px-4 py-3 text-sm font-semibold text-white">
+          Get started
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile overlay -->
+  <div data-mobile-overlay class="fixed inset-0 z-[101] hidden bg-nv-text/40 backdrop-blur-sm lg:hidden"></div>
+</nav>
+
+<style>
+  .nv-navbar-sticky {
+    font-family: var(--font-body), ui-sans-serif, system-ui, sans-serif;
+  }
+
+  .nv-dropdown {
+    transition: opacity 0.15s ease, visibility 0.15s ease;
+  }
+
+  .nv-dropdown.open {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  .nv-chevron.rotate {
+    transform: rotate(180deg);
+  }
+</style>
+
+<script>
+  (function () {
+    var nav = document.getElementById('nv-navbar');
+    if (!nav) return;
+
+    var currentPath = window.location.pathname;
+    if (currentPath !== '/' && currentPath.endsWith('/')) {
+      currentPath = currentPath.slice(0, -1);
+    }
+
+    // ─── Theme ───
+    var themeBtn = nav.querySelector('[data-theme-toggle]');
+    var themeIcon = nav.querySelector('[data-theme-icon]');
+    var mobileThemeBtn = nav.querySelector('[data-mobile-theme-toggle]');
+
+    var sunIcon =
+      '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>';
+    var moonIcon =
+      '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>';
+
+    function applyTheme(isDark) {
+      if (isDark) {
+        document.documentElement.classList.add('dark');
+      } else {
+        document.documentElement.classList.remove('dark');
+      }
+      if (themeIcon) themeIcon.innerHTML = isDark ? sunIcon : moonIcon;
+      if (mobileThemeBtn) mobileThemeBtn.textContent = isDark ? 'Light mode' : 'Dark mode';
+    }
+
+    var storedTheme = null;
+    try { storedTheme = window.localStorage.getItem('nameverse-theme'); } catch (e) {}
+
+    var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    var isDark = storedTheme ? storedTheme === 'dark' : prefersDark;
+    applyTheme(isDark);
+
+    function toggleTheme() {
+      isDark = !isDark;
+      applyTheme(isDark);
+      try { window.localStorage.setItem('nameverse-theme', isDark ? 'dark' : 'light'); } catch (e) {}
+    }
+
+    if (themeBtn) themeBtn.addEventListener('click', toggleTheme);
+    if (mobileThemeBtn) mobileThemeBtn.addEventListener('click', toggleTheme);
+
+    // ─── Mobile menu ───
+    var menuToggle = nav.querySelector('[data-menu-toggle]');
+    var menuIcon = nav.querySelector('[data-menu-icon]');
+    var mobileMenu = nav.querySelector('[data-mobile-menu]');
+    var mobileOverlay = nav.querySelector('[data-mobile-overlay]');
+
+    var menuIconSvg =
+      '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/></svg>';
+    var closeIconSvg =
+      '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>';
+
+    var menuOpen = false;
+
+    function setMenuOpen(open) {
+      menuOpen = open;
+      if (menuToggle) menuToggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+      if (menuIcon) menuIcon.innerHTML = open ? closeIconSvg : menuIconSvg;
+      if (mobileMenu) {
+        mobileMenu.classList.toggle('hidden', !open);
+        mobileMenu.classList.toggle('flex', open);
+      }
+      if (mobileOverlay) mobileOverlay.classList.toggle('hidden', !open);
+      document.body.style.overflow = open ? 'hidden' : '';
+    }
+
+    if (menuToggle) menuToggle.addEventListener('click', function () { setMenuOpen(!menuOpen); });
+    if (mobileOverlay) mobileOverlay.addEventListener('click', function () { setMenuOpen(false); });
+
+    // Close mobile menu on links
+    var mobileLinks = nav.querySelectorAll('[data-mobile-link]');
+    mobileLinks.forEach(function (link) {
+      link.addEventListener('click', function () { setMenuOpen(false); });
+    });
+
+    // ─── Mobile dropdown sections ───
+    var mobileTriggers = nav.querySelectorAll('[data-mobile-trigger]');
+    mobileTriggers.forEach(function (trigger) {
+      trigger.addEventListener('click', function () {
+        var name = trigger.getAttribute('data-mobile-trigger');
+        var panel = nav.querySelector('[data-mobile-panel="' + name + '"]');
+        var chevron = trigger.querySelector('.nv-mobile-chevron');
+        if (panel) {
+          var isOpen = !panel.classList.contains('hidden');
+          panel.classList.toggle('hidden', isOpen);
+          if (chevron) chevron.classList.toggle('rotate-180', !isOpen);
+        }
+      });
+    });
+
+    // ─── Desktop dropdowns ───
+    var dropdownTriggers = nav.querySelectorAll('[data-dropdown-trigger]');
+    var openDropdown = null;
+
+    function closeDropdown() {
+      if (openDropdown) {
+        var panel = nav.querySelector('[data-dropdown-panel="' + openDropdown + '"]');
+        var trigger = nav.querySelector('[data-dropdown-trigger="' + openDropdown + '"]');
+        if (panel) panel.classList.remove('open');
+        if (trigger) {
+          trigger.setAttribute('aria-expanded', 'false');
+          var chevron = trigger.querySelector('.nv-chevron');
+          if (chevron) chevron.classList.remove('rotate');
+        }
+        openDropdown = null;
+      }
+    }
+
+    dropdownTriggers.forEach(function (trigger) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var name = trigger.getAttribute('data-dropdown-trigger');
+        if (openDropdown === name) {
+          closeDropdown();
+        } else {
+          closeDropdown();
+          openDropdown = name;
+          var panel = nav.querySelector('[data-dropdown-panel="' + name + '"]');
+          if (panel) panel.classList.add('open');
+          trigger.setAttribute('aria-expanded', 'true');
+          var chevron = trigger.querySelector('.nv-chevron');
+          if (chevron) chevron.classList.add('rotate');
+        }
+      });
+    });
+
+    document.addEventListener('click', function (event) {
+      if (openDropdown && nav && !nav.contains(event.target)) {
+        closeDropdown();
+      }
+    });
+
+    // ─── Active link highlighting ───
+    function isActive(href) {
+      var target = href.split('?')[0];
+      if (target !== '/' && target.endsWith('/')) target = target.slice(0, -1);
+      if (target === '/') return currentPath === '/';
+      return currentPath === target || currentPath.startsWith(target + '/');
+    }
+
+    var links = nav.querySelectorAll('.nv-nav-link[href]');
+    links.forEach(function (link) {
+      var href = link.getAttribute('href');
+      if (isActive(href)) {
+        link.classList.add('bg-nv-accent-subtle');
+        link.classList.add('text-nv-accent');
+      }
+    });
+  })();
+</script>

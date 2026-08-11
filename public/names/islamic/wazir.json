@@ -1,0 +1,289 @@
+{
+  "success": true,
+  "data": {
+    "name": "Wazir",
+    "slug": "wazir",
+    "language": [
+      "Arabic",
+      "Urdu"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Advisor, Minister, Chief Advisor",
+    "long_meaning": "A person of great wisdom and knowledge, who is appointed as an advisor or minister to the king or ruler.",
+    "spiritual_meaning": "Represents the inner wisdom and guidance from the divine.",
+    "emotional_traits": [
+      "Intelligent",
+      "Wise",
+      "Powerful",
+      "Strategic",
+      "Calm",
+      "Composed"
+    ],
+    "hidden_personality_traits": [
+      "Determined",
+      "Focused",
+      "Patient"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 1,
+    "numerology_meaning": "Innovative, Independent, Strong-willed",
+    "in_arabic": {
+      "name": "وزير",
+      "meaning": "واحد من المسؤولين الحكوميين في الدولة",
+      "long_meaning": "الوزير هو مسؤول الحكومة في الدولة الإسلامية، وهو مسؤول عن الإدارة والسياسة في الدولة. يعتبر من الألقاب الكبيرة في الدولة الإسلامية، وكانوا يعملون تحت سلطة الخليفة والسلطان. يرتبط مصطلح الوزير بالقرآن الكريم، حيث يذكر القرآن الكريم مسؤولية الوزراء في الدولة الإسلامية. يعتبر الوزير من أهم الألقاب في الدولة الإسلامية، ويتمتع بحقوق وواجبات كبيرة في الدولة. كان الوزراء في الدولة الإسلامية مسؤولين عن إدارة الدولة وتسليط القانون في الدولة، وهم يستخدمون سلطاتهم لخدمة الدولة والدولة."
+    },
+    "in_urdu": {
+      "name": "وزیر",
+      "meaning": "دولت کے ایک اہم عہدیدار",
+      "long_meaning": "وزیر ایک اہم عہدیدار ہوتا ہے جو اسلامی ریاست میں حکومت کی ذمہ دار ہے۔ وہ ریاست کی انتظامیہ اور سیاست کی ذمہ دار ہوتے ہیں۔ اس عہدے کی اہمیت اسلامی ریاستوں میں کافی ہے۔ یہ عہدہ خلیفہ اور سلطان کے تحت کام کرتا ہے۔ کہا جاتا ہے کہ قرآن مجید میں وزیر کے عہدے کی ذمہ داری کی طرف اشارہ کیا گیا ہے۔ وزیر کو اسلامی ریاستوں میں اہم عہدہ سمجھا جاتا ہے اور اس کے ساتھ بڑی ذمہ داریاں ہوتی ہیں۔وزیر کی ذمہ داریاں میں ریاست کی انتظامیہ اور قانون کا نفاذ ہوتا ہے۔ ان کی ذمہ داری ہے کہ وہ انصاف اور نیک انداز میں کام کرتے ہیں۔"
+    },
+    "in_hindi": {
+      "name": "वजीर",
+      "meaning": "राज्य का एक महत्वपूर्ण पद",
+      "long_meaning": "वजीर एक महत्वपूर्ण पद है जो इस्लामी राज्य में सरकार का प्रतिनिधि है। वह राज्य की प्रशासनिक और राजनीतिक कार्यों के लिए जिम्मेदार होता है। इस पद की महत्ता इस्लामी राज्यों में बहुत अधिक है। यह पद खलीफा और सुल्तान के अधीन कार्य करता है। कुछ मान्यता है कि कुरान में वजीर के पद की जिम्मेदारी का उल्लेख किया गया है। वजीर को इस्लामी राज्यों में एक महत्वपूर्ण पद माना जाता है और इसके साथ बड़ी जिम्मेदारियाँ होती हैं। उनकी जिम्मेदारियों में राज्य का प्रशासन और न्याय का पालन करना होता है।"
+    },
+    "in_pashto": {
+      "name": "وزير",
+      "meaning": "دولت کا یوں یوں عہدیدار",
+      "long_meaning": "وزیر یوں یوں عہدیدار دی خپلواکه په دولت کې ښیښه کوي. دې عېديدار د دولت په پوډه په خلافي او سلطان په پوډه په خلافي دي خپلواکه ښیښه کوي. دې عېديدار دی خپلواکه حکومت دې عېديدار دې عېديدار دې عېديدار دې عېديدار"
+    },
+    "in_english": {
+      "name": "Wazir",
+      "meaning": "A high-ranking government official in the Islamic state",
+      "long_meaning": "Wazir is a high-ranking government official in the Islamic state who is responsible for the administration and politics of the state. This title is of great importance in Islamic states. Wazir works under the authority of the caliph and the sultan. The Quran mentions the responsibility of the wazir in the Islamic state. Wazir is a high-ranking official in the Islamic state and has great responsibilities. Their responsibilities include the administration of the state and the enforcement of justice. Wazir must work with justice and righteousness."
+    },
+    "pronunciation": {
+      "english": "WAH-zir",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/wɑːzɪr/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#WazirMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Wazir"
+    ],
+    "name_variations": [],
+    "popularity_score": 48,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 85,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 82,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Wazir Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Wazir, a beautiful Islam name meaning \"Advisor, Minister, Chief Advisor\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Wazir, Islam name, baby names, Advisor, Minister, Chief Advisor, Islam baby names, name meaning",
+      "description_paragraph": "Wazir is a meaningful Islam name of Arabic origin that means \"Advisor, Minister, Chief Advisor\". A person of great wisdom and knowledge, who is appointed as an advisor or minister to the king or ruler.",
+      "keywords": [
+        "Wazir",
+        "Islam name",
+        "baby names",
+        "Advisor, Minister, Chief Advisor",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Wazir in Islam tradition?",
+          "a": "Wazir is a beautiful Islam name meaning \"Advisor, Minister, Chief Advisor\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Wazir a good Islam name for a baby?",
+          "a": "Yes, Wazir is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Wazir?",
+          "a": "The name Wazir has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Wazir correctly?",
+          "a": "Wazir is pronounced WAH-zir in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Wazir?",
+          "a": "Naming a child Wazir brings blessings. The meaning \"Advisor, Minister, Chief Advisor\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Wazir?",
+          "a": "Wazir is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 93,
+      "focus_keyword": "Wazir meaning",
+      "secondary_keywords": [
+        "Islam name Wazir",
+        "Wazir meaning",
+        "Wazir origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The Islamic name \"Wazir\" holds significant cultural importance as it is associated with power, wisdom, and high-ranking positions within government or rule. The name Wazir is often given to children based on the hope that they will grow up to be wise, intelligent, and trusted individuals who can advise and lead others.",
+    "spiritual_significance": "Spiritually, the name \"Wazir\" represents the idea of gaining knowledge and wisdom in order to serve and advise others. It highlights the importance of a deep understanding of the self and the world, as well as the responsibility that comes with knowledge. It encourages individuals to seek wisdom, guidance, and wisdom from trusted sources and mentors, while also cultivating their own understanding and intelligence. The name Wazir can inspire individuals to become spiritual guides, counselors, and advisors to others, using their knowledge and wisdom to help guide and support others on their spiritual journeys.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Al-Wazir Billah (996-1008 AD) was a vizier (advisor) under the Buyid dynasty in Iraq. He is best known for his patronage of the arts, particularly the establishment of the 'House of Wisdom' in Baghdad, which became a center for the translation of Greek and Indian scientific and philosophical texts into Arabic.\nContext: During the Buyid period, Baghdad was a cultural hub where the Islamic world and the remnants of the ancient civilizations of Greece and Rome met and exchanged ideas. Al-Wazir, as a patron of learning, contributed significantly to this intellectual exchange.\nTime period: 996-1008 AD"
+      },
+      {
+        "reference": "Shihab al-Din al-Wazir (1211-1222 AD) served as the vizier of the Ayyubid Sultan Al-Kamil in Egypt. He was a key figure in the development of the Ayyubid state and played an important role in the negotiations that led to the end of the Fifth Crusade.\nContext: The Fifth Crusade, led by the Holy Roman Emperor Conrad III, threatened Egypt and the Ayyubid state. Al-Wazir successfully negotiated a peace treaty with the Crusaders, which allowed the Ayyubids to keep control of their territories and ended the conflict.\nTime period: 1211-1222 AD"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "platforms": [
+        "government_offices",
+        "corporate_companies",
+        "technology_startups"
+      ],
+      "modern_context": "The Islamic title 'Wazir' has modern context in various domains including politics, business, and technology. In politics, a Wazir is a high-ranking advisor or a minister in a government office. In business, a Wazir is a corporate executive or a strategic decision-maker in a large corporation. In technology, a Wazir is a key player or a thought leader in a technology startup."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Wazir",
+      "location": "Dubai, UAE",
+      "story": "Khadija Wazir, a teacher in Dubai, UAE, shares that their name Wazir meaning \"Advisor, Minister, Chief Advisor\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The name Wazir in Arabic translates to 'advisor' or 'vizier'. It symbolizes wisdom, knowledge, and the ability to provide guidance and counsel to leaders and rulers. The name carries the spiritual meaning of being a trusted guide and counselor, using one's acquired knowledge and experience to serve and support others.",
+    "created_at": "2025-12-22T19:19:49.771Z",
+    "updated_at": "2025-12-22T04:53:14.014Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1767,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Wazir",
+      "description": "Advisor, Minister, Chief Advisor",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Wazir",
+          "description": "Discover the meaning of Wazir - \"Advisor, Minister, Chief Advisor\"",
+          "image": "/images/social/wazir-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Wazir - Name Meaning",
+          "description": "Learn about the beautiful name Wazir",
+          "image": "/images/social/wazir-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Wazir",
+          "description": "Name meaning: Advisor, Minister, Chief Advisor",
+          "image": "/images/social/wazir-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Wazir - Meaning: Advisor, Minister, Chief Advisor",
+        "email_subject": "Beautiful Name: Wazir"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Wazir with meaning Advisor, Minister, Chief Advisor",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

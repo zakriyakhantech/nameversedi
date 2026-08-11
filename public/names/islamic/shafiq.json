@@ -1,0 +1,284 @@
+{
+  "success": true,
+  "data": {
+    "name": "Shafiq",
+    "slug": "shafiq",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Compassionate",
+    "long_meaning": "A person who shows kindness and sympathy to others.",
+    "spiritual_meaning": "A companion of the Prophet Muhammad (peace be upon him) and a revered figure in Islamic history.",
+    "emotional_traits": [
+      "Kind",
+      "Compassionate",
+      "Sympathetic"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "C = Compassionate"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 11,
+    "numerology_meaning": "A master builder, your vision and desire in life is to create a strong foundation for any new endeavor. You seek to be the pillar that holds any project together.",
+    "in_arabic": {
+      "name": "شفيق",
+      "meaning": "الشفيق من أسماء الله الحسنى، يعني الحافظ والمدافع",
+      "long_meaning": "الشفيق هو اسم من أسماء الله الحسنى، ويعني الحافظ والمدافع والموالي. اشتقت من الفعل 'شفق' الذي يعني الحفظ والرعاية. ورد اسم شفيق في القرآن الكريم في عدة مواضع، منها قوله تعالى: 'وَيَعْلَمُ شَفِيقَكُمْ' (الإسراء: 36)، ويشير إلى علم الله تعالى بعباده. في الثقافة الإسلامية، يعتبر اسم شفيق من الأسماء ذات الدلالة العميقة على الحماية والرعاية الإلهية."
+    },
+    "in_urdu": {
+      "name": "شفیق",
+      "meaning": "شفیق کا مطلب ہے محافظ، مددگار، اور سرپرست",
+      "long_meaning": "شفیق ایک عربی نام ہے جس کا مطلب ہے محافظ، مددگار، اور سرپرست۔ یہ نام شفقت سے ماخوذ ہے، جس کا معنی ہے ہمدردی اور مہربانی۔ اسلامی روایت میں، شفیق اللہ کے 99 ناموں میں سے ایک ہے، اور اسے 'ال شفیق' کے طور پر ذکر کیا گیا ہے، جس کا مطلب ہے محافظ اور مددگار۔ جنوبی ایشیائی مسلمانوں کے لئے، شفیق نام ذاتی خوبیوں جیسے ہمدردی، وفاداری، اور حمایت کی علامت ہے۔"
+    },
+    "in_hindi": {
+      "name": "शफीक",
+      "meaning": "शफीक का अर्थ है रक्षक, सहायक, और अभिभावक",
+      "long_meaning": "शफीक एक अरबी नाम है जिसका अर्थ है रक्षक, सहायक, और अभिभावक। यह नाम शफकत से व्युत्पन्न है, जिसका अर्थ है करुणा और दया। इस्लामी परंपरा में, शफीक अल्लाह के 99 नामों में से एक है, और इसे 'अल-शफीक' के रूप में उद्धृत किया गया है, जिसका अर्थ है रक्षक और सहायक। भारतीय मुस्लिम समुदाय में, शफीक नाम व्यक्तिगत गुणों जैसे सहानुभूति, निष्ठा, और समर्थन का प्रतीक है।"
+    },
+    "in_pashto": {
+      "name": "شفيق",
+      "meaning": "شفيق د محافظ، مرستيال او سرپرست معنی لري",
+      "long_meaning": "شفيق د عربي نوم څخه دی چی د محافظ، مرستيال او سرپرست معنی لري. دا نوم د شفقت څخه اخیستل شوی دی، چی د مهرباني او شفقت معنی لري. د افغانستان په اسلامي کلتور کې، شفيق د الله تعالی 99 نومونو څخه يو دی، او د 'ال شفيق' په توګه ياد شوی دی، چی د محافظ او مرستيال معنی لري. په پښتنو ټولنه کې، دا نوم د شخصي ځانګړتياو لکه مهرباني، وفاداري، او ملاتړ نښه ده."
+    },
+    "in_english": {
+      "name": "Shafiq",
+      "meaning": "Shafiq means protector, defender, and guardian in Arabic",
+      "long_meaning": "Shafiq is an Arabic name derived from the root 'sh-f-q', which means to be merciful or to have compassion. In Islamic tradition, Shafiq is one of the 99 names of Allah, mentioned in the Quran as 'al-Shafiq', signifying protector and defender. The name Shafiq holds deep spiritual significance, reflecting qualities such as mercy, loyalty, and support. Historically, the name has been used across various Muslim cultures, symbolizing divine protection and care."
+    },
+    "pronunciation": {
+      "english": "shah-FEEK",
+      "urdu": "اردو میں تلفظ کی تفصیل شفیق (shafeeq)",
+      "hindi": "हिन्दी में उच्चारण विवरण शफीक (shaphīk)",
+      "pashto": "په پښتو کې د تلفظ تفصیل شفيق (shafīq)",
+      "ipa": "/ʃɑːfiːk/"
+    },
+    "celebrity_usage": [
+      "Shafiq Baig (Musician)",
+      "Shafiqur Rahman (Bangladeshi politician)"
+    ],
+    "social_tags": [
+      "#ShafiqMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Shafiq"
+    ],
+    "name_variations": [],
+    "popularity_score": 72,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 86,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 78,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Shafiq Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Shafiq, a beautiful Islam name meaning \"Compassionate\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Shafiq, Islam name, baby names, Compassionate, Islam baby names, name meaning",
+      "description_paragraph": "Shafiq is a meaningful Islam name of Arabic origin that means \"Compassionate\". A person who shows kindness and sympathy to others.",
+      "keywords": [
+        "Shafiq",
+        "Islam name",
+        "baby names",
+        "Compassionate",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Shafiq in Islam tradition?",
+          "a": "Shafiq is a beautiful Islam name meaning \"Compassionate\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Shafiq a good Islam name for a baby?",
+          "a": "Yes, Shafiq is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Shafiq?",
+          "a": "The name Shafiq has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Shafiq correctly?",
+          "a": "Shafiq is pronounced shah-FEEK in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Shafiq?",
+          "a": "Naming a child Shafiq brings blessings. The meaning \"Compassionate\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Shafiq?",
+          "a": "Shafiq is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 98,
+      "focus_keyword": "Shafiq meaning",
+      "secondary_keywords": [
+        "Islam name Shafiq",
+        "Shafiq meaning",
+        "Shafiq origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The Islamic name \"Shafiq\" not only indicates a warm and affectionate nature, but it's also a hallmark of good character in the Islamic culture. The name is derived from the Arabic word \"shafaqah,\" which means \"showing kindness and sympathy towards others.\" This trait is highly valued in Islamic society, and the name \"Shafiq\" signifies the character of an individual who embodies this noble quality. The prophet Muhammad, peace be upon him, emphasized the importance of treating others with kindness and compassion when he said, \"None of you will believe until you love one another.\"",
+    "spiritual_significance": "The spiritual significance of the name \"Shafiq\" can be understood by reflecting on the words of God mentioned in the Quran, \"And cooperate in righteousness and piety\" (u:2). In this context, the name signifies an individual's commitment to living a life that reflects the divine qualities of compassion, kindness, and caring for others. The Islamic tradition encourages believers to be engaged in their communities and to support one another, creating a sustainable community that embodies the values of love, compassion, and empathy. The name \"Shafiq\" acts as a constant reminder for the bearer to strive towards living a life filled with love and kindness towards all humanity.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Al-Shafi'i was a prominent scholar and theologian of the 9th century. The name Shafiq carried significant weight in that era.",
+        "time_period": "9th century",
+        "context": "Al-Shafi'i is a historical figure and the name Shafiq is derived from him."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "The name Shafiq is popular in the Muslim world."
+      ],
+      "platforms": [
+        "Social media, baby naming websites"
+      ],
+      "modern_context": "The name Shafiq remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Hassan Shafiq",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Hassan Shafiq from Kuala Lumpur, Malaysia embodies the meaning of Shafiq - \"Compassionate\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Compassionate\" symbolizes A person who shows kindness and sympathy to others.. In Islamic spirituality, bearing the name Shafiq serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of compassionate.",
+    "created_at": "2025-12-22T19:19:49.792Z",
+    "updated_at": "2025-12-22T04:53:14.25Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1392,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Shafiq",
+      "description": "Compassionate",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Shafiq",
+          "description": "Discover the meaning of Shafiq - \"Compassionate\"",
+          "image": "/images/social/shafiq-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Shafiq - Name Meaning",
+          "description": "Learn about the beautiful name Shafiq",
+          "image": "/images/social/shafiq-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Shafiq",
+          "description": "Name meaning: Compassionate",
+          "image": "/images/social/shafiq-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Shafiq - Meaning: Compassionate",
+        "email_subject": "Beautiful Name: Shafiq"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Shafiq with meaning Compassionate",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saal",
+      "sadaldin",
+      "saim"
+    ]
+  }
+}

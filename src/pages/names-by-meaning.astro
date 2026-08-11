@@ -1,0 +1,47 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getManifest } from "../lib/data/astro-data.mjs";
+
+const manifest = getManifest();
+const meanings = new Map();
+for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
+  for (const item of manifest[rel] || []) {
+    if (item.meaning) {
+      const words = item.meaning.toLowerCase().split(/[^a-z]+/).filter(Boolean);
+      for (const word of words) {
+        if (word.length > 3) {
+          meanings.set(word, (meanings.get(word) || 0) + 1);
+        }
+      }
+    }
+  }
+}
+const topMeanings = Array.from(meanings.entries())
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 30)
+  .map(([word]) => word);
+---
+
+<Layout title="Names by Meaning | NameVerse" description="Browse baby names grouped by meaning: light, love, strength, peace and more.">
+  <main class="nv-page min-h-screen">
+    <div class="nv-container nv-section">
+      <div class="mx-auto max-w-4xl">
+        <h1 class="nv-display text-3xl font-bold text-nv-text sm:text-4xl">Names by Meaning</h1>
+        <p class="mt-2 text-nv-text-secondary">Explore names grouped by meaning and theme.</p>
+
+        <div class="mt-8 flex flex-wrap gap-2">
+          {
+            topMeanings.map((meaning) => (
+              <a
+                href={`/search?q=${encodeURIComponent(meaning)}`}
+                class="rounded-full border border-nv-border bg-white/70 px-4 py-2 text-sm font-bold text-nv-text transition hover:border-[color:var(--nv-accent-2)] hover:bg-[color:var(--nv-accent-2)] hover:text-white"
+              >
+                {meaning}
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </div>
+  </main>
+</Layout>

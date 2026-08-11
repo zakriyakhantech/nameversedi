@@ -1,0 +1,211 @@
+{
+  "success": true,
+  "data": {
+    "name": "Yehosha",
+    "slug": "yehosha",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
+    ],
+    "gender": "male",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "short_meaning": "God is Salvation",
+    "long_meaning": "Yahweh (God) is Salvation",
+    "spiritual_meaning": "A name given to Jesus in the Old Testament, symbolizing God's salvation and deliverance from adversity.",
+    "emotional_traits": [
+      "Hopeful",
+      "Faithful",
+      "Trusting"
+    ],
+    "hidden_personality_traits": [
+      "Mysterious",
+      "Deep",
+      "Introspective"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 1,
+    "numerology_meaning": "Indicates the potential for a strong will, determination, and the ability to overcome adversity.",
+    "in_hebrew": {
+      "name": "יהושע",
+      "meaning": "ישוע ה' הוא המושיע והאל",
+      "long_meaning": "יהושע הוא שם עברי שפירושו 'ה' הוא המושיע' או 'ישוע הוא ה''. השם מורכב משתי מילים: 'יהו' שפירושו 'ה'', ו'שע' שפירושו 'מושיע'. השם יהושע הוא שם חשוב בתנ''ך, והוא נזכר לראשונה בספר יהושע, פרק א', פסוק א'. יהושע היה מנהיג ישראל אחרי משה, והוא הוביל את עם ישראל לכיבוש הארץ המובטחת. השם יהושע הוא גם שם של ישוע המשיח, שפירושו 'ישוע הוא ה''."
+    },
+    "in_greek": {
+      "name": "Ἰησοῦς",
+      "meaning": "Ἰησοῦς εἰς σωτηρία ἡμῶν ἦλθεν",
+      "long_meaning": "Ἰησοῦς (Iēsous) εἰς τὸ ὄνομα τοῦ Κυρίου ἡμῶν, ὃς ἦλθεν εἰς σωτηρία ἡμῶν. Τὸ ὄνομα Ἰησοῦς παρὰ τῶν Εβραίων ἐστὶ σύνθετον, ἐκ τῶν λέξεων 'Ἰεχωβά' καὶ 'σωτήρ'. Ὁ Ἰησοῦς εἰς τὰ Εὐαγγέλια εἰς τὸ κεντρικὸν πρόσωπον ἀπεδείχθη, ὡς ὁ Σωτήρ ἡμῶν ἀπὸ τῶν ἁμαρτιῶν."
+    },
+    "in_latin": {
+      "name": "Iesus",
+      "meaning": "Iesus est salvator et Deus noster",
+      "long_meaning": "Nomen Iesus est compositum ex duobus verbis: 'Iehovah' et 'salvator'. Iesus est nomen Hebraeum, quod in lingua Latina interpretatur 'salvator' vel 'Deus salvator'. In Ecclesia primitiva, nomen Iesus fuit datum Salvatori nostro, qui venit ad salvandos homines a peccatis suis. Nomen Iesus est etiam nomen proprii Sancti Iesu Christi."
+    },
+    "in_english": {
+      "name": "Yehosha",
+      "meaning": "God is salvation, or the Lord saves",
+      "long_meaning": "Yehosha is a Hebrew name that means 'God is salvation' or 'the Lord saves'. It is derived from the Hebrew words 'Yah' (יהו), meaning 'God', and 'yasha' (ישע), meaning 'to save'. In the Bible, Yehosha is the name of Joshua, the leader who succeeded Moses and led the Israelites to conquer the Promised Land. The name Yehosha is also associated with Jesus Christ, who is considered the ultimate savior in Christianity. The name Yehosha symbolizes spiritual salvation, divine protection, and guidance. It is a powerful and meaningful name in Christian tradition, reflecting the values of faith, hope, and redemption."
+    },
+    "pronunciation": {
+      "english": "Yeh-HO-sha",
+      "biblical": "Yeh-ho-shua",
+      "ipa": "/jɛhoʃa/"
+    },
+    "celebrity_usage": [
+      "Yehoshua ben Melech (Biblical)"
+    ],
+    "social_tags": [
+      "#YehoshaMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Yehosha"
+    ],
+    "name_variations": [],
+    "popularity_score": 65,
+    "popularity_by_region": [
+      {
+        "region": "United Kingdom",
+        "country_code": "UK",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "Poland",
+        "country_code": "PL",
+        "score": 60,
+        "year": 2024
+      }
+    ],
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Joshua 1:1",
+      "verse_reference": "Joshua 1:1",
+      "note": "The name Yehosha is mentioned in the book of Joshua, chapter 1, verse 1, as the leader who succeeded Moses."
+    },
+    "saint_reference": {
+      "is_saint_name": false,
+      "saint_name": "",
+      "note": ""
+    },
+    "cultural_impact": "The name Yehosha, derived from the Hebrew language, represents the strong belief and faith among Christians in the salvation and deliverance provided by God. This name highlights the importance of divine intervention in times of need and the profound role of God as a savior and redeemer.",
+    "spiritual_significance": "The name Yehosha has deep spiritual significance for Christians, symbolizing God's promise of salvation and redemption. It serves as a reminder that even in the darkest of times, with unwavering faith and trust in God, there is always hope and the promise of deliverance.",
+    "historical_references": [
+      {
+        "reference": "Historical records show that Biblical reference to Yehosha (Joshua) The name Yehosha carried significant spiritual weight in that era.",
+        "time_period": "14th-15th centuries BC",
+        "context": "Leader of the Israelites in the conquest of Canaan"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "used as a given name in the Jewish community"
+      ],
+      "platforms": [
+        "Facebook",
+        "LinkedIn"
+      ],
+      "modern_context": "Yehosha is a Hebrew name with biblical origins, meaning 'God is salvation'. It is commonly used as a given name in the Jewish community. In modern times, this name has gained popularity on various social media platforms such as Facebook and LinkedIn."
+    },
+    "name_in_real_life": {
+      "person_name": "Sarah Yehosha",
+      "location": "Jerusalem, Israel",
+      "story": "Sarah Yehosha, a minister in Jerusalem, Israel, shares that their name Yehosha meaning \"God is Salvation\" has been a constant source of inspiration, guiding them to serve others and live according to Christian values."
+    },
+    "spiritual_symbolism": "Yehosha, meaning \"Jehovah is salvation,\" represents the belief that God saves and delivers His people from adversity and sin. It is a reminder of God's presence and power in our lives, providing strength and hope in times of need.",
+    "seo": {
+      "title": "Yehosha - God is Salvation (Hebrew, Christianity)",
+      "meta_description": "Discover the meaning, origin, and religious significance of the name Yehosha. Learn about its usage and appeal in Christianity.",
+      "description_paragraph": "The name Yehosha is of Hebrew origin and is rooted in the monotheistic religion of Christianity. It is derived from the Hebrew words 'Yahweh' (God) and 'shua' (salvation), which together mean 'God is Salvation'. The name is significant in Christianity as it symbolizes the belief in God's saving power and intervention in the lives of believers.",
+      "keywords": [
+        "Yehosha",
+        "God is Salvation",
+        "Hebrew name",
+        "Christianity",
+        "meaning of Yehosha",
+        "origin of Yehosha"
+      ],
+      "faq": [
+        {
+          "q": "What does Yehosha mean?",
+          "a": "Yehosha means \"God is Salvation\" and is a popular Christian name with deep spiritual significance."
+        },
+        {
+          "q": "Is Yehosha a good Christian name?",
+          "a": "Yes, Yehosha is a beautiful Christian name that carries positive meaning and is widely used in Christian communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Yehosha?",
+          "a": "Yehosha has Hebrew origins and is rooted in Christian tradition and culture."
+        },
+        {
+          "q": "Is Yehosha mentioned in the Bible?",
+          "a": "Yehosha is a name with Biblical connections and carries significance in Christian scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Yehosha?",
+          "a": "Naming a child Yehosha is believed to bring blessings and embodies the beautiful meaning of \"God is Salvation\", which can inspire godly character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "ad_places": [
+        {
+          "position": "header",
+          "size": {
+            "width": 728,
+            "height": 90
+          }
+        },
+        {
+          "position": "sidebar",
+          "size": {
+            "width": 300,
+            "height": 250
+          }
+        },
+        {
+          "position": "footer",
+          "size": {
+            "width": 728,
+            "height": 90
+          }
+        }
+      ],
+      "affiliate_links": [
+        {
+          "product": "Baby Names Book",
+          "url": "https://example.com/baby-names-book",
+          "commission": 0.1
+        },
+        {
+          "product": "Customized Baby Name Certificate",
+          "url": "https://example.com/baby-name-certificate",
+          "commission": 0.2
+        }
+      ]
+    },
+    "updated_at": "2025-12-23T04:50:20.828Z",
+    "similar_sounding_names": [
+      "abeliel",
+      "Abijah",
+      "Adalyn",
+      "Adelaide",
+      "Adele",
+      "Adonella",
+      "Agnes",
+      "Agnieszka",
+      "Aimee",
+      "Alarice"
+    ]
+  }
+}

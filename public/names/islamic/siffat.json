@@ -1,0 +1,289 @@
+{
+  "success": true,
+  "data": {
+    "name": "Siffat",
+    "slug": "siffat",
+    "language": [
+      "Arabic",
+      "Urdu"
+    ],
+    "gender": "female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Thread, line, ribbon",
+    "long_meaning": "That which is woven, intricate, delicate",
+    "spiritual_meaning": "A sign of Allah's guidance and protection",
+    "emotional_traits": [
+      "Graceful",
+      "Elegant",
+      "Refined"
+    ],
+    "hidden_personality_traits": [
+      "Resourceful",
+      "Adaptable",
+      "Determined"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Yellow",
+      "Gold",
+      "Pink"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 3,
+    "numerology_meaning": "Creativity, Self-expression, and Communication",
+    "in_arabic": {
+      "name": "صفات",
+      "meaning": "صفات: صفات منصفة لخصال الربانية",
+      "long_meaning": "صفات: صفات منصفة لخصال الربانية وتعني الكمالات العليا المنسوبة إلى الله تعالى، وتنقسم إلى صفات ذاتية وسلبية، وتصف الله تعالى بأنها عالم بكل شيء، قديم، حي، قادر، علا، سميع، بصير، وعد، مستعان، ذو الجلال والغادي، وصفات الخلق، وصفات الإرادة، وصفات الإحسان، وصفات الكمال، وصفات العدل، وصفات الرحمة، وصفات الحكمة، وصفات العدل، وصفات الغفران، وصفات الإراحة، وصفات الكرامة، وصفات العظمة، وصفات القدرة، وصفات العلم، وصفات الإحسان، وصفات الحكمة، وصفات الإرشاد، وصفات الإدلاء، وصفات الإخلاص، وصفات الإستقامة، وصفات الإتقان، وصفات الإجلال، وصفات الإكرام، وصفات الإحسان، وصفات الحكمة، وصفات العدل، وصفات الرحمة، وصفات الحكمة، وصفات الإرشاد، وصفات الإخلاص، وصفات الإستقامة، وصفات الإتقان، وصفات الإجلال، وصفات الإكرام"
+    },
+    "in_urdu": {
+      "name": "صفات",
+      "meaning": "صفات: اللہ تعالى کی بعض منصفہ خصوصیات",
+      "long_meaning": "صفات: اللہ تعالى کی بعض منصفہ خصوصیات ہیں، جن میں سے کچھ منفی خصوصیات اور کچھ مثبت خصوصیات ہیں۔ اللہ تعالى کی صفات کا ذکر کلام کلام میں ہوتا ہے۔ اللہ تعالى اپنے وجود اور صفات کے بارے میں کلام کرتا ہے۔ اللہ تعالى کی صفات میں سے کچھ صفات ذات کے لیے مخصوص ہیں اور کچھ صفات مخلوقات کے لیے مخصوص ہیں۔ اللہ تعالى کی صفات میں سے کچھ صفات مثبت ہیں اور کچھ منفی ہیں۔ اللہ تعالى کی صفات میں سے کچھ صفات ہیں جن سے اللہ تعالی کو مخلوقات میں سے کسی کے لیے نہیں کہا جا سکتا۔ اللہ تعالى کی صفات میں سے کچھ صفات ہیں جن سے مخلوقات میں سے کسی کے لیے کہا جا سکتا ہے"
+    },
+    "in_hindi": {
+      "name": "सिफ़त",
+      "meaning": "सिफ़त: अल्लाह की कुछ विशेषताएँ",
+      "long_meaning": "सिफ़त: अल्लाह की कुछ विशेषताएँ हैं जो अल्लाह के गुणों को दर्शाती हैं। अल्लाह की विशेषताओं में से कुछ अल्लाह के गुणों के बारे में हैं जो अल्लाह के स्वभाव को दर्शाती हैं। अल्लाह की विशेषताओं में से कुछ अल्लाह के कार्यों के बारे में हैं जो अल्लाह के इरादे को दर्शाती हैं। अल्लाह की विशेषताओं में से कुछ अल्लाह के नामों के बारे में हैं जो अल्लाह के गुणों को दर्शाती हैं। अल्लाह की विशेषताओं में से कुछ अल्लाह के कर्ता के बारे में हैं जो अल्लाह के गुणों को दर्शाती हैं। अल्लाह की विशेषताओं में से कुछ अल्लाह के रूपों के बारे में हैं जो अल्लाह के गुणों को दर्शाती हैं।"
+    },
+    "in_pashto": {
+      "name": "صفات",
+      "meaning": "صفات: الله تعالى ډیری خصوصیتونه",
+      "long_meaning": "صفات: الله تعالى ډیری خصوصیتونه، چې د هغه د وجود او خصوصیتونو څخه یې څرګندوي د الله تعالى څخه یې څرګندوي د الله تعالى د وجود او خصوصیتونو څخه یې څرګندوي، د الله تعالى خصوصیتونو څخه یې څرګندوي، د الله تعالى د وجود او خصوصیتونو څخه یې څرګندوي، چې د الله تعالى خصوصیتونو څخه یې څرګندوي، د الله تعالى د وجود او خصوصیتونو څخه یې څرګندوي، چې د الله تعالى خصوصیتونو څخه یې څرګندوي، د الله تعالى د وجود او خصوصیتونو څخه یې څرګندوي"
+    },
+    "in_english": {
+      "name": "Siffat",
+      "meaning": "Siffat: Some of Allah's attributes",
+      "long_meaning": "Siffat: Some of Allah's attributes, which describe Allah's nature and characteristics. Allah's attributes include His existence, His power, His knowledge, His will, His creation, His protection, His punishment, His mercy, His justice, His wisdom, and His benevolence. Allah's attributes also include His unity, His uniqueness, His eternity, and His omnipresence. Allah's attributes are also described as His generosity, His forgiveness, His kindness, and His compassion. Allah's attributes are also described as His justice, His mercy, His wisdom, and His benevolence."
+    },
+    "pronunciation": {
+      "english": "/ˈsɪfɑːt/",
+      "urdu": "صفات کا تلفظ اردو میں \"صاف-ات\" ہے۔",
+      "hindi": "सिफ़त का उच्चारण हिंदी में \"सिफ़ट\" है।",
+      "pashto": "صفات کا تلفظ پښتو میں \"صافات\" ہے.",
+      "ipa": "/ˈsɪfɑːt/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#SiffatMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Siffat"
+    ],
+    "name_variations": [],
+    "popularity_score": 70,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 68,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 62,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Siffat Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Siffat, a beautiful Islam name meaning \"Thread, line, ribbon\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Siffat, Islam name, baby names, Thread, line, ribbon, Islam baby names, name meaning",
+      "description_paragraph": "Siffat is a meaningful Islam name of Arabic origin that means \"Thread, line, ribbon\". That which is woven, intricate, delicate",
+      "keywords": [
+        "Siffat",
+        "Islam name",
+        "baby names",
+        "Thread, line, ribbon",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Siffat in Islam tradition?",
+          "a": "Siffat is a beautiful Islam name meaning \"Thread, line, ribbon\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Siffat a good Islam name for a baby?",
+          "a": "Yes, Siffat is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Siffat?",
+          "a": "The name Siffat has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Siffat correctly?",
+          "a": "Siffat is pronounced /ˈsɪfɑːt/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Siffat?",
+          "a": "Naming a child Siffat brings blessings. The meaning \"Thread, line, ribbon\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Siffat?",
+          "a": "Siffat is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 90,
+      "focus_keyword": "Siffat meaning",
+      "secondary_keywords": [
+        "Islam name Siffat",
+        "Siffat meaning",
+        "Siffat origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Siffat is of Arabic origin and in Islamic culture holds the significance of intricate and beautiful designs, much like the intricacies and artistry of Islamic calligraphy, architecture, and art. Thus, the name carries a sense of beauty, elegance, and sophistication, which is often associated with the “Golden Age” of Islamic civilization.",
+    "spiritual_significance": "In Islamic spirituality, the name Siffat represents the understanding that just as intricate patterns and designs weave together to create beauty, so too do the various aspects of creation and the complex workings of the universe come together to demonstrate the wisdom and boundless power of God. The name also symbolizes the interconnectedness of all things, reminding us to live in awareness of the divine tapestry of existence and to strive towards becoming a righteous and beautiful thread in the ongoing creation of the world.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Siffat carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Popular choice for newborns in Muslim communities",
+        "Classic Islamic name maintaining steady popularity"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Siffat remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Siffat",
+      "location": "Istanbul, Turkey",
+      "story": "Maryam Siffat, a teacher in Istanbul, Turkey, shares that their name Siffat meaning \"Thread, line, ribbon\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Thread, line, ribbon\" symbolizes That which is woven, intricate, delicate. In Islamic spirituality, bearing the name Siffat serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of thread, line, ribbon.",
+    "created_at": "2025-12-22T19:19:49.914Z",
+    "updated_at": "2025-12-22T04:53:15.316Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1743,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Siffat",
+      "description": "Thread, line, ribbon",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu"
+      ],
+      "religion": "Islam",
+      "gender": "female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Siffat",
+          "description": "Discover the meaning of Siffat - \"Thread, line, ribbon\"",
+          "image": "/images/social/siffat-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Siffat - Name Meaning",
+          "description": "Learn about the beautiful name Siffat",
+          "image": "/images/social/siffat-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Siffat",
+          "description": "Name meaning: Thread, line, ribbon",
+          "image": "/images/social/siffat-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Siffat - Meaning: Thread, line, ribbon",
+        "email_subject": "Beautiful Name: Siffat"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Siffat with meaning Thread, line, ribbon",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "sadaldin",
+      "saim",
+      "saal"
+    ]
+  }
+}

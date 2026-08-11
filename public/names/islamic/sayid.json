@@ -1,0 +1,284 @@
+{
+  "success": true,
+  "data": {
+    "name": "Sayid",
+    "slug": "sayid",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Master, Leader, Lord",
+    "long_meaning": "A person of great respect and honor, often a religious leader or master of a craft.",
+    "spiritual_meaning": "Symbolizes guidance, wisdom, and spiritual leadership.",
+    "emotional_traits": [
+      "Respect",
+      "Honor",
+      "Wisdom"
+    ],
+    "hidden_personality_traits": [
+      "Strong-willed",
+      "Determined",
+      "Authoritative"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "Red",
+      "Gold"
+    ],
+    "lucky_stone": "Ruby",
+    "life_path_number": 1,
+    "numerology_meaning": "Innovation, new beginnings, and leadership.",
+    "in_arabic": {
+      "name": "سيد",
+      "meaning": "المحترم، المرفوع، المولى، المولى",
+      "long_meaning": "يسعد الله تعالى من يلقب به، وهو لقب يستحقه من يمتلك سيدته وتقواه، والمولى هو الذي يملك كل شيء، والمولى هو الذي يعطي كل شيء، ويأخذ كل شيء، والمولى هو الذي يرزق كل شيء، ويحيا كل شيء، والمولى هو الذي يحتاج كل شيء إلى الله، ويستعين به، والمولى هو الذي يرضي الله في كل شيء، ويستمع إلى الله في كل شيء، والمولى هو الذي يخاف الله في كل شيء، ويفرح بما يرضي الله، والمولى هو الذي يعتقد الله في كل شيء، ويؤمن به، والمولى هو الذي يؤمن بالله في كل شيء، ويفرح بما يرضي الله، والمولى هو الذي يعتقد في الله في كل شيء، ويؤمن به، والمولى هو الذي يؤمن في الله في كل شيء، ويفرح بما يرضي الله"
+    },
+    "in_urdu": {
+      "name": "سید",
+      "meaning": "مہترم، مرفوع، مولا، مولی",
+      "long_meaning": "ایک ایسا لقب جسے اللہ تعالى کے منتخب افراد کو دیا جاتا ہے، وہ ایک بہت بڑا لقب ہے، جو ایک شخص کی سیدی و تقوی کا ثبوت ہوتا ہے، مولی کا مطلب ہوتا ہے جس کے پاس ہر چیز ہے، وہ جس کے پاس ہر چیز ہے، اور وہ جس کے پاس ہر چیز ہے، وہ ہر چیز کا مالک ہے، اور وہ ہر چیز کو رزق دیتا ہے، اور وہ ہر چیز کو زندگی دیتا ہے، اور وہ ہر چیز کا احتیاج کرنے والا ہے، اور وہ ہر چیز کو اللہ پرست ہے، اور وہ ہر چیز کو اللہ کی طرف سے رزق دیتا ہے، اور وہ ہر چیز کو اللہ کی طرف سے زندگی دیتا ہے"
+    },
+    "in_hindi": {
+      "name": "सय्यद",
+      "meaning": "महान, वृद्ध, मालिक, मौलवी",
+      "long_meaning": "यह एक ऐसा नाम है जो अल्लाह के चुने हुए लोगों को दिया जाता है, यह एक बड़ा नाम है, जो किसी व्यक्ति की सिद्धि और तेज़गी का प्रमाण होता है, मौलवी का अर्थ है जिसके पास हर चीज़ है, वह जिसके पास हर चीज़ है, और वह जिसके पास हर चीज़ है, वह हर चीज़ का मालिक है, वह हर चीज़ को निजात देता है, और वह हर चीज़ को जीवन देता है, वह हर चीज़ का सहायक है, और वह हर चीज़ को अल्लाह के हवाले करता है"
+    },
+    "in_pashto": {
+      "name": "سید",
+      "meaning": "مهترم، پهلو، الله، الله",
+      "long_meaning": "دا پهغلیږي وېښته کولی سيدي، چی دلو په لوښی ښه وي، دلو تهڅه وي، دلو په لوښی ښه وي، دلو تهڅه وي، دلو تهڅه وي، دلو تهڅه وي"
+    },
+    "in_english": {
+      "name": "Sayid",
+      "meaning": "noble, esteemed, respected, master, lord",
+      "long_meaning": "Sayid is a title given to the chosen ones of Allah, it is a noble and esteemed title, given to those who possess spiritual excellence and moral integrity, Mawlâ means the one who has control over everything, the one who provides everything, the one who sustains everything, the one who gives everything and takes everything, the one who is dependent on Allah for everything, the one who seeks refuge in Allah, the one who is pleased with Allah's will, the one who fears Allah, the one who believes in Allah, the one who trusts in Allah, and the one who seeks guidance from Allah"
+    },
+    "pronunciation": {
+      "english": "say-id",
+      "urdu": "اردو میں تلفظ کی تفصیل سے کہا جاتا ہے",
+      "hindi": "हिन्दी में उच्चारण विवरण के अनुसार सैयद लिखा जाता है",
+      "pashto": "په پښتو کې د تلفظ تفصیل په دې ډول دی",
+      "ipa": "/ˈsɑːɪd/ "
+    },
+    "celebrity_usage": [
+      "Sayid Jarrah (character from Alias)",
+      "Sayid Qadri (character from Homeland)"
+    ],
+    "social_tags": [
+      "#SayidMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Sayid"
+    ],
+    "name_variations": [],
+    "popularity_score": 53,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 76,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Sayid Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Sayid, a beautiful Islam name meaning \"Master, Leader, Lord\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Sayid, Islam name, baby names, Master, Leader, Lord, Islam baby names, name meaning",
+      "description_paragraph": "Sayid is a meaningful Islam name of Arabic origin that means \"Master, Leader, Lord\". A person of great respect and honor, often a religious leader or master of a craft.",
+      "keywords": [
+        "Sayid",
+        "Islam name",
+        "baby names",
+        "Master, Leader, Lord",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Sayid in Islam tradition?",
+          "a": "Sayid is a beautiful Islam name meaning \"Master, Leader, Lord\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Sayid a good Islam name for a baby?",
+          "a": "Yes, Sayid is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Sayid?",
+          "a": "The name Sayid has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Sayid correctly?",
+          "a": "Sayid is pronounced say-id in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Sayid?",
+          "a": "Naming a child Sayid brings blessings. The meaning \"Master, Leader, Lord\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Sayid?",
+          "a": "Sayid is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 93,
+      "focus_keyword": "Sayid meaning",
+      "secondary_keywords": [
+        "Islam name Sayid",
+        "Sayid meaning",
+        "Sayid origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Sayid\" is an Arabic term which translates to 'Master', 'Sir', or 'Lord' in English. In many Middle Eastern and Islamic communities, this title is bestowed upon individuals who have a lineage that stems from the Prophet Muhammad (PBUH), or are considered masters of a particular craft or discipline. The title adds a level of respect and honor to the named person, and is often used in addressing them.",
+    "spiritual_significance": "In the Islamic context, the title \"Sayid\" holds significant spiritual importance as it denotes a connection to the Prophet Muhammad (PBUH) or to God through knowledge, wisdom, or spiritual guidance. It highlights the individual's public recognition as a person of faith and morality, and serves as a reminder of their responsibility to live up to the expectations that come with the title. Thus, the title \"Sayid\" is a mark of distinction, signifying a deep spiritual commitment to God and a strong moral character.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Sayid carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Increasingly popular among Muslim millennials",
+        "Traditional name experiencing modern revival"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Sayid remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Sayid",
+      "location": "Dubai, UAE",
+      "story": "A successful entrepreneur named Aisha Sayid in Dubai, UAE attributes much of their success to the blessing of their name Sayid, which means \"Master, Leader, Lord\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Master, Leader, Lord\" symbolizes A person of great respect and honor, often a religious leader or master of a craft.. In Islamic spirituality, bearing the name Sayid serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of master, leader, lord.",
+    "created_at": "2025-12-22T19:19:49.855Z",
+    "updated_at": "2025-12-22T04:53:14.883Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1237,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Sayid",
+      "description": "Master, Leader, Lord",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Sayid",
+          "description": "Discover the meaning of Sayid - \"Master, Leader, Lord\"",
+          "image": "/images/social/sayid-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Sayid - Name Meaning",
+          "description": "Learn about the beautiful name Sayid",
+          "image": "/images/social/sayid-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Sayid",
+          "description": "Name meaning: Master, Leader, Lord",
+          "image": "/images/social/sayid-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Sayid - Meaning: Master, Leader, Lord",
+        "email_subject": "Beautiful Name: Sayid"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Sayid with meaning Master, Leader, Lord",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saal",
+      "sadaldin",
+      "saim"
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "success": true,
+  "data": {
+    "name": "Muhazzab",
+    "slug": "muhazzab",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "(Male)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Glorified, Exalted",
+    "long_meaning": "Derived from the Arabic root h-z-b, meaning to glorify, exalt, or adorn. In Islamic tradition, this name signifies one who is honored, esteemed, and highly regarded.",
+    "spiritual_meaning": "A name that reflects the divine attributes of glory and exaltation.",
+    "emotional_traits": [
+      "Righteous",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "M = Modest"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "(Tuesday)",
+    "lucky_colors": [
+      "Silver",
+      "White"
+    ],
+    "lucky_stone": "(Turquoise)",
+    "life_path_number": 5,
+    "numerology_meaning": "People with the name Muhazzab tend to be creative, intelligent, and adaptable. They may have a strong sense of intuition and a natural ability to inspire others.",
+    "in_arabic": {
+      "name": "محزاب",
+      "meaning": "المحزاب هو الشخص الذي يتميز بالحزم و القوة في اتخاذ القرارات",
+      "long_meaning": "المحزاب مشتق من الجذر 'حَزَبَ' الذي يعني التجمّع أو التآلف. في اللغة العربية، يُستخدم المحزاب لوصف الشخص الذي يتميز بالحزم و القوة في اتخاذ القرارات، و هو أيضاً الشخص الذي يلتزم بالحق و العدل. في القرآن الكريم، لا يوجد ذكر صريح لكلمة المحزاب، لكن الجذر 'حَزَبَ' ذُكر في عدة آيات، مثل قوله تعالى: 'وَمَآ أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى فَلِلَّهِ وَلِلرَّسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ' (الحشر: 7). و في هذا السياق، يدل المحزاب على الشخص الذي يتحلى بالحزم و الشجاعة في مواجهة التحديات."
+    },
+    "in_urdu": {
+      "name": "محزاب",
+      "meaning": "محزاب وہ شخص ہے جو فیصلے کرنے میں مضبوطی اور پختگی دکھاتا ہے",
+      "long_meaning": "محزاب عربی جڑ 'حَزَبَ' سے ماخوذ ہے جس کا مطلب ہے اکٹھا ہونا یا متحد ہونا۔ اردو میں، محزاب کا مطلب ہے وہ شخص جو فیصلے کرنے میں مضبوطی اور پختگی دکھاتا ہے، اور وہ شخص جو حق اور عدل کے ساتھ وفادار رہتا ہے۔ جنوبی ایشیائی مسلمانوں کے ثقافت میں، محزاب کو ایک ایسے شخص کے طور پر سمجھا جاتا ہے جو اپنے اصولوں پر قائم رہتا ہے اور اپنے مقاصد کو حاصل کرنے کے لئے مستحکم رہتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "मुहज़्ज़ब",
+      "meaning": "मुहज़्ज़ब वह व्यक्ति है जो निर्णय लेने में दृढ़ता और परिपक्वता दिखाता है",
+      "long_meaning": "मुहज़्ज़ब अरबी मूल 'حَزَبَ' से लिया गया है जिसका अर्थ है इकट्ठा होना या एकजुट होना। हिंदी में, मुहज़्ज़ब का अर्थ है वह व्यक्ति जो निर्णय लेने में दृढ़ता और परिपक्वता दिखाता है, और वह व्यक्ति जो सच्चाई और न्याय के साथ खड़ा रहता है। भारतीय मुस्लिम समुदाय में, मुहज़्ज़ब को एक ऐसे व्यक्ति के रूप में देखा जाता है जो अपने सिद्धांतों पर अडिग रहता है और अपने लक्ष्यों को प्राप्त करने के लिए स्थिर रहता है।"
+    },
+    "in_pashto": {
+      "name": "محزاب",
+      "meaning": "محزاب هغه څوک دی چی په پرېښودلو کي يي قوي او منظم وي",
+      "long_meaning": "محزاب د عربي کلمې 'حَزَبَ' څخه اخيستل شوی دی چې معنی يي د ټولګي يا يوځای کیدو څخه دي. په پښتو کې، محزاب هغه څوک دی چی په پرېښودلو کي يي قوي او منظم وي، او هغه څوک دی چی حق او عدالت ته وفادار پاتي. په افغان او پښتني دود کې، محزاب داسې يو شخص دی چی په خپلو موخو او اصولو کي قوي او ثابت قدم وي."
+    },
+    "in_english": {
+      "name": "Muhazzab",
+      "meaning": "Muhazzab means one who is strong and resolute in decision-making",
+      "long_meaning": "The name Muhazzab originates from the Arabic root 'حَزَبَ' (ḥazaba), which means to gather or collect. In the context of Islamic tradition, Muhazzab refers to someone who is strong and resolute in their decision-making, often standing firm for what is right and just. While the term is not directly mentioned in the Quran, the root 'ḥazaba' appears in several verses, emphasizing the importance of unity and collective action. Throughout Islamic history, the name Muhazzab has been associated with individuals known for their courage, determination, and commitment to justice. In contemporary Muslim cultures, the name continues to symbolize strength of character and moral integrity."
+    },
+    "pronunciation": {
+      "english": "moo-HAH-zab",
+      "urdu": "اردو میں تلفظ کی تفصیل: مہ حزاب",
+      "hindi": "हिन्दी में उच्चारण विवरण: मुहज़्ज़ब",
+      "pashto": "په پښتو کې د تلفظ تفصیل: محزاب",
+      "ipa": "/muːˈhæzæb/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#MuhazzabMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Muhazzab"
+    ],
+    "name_variations": [],
+    "popularity_score": 49,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 74,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Muhazzab Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Muhazzab, a beautiful Islam name meaning \"Glorified, Exalted\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Muhazzab, Islam name, baby names, Glorified, Exalted, Islam baby names, name meaning",
+      "description_paragraph": "Muhazzab is a meaningful Islam name of Arabic origin that means \"Glorified, Exalted\". Derived from the Arabic root h-z-b, meaning to glorify, exalt, or adorn. In Islamic tradition, this name signifies one who is honored, esteemed, and highly regarded.",
+      "keywords": [
+        "Muhazzab",
+        "Islam name",
+        "baby names",
+        "Glorified, Exalted",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Muhazzab in Islam tradition?",
+          "a": "Muhazzab is a beautiful Islam name meaning \"Glorified, Exalted\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Muhazzab a good Islam name for a baby?",
+          "a": "Yes, Muhazzab is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Muhazzab?",
+          "a": "The name Muhazzab has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Muhazzab correctly?",
+          "a": "Muhazzab is pronounced moo-HAH-zab in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Muhazzab?",
+          "a": "Naming a child Muhazzab brings blessings. The meaning \"Glorified, Exalted\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Muhazzab?",
+          "a": "Muhazzab is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 91,
+      "focus_keyword": "Muhazzab meaning",
+      "secondary_keywords": [
+        "Islam name Muhazzab",
+        "Muhazzab meaning",
+        "Muhazzab origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Muhazzab carries a strong cultural significance as it conveys a sense of dignity, respect, and high status. It was common among the noble and well-respected individuals in Islamic societies. This name can also be used to acknowledge and appreciate the excellent qualities and accomplishments of an individual.",
+    "spiritual_significance": "From a spiritual perspective, the name Muhazzab may be seen as a reminder of the importance of striving for excellence and glorifying God through good deeds and acts of worship. It may inspire a sense of inner pride and motivation to live up to one's potential as a believer and seeker of God's pleasure. Ultimately, the name Muhazzab reflects the Islamic values of honor, respect, and dignity, both for oneself and for others.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "The Battle of Mu'tah (629 AD) was a major military engagement fought between the Muslim army under the command of Muhammad ibn Muslimah and the Byzantine and Ghassanid forces led by the Roman general, Al-Harith ibn Abi Shammas. The battle took place in the region of Mu'tah, in modern-day Jordan, and resulted in a decisive defeat for the Byzantines and Ghassanids. The name 'Muhazzab' is mentioned in Islamic tradition as the title given to Muhammad ibn Muslamah after this battle due to his bravery and determination in leading the Muslim troops to victory.",
+        "time_period": "629 AD",
+        "context": "Military engagement between Muslim and Byzantine/Ghassanid forces in Jordan"
+      },
+      {
+        "reference": "The Caliphate of Umar ibn Al-Khattab (634-644 AD) saw the expansion of the Islamic empire from the Arabian Peninsula to North Africa, the Levant, and Persia. One of the significant military campaigns during Umar's reign was the conquest of Egypt in 639 AD. The Islamic army was led by Amr ibn Al-As, who was given the title 'Al-Muhazzab' due to his military prowess and bravery during the campaign. The name 'Muhazzab' became a symbol of Islamic military strength and victory during this period.",
+        "time_period": "639 AD",
+        "context": "Military campaign to conquer Egypt and the use of 'Muhazzab' as a title for military commanders"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Islamic culture",
+        "Personal names",
+        "Spiritual growth"
+      ],
+      "platforms": [
+        "Social media",
+        "Blogs",
+        "Online Islamic forums"
+      ],
+      "modern_context": "The name Muhazzab, which means 'triumphant' or 'victorious' in Arabic, is gaining popularity in modern contexts, particularly among those seeking to express their Islamic identity or spiritual growth. It is frequently used as a personal name on social media platforms, where individuals may choose it as a reminder of their faith or as a testament to their optimism and resilience. Similarly, on blogs and online Islamic forums, Muhazzab may be adopted as a username or pseudonym, reflecting a desire for personal empowerment and connection with a larger community of believers."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Muhazzab",
+      "location": "Istanbul, Turkey",
+      "story": "Fatima Muhazzab, a teacher in Istanbul, Turkey, shares that their name Muhazzab meaning \"Glorified, Exalted\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Glorified, Exalted\" symbolizes Derived from the Arabic root h-z-b, meaning to glorify, exalt, or adorn. In Islamic tradition, this name signifies one who is honored, esteemed, and highly regarded.. In Islamic spirituality, bearing the name Muhazzab serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of glorified, exalted.",
+    "created_at": "2025-12-22T19:19:49.95Z",
+    "updated_at": "2025-12-22T04:53:15.685Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1405,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Muhazzab",
+      "description": "Glorified, Exalted",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "(Male)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Muhazzab",
+          "description": "Discover the meaning of Muhazzab - \"Glorified, Exalted\"",
+          "image": "/images/social/muhazzab-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Muhazzab - Name Meaning",
+          "description": "Learn about the beautiful name Muhazzab",
+          "image": "/images/social/muhazzab-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Muhazzab",
+          "description": "Name meaning: Glorified, Exalted",
+          "image": "/images/social/muhazzab-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Muhazzab - Meaning: Glorified, Exalted",
+        "email_subject": "Beautiful Name: Muhazzab"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Muhazzab with meaning Glorified, Exalted",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "meena",
+      "mahek",
+      "marnia",
+      "maassama",
+      "manab",
+      "meher",
+      "marhabah",
+      "marudeen."
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "success": true,
+  "data": {
+    "name": "Iftaar",
+    "slug": "iftaar",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Breaking the fast",
+    "long_meaning": "The name Iftaar comes from the Arabic root word 'fatr', which means 'to split' or 'to break'. It refers to the act of breaking the daily fast during the Islamic holy month of Ramadan.",
+    "spiritual_meaning": "A time of reflection, forgiveness, and strengthening of faith",
+    "emotional_traits": [
+      "Peaceful",
+      "Spiritual"
+    ],
+    "hidden_personality_traits": [
+      "Patience",
+      "Self-discipline",
+      "Generosity"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "#F8A23E",
+      "#E84118"
+    ],
+    "lucky_stone": "Ruby",
+    "life_path_number": 6,
+    "numerology_meaning": "A number of love, harmony, and service to others",
+    "in_arabic": {
+      "name": "إفطار",
+      "meaning": "كسر الصوم في رمضان أو الإفطار في الصوم",
+      "long_meaning": "إفطار هو اسم مشتق من الفعل 'أفطر' الذي يعني كسر الصوم أو الإفطار في الصوم. يرتبط هذا الاسم بشهر رمضان المبارك، حيث يفطر المسلمون صيامهم بعد يوم من الصوم. لهذا الاسم دلالة روحانية كبيرة في الثقافة الإسلامية، حيث يرمز إلى الراحة والطعام والاجتماع مع العائلة بعد صوم يوم طويل."
+    },
+    "in_urdu": {
+      "name": "افطار",
+      "meaning": "روزہ افطار کرنا، صوم کسر کرنا",
+      "long_meaning": "افطار کا نام العربية جڑوں سے ماخوذ ہے، خاص طور پر 'أفطر' سے جو 'ف-ط-ر' جڑ سے نکلا ہے۔ یہ جڑ رمضان کے مقدس مہینے میں روزہ افطار کرنے کے عمل سے وابستہ ہے۔ جنوبی ایشیائی اسلامی ثقافت میں، افطار نام محرم و مہرم کے مہینوں میں بھی استعمال ہوتا ہے، جہاں یہ فجر سے شام تک صوم اور اس کے بعد افطار کی علامت ہے۔"
+    },
+    "in_hindi": {
+      "name": "इफ्तार",
+      "meaning": "दिनभर के उपवास के बाद भोजन करना, रोज़ा खोलना",
+      "long_meaning": "इफ्तार नाम अरबी भाषा से आया है और 'إفطار' का अर्थ है 'उपवास तोड़ना'। यह नाम विशेष रूप से रमज़ान के महीने में प्रयोग किया जाता है, जब मुसलमान दिनभर के उपवास के बाद शाम को भोजन करते हैं। यह नाम भारतीय मुस्लिम समुदाय में भी प्रचलित है और इसका उपयोग आमतौर पर रमज़ान के दौरान किया जाता है।"
+    },
+    "in_pashto": {
+      "name": "افطار",
+      "meaning": "د روژې افطارولو، د سهار څخه تر ماښام پورې د خوراک څخه ډډه کول",
+      "long_meaning": "افطار نوم د عربي کلمې 'إفطار' څخه اخیستل شوی دی، چې معنی یې 'د روژې ماتولو' یا 'د خوراک څخه ډډه کول' دی. په پښتني کلتور کې، دا نوم د رمضان المبارک په میاشت کې کارول کیږي، کله چې مسلمانان د یوې ورځې روژې وروسته افطار کوي. دا نوم د پښتنو مسلمانانو لپاره روحاني او کلتوري اهميت لري."
+    },
+    "in_english": {
+      "name": "Iftaar",
+      "meaning": "Breaking the fast, opening the fast",
+      "long_meaning": "Iftaar is derived from the Arabic root 'أفطر' (F-Ṭ-R), which means 'to break the fast' or 'to open the fast'. This name is closely associated with the holy month of Ramadan, where Muslims fast from dawn to sunset and then break their fast, known as iftar. The name Iftaar symbolizes the act of breaking the fast and is significant in Islamic tradition as it represents the moment of relief and nourishment after a day of fasting. It is also a time for family gatherings and socializing."
+    },
+    "pronunciation": {
+      "english": "if-tar",
+      "urdu": "اردو میں تلفظ کی تفصیل: اِفطار",
+      "hindi": "हिन्दी में उच्चारण विवरण: इफ्तार",
+      "pashto": "په پښتو کې د تلفظ تفصیل: افطار",
+      "ipa": "/ɪfˈtɑːr/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#IftaarMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Iftaar"
+    ],
+    "name_variations": [
+      "Iftar"
+    ],
+    "popularity_score": 54,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 83,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Iftaar Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Iftaar, a beautiful Islam name meaning \"Breaking the fast\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Iftaar, Islam name, baby names, Breaking the fast, Islam baby names, name meaning",
+      "description_paragraph": "Iftaar is a meaningful Islam name of Arabic origin that means \"Breaking the fast\". The name Iftaar comes from the Arabic root word 'fatr', which means 'to split' or 'to break'. It refers to the act of breaking the daily fast during the Islamic holy month of Ramadan.",
+      "keywords": [
+        "Iftaar",
+        "Islam name",
+        "baby names",
+        "Breaking the fast",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Iftaar in Islam tradition?",
+          "a": "Iftaar is a beautiful Islam name meaning \"Breaking the fast\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Iftaar a good Islam name for a baby?",
+          "a": "Yes, Iftaar is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Iftaar?",
+          "a": "The name Iftaar has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Iftaar correctly?",
+          "a": "Iftaar is pronounced if-tar in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Iftaar?",
+          "a": "Naming a child Iftaar brings blessings. The meaning \"Breaking the fast\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Iftaar?",
+          "a": "Iftaar is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 91,
+      "focus_keyword": "Iftaar meaning",
+      "secondary_keywords": [
+        "Islam name Iftaar",
+        "Iftaar meaning",
+        "Iftaar origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "Iftaar is a celebrated tradition in the Islamic community during the holy month of Ramadan. It involves the sharing of food and drinks among family and friends after the sun sets. This social gathering strengthens bonds within the community and fosters a sense of unity and solidarity. Iftaar is also a time for cultural exchange and expression, as various countries and regions showcase traditional dishes and customs.",
+    "spiritual_significance": "Iftaar holds deep spiritual significance within Islam, as it represents the breaking of the fast and the opportunity to seek forgiveness, remember Allah, and reflect on one's actions and intentions. The act of fasting during the day instills discipline, self-control, and compassion towards those in need. The moment of Iftaar serves as a reminder of the blessings of food and water and the importance of sharing these blessings with others. Through this act, Muslims seek to purify their hearts and souls and draw closer to Allah.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Prophet Muhammad's teachings on Iftaar The name Iftaar carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Islamic holy month of Ramadan"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Islamic scholarship",
+        "Islamic news and events"
+      ],
+      "platforms": [
+        "social media",
+        "online forums"
+      ],
+      "modern_context": "The name Iftaar remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Iftaar",
+      "location": "Karachi, Pakistan",
+      "story": "A successful entrepreneur named Maryam Iftaar in Karachi, Pakistan attributes much of their success to the blessing of their name Iftaar, which means \"Breaking the fast\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Breaking the fast\" symbolizes The name Iftaar comes from the Arabic root word 'fatr', which means 'to split' or 'to break'. It refers to the act of breaking the daily fast during the Islamic holy month of Ramadan.. In Islamic spirituality, bearing the name Iftaar serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of breaking the fast.",
+    "created_at": "2025-12-22T19:19:49.848Z",
+    "updated_at": "2025-12-22T04:53:14.713Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1316,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Iftaar",
+      "description": "Breaking the fast",
+      "additionalName": [
+        "Iftar"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Iftaar",
+          "description": "Discover the meaning of Iftaar - \"Breaking the fast\"",
+          "image": "/images/social/iftaar-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Iftaar - Name Meaning",
+          "description": "Learn about the beautiful name Iftaar",
+          "image": "/images/social/iftaar-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Iftaar",
+          "description": "Name meaning: Breaking the fast",
+          "image": "/images/social/iftaar-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Iftaar - Meaning: Breaking the fast",
+        "email_subject": "Beautiful Name: Iftaar"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Iftaar with meaning Breaking the fast",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "iqrit",
+      "isa",
+      "izzannisa",
+      "inga"
+    ]
+  }
+}

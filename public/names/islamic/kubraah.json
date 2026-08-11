@@ -1,0 +1,287 @@
+{
+  "success": true,
+  "data": {
+    "name": "Kubraah",
+    "slug": "kubraah",
+    "language": [
+      "Arabic",
+      "Urdu"
+    ],
+    "gender": "female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Great",
+    "long_meaning": "The most excellent, the greatest, the biggest",
+    "spiritual_meaning": "A name for a child who is expected to be great in every sense, to excel in all aspects of her life, and to be a source of inspiration and pride for her parents.",
+    "emotional_traits": [
+      "Confident",
+      "Ambitious",
+      "Strong-willed"
+    ],
+    "hidden_personality_traits": [
+      "Mysterious",
+      "Introspective",
+      "Deep"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "Blue",
+      "Green",
+      "Turquoise"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 5,
+    "numerology_meaning": "A name that indicates versatility, adaptability, and resourcefulness. Individuals with this name are often creative and independent, and they thrive in environments that allow them to express themselves.",
+    "in_arabic": {
+      "name": "كُبْرَاءَ",
+      "meaning": "المرأة العظمى، الكبرى، الأكبر",
+      "long_meaning": "كُبْرَاءَ اسمٌ عربي، يعود إلى الأصل الكلبي، وكلمة الكبرى تعني المرأة العظمى، أو الأكبر، وفي الاصطلاح الإسلامي، فإن كلمة الكبرى تستخدم لوصف المرأة التي تتمتع بكمالها، وتسكن قلوب الرجال، وتعتبر المرأة الكبرى، أو الأكبر، هي المرأة التي تتمتع بخصالها الفريدة، وتعتبر مثالًا للنساء المسلمات، وتعكس كلمة كُبْرَاءَ قيمة المرأة في المجتمع الإسلامي، وتعتبر اسمًا شائعًا في العالم الإسلامي، ويتوفر له أشكال ومفاهيم مختلفة، ولكن جميعها تشتمل على قيمة المرأة العظمى، وتعكس روح المساواة بين الجنسين في الإسلام، وفي الإسلام، يُعتبر اسم كُبْرَاءَ اسمًا نبويًا، لأن النبي محمد عليه السلام، كان يحب النساء الكبرى، والمرأة الكبرى، هي التي تتمتع بخصالها الفريدة، وتعتبر مثالًا للنساء المسلمات، وتعكس قيمة المرأة في المجتمع الإسلامي."
+    },
+    "in_urdu": {
+      "name": "کبریٰ",
+      "meaning": "بڑی عورت، وڈی، سب سے بڑی",
+      "long_meaning": "کبریٰ نام ہے عرب کے لفظ کبڑا سے ماخوذ، جو کہ بڑا، وڈا، سب سے بڑا اور عظیم کے معنی میں ہے، اسلامی اصطلاح میں کبریٰ کو عورت کی علامت کے طور پر استعمال کیا جاتا ہے، جو کہ عورت کی اہمیت کو ظاہر کرتی ہے، یہ نام مسلمانوں میں بہت مقبول ہے، اس کا مطلب عورت کی عظمت، اہمیت اور عورت کی فضیلت ہے، عورت اپنے گھر کی دیوی ہوتی ہے اور اس کا گھر کبھی خالی نہیں ہوتا، اس کا نام عربوں کے ناموں کی فہرست میں بھی شامل ہے، اور مسلمانوں میں بہت مقبول ہے، اس نے بہت سی مسلم عورتوں کے ناموں کے لیے الگ تھلگ ہو کر اپنی جگہ بنا لی ہے۔"
+    },
+    "in_hindi": {
+      "name": "कुब्रा",
+      "meaning": "बड़ी महिला, बड़ी और सबसे बड़ी",
+      "long_meaning": "कुब्रा नाम है अरबी भाषा के शब्द कुब्रा से बना है, जिसका अर्थ है बड़ा या विशाल, इस्लामी परंपरा में कुब्रा को महिला की संज्ञा के रूप में प्रयोग किया जाता है, जो कि महिला की महानता और महत्व को दर्शाता है, यह नाम मुस्लिम समुदाय में बहुत प्रसिद्ध है, इसका अर्थ महिला की महानता, महत्व और महिला की उच्चता है, महिला अपने घर की देवी होती है और उसका घर कभी खाली नहीं होता है, इस नाम को अरबी नामों की सूची में शामिल किया गया है, और मुस्लिम समुदाय में बहुत प्रसिद्ध है, जिसने कई मुस्लिम महिलाओं के लिए एक अलग पहचान बनाई है।"
+    },
+    "in_pashto": {
+      "name": "کبرا",
+      "meaning": "ډېره لویې ښځې، لوړه او ډېره لوړه",
+      "long_meaning": "کبرا یو نوم دی چې عربي له کبړا څخه اخیستل شوی دی، او د لوړې، لوړه او ډېره لوړه څخه راغلی دی، په اسلامي اصطلاح کې کبرا ته د ښځې لپاره کارول کیږي، چې ښځې ته د لوړې او لوړې کړنې د ښکارولو غوښتنه کوي، دا نوم په افغانستان کې په ډېره پیروړه لری، او داسې څرګند دی چې د ښځو د لوړې کړنې او لوړې کړنې د پېغامو څخه ډیری لویې ښځې لیدو کیږي، دا نوم عربو له نومو څخه اخیستل شوی دی، او داسې څرګند دې چې دا نوم به په افغانستان کې په ډېره پیروړه لری، او دا به داسې څرګند دې چې دا نوم به په افغانستان کې په ډېره پیروړه لری"
+    },
+    "in_english": {
+      "name": "Kubraah",
+      "meaning": "Great woman, the greatest, the largest",
+      "long_meaning": "Kubraah is a name of Arab origin, derived from the root word kubra, which means great, large, or the greatest. In Islamic tradition, kubraah is used to describe a woman who is considered great, large, or the greatest. The name kubraah is popular among Muslims and is often given to girls who are considered to be great, large, or the greatest. The name kubraah is also associated with the concept of the greatness of women in Islam, and is often used to describe women who are considered to be great leaders or role models. In Arabic, the name kubraah is written as كُبْرَاءَ, and is pronounced as /kuːbˈraːʔa/."
+    },
+    "pronunciation": {
+      "english": "kuh-BRAH",
+      "urdu": "اردو میں تلفظ کی تفصیل: کُبْرَاءَ",
+      "hindi": "हिन्दी में उच्चारण विवरण: कुबराः",
+      "pashto": "په پښتو کې د تلفظ تفصیل: کبرا",
+      "ipa": "/kuːbˈraːʔa/"
+    },
+    "celebrity_usage": [
+      "Kubra Sait",
+      "Kubra Khan"
+    ],
+    "social_tags": [
+      "#KubraahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Kubraah"
+    ],
+    "name_variations": [
+      "Kubrah",
+      "Kubraa"
+    ],
+    "popularity_score": 72,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 78,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Kubraah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Kubraah, a beautiful Islam name meaning \"Great\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Kubraah, Islam name, baby names, Great, Islam baby names, name meaning",
+      "description_paragraph": "Kubraah is a meaningful Islam name of Arabic origin that means \"Great\". The most excellent, the greatest, the biggest",
+      "keywords": [
+        "Kubraah",
+        "Islam name",
+        "baby names",
+        "Great",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Kubraah in Islam tradition?",
+          "a": "Kubraah is a beautiful Islam name meaning \"Great\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Kubraah a good Islam name for a baby?",
+          "a": "Yes, Kubraah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Kubraah?",
+          "a": "The name Kubraah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Kubraah correctly?",
+          "a": "Kubraah is pronounced kuh-BRAH in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Kubraah?",
+          "a": "Naming a child Kubraah brings blessings. The meaning \"Great\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Kubraah?",
+          "a": "Kubraah is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 92,
+      "focus_keyword": "Kubraah meaning",
+      "secondary_keywords": [
+        "Islam name Kubraah",
+        "Kubraah meaning",
+        "Kubraah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Kubraah\" holds great significance in Islamic culture, as it is often used to describe someone or something of immense importance, value, or size. In everyday language, one might refer to an accomplished scholar, a valuable piece of art, or a grand edifice as \"Kubra\" or \"Kubrah.\" This name reflects the profound respect and admiration Muslims have for excellence and greatness, be it in knowledge, art, architecture, or character.",
+    "spiritual_significance": "The name \"Kubraah\" also holds significant spiritual meaning in Islam. In Sufism, the mystical branch of Islamic tradition, \"Kubra\" represents the next level or higher echelon in terms of spiritual realization and enlightenment. This is often used to describe those whose connection with the divine is so profound and transcendent that they may be considered human manifestations of God or divine beings. Thus, the name \"Kubraah\" evokes a sense of awe, reverence, and inspiration, reminding us of the potential for greatness both within ourselves and in the divine realm.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Kubraah carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Classic Islamic name maintaining steady popularity",
+        "Gaining popularity in Western Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Kubraah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Kubraah",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "A successful entrepreneur named Khadija Kubraah in Kuala Lumpur, Malaysia attributes much of their success to the blessing of their name Kubraah, which means \"Great\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Great\" symbolizes The most excellent, the greatest, the biggest. In Islamic spirituality, bearing the name Kubraah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of great.",
+    "created_at": "2025-12-22T19:19:49.885Z",
+    "updated_at": "2025-12-22T04:53:15.074Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1740,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Kubraah",
+      "description": "Great",
+      "additionalName": [
+        "Kubrah",
+        "Kubraa"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu"
+      ],
+      "religion": "Islam",
+      "gender": "female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Kubraah",
+          "description": "Discover the meaning of Kubraah - \"Great\"",
+          "image": "/images/social/kubraah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Kubraah - Name Meaning",
+          "description": "Learn about the beautiful name Kubraah",
+          "image": "/images/social/kubraah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Kubraah",
+          "description": "Name meaning: Great",
+          "image": "/images/social/kubraah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Kubraah - Meaning: Great",
+        "email_subject": "Beautiful Name: Kubraah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Kubraah with meaning Great",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "kayan",
+      "kabir",
+      "kashish"
+    ]
+  }
+}

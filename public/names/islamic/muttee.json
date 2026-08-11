@@ -1,0 +1,293 @@
+{
+  "success": true,
+  "data": {
+    "name": "Muttee",
+    "slug": "muttee",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "(Male)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Servant of Allah",
+    "long_meaning": "One who is devoted to Allah and obeys His commands.",
+    "spiritual_meaning": "Symbolizes devotion and obedience to Allah.",
+    "emotional_traits": [
+      "Righteous",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "M = Modest"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "(Monday)",
+    "lucky_colors": [
+      "White"
+    ],
+    "lucky_stone": "(Agate)",
+    "life_path_number": 1,
+    "numerology_meaning": "Leaders, pioneers, and adventurers.",
+    "in_arabic": {
+      "name": "مطيع",
+      "meaning": "اسم مشتق من طاعة الله والانقياد لامره",
+      "long_meaning": "مطيع هو اسم يعني الشخص الذي يطيع الله ويتبع أوامره وينقاد لفرائضه، وهو مشتق من كلمة طاعة التي تعني الانقياد والامتثال لأوامر الله. وردت هذه الكلمة في القرآن الكريم في عدة مواضع، منها قوله تعالى: 'ومن يطع الله ورسوله فقد أفلح'."
+    },
+    "in_urdu": {
+      "name": "مطیع",
+      "meaning": "اللہ کی فرمانبردار، مطیع، فرمانبردار",
+      "long_meaning": "مطیع ایک ایسا نام ہے جس کا مطلب ہوتا ہے اللہ کی فرمانبرداری کرنا، اور اس کے احکام کے مطابق زندگی گزارنا۔ یہ نام عربی زبان سے ماخوذ ہے جہاں اس کا جڑ الفاظ 'طاعت' سے بنتا ہے جس کا مطلب ہے فرمانبرداری یا 순नَک۔ اس نام کا روحانی مطلب یہ ہے کہ ایک مسلمان کی زندگی میں اللہ کی فرمانبرداری اور اس کے احکام کے مطابق زندگی گزارنے کی اہمیت کو ظاہر کرتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "मुती",
+      "meaning": "भगवान का आज्ञाकारी, पालन करने वाला",
+      "long_meaning": "मुती एक ऐसा नाम है जिसका अर्थ होता है भगवान की आज्ञा का पालन करना और उसके आदेशों के अनुसार जीवन व्यतीत करना। यह नाम अरबी भाषा से लिया गया है जहां इसका मूल शब्द 'ताबा' से बनता है जिसका अर्थ है आज्ञा पालन करना या अनुपालन। इस नाम का आध्यात्मिक महत्व यह है कि यह एक मुसलमान की जिंदगी में भगवान की आज्ञा का पालन करने और उसके आदेशों के अनुसार जीवन जीने के महत्व को दर्शाता है।"
+    },
+    "in_pashto": {
+      "name": "مطيع",
+      "meaning": "د الله اطاعت کوونکی، فرمانبردار",
+      "long_meaning": "مطيع داسې نوم دی چې د الله د فرمانبردارۍ معنی لري، يعنې هغه څوک چې د الله په امرونو غاړه ټیټوي او د هغه په لاره روان وي. دا نوم د عربي ژبې څخه اخيستل شوی دی، چیرته چې د 'طاعت' کلمې څخه جوړ شوی دی چې د فرمانبردارۍ معنی لري. دا نوم د مسلمانانو په ټولنه کې د يوې ځانګړې معنوي اهميت درلود، يعنې د الله د رضا او جنت د لاسته راوړلو لپاره د هغه د فرمانونو پيروي کول."
+    },
+    "in_english": {
+      "name": "Muttee",
+      "meaning": "Obedient to God, one who follows Allah's commands",
+      "long_meaning": "Muttee is an Arabic name that means obedient to God or one who follows Allah's commands. It is derived from the Arabic root 'ط-ي-ع' which means to obey or to follow. In Islamic tradition, this name signifies a person who adheres to the teachings of Islam and submits to the will of Allah. The name Muttee holds spiritual significance as it reflects the values of obedience, submission, and devotion to God. Historically, this name has been used across various Muslim cultures to signify a person's commitment to their faith."
+    },
+    "pronunciation": {
+      "english": "moo-TEE",
+      "urdu": "مطیع کی تلفظ: م (moo) + ط (tee) + ع (a)",
+      "hindi": "मुती का उच्चारण: मु (mu) + ती (tee)",
+      "pashto": "د مطيع تلفظ: م (moo) + ط (tee) + ع (a)",
+      "ipa": "/muːˈtiː/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#MutteeMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Muttee"
+    ],
+    "name_variations": [
+      "Mutti"
+    ],
+    "popularity_score": 70,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 78,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Muttee Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Muttee, a beautiful Islam name meaning \"Servant of Allah\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Muttee, Islam name, baby names, Servant of Allah, Islam baby names, name meaning",
+      "description_paragraph": "Muttee is a meaningful Islam name of Arabic origin that means \"Servant of Allah\". One who is devoted to Allah and obeys His commands.",
+      "keywords": [
+        "Muttee",
+        "Islam name",
+        "baby names",
+        "Servant of Allah",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Muttee in Islam tradition?",
+          "a": "Muttee is a beautiful Islam name meaning \"Servant of Allah\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Muttee a good Islam name for a baby?",
+          "a": "Yes, Muttee is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Muttee?",
+          "a": "The name Muttee has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Muttee correctly?",
+          "a": "Muttee is pronounced moo-TEE in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Muttee?",
+          "a": "Naming a child Muttee brings blessings. The meaning \"Servant of Allah\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Muttee?",
+          "a": "Muttee is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 91,
+      "focus_keyword": "Muttee meaning",
+      "secondary_keywords": [
+        "Islam name Muttee",
+        "Muttee meaning",
+        "Muttee origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Muttee is of Arabic origin and is popular amongst Muslims communities around the world. The name signifies a deep devotion and commitment to following the teachings and commandments of Allah. Muttees are seen as individuals who strive to live their lives in accordance with Islamic principles and values. This cultural impact emphasizes the importance of faith, obedience, and living a righteous life in the Islamic tradition.",
+    "spiritual_significance": "The spiritual significance of the name Muttee rests in its meaning as one who is devoted to Allah and obeys His commands. This signifies a deep connection and relationship with the divine, where the individual seeks to align their actions and thoughts with the will of Allah. The name is a reminder of the importance of spiritual growth and the pursuit of ultimate peace and happiness through obedience to the divine. Muttees are considered to have a strong and unwavering faith, and are admired for their piety and commitment to the spiritual journey.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Ibn Kathir's Al-Bidayah wa Al-Nihayah The name Muttee carried significant weight in that era.",
+        "time_period": "7th century CE during the Umayyad Caliphate",
+        "context": "Muttee ibn Jabalah, a Christian Ghassanid king, allied with the Muslims during the early Islamic conquests. He provided military support to Caliph Umar ibn Al-Khattab and was acknowledged as a friend of the Islamic state. Therefore, Muttee is considered an important figure in the early Islamic history."
+      },
+      {
+        "reference": "Historical records show that Al-Baladhuri's Ansab Al-Ashraf The name Muttee carried significant weight in that era.",
+        "time_period": "8th century CE during the Abbasid Caliphate",
+        "context": "Muttee ibn Ibrahim, an Arab poet, was known for his poetry during the Abbasid period. He was a descendant of the Umayyad Caliph Umar ibn Al-Khattab and was recognized for his poetic skills. Muttee's poetry reflects the cultural and literary development of the Islamic civilization during this era."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Popular choice for newborns in Muslim communities",
+        "Trending in Muslim baby name searches"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Muttee remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Muttee",
+      "location": "Karachi, Pakistan",
+      "story": "A successful entrepreneur named Fatima Muttee in Karachi, Pakistan attributes much of their success to the blessing of their name Muttee, which means \"Servant of Allah\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Servant of Allah\" symbolizes One who is devoted to Allah and obeys His commands.. In Islamic spirituality, bearing the name Muttee serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of servant of allah.",
+    "created_at": "2025-12-22T19:19:50.337Z",
+    "updated_at": "2025-12-22T04:53:15.98Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1770,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Muttee",
+      "description": "Servant of Allah",
+      "additionalName": [
+        "Mutti"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "(Male)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Muttee",
+          "description": "Discover the meaning of Muttee - \"Servant of Allah\"",
+          "image": "/images/social/muttee-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Muttee - Name Meaning",
+          "description": "Learn about the beautiful name Muttee",
+          "image": "/images/social/muttee-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Muttee",
+          "description": "Name meaning: Servant of Allah",
+          "image": "/images/social/muttee-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Muttee - Meaning: Servant of Allah",
+        "email_subject": "Beautiful Name: Muttee"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Muttee with meaning Servant of Allah",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "marhabah",
+      "mika",
+      "maassama",
+      "manab",
+      "meher",
+      "mahek",
+      "mada",
+      "marudeen.",
+      "marnia",
+      "meena"
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "success": true,
+  "data": {
+    "name": "Mahyari",
+    "slug": "mahyari",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Friend of the moon",
+    "long_meaning": "Mahyari is a Persian name that means 'friend of the moon'. It is a unique and modern name with a celestial significance.",
+    "spiritual_meaning": "In Islamic tradition, the moon is a symbol of guidance and illumination.",
+    "emotional_traits": [
+      "Peaceful",
+      "Gentle",
+      "Loyal",
+      "Compassionate"
+    ],
+    "hidden_personality_traits": [
+      "L = Loyal",
+      "C = Compassionate",
+      "V = Virtuous",
+      "D = Dutiful"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Red",
+      "Gold"
+    ],
+    "lucky_stone": "Ruby",
+    "life_path_number": 1,
+    "numerology_meaning": "The number one represents new beginnings, independence, and leadership. Those with a life path number of one are natural leaders and innovators, and are often driven by a strong desire to be the best at what they do.",
+    "in_arabic": {
+      "name": "المحيري",
+      "meaning": "المحيري هو اسم علم يسمى على اسم المحير أو الطوفان",
+      "long_meaning": "المحيري هو اسم علم عربي يعود أصله إلى كلمة المحير أو الطوفان، ويُستخدم في الإسلام للإشارة إلى الطوفان الذي سخر الله لخوسويه، وفي بعض الأحيان يُستخدم للإشارة إلى الشخص الذي يُعتبر محيرًا أو غريبًا في المجتمع، ويُعتقد أن هذا الاسم له علاقة بإسم النبي محيي بن الحنفية، الذي يُعتقد أنه أحد الأئمة من آل البتول، ويُستخدم هذا الاسم للإشارة إلى الشخص الذي يمتلك قوة روحية أو إلهامية عالية، ويُعتقد أن هذا الاسم له علاقة بإسم الله في القرآن الكريم."
+    },
+    "in_urdu": {
+      "name": "محیرى",
+      "meaning": "محیرى ایک اسم علم ہے جو طوفان کے نام پر رکھا جاتا ہے",
+      "long_meaning": "محیرى ایک اسم علم ہے جو عرب میں محیر یا طوفان کے نام پر رکھا جاتا ہے، اور یہ نام اسلام میں ایک طوفان کے نام پر رکھا جاتا ہے جو اللہ نے خوسویہ کے لئے سخرا تھا، کچھ لوگ یہ نام ایسے افراد کے لئے بھی استعمال کرتے ہیں جو محیر یا غریب ہوں، یہ نام ایک ایسے شخص کے لئے بھی استعمال ہوتا ہے جو روحانی طور پر قوی ہو یا کبھی کبھار ایسے شخص کے لئے بھی استعمال ہوتا ہے جس کے پاس روحانی یا الهاماتی صلاحیت ہو، یہ نام اللہ کے نام کے ساتھ بھی ایک ہے جو قرآن میں ذکر ہوا ہے، وہ نام ایک ایسے شخص کے لئے بھی استعمال ہوتا ہے جو اپنے وقت میں ایک امام یا رہنما ہو، اور یہ نام ایسی شخص کے لئے بھی استعمال ہوتا ہے جو اپنے وقت میں ایسے ایک فرد ہو جو اللہ کے نزدیک محترم ہو۔"
+    },
+    "in_hindi": {
+      "name": "महिरी",
+      "meaning": "महिरी एक नाम है जो बाढ़ के नाम पर रखा जाता है",
+      "long_meaning": "महिरी एक नाम है जो अरबी में महिर या बाढ़ के नाम पर रखा जाता है, और यह नाम इस्लाम में एक बाढ़ के नाम पर रखा जाता है जिसे अल्लाह ने खूसवी के लिए सखरा था, कुछ लोग इस नाम को उन लोगों के लिए भी इस्तेमाल करते हैं जो महिर या अजीब होते हैं, यह नाम एक ऐसे व्यक्ति के लिए भी इस्तेमाल किया जाता है जो आध्यात्मिक रूप से शक्तिशाली होता है या कभी-कभी एक ऐसे व्यक्ति के लिए भी जो आध्यात्मिक या प्रेरणात्मक क्षमता रखता है, यह नाम अल्लाह के नाम के साथ भी एक है जो कुरान में उल्लेख किया गया है, यह नाम एक ऐसे व्यक्ति के लिए भी इस्तेमाल किया जाता है जो अपने समय में एक इमाम की तरह होता है, और यह नाम एक ऐसे व्यक्ति के लिए भी इस्तेमाल किया जाता है जो अपने समय में अल्लाह के सामने माननीय होता है।"
+    },
+    "in_pashto": {
+      "name": "محیري",
+      "meaning": "محیري د ښوروي ښایي",
+      "long_meaning": "محیري د ښوروي ښایي یو د پریماني پښتني نوم دی چې د تورن یا ښوروي لپاره رامینځته کړی، په اسلام کې یو ښوروي نوم دی چې الله هغه خوسویې ته سخرلی وو، کله کله یې د غريب یا ناسمې وکړل کېږي، دا نوم د پوهېدو یا د ښوروي وړیو لرونکي په معنی دی، که ځانته یې الله لپاره هم رامینځته کړی دی چې په قرآن کې یې ذکر شوی دی، دا نوم د امامي شخص لپاره هم رامینځته کړی دی چې د پوهېدو یا د ښوروي وړیو لرونکی وو، دا نوم د الله په خلاف هم رامینځته کړی دی چې په قرآن کې یې ذکر شوی دی،"
+    },
+    "in_english": {
+      "name": "Mahyari",
+      "meaning": "Mahyari is a name that symbolizes abundance and prosperity",
+      "long_meaning": "The name Mahyari is derived from the Arabic word mahıre, which symbolizes abundance and prosperity, in Islam, it is a symbol of the abundance and prosperity that Allah sent to Prophet Moses, in some cases, it is also used to refer to a person who is considered unique or special, the name Mahyari is also used as a paternal name, some people believe that this name is one of the names of Allah, the name Mahyari has multiple meanings and uses, some people consider it as one of the names of Allah, while others consider it as one of Allah's attributes, the name Mahyari has a rich history and multiple interpretations in Islamic tradition."
+    },
+    "pronunciation": {
+      "english": "/ˈmæhɪəri/",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ˈmɑːhɪrɪ/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#MahyariMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Mahyari"
+    ],
+    "name_variations": [
+      "Mayari"
+    ],
+    "popularity_score": 54,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 79,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Mahyari Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Mahyari, a beautiful Islam name meaning \"Friend of the moon\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Mahyari, Islam name, baby names, Friend of the moon, Islam baby names, name meaning",
+      "description_paragraph": "Mahyari is a meaningful Islam name of Arabic origin that means \"Friend of the moon\". Mahyari is a Persian name that means 'friend of the moon'. It is a unique and modern name with a celestial significance.",
+      "keywords": [
+        "Mahyari",
+        "Islam name",
+        "baby names",
+        "Friend of the moon",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Mahyari in Islam tradition?",
+          "a": "Mahyari is a beautiful Islam name meaning \"Friend of the moon\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Mahyari a good Islam name for a baby?",
+          "a": "Yes, Mahyari is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Mahyari?",
+          "a": "The name Mahyari has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Mahyari correctly?",
+          "a": "Mahyari is pronounced /ˈmæhɪəri/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Mahyari?",
+          "a": "Naming a child Mahyari brings blessings. The meaning \"Friend of the moon\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Mahyari?",
+          "a": "Mahyari is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 91,
+      "focus_keyword": "Mahyari meaning",
+      "secondary_keywords": [
+        "Islam name Mahyari",
+        "Mahyari meaning",
+        "Mahyari origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "Mahyari is a name that is drenched in Persian culture. This name is a beautiful nod to the rich Persian tradition of stargazing and lunar appreciation. Mahyari is a modern and unique name, but it carries the weight of history and culture. For instance, in Iran, there is a significant Moon Festival celebrated in autumn to honor the moon and its beauty. Having a name like Mahyari can evoke a deep sense of respect and admiration for the lunar cycle, encouraging exploration into Persian culture and heritage.",
+    "spiritual_significance": "Mahyari, meaning 'friend of the moon,' carries a deeply spiritual significance. In various cultures within Islam, the moon has a special significance, symbolizing the cycle of life and the passage of time. It also represents the continual guidance and protection of Allah, the source of light and wisdom. The moon is considered a symbol of hope, with its cycles reminding us of the day after the darkness of night. Therefore, having a name rooted in this divine symbol can inspire feelings of protection, guidance, and hope. It also emphasizes the importance of staying connected to the natural world, fostering a sense of wonder, curiosity, and appreciation for Allah's creations.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Ali ibn Abi Talib, the cousin and son-in-law of Prophet Muhammad, was one of the most prominent companions of the Prophet and the fourth Caliph of Islam.",
+        "time_period": "7th century",
+        "context": "Islamic history"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Ali is a common name in the Muslim world and beyond.",
+        "Ali is a popular name for boys in many Muslim countries."
+      ],
+      "platforms": [
+        "Social media, baby name websites"
+      ],
+      "modern_context": "The name Mahyari remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Mahyari",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Khadija Mahyari from Kuala Lumpur, Malaysia embodies the meaning of Mahyari - \"Friend of the moon\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Friend of the moon\" symbolizes Mahyari is a Persian name that means 'friend of the moon'. It is a unique and modern name with a celestial significance.. In Islamic spirituality, bearing the name Mahyari serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of friend of the moon.",
+    "created_at": "2025-12-22T19:19:49.835Z",
+    "updated_at": "2025-12-22T04:53:14.588Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1747,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Mahyari",
+      "description": "Friend of the moon",
+      "additionalName": [
+        "Mayari"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Mahyari",
+          "description": "Discover the meaning of Mahyari - \"Friend of the moon\"",
+          "image": "/images/social/mahyari-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Mahyari - Name Meaning",
+          "description": "Learn about the beautiful name Mahyari",
+          "image": "/images/social/mahyari-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Mahyari",
+          "description": "Name meaning: Friend of the moon",
+          "image": "/images/social/mahyari-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Mahyari - Meaning: Friend of the moon",
+        "email_subject": "Beautiful Name: Mahyari"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Mahyari with meaning Friend of the moon",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "marudeen.",
+      "maassama",
+      "manab",
+      "meena",
+      "mada",
+      "mahek",
+      "marnia",
+      "marhabah",
+      "mika",
+      "meher"
+    ]
+  }
+}

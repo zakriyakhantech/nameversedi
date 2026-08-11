@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Dunya",
+    "slug": "dunya",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "islamic",
+    "meaning": "World"
+  }
+}

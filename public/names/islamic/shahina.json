@@ -1,0 +1,298 @@
+{
+  "success": true,
+  "data": {
+    "name": "Shahina",
+    "slug": "shahina",
+    "language": [
+      "Urdu",
+      "Persian",
+      "Arabic"
+    ],
+    "gender": "female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Royal",
+    "long_meaning": "Queen, Princess, Noblewoman",
+    "spiritual_meaning": "Protector, Guardian, Defender",
+    "emotional_traits": [
+      "Calm",
+      "Compassionate",
+      "Gentle"
+    ],
+    "hidden_personality_traits": [
+      "Confident",
+      "Determined",
+      "Intelligent"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow",
+      "Green"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 5,
+    "numerology_meaning": "Change, Freedom, Adventure",
+    "in_arabic": {
+      "name": "شاهينة",
+      "meaning": "تعني الشخصية اللطيفة والرقيقة في اللغة العربية",
+      "long_meaning": "اسم شاهينة هو اسم علم مؤنث من أصل عربي، مشتق من كلمة شاهين، وتعني الشخصية اللطيفة والرقيقة. ويرتبط هذا الاسم بالطيور الجارحة، حيث يعتبر شاهين نوعًا من أنواع الصقور، مما يعطي الاسم دلالة على القوة والسرعة والرشاقة. وقد وردت هذه الكلمة في القرآن الكريم في سورة الفجر الآية 5: وَيَومٍ يَشهدُ شاهينَ الأَبرَقِ"
+    },
+    "in_urdu": {
+      "name": "شاہینہ",
+      "meaning": "شاہینہ کا مطلب ہے نفیس اور خوبصورت شخصیت",
+      "long_meaning": "شاہینہ ایک عربی نام ہے جس کا مطلب ہے نفیس اور خوبصورت شخصیت۔ یہ نام فارسی زبان کے الفاظ 'شاہ' اور 'ین' سے ماخوذ ہے، جو بالترتیب 'بادشاہ' اور 'صفت' کے معنی دیتے ہیں۔ لہذا، شاہینہ کا مطلب ہے بادشاہی خوبصورتی یا نفیس بادشاہی شخصیت۔ یہ نام جنوبی ایشیا میں مسلمانوں کے درمیان میں بہت مقبول ہے، خاص طور پر پاکستان اور بھارت میں"
+    },
+    "in_hindi": {
+      "name": "शाहिना",
+      "meaning": "शाहिना का अर्थ है सुंदर और आकर्षक व्यक्तित्व",
+      "long_meaning": "शाहिना एक अरबी नाम है जिसका अर्थ है सुंदर और आकर्षक व्यक्तित्व। यह नाम अरबी भाषा के शब्दों से बना है, जो सौंदर्य और शाही गुणों को दर्शाता है। भारतीय मुस्लिम समुदाय में, यह नाम अपनी सुंदरता और गहराई के कारण बहुत पसंद किया जाता है"
+    },
+    "in_pashto": {
+      "name": "شاهینه",
+      "meaning": "د شاهینه نوم معنی دى ښکل او پيښلي شخصيت",
+      "long_meaning": "شاهینه د يوه ښکل او پيښلي شخصيت نوم دى، چي په عربي ژبه کي يې اصل دى. دا نوم د شاهين مرغومي څخه اخستل شوی دى، چي د سرعت او قوت نښه ده. په افغانستان او پاکستان کي د پښتنو او نورو مسلمانو ټولنو کي دا نوم ډير مشهور دى"
+    },
+    "in_english": {
+      "name": "Shahina",
+      "meaning": "Shahina means beautiful, gentle, and refined personality",
+      "long_meaning": "Shahina is a feminine given name of Arabic origin, derived from the word 'shahin,' which refers to a type of falcon. The name signifies beauty, gentleness, and refinement. It is associated with strength, speed, and agility, reflecting the qualities of the falcon. In Islamic tradition, the name Shahina is valued for its elegant and powerful connotations, making it a popular choice among Muslim parents worldwide"
+    },
+    "pronunciation": {
+      "english": "shah-HEE-nah",
+      "urdu": "اردو میں تلفظ کی تفصیل شاہینہ",
+      "hindi": "हिन्दी में उच्चारण विवरण शाहीना",
+      "pashto": "په پښتو کې د تلفظ تفصیل شاهینه",
+      "ipa": "/ʃɑːˈhiːnɑː/"
+    },
+    "celebrity_usage": [
+      "Shahina Naseem",
+      "Shahina Khalid",
+      "Shahina Begum"
+    ],
+    "social_tags": [
+      "#ShahinaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Shahina"
+    ],
+    "name_variations": [
+      "Shaina"
+    ],
+    "popularity_score": 56,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 87,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 72,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Shahina Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Shahina, a beautiful Islam name meaning \"Royal\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Shahina, Islam name, baby names, Royal, Islam baby names, name meaning",
+      "description_paragraph": "Shahina is a meaningful Islam name of Arabic origin that means \"Royal\". Queen, Princess, Noblewoman",
+      "keywords": [
+        "Shahina",
+        "Islam name",
+        "baby names",
+        "Royal",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Shahina in Islam tradition?",
+          "a": "Shahina is a beautiful Islam name meaning \"Royal\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Shahina a good Islam name for a baby?",
+          "a": "Yes, Shahina is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Shahina?",
+          "a": "The name Shahina has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Shahina correctly?",
+          "a": "Shahina is pronounced shah-HEE-nah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Shahina?",
+          "a": "Naming a child Shahina brings blessings. The meaning \"Royal\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Shahina?",
+          "a": "Shahina is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 90,
+      "focus_keyword": "Shahina meaning",
+      "secondary_keywords": [
+        "Islam name Shahina",
+        "Shahina meaning",
+        "Shahina origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Shahina\" is rooted in Arabic and Persian origins, which evoke images of royalty, nobility, and power. In Islamic culture, the name symbolizes strength, prestige, and the dignity of a queen or princess. It's a name of pride for parents to bestow upon their daughters.",
+    "spiritual_significance": "From a spiritual perspective, the name \"Shahina\" represents the inner princess or queen within each person. It is a reminder of the divine potential and worth within us, which can manifest as inner power, grace, and noble character. The name encourages us to strive towards our divine purpose in life, embodying the best aspects of self and enriching the lives of those around us.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Shahina carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "rare",
+        "unusual"
+      ],
+      "platforms": [
+        "social media"
+      ],
+      "modern_context": "The name Shahina is of Persian origin and means 'noble, beautiful, or radiant'. It is a rare and unusual name, particularly in the Western world, and has gained popularity in recent years due to its unique sound and meaning. It is often used as a feminine given name in the Persian, Urdu, and Arabic cultures. The name has also been featured in various works of literature and media, contributing to its growing popularity."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Shahina",
+      "location": "Dubai, UAE",
+      "story": "A successful entrepreneur named Aisha Shahina in Dubai, UAE attributes much of their success to the blessing of their name Shahina, which means \"Royal\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Royal\" symbolizes Queen, Princess, Noblewoman. In Islamic spirituality, bearing the name Shahina serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of royal.",
+    "created_at": "2025-12-22T19:19:49.906Z",
+    "updated_at": "2025-12-22T04:53:15.208Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1121,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Shahina",
+      "description": "Royal",
+      "additionalName": [
+        "Shaina"
+      ],
+      "knowsLanguage": [
+        "Urdu",
+        "Persian",
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Shahina",
+          "description": "Discover the meaning of Shahina - \"Royal\"",
+          "image": "/images/social/shahina-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Shahina - Name Meaning",
+          "description": "Learn about the beautiful name Shahina",
+          "image": "/images/social/shahina-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Shahina",
+          "description": "Name meaning: Royal",
+          "image": "/images/social/shahina-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Shahina - Meaning: Royal",
+        "email_subject": "Beautiful Name: Shahina"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Shahina with meaning Royal",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saim",
+      "sadaldin",
+      "saal"
+    ]
+  }
+}

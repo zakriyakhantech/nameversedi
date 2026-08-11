@@ -1,0 +1,292 @@
+{
+  "success": true,
+  "data": {
+    "name": "Seerat",
+    "slug": "seerat",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "English"
+    ],
+    "gender": "female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Journey, Way, Path",
+    "long_meaning": "A journey or path that one takes through life. In Islamic tradition, it refers to the life story of Prophet Muhammad (pbuh)",
+    "spiritual_meaning": "Symbolizes the spiritual journey of a person through life, guided by Allah",
+    "emotional_traits": [
+      "Adventurous",
+      "Curious",
+      "Independent"
+    ],
+    "hidden_personality_traits": [
+      "Determined",
+      "Resourceful",
+      "Persevering"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "lucky_stone": "Jade",
+    "life_path_number": 2,
+    "numerology_meaning": "People with the life path number 2 are compassionate, loving, and giving",
+    "in_arabic": {
+      "name": "سيرَت",
+      "meaning": "الحياة النبوية، الطريق الصحيح، السيرة الحسنة",
+      "long_meaning": "السيرَت: مصدر سيرَ، يَسيرُ، يَسُرُّ. السيرة الحسنة: سيرة النبي محمد ﷺ، الطريق الصحيح، الحياة النبوية. هي السيرة التي يريدها الله لعباده، وهي السيرة التي يرغب فيها المسلمون. وهي الطريق الذي يتبعه النبي محمد ﷺ في جميع أمور الحياة، وهو الطريق الذي يجب على المسلمين التمسك به. وهي السيرة التي تحوي الكثير من الخير والبركة، وسيرة النبي محمد ﷺ هي أفضل سيرة، وهي الأفضل من كل سيرة. وهي السيرة التي تتبعها الأمة الإسلامية، وهي السيرة التي يجب على المسلمين التمسك بها."
+    },
+    "in_urdu": {
+      "name": "سرت",
+      "meaning": "نبوتی زندگی، صحیح راستہ، اچھی سیرت",
+      "long_meaning": "سرت: اس سے سیرت کا مطلب ہوتا ہے، سیرت ایک نام ہے جو نبی کریم ﷺ کی زندگی کے لیے استعمال ہوتا ہے۔ یہ راستہ جس پر نبی کریم ﷺ نے زندگی بسر کی، یہ ایک صحیح راستہ ہے جس پر مسلمانوں کو چلنا چاہیے۔ یہ راستہ نبی کریم ﷺ کے لیے سب سے اچھا راستہ ہے اور مسلمانوں کے لیے بھی سب سے اچھا راستہ ہے۔"
+    },
+    "in_hindi": {
+      "name": "सीरत",
+      "meaning": "नबवती जीवन, सही रास्ता, अच्छी सीरत",
+      "long_meaning": "सीरत: इस शब्द का अर्थ है नबी के जीवन का पालन करना, नबी के जीवन के अनुसार जीना, जिस रास्ते पर नबी ने जीवन गुजरा, वही सही रास्ता है, जिसे मुसलमानों को अपनाना चाहिए। नबी की सीरत से मुसलमानों को बहुत कुछ सीखने को मिलता है।"
+    },
+    "in_pashto": {
+      "name": "سرت",
+      "meaning": "نبوتی ژوند، سوله راست، اچھه سیرت",
+      "long_meaning": "سرت: دا سيرت دې ته د سيره د معنا دی، دا سيره د کريم پښتونو د ژوند لپاره کارول کيږي، دا د کريم پښتونو د ژوند لپاره دوه سوله راست دی، د اسلامي نړۍ لپاره دوه سوله راست دی، دا سيره د کريم پښتونو د ژوند لپاره دوه سوله راست دی، دا سيره د اسلامي نړۍ لپاره دوه سوله راست دی."
+    },
+    "in_english": {
+      "name": "Seerat",
+      "meaning": "Prophetic life, right path, good character",
+      "long_meaning": "Seerat: Derived from the Arabic root 'sir', meaning 'to follow' or 'to walk'. Seerat refers to the life and character of the Prophet Muhammad, who is considered the embodiment of good character and the right path. Following the seerat of the Prophet is considered the ultimate goal of a Muslim's life, and it is the key to achieving spiritual growth and development."
+    },
+    "pronunciation": {
+      "english": "/ˈsiːrɑːt/",
+      "urdu": "سرت",
+      "hindi": "सीरत",
+      "pashto": "سرت",
+      "ipa": "/ˈsɪrɑːt/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#SeeratMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Seerat"
+    ],
+    "name_variations": [
+      "Sirat"
+    ],
+    "popularity_score": 40,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 70,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 68,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Seerat Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Seerat, a beautiful Islam name meaning \"Journey, Way, Path\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Seerat, Islam name, baby names, Journey, Way, Path, Islam baby names, name meaning",
+      "description_paragraph": "Seerat is a meaningful Islam name of Arabic origin that means \"Journey, Way, Path\". A journey or path that one takes through life. In Islamic tradition, it refers to the life story of Prophet Muhammad (pbuh)",
+      "keywords": [
+        "Seerat",
+        "Islam name",
+        "baby names",
+        "Journey, Way, Path",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Seerat in Islam tradition?",
+          "a": "Seerat is a beautiful Islam name meaning \"Journey, Way, Path\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Seerat a good Islam name for a baby?",
+          "a": "Yes, Seerat is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Seerat?",
+          "a": "The name Seerat has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Seerat correctly?",
+          "a": "Seerat is pronounced /ˈsiːrɑːt/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Seerat?",
+          "a": "Naming a child Seerat brings blessings. The meaning \"Journey, Way, Path\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Seerat?",
+          "a": "Seerat is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Seerat meaning",
+      "secondary_keywords": [
+        "Islam name Seerat",
+        "Seerat meaning",
+        "Seerat origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The term \"Seerat\" is derived from the Arabic word \"sirrah\", which means \"status\" or \" reputation\". In Islamic culture, the concept of Seerat extends beyond just the narrative of Prophet Muhammad's life; it has come to represent an individual's personal journey and the way they live out their faith in the world. Muslim communities around the world study and encourage each other to lead lives that are consistent with the Seerah of the Prophet, by emulating his noble character, moral values, and spiritual discipline.",
+    "spiritual_significance": "The Seerat holds profound spiritual significance for Muslims because it offers a model of how to live a virtuous life in accordance with God's will. The Prophet Muhammad's life is considered a perfect example of submission to Allah, demonstrating the importance of obedience, patience, trust, and perseverance. By studying and reflecting upon the Seerah, Muslims can deepen their faith, learn valuable lessons, gain motivation, and seek guidance in their daily lives. Furthermore, the practice of commemorating important events and milestones in the Prophet's life, such as Mawlid celebrations, helps Muslims maintain a strong emotional connection to their spiritual heritage.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Seerat-un-Nabi is the name of a biography of the Islamic prophet Muhammad written by Ibn Hisham in the 9th century.",
+        "time_period": "9th century",
+        "context": "Ibn Hisham's work is considered the most authentic and comprehensive biography of the Prophet Muhammad."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Seerat-un-Nabi is a popular name for Islamic schools and educational institutions."
+      ],
+      "platforms": [
+        "Social media platforms like Twitter and Facebook have many accounts and pages dedicated to Seerat-un-Nabi."
+      ],
+      "modern_context": "The name Seerat remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Seerat",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Aisha Seerat, a teacher in Kuala Lumpur, Malaysia, shares that their name Seerat meaning \"Journey, Way, Path\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Journey, Way, Path\" symbolizes A journey or path that one takes through life. In Islamic tradition, it refers to the life story of Prophet Muhammad (pbuh). In Islamic spirituality, bearing the name Seerat serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of journey, way, path.",
+    "created_at": "2025-12-22T19:19:49.913Z",
+    "updated_at": "2025-12-22T04:53:15.312Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1111,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Seerat",
+      "description": "Journey, Way, Path",
+      "additionalName": [
+        "Sirat"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "English"
+      ],
+      "religion": "Islam",
+      "gender": "female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Seerat",
+          "description": "Discover the meaning of Seerat - \"Journey, Way, Path\"",
+          "image": "/images/social/seerat-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Seerat - Name Meaning",
+          "description": "Learn about the beautiful name Seerat",
+          "image": "/images/social/seerat-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Seerat",
+          "description": "Name meaning: Journey, Way, Path",
+          "image": "/images/social/seerat-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Seerat - Meaning: Journey, Way, Path",
+        "email_subject": "Beautiful Name: Seerat"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Seerat with meaning Journey, Way, Path",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saal",
+      "saim",
+      "sadaldin"
+    ]
+  }
+}

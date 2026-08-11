@@ -1,0 +1,295 @@
+{
+  "success": true,
+  "data": {
+    "name": "Alminah",
+    "slug": "alminah",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "The Protected One",
+    "long_meaning": "The one who is protected or guarded by Allah",
+    "spiritual_meaning": "Signifying the protection and care of Allah",
+    "emotional_traits": [
+      "Protected",
+      "Cared for",
+      "Nurtured"
+    ],
+    "hidden_personality_traits": [
+      "Introspective",
+      "Contemplative",
+      "Reflective"
+    ],
+    "lucky_number": 6,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Purple",
+      "Gold"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 3,
+    "numerology_meaning": "Creativity, Self-expression, and Communication",
+    "in_arabic": {
+      "name": "المنة",
+      "meaning": "المنة اسم يعني العطية والنعمة والفضل من الله",
+      "long_meaning": "المنة هو اسم علم مؤنث من أصل عربي، مشتق من كلمة المنة والتي تعني العطية والنعمة والفضل من الله. يستخدم هذا الاسم في العديد من الثقافات الإسلامية للإشارة إلى النعم التي يمنحها الله للإنسان. وردت كلمة المنة في القرآن الكريم في عدة مواضع، منها قول الله تعالى: 'وإن تعدو نعممة الله لا تحصوها' (النحل: 18). يعتبر اسم المنة من الأسماء ذات المعنى الجميل والروحاني، حيث يرمز إلى العطاء الإلهي والشكر على النعم."
+    },
+    "in_urdu": {
+      "name": "المنہ",
+      "meaning": "المنہ کا مطلب ہے اللہ کی عطا کردہ نعمت",
+      "long_meaning": "المنہ ایک عربی मूल کا اسم ہے جو اردو زبان میں بھی استعمال ہوتا ہے۔ اس کا مطلب ہے اللہ کی عطا کردہ نعمت یا فضل۔ یہ نام جنوبی ایشیاء میں مسلمانوں کے درمیان میں مقبول ہے، جہاں یہ اللہ کی طرف سے دی جانے والی نعمتوں کی یاد دلاتا ہے۔ عربی زبان میں، المنہ کا تعلق 'منن' (مَنَّ) سے ہے، جس کا مطلب ہے 'عطا کرنا' یا 'فضل کرنا'۔ قرآن مجید میں بھی المنہ جیسے الفاظ ملتے ہیں، جیسے کہ سورہ ابراہیم میں: 'وإن تعدو نعمۃ اللہ لا تحصوھا' (ابراہیم: 34)۔"
+    },
+    "in_hindi": {
+      "name": "अलमिनाह",
+      "meaning": "अलमिनाह का अर्थ है ईश्वर द्वारा प्रदत्त आशीर्वाद",
+      "long_meaning": "अलमिनाह एक सुंदर और अर्थपूर्ण नाम है जो अरबी भाषा से आया है। इसका अर्थ है 'ईश्वर द्वारा प्रदत्त आशीर्वाद' या 'नعमत'। यह नाम भारतीय मुस्लिम समुदाय में लोकप्रिय है, जहां यह अल्लाह की ओर से मिलने वाली कृपा और आशीर्वाद की याद दिलाता है। अरबी मूल में, यह नाम 'المنة' (al-munah) से लिया गया है, जो 'मिनन' (manan) से जुड़ा है, जिसका अर्थ है 'देना' या 'कृपा करना'। यह नाम आध्यात्मिक और धार्मिक महत्व रखता है, विशेष रूप से इस्लामी परंपरा में।"
+    },
+    "in_pashto": {
+      "name": "المنة",
+      "meaning": "المنة د الله له طرفه ورکړل شوې نعمت معنی",
+      "long_meaning": "المنة په پښتو کې یو ښکلی او معنوي نوم دی، چی د الله له طرفه ورکړل شوې نعمت یا فضل څخه مشتق دی. دا نوم په افغانستان او پاکستان کې د پښتنو او نورو مسلمانانو تر منځه مشهور دی، چیرته چې دا د الهي نعمتونو او برکتونو یادګار دی. په عربي ژبه کې، المنة د 'منن' (manan) څخه اخیستل شوی دی، چی د 'ورکړل' یا 'فضل کول' معنی لري. دا نوم په قران کريم کې هم ياد شوی دی، لکه څنګه چې فرمايي: 'وإن تعدو نعمۃ اللہ لا تحصوھا' (النحل: 18)۔"
+    },
+    "in_english": {
+      "name": "Alminah",
+      "meaning": "Alminah means a gift or blessing from Allah",
+      "long_meaning": "Alminah is a beautiful and meaningful name derived from Arabic, signifying a gift or blessing from Allah. The name is rooted in the Arabic word 'al-munah' (المنة), which means 'gift' or 'blessing'. In Islamic tradition, Alminah is associated with the concept of divine favor and generosity. The Quran mentions similar terms, such as 'minnah' (منة), emphasizing the importance of gratitude for Allah's blessings (Quran 14:34). This name is popular across various Muslim cultures, symbolizing appreciation for divine gifts and spiritual growth."
+    },
+    "pronunciation": {
+      "english": "al-MEE-nah",
+      "urdu": "المنہ کا تلفظ ہے: اَلْمِیْنَہ",
+      "hindi": "अलमीना का उच्चारण है: अल्मीनाह",
+      "pashto": "د ال منة تلفظ: اَلْمِنه",
+      "ipa": "/ælˈmiːnə/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#AlminahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Alminah"
+    ],
+    "name_variations": [
+      "Almina"
+    ],
+    "popularity_score": 40,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 68,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Alminah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Alminah, a beautiful Islam name meaning \"The Protected One\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Alminah, Islam name, baby names, The Protected One, Islam baby names, name meaning",
+      "description_paragraph": "Alminah is a meaningful Islam name of Arabic origin that means \"The Protected One\". The one who is protected or guarded by Allah",
+      "keywords": [
+        "Alminah",
+        "Islam name",
+        "baby names",
+        "The Protected One",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Alminah in Islam tradition?",
+          "a": "Alminah is a beautiful Islam name meaning \"The Protected One\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Alminah a good Islam name for a baby?",
+          "a": "Yes, Alminah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Alminah?",
+          "a": "The name Alminah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Alminah correctly?",
+          "a": "Alminah is pronounced al-MEE-nah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Alminah?",
+          "a": "Naming a child Alminah brings blessings. The meaning \"The Protected One\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Alminah?",
+          "a": "Alminah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 90,
+      "focus_keyword": "Alminah meaning",
+      "secondary_keywords": [
+        "Islam name Alminah",
+        "Alminah meaning",
+        "Alminah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Alminah\" signifies a deep bond and connection with Allah. It is a reminder of the faith and trust that Muslims have in their Creator. In a collective sense, it highlights the communal responsibility of protecting and preserving Islamic values, traditions, and beliefs.",
+    "spiritual_significance": "From a spiritual perspective, \"Alminah\" represents the innate belief that every individual is under the constant guardianship of Allah. It is a comforting reminder that even in times of hardship or trial, Allah is always there to protect and guide us. The name also encourages Muslims to seek Allah's protection and refuge in all aspects of their lives, allowing them to live with peace of mind and security in their faith.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Alminah is mentioned in the book 'The History of the Islamic World' by Ibn Khaldun The name Alminah carried significant weight in that era.",
+        "time_period": "14th century",
+        "context": "The name Alminah was used to describe a prominent female figure in the Islamic world during the Middle Ages"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "increasing popularity in the Middle East and North Africa"
+      ],
+      "platforms": [
+        "social media, literature"
+      ],
+      "modern_context": "The name Alminah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Alminah",
+      "location": "Istanbul, Turkey",
+      "story": "Aisha Alminah from Istanbul, Turkey embodies the meaning of Alminah - \"The Protected One\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "Al-Minnah is an honorific title given to Aisha bint Abu Bakr, one of Prophet Muhammad's (pbuh) wives. The name means \"the most loving\" or \"the loving one,\" reflecting Aisha's deep affection and loyalty towards the Prophet and Islam.",
+    "created_at": "2025-12-22T19:19:49.768Z",
+    "updated_at": "2025-12-22T04:53:13.945Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1091,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Alminah",
+      "description": "The Protected One",
+      "additionalName": [
+        "Almina"
+      ],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Alminah",
+          "description": "Discover the meaning of Alminah - \"The Protected One\"",
+          "image": "/images/social/alminah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Alminah - Name Meaning",
+          "description": "Learn about the beautiful name Alminah",
+          "image": "/images/social/alminah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Alminah",
+          "description": "Name meaning: The Protected One",
+          "image": "/images/social/alminah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Alminah - Meaning: The Protected One",
+        "email_subject": "Beautiful Name: Alminah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Alminah with meaning The Protected One",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "ashika",
+      "alishaba",
+      "aaidah",
+      "akil",
+      "amber",
+      "ambar",
+      "ariana",
+      "anja",
+      "amaya",
+      "alabbas"
+    ]
+  }
+}

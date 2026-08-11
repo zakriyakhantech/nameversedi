@@ -1,0 +1,280 @@
+{
+  "success": true,
+  "data": {
+    "name": "Salah",
+    "slug": "salah",
+    "language": [
+      "Arabic",
+      "English"
+    ],
+    "gender": "unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Prayer, supplication",
+    "long_meaning": "To ask for something from Allah, to make a request, to be in a state of communion with God, to make an effort to be in the presence of Allah.",
+    "spiritual_meaning": "A reminder to stay connected to Allah and seek His guidance and blessings.",
+    "emotional_traits": [
+      "Spiritual",
+      "Humble",
+      "Devout"
+    ],
+    "hidden_personality_traits": [
+      "Determined",
+      "Resilient"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Green",
+      "Blue"
+    ],
+    "lucky_stone": "Rose Quartz",
+    "life_path_number": 9,
+    "numerology_meaning": "Indicates the completion of cycles, a call for completion and endings, and a time for finalizing projects.",
+    "in_arabic": {
+      "name": "صَلَاح",
+      "meaning": "المُحِبُّ اللَّهَ وَمَن يُحبُّ اللَّهَ فَإِنَّما يُحِبُّ الْمُحسِنينَ",
+      "long_meaning": "صَلَاحُ الْأَخْلاَقِ وَالسَّلامِ عَلَيْهِ، وَهُوَ الَّذِي يُحِبُّ اللَّهَ وَيُحِبُّ مَن يُحِبُّ اللَّهَ، وَيُحِبُّ الْمُحَسِنِينَ، وَيُبَذِّلُ مَالَهُ في سَبِيلِ اللَّهِ، وَيَصِلُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيَسَعُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيَفيدُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيُبَلِّغُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيُؤَمِّلُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيُؤَمِّلُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيُؤَمِّلُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيُؤَمِّلُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيُؤَمِّلُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيُؤَمِّلُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيُؤَمِّلُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيُؤَمِّلُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيُؤَمِّلُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيُؤَمِّلُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيُؤَمِّلُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيُؤَمِّلُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيُؤَمِّلُ بِهِ قَلبيهِ وَذُنوبَهُ، وَيُؤَمِّلُ بِهِ"
+    },
+    "in_urdu": {
+      "name": "صلاح",
+      "meaning": "خدا کا محبوب اور خدا کا محبوب ہونا، اور جو اللہ کا محبوب ہے، وہ صرف نیکوں کے محبوب ہیں",
+      "long_meaning": "صلاحی اخلاقیات اور امن، اور وہ جس نے اللہ کا محبت کیا اور اللہ کا محبوب ہے، اور وہ ایسے نیکوں کا محبوب ہے جنہوں نے اللہ کا محبت کیا، اور وہ اپنی دولت کو اللہ کی راہ میں خرچ کرتا ہے، اور وہ اپنے دلوں کے درمیان اپنے خطے کو بڑھاتا ہے، اور وہ اپنے دلوں کے درمیان اپنے خطے کو گھیرتا ہے، اور وہ اپنے دلوں کے درمیان اپنے خطے کو بڑھاتا ہے، اور وہ اپنے دلوں کے درمیان اپنے خطے کو گھیرتا ہے"
+    },
+    "in_hindi": {
+      "name": "सलाह",
+      "meaning": "अल्लाह का प्रिय और जो अल्लाह का प्रिय होता है, वह केवल अच्छे लोगों के प्रिय होते हैं",
+      "long_meaning": "सुशीलता और शांति है, जो अल्लाह का प्रिय है और जो अल्लाह का प्रिय है, वे अच्छे लोगों के प्रिय हैं, और वे अपनी دولت को अल्लाह के रास्ते में खर्च करते हैं, और वे अपने दिलों को बेहतर बनाते हैं, और वे अपने दिलों को गहरा बनाते हैं, और वे अपने दिलों को बेहतर बनाते हैं, और वे अपने दिलों को गहरा बनाते हैं"
+    },
+    "in_pashto": {
+      "name": "صلاح",
+      "meaning": " الله دى محبوب او الله دى محبوب او دى چې الله محبوب کړي، دا هر څه کړي چې الله محبوب کړي",
+      "long_meaning": "صلاح ګړنه او سلام، او هغه کوم ته الله محبوب کړي او الله محبوب کړي، او هغه ته کوم ته الله محبوب کړي او الله محبوب کړي او هغه ته کوم ته الله محبوب کړي او الله محبوب کړي، او هغه ته کوم ته الله محبوب کړي او الله محبوب کړي، او هغه ته کوم ته الله محبوب کړي او الله محبوب کړي، او هغه ته کوم ته الله محبوب کړي او الله محبوب کړي"
+    },
+    "in_english": {
+      "name": "Salah",
+      "meaning": "Pious, righteous, and God's beloved, who is loved by God and loves the righteous",
+      "long_meaning": "Salah is a name that connotes piousness, righteousness, and God's love. It is derived from the Arabic root 'salaha', which means to be in a state of peace and tranquility. In Islamic tradition, Salah is considered a name that is associated with spiritual growth, self-reflection, and a strong connection with God. Individuals with this name are often seen as being devoted to their faith, compassionate, and just. They are believed to possess a strong sense of morality and ethics, and are often drawn to careers in education, social work, and community service."
+    },
+    "pronunciation": {
+      "english": "/ˈsɑːlɑː/",
+      "urdu": "صلاح",
+      "hindi": "सलाह",
+      "pashto": "صلاح",
+      "ipa": "/ˈsɑːlɑː/"
+    },
+    "celebrity_usage": [
+      "Salahuddin Ayubi",
+      "Salah Abdu"
+    ],
+    "social_tags": [
+      "#SalahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Salah"
+    ],
+    "name_variations": [
+      "Sala"
+    ],
+    "popularity_score": 60,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 69,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 76,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Salah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Salah, a beautiful Islam name meaning \"Prayer, supplication\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Salah, Islam name, baby names, Prayer, supplication, Islam baby names, name meaning",
+      "description_paragraph": "Salah is a meaningful Islam name of Arabic origin that means \"Prayer, supplication\". To ask for something from Allah, to make a request, to be in a state of communion with God, to make an effort to be in the presence of Allah.",
+      "keywords": [
+        "Salah",
+        "Islam name",
+        "baby names",
+        "Prayer, supplication",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Salah in Islam tradition?",
+          "a": "Salah is a beautiful Islam name meaning \"Prayer, supplication\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Salah a good Islam name for a baby?",
+          "a": "Yes, Salah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Salah?",
+          "a": "The name Salah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Salah correctly?",
+          "a": "Salah is pronounced /ˈsɑːlɑː/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Salah?",
+          "a": "Naming a child Salah brings blessings. The meaning \"Prayer, supplication\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Salah?",
+          "a": "Salah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 96,
+      "focus_keyword": "Salah meaning",
+      "secondary_keywords": [
+        "Islam name Salah",
+        "Salah meaning",
+        "Salah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The practice of Salah (prayer) is a central aspect of Islamic culture. Muslims are expected to make five daily prayers as part of their faith, and they often gather in mosques to perform them together. Salah is also a time for communal reflection and connection to the Islamic community.",
+    "spiritual_significance": "The act of Salah is seen as a direct link between the worshipper and Allah. During prayer, Muslims seek Allah's guidance, protection, and forgiveness. It is a time for introspection, contemplation, and thankfulness. The physical movements and recited verses of Salah serve as a reminder of the spiritual connection between the worshiper and the Divine. Through the practice of Salah, Muslims strive to purify their souls and seek closeness to Allah.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Salah is the Arabic word for prayer. The name Salah carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Islamic religion"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "increasingly popular for naming babies"
+      ],
+      "platforms": [
+        "social media, baby name websites"
+      ],
+      "modern_context": "The name Salah is derived from the Arabic word for prayer, and it is a popular name in the Islamic world. In recent years, it has gained popularity as a baby name, particularly in countries such as Pakistan and Bangladesh."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Salah",
+      "location": "Karachi, Pakistan",
+      "story": "Khadija Salah from Karachi, Pakistan embodies the meaning of Salah - \"Prayer, supplication\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Prayer, supplication\" symbolizes To ask for something from Allah, to make a request, to be in a state of communion with God, to make an effort to be in the presence of Allah.. In Islamic spirituality, bearing the name Salah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of prayer, supplication.",
+    "created_at": "2025-12-22T19:19:49.925Z",
+    "updated_at": "2025-12-22T04:53:15.45Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1506,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Salah",
+      "description": "Prayer, supplication",
+      "additionalName": [
+        "Sala"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "English"
+      ],
+      "religion": "Islam",
+      "gender": "unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Salah",
+          "description": "Discover the meaning of Salah - \"Prayer, supplication\"",
+          "image": "/images/social/salah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Salah - Name Meaning",
+          "description": "Learn about the beautiful name Salah",
+          "image": "/images/social/salah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Salah",
+          "description": "Name meaning: Prayer, supplication",
+          "image": "/images/social/salah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Salah - Meaning: Prayer, supplication",
+        "email_subject": "Beautiful Name: Salah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Salah with meaning Prayer, supplication",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "sadaldin",
+      "saal",
+      "saim"
+    ]
+  }
+}

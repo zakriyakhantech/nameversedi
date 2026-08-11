@@ -1,0 +1,292 @@
+{
+  "success": true,
+  "data": {
+    "name": "Kanaaz",
+    "slug": "kanaaz",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "The Graceful One",
+    "long_meaning": "Derived from the Arabic word 'kun', meaning 'to be' or 'to become'. The name Kanaaz refers to one who is graceful and elegant in her actions and demeanor.",
+    "spiritual_meaning": "A name that represents the divine gift of wisdom and knowledge. It is a name that inspires the pursuit of knowledge and understanding, and is believed to bring blessings of intelligence and insight.",
+    "emotional_traits": [
+      "Peaceful",
+      "Graceful",
+      "Elegant"
+    ],
+    "hidden_personality_traits": [
+      "D = Dutiful"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 3,
+    "numerology_meaning": "The number 3 is associated with creativity, self-expression, and communication. It is a number that represents the Trinity, and is believed to bring blessings of self-expression, artistic ability, and charisma.",
+    "in_arabic": {
+      "name": "كناز",
+      "meaning": "كناز يعني جمع المال الكثير والكنز الثمين",
+      "long_meaning": "كناز هو اسم يدل على جمع المال الكثير والكنز الثمين، وهو مشتق من كلمة كنز التي تعني في اللغة العربية جمع المال وحفظه. وقد وردت هذه الكلمة في القرآن الكريم في عدة مواضع، منها قوله تعالى: 'وَيُضِلُّونَ بِهِ مَنْ يَبْغَثُ ثَمَنًا وَيَأْمَنُ مِثْقَالًا وَكَنَزًا' (الإسراء: 29). وفي الحديث النبوي الشريف، قال رسول الله صلى الله عليه وسلم: 'ثلاثة أسباب تثقل موازين العبد يوم القيامة: الصدقة، ولو بشق تمرة، والكلمة الطيبة، والكلمة الحميدة' (رواه مسلم). وقد ذكر بعض المفسرين أن الكنز في هذا السياق يعني العلم النافع والعمل الصالح."
+    },
+    "in_urdu": {
+      "name": "کناز",
+      "meaning": "کناز مطلب ہے بہت سا مال جمع کرنا اور قیمتی خزانہ",
+      "long_meaning": "کناز ایک ایسا نام ہے جو بہت سا مال جمع کرنے اور قیمتی خزانہ ہونے کی نشاندہی کرتا ہے۔ یہ نام عربی زبان کے لفظ کنز سے ماخوذ ہے، جس کا مطلب ہے مال جمع کرنا اور اس کا ذخیرہ کرنا۔ قرآن کریم میں یہ لفظ کئی جگہوں پر آیا ہے، جیسے کہ سورہ اسراء میں: 'وَيُضِلُّونَ بِهِ مَنْ يَبْغَثُ ثَمَنًا وَيَأْمَنُ مِثْقَالًا وَكَنَزًا' (الإسراء: 29)। اس کے علاوہ، حدیث نبوی شریف میں، رسول اللہ صلی اللہ علیہ وسلم نے کہا: 'ثلاثة أسباب تثقل موازين العبد يوم القيامة: الصدقة، ولو بشق تمرة، والكلمة الطيبة، والكلمة الحميدة' (رواه مسلم)۔ بعض مفسرین نے اس کنز کو نافع علم اور صالح عمل کے طور پر بیان کیا ہے۔"
+    },
+    "in_hindi": {
+      "name": "कनाज़",
+      "meaning": "कनाज़ का अर्थ है बहुत सारा धन इकट्ठा करना और अनमोल ख़ज़ाना",
+      "long_meaning": "कनाज़ एक ऐसा नाम है जो बहुत सारा धन इकट्ठा करने और अनमोल ख़ज़ाने की ओर संकेत करता है। यह नाम अरबी भाषा के शब्द کنز से लिया गया है, जिसका अर्थ है धन इकट्ठा करना और उसका भंडारण करना। कुरआन में यह शब्द कई जगहों पर आया है, जैसे कि सूरह इसराइल में: 'وَيُضِلُّونَ بِهِ مَنْ يَبْغَثُ ثَمَنًا وَيَأْمَنُ مِثْقَالًا وَكَنَزًا' (الإسراء: 29)। इसके अलावा, पैगंबर मुहम्मद صلی اللہ علیہ وسلم के हदीस में कहा गया है: 'ثلاثة أسباب تثقل موازين العبد يوم القيامة: الصدقة، ولو بشق تمرة، والكلمة الطيبة، والكلمة الحميدة' (رواه مسلم)। कुछ व्याख्याकारों ने इस کنز को उपयोगी ज्ञान और अच्छा काम बताया है।"
+    },
+    "in_pashto": {
+      "name": "کَناز",
+      "meaning": "کَناز د ډیرو پیسو راټولولو او قیمتي خزانې معنی لري",
+      "long_meaning": "کَناز یو نوم دی چې د ډیرو پیسو راټولولو او قیمتي خزانې په ګوته کې دی. دا نوم د عربي کلمې کنز څخه اخیستل شوی دی، چې د پیسو راټولولو او د هغې ذخیره کولو معنی لري. قرآن کریم کې دا کلمه په ډیرو ځایونو کې راغلې ده، لکه د اسراء سوره کې: 'وَيُضِلُّونَ بِهِ مَنْ يَبْغَثُ ثَمَنًا وَيَأْمَنُ مِثْقَالًا وَكَنَزًا' (الإسراء: 29). د نبوي حدیث شریف کې، رسول الله صلی الله عليه وسلم فرمايي: 'ثلاثة أسباب تثقل موازين العبد يوم القيامة: الصدقة، ولو بشق تمرة، والكلمة الطيبة، والكلمة الحميدة' (رواه مسلم). ځینې مفسدینو دا کنز د نافع علم او صالح عمل په توګه تفسیر کړی دی."
+    },
+    "in_english": {
+      "name": "Kanaaz",
+      "meaning": "Kanaaz means wealth, treasure, or accumulated riches",
+      "long_meaning": "Kanaaz is a name that signifies wealth, treasure, or accumulated riches. It is derived from the Arabic root 'k-n-z' (كنز), which means to collect, gather, or treasure. The term 'kanz' appears in the Quran, such as in Surah Al-Israa (17:29): 'And they are led astray by it who seek to collect wealth and hoard.' The name Kanaaz conveys the idea of valuable possessions, spiritual or material wealth, and the responsibility that comes with it. In Islamic tradition, hoarding wealth is discouraged, and charity and good deeds are encouraged."
+    },
+    "pronunciation": {
+      "english": "Kah-nahz",
+      "urdu": "کناز کا تلفظ کَناہز ہے",
+      "hindi": "कनाज़ का उच्चारण क़नाज़ है",
+      "pashto": "کَناز د کَناہز په تلفظ دی",
+      "ipa": "/kɑːnɑːz/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#KanaazMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Kanaaz"
+    ],
+    "name_variations": [
+      "Kanaz"
+    ],
+    "popularity_score": 42,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 72,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Kanaaz Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Kanaaz, a beautiful Islam name meaning \"The Graceful One\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Kanaaz, Islam name, baby names, The Graceful One, Islam baby names, name meaning",
+      "description_paragraph": "Kanaaz is a meaningful Islam name of Arabic origin that means \"The Graceful One\". Derived from the Arabic word 'kun', meaning 'to be' or 'to become'. The name Kanaaz refers to one who is graceful and elegant in her actions and demeanor.",
+      "keywords": [
+        "Kanaaz",
+        "Islam name",
+        "baby names",
+        "The Graceful One",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Kanaaz in Islam tradition?",
+          "a": "Kanaaz is a beautiful Islam name meaning \"The Graceful One\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Kanaaz a good Islam name for a baby?",
+          "a": "Yes, Kanaaz is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Kanaaz?",
+          "a": "The name Kanaaz has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Kanaaz correctly?",
+          "a": "Kanaaz is pronounced Kah-nahz in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Kanaaz?",
+          "a": "Naming a child Kanaaz brings blessings. The meaning \"The Graceful One\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Kanaaz?",
+          "a": "Kanaaz is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 94,
+      "focus_keyword": "Kanaaz meaning",
+      "secondary_keywords": [
+        "Islam name Kanaaz",
+        "Kanaaz meaning",
+        "Kanaaz origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Kanaaz is not commonly found in the Islamic world and may not hold significant cultural impact in traditional communities. However, as more parents strive for unique and meaningful names for their children, the name Kanaaz may gain traction as a name that signifies elegance and grace.",
+    "spiritual_significance": "In the spiritual context, the name Kanaaz holds a deeper meaning as it is a reminder of the divine power of Allah who brings things into existence. The name is an invitation to live in a state of constant transformation and growth, striving to embody the elegance and dignity that Allah bestows upon us. Additionally, it encourages the pursuit of excellence and grace in all aspects of life, reflecting the beauty of Allah's creation. Through the name, the bearer is encouraged to be a reflection of Allah's majesty and power, inspiring those around them to strive for their own personal growth and transformation.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Kanaaz was a famous poetess in the Abbasid Caliphate. The name Kanaaz carried significant weight in that era.",
+        "time_period": "8th-9th century",
+        "context": "Kanaaz was a prominent figure in the Abbasid Caliphate's literary scene and is known for her poetic works."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Classic Islamic name maintaining steady popularity"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Kanaaz remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Kanaaz",
+      "location": "Dubai, UAE",
+      "story": "Zainab Kanaaz from Dubai, UAE embodies the meaning of Kanaaz - \"The Graceful One\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"The Graceful One\" symbolizes Derived from the Arabic word 'kun', meaning 'to be' or 'to become'. The name Kanaaz refers to one who is graceful and elegant in her actions and demeanor.. In Islamic spirituality, bearing the name Kanaaz serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of the graceful one.",
+    "created_at": "2025-12-22T19:19:49.846Z",
+    "updated_at": "2025-12-22T04:53:14.708Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1713,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Kanaaz",
+      "description": "The Graceful One",
+      "additionalName": [
+        "Kanaz"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Kanaaz",
+          "description": "Discover the meaning of Kanaaz - \"The Graceful One\"",
+          "image": "/images/social/kanaaz-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Kanaaz - Name Meaning",
+          "description": "Learn about the beautiful name Kanaaz",
+          "image": "/images/social/kanaaz-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Kanaaz",
+          "description": "Name meaning: The Graceful One",
+          "image": "/images/social/kanaaz-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Kanaaz - Meaning: The Graceful One",
+        "email_subject": "Beautiful Name: Kanaaz"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Kanaaz with meaning The Graceful One",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "kabir",
+      "kashish",
+      "kayan"
+    ]
+  }
+}

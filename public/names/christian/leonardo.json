@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Leonardo",
+    "slug": "leonardo",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "christian",
+    "meaning": "Brave lion"
+  }
+}

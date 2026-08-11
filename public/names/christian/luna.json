@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Luna",
+    "slug": "luna",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "christian",
+    "meaning": "Moon"
+  }
+}

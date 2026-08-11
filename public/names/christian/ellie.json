@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Ellie",
+    "slug": "ellie",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "christian",
+    "meaning": "Bright shining one"
+  }
+}

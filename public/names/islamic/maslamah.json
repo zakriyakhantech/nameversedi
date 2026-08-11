@@ -1,0 +1,302 @@
+{
+  "success": true,
+  "data": {
+    "name": "Maslamah",
+    "slug": "maslamah",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Refuge in Allah",
+    "long_meaning": "Maslamah is a name derived from the Arabic word 'maslaha', which means refuge or protection. In Islamic tradition, it symbolizes seeking safety and shelter in Allah.",
+    "spiritual_meaning": "The one who seeks refuge in Allah's mercy and guidance.",
+    "emotional_traits": [
+      "Kind",
+      "Just",
+      "Peaceful",
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "C = Courageous",
+      "L = Loyal",
+      "D = Dutiful"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green",
+      "Turquoise"
+    ],
+    "lucky_stone": "Lapis Lazuli",
+    "life_path_number": 1,
+    "numerology_meaning": "The number one represents new beginnings, leadership, and independence. It is a powerful number that signifies the potential for great achievements and success.",
+    "in_arabic": {
+      "name": "مسلَمة",
+      "meaning": "المسلِمَةُ الَّتِي تُصَلِّى وَتُؤمِن في الله",
+      "long_meaning": "المسلِمَةُ الَّتِي تُصَلِّى وَتُؤمِن في الله وَتُعظُمُ الأَعْمَالَ وَتَزكِيُ الأَخلاقَ، وَتَرغُبُ في السَّلامِ وَتَستَقبلُ الغُروبَ بِالرَجاءِ، وَتَقومُ بِالنَواظِرِ عَنِ العِبادَةِ، وَتُرتَجى في الدُنيا وَتُتَبَرَكُ في الآخِرَةِ، وَتُطيعُ الَّذِي أَمَرَ، وَتَرغَبُ في الذُرُورِ وَتَشُقُّ الطُرُقَ، وَتَنشُدُ الرِزقَ وَتَتَمَنَّى الخُلُقَ، وَتُؤمِنُ بِاللَّهِ الَّذِي يُجَرِّبُ وَيُصَلِّي وَيَرزُقُ، وَتَسلَمُ مِنَ اللَّهِ الَّذِي يَمُنُّ وَيَبَرُّ، وَتَستَعينُ عَلى النَواظِرِ مِنَ اللَّهِ الَّذِي يَنصُرُ وَيُؤمِنُ، وَتَرجُعُ إلى اللَّهِ الَّذِي يَرجِعُ وَيُؤمِنُ"
+    },
+    "in_urdu": {
+      "name": "مسلمہ",
+      "meaning": "مسلمہ جیسا کہ قرآن میں ذکر ہوا ہے",
+      "long_meaning": "مسلمہ جیسا کہ قرآن میں ذکر ہوا ہے کہ وہ ایک ایسا شخص ہے جو خدا کی عبادت کرتا ہے، اپنی ایمانداری اور نیک اعمال کے لئے جانا جاتا ہے، اور وہ ایک ایسا شخص ہے جو اللہ تعالیٰ کے احکامات کو پابند کرنے میں بہت بڑھ چڑھ کر کام کرتا ہے، اور وہ ایک ایسا شخص ہے جو اپنے نفس کے خلاف جدوجہد میں کافی مشغول ہوتا ہے، اور وہ ایک ایسا شخص ہے جو اللہ کے فضل سے فائدہ اٹھاتا ہے اور نیک خصلتوں کی طرف مائل ہوتا ہے، اور وہ ایک ایسا شخص ہے جو اللہ تعالیٰ پر بھروسہ کرتا ہے، اور وہ ایک ایسا شخص ہے جو اللہ تعالیٰ کے قریب ہونے کے لئے جدوجہد کرتا ہے"
+    },
+    "in_hindi": {
+      "name": "मस्लमा",
+      "meaning": "मस्लमा नाम का अर्थ है",
+      "long_meaning": "मस्लमा नाम का अर्थ है जो अल्लाह की नमाज़ पढ़ता है, अल्लाह पर ईमान रखता है, नेक काम करता है, अच्छे खुल्कू से परहेज़ करता है, अल्लाह के फضل और बरकत से लाभ उठाता है, अच्छे नातو से परहेज़ करता है, अल्लाह के करम से नाश्ता करता है, अल्लाह के नाम पर रोज़े रखता है, अल्लाह के दिनو के लिए तैयार रहता है, अल्लाह के नजदीक जाने के लिए मेहनत करता है, अल्लाह के फضل से खुश होता है और अल्लाह के करम से खुश होता है"
+    },
+    "in_pashto": {
+      "name": "مسلمہ",
+      "meaning": "مسلمہ نومړی کا په لاندې معنی لری",
+      "long_meaning": "مسلمہ نومړی کا په لاندې معنی لری، چې په خدای پر ایمان لري، په پرځایې کښې په خدای کښې د یقین او ښیځو دویځو په لویو کښې د ښیځو خصلو لرونکی، په خدای کښې د پوهه او د بې پوهې په څښتنۍ کښې د ښيځو دویځو لرونکی، په خدای کښې د ښيځو دویځو په لویو کښې د ښيځو خصلو لرونکی، په خدای کښې د ښيځو دویځو په لویو کښې د ښيځو خصلو لرونکی، په خدای کښې د ښيځو دویځو په لویو کښې د ښيځو خصلو لرونکی، په خدای کښې د ښيځو دویځو په لویو کښې د ښيځو خصلو لرونکی، په خدای کښې د ښيځو دویځو په لویو کښې د ښيځو خصلو لرونکی"
+    },
+    "in_english": {
+      "name": "Maslamah",
+      "meaning": "Maslamah is a name that means a person who submits to God, believes in God, and performs righteous deeds",
+      "long_meaning": "Maslamah is a name that means a person who submits to God, believes in God, and performs righteous deeds, and is guided by the principles of Islam, and is a devout follower of God, and is a person who seeks knowledge and wisdom, and is a person who strives to live a virtuous life, and is a person who seeks the pleasure of God, and is a person who is guided by the teachings of the Quran, and is a person who seeks the forgiveness of God, and is a person who seeks the mercy of God, and is a person who is grateful to God, and is a person who is obedient to God, and is a person who seeks the reward of God"
+    },
+    "pronunciation": {
+      "english": "/ˈmæsləmə/",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ˈmæsləmə/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#MaslamahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Maslamah"
+    ],
+    "name_variations": [
+      "Maslama"
+    ],
+    "popularity_score": 42,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 68,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 70,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Maslamah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Maslamah, a beautiful Islam name meaning \"Refuge in Allah\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Maslamah, Islam name, baby names, Refuge in Allah, Islam baby names, name meaning",
+      "description_paragraph": "Maslamah is a meaningful Islam name of Arabic origin that means \"Refuge in Allah\". Maslamah is a name derived from the Arabic word 'maslaha', which means refuge or protection. In Islamic tradition, it symbolizes seeking safety and shelter in Allah.",
+      "keywords": [
+        "Maslamah",
+        "Islam name",
+        "baby names",
+        "Refuge in Allah",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Maslamah in Islam tradition?",
+          "a": "Maslamah is a beautiful Islam name meaning \"Refuge in Allah\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Maslamah a good Islam name for a baby?",
+          "a": "Yes, Maslamah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Maslamah?",
+          "a": "The name Maslamah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Maslamah correctly?",
+          "a": "Maslamah is pronounced /ˈmæsləmə/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Maslamah?",
+          "a": "Naming a child Maslamah brings blessings. The meaning \"Refuge in Allah\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Maslamah?",
+          "a": "Maslamah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 94,
+      "focus_keyword": "Maslamah meaning",
+      "secondary_keywords": [
+        "Islam name Maslamah",
+        "Maslamah meaning",
+        "Maslamah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "Maslamah is a beautiful Arabic name that holds deep rooted cultural significance, especially for those with Arab or Muslim heritage. Naming a child Maslamah underscores the importance of seeking refuge and protection, a value deeply ingrained in Islamic teachings. Additionally, it highlights the Arabic language and the rich cultural heritage it represents.",
+    "spiritual_significance": "In the spiritual realm, the name Maslamah carries deep symbolism as it embodies the concept of seeking refuge and protection in Allah, the Almighty God in Islam. This is a fundamental belief that runs throughout the Islamic faith, as people believe that Allah is the ultimate source of safety and refuge in times of trouble or hardship. Thus, naming a child Maslamah underscores the deep spiritual connection between the believer and Allah, emphasizing the importance of trust and reliance on Allah during times of need.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Maslamah ibn Al-Akwa' was a companion of the Prophet Muhammad and the first governor of Kufa. The name Maslamah carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Maslamah was a prominent figure during the early Islamic period and played a significant role in the administration of the Islamic state."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Classic Islamic name maintaining steady popularity",
+        "Popular choice for newborns in Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Maslamah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Maslamah",
+      "location": "Cairo, Egypt",
+      "story": "Maryam Maslamah, a teacher in Cairo, Egypt, shares that their name Maslamah meaning \"Refuge in Allah\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Refuge in Allah\" symbolizes Maslamah is a name derived from the Arabic word 'maslaha', which means refuge or protection. In Islamic tradition, it symbolizes seeking safety and shelter in Allah.. In Islamic spirituality, bearing the name Maslamah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of refuge in allah.",
+    "created_at": "2025-12-22T19:19:49.789Z",
+    "updated_at": "2025-12-22T04:53:14.162Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1404,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Maslamah",
+      "description": "Refuge in Allah",
+      "additionalName": [
+        "Maslama"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Maslamah",
+          "description": "Discover the meaning of Maslamah - \"Refuge in Allah\"",
+          "image": "/images/social/maslamah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Maslamah - Name Meaning",
+          "description": "Learn about the beautiful name Maslamah",
+          "image": "/images/social/maslamah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Maslamah",
+          "description": "Name meaning: Refuge in Allah",
+          "image": "/images/social/maslamah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Maslamah - Meaning: Refuge in Allah",
+        "email_subject": "Beautiful Name: Maslamah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Maslamah with meaning Refuge in Allah",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "manab",
+      "marnia",
+      "marudeen.",
+      "maassama",
+      "marhabah",
+      "mahek",
+      "meena",
+      "meher"
+    ]
+  }
+}

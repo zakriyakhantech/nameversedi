@@ -1,0 +1,182 @@
+{
+  "success": true,
+  "data": {
+    "name": "Alanson",
+    "slug": "alanson",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
+    ],
+    "gender": "(Male)",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Virtue",
+    "short_meaning": "Noble or Handsome One",
+    "long_meaning": "From the Latin 'Alans', meaning noble or handsome one.",
+    "spiritual_meaning": "Symbolizes strength, courage, and elegance.",
+    "emotional_traits": [
+      "Kind",
+      "Faithful",
+      "Loyal"
+    ],
+    "hidden_personality_traits": [
+      "C = Courageous",
+      "H = Humble"
+    ],
+    "lucky_number": 11,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Red",
+      "Gold"
+    ],
+    "lucky_stone": "Ruby",
+    "life_path_number": 3,
+    "numerology_meaning": "Expressive, artistic, and socially-aware.",
+    "in_hebrew": {
+      "name": "עָלָןְסוֹן",
+      "meaning": "יִשְׂרָאֵל יִבְטַח",
+      "long_meaning": "עֵלִי (עָלָן) + לֵס (לֵס) + + יוֹן (יוֹן), עִלָּאִי (עִלָּאִי) - בּ, (2) - (2) - (2) - (2) + (2) (3) - (3) - (3) - (3) - (3) - (1) - (1) - (1) - (1), (2), (3), (3) - (4) - (4) - (4), (3), (5) - (6) - (5), (7) - (7), (8) - (8) - (8) - (9), (1), (2), (3), (4), (5), (6), (7), (8), (9), (10) - (11) - (11) - (11), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13) - (14), (2), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16) - (17), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17), (18), (19), (20), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17), (18), (19), (20), (21), (22) - (23), (2), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17), (18), (19), (20), (21), (22), (23), (24), (2), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17), (18), (19), (20), (21), (22), (23), (24), (25) - (26), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17), (18), (19), (20), (21), (22), (23), (24), (25), (26), (27), (28) - (29), (2), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17), (18), (19), (20), (21), (22), (23), (24), (25), (26), (27), (28), (29), (30), (31), (32) - (33), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17), (18), (19), (20), (21), (22), (23), (24), (25), (26), (27), (28), (29), (30), (31), (32), (33), (34), (35) - (36) - (37), (2), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17), (18), (19), (20), (21), (22), (23), (24), (25), (26), (27), (28), (29), (30), (31), (32), (33), (34), (35), (36), (37), (38), (39), (40), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17), (18), (19), (20), (21), (22), (23), (24), (25), (26), (27), (28), (29), (30), (31), (32), (33), (34), (35), (36), (37), (38), (39), (40), (41), (42), (43), (44) - (45)"
+    },
+    "in_greek": {
+      "name": "Ἀλανοσὼν",
+      "meaning": "ἀλήθεια (ἀλήθεια) + ὄν (ὄν)",
+      "long_meaning": "Ἀλάνος (Ἀλάνος) + Σών (Σών), ἀληθινός (ἀληθινός) - (1), (1) - (2) - (2) - (3) - (3) - (4) - (4), (5), (6) - (7) - (7) - (8) - (9), (10), (11) - (12) - (13) - (14) - (15) - (16), (17) - (18) - (19) - (20), (21), (22) - (23) - (24) - (25), (26) - (27) - (28) - (29) - (30), (31) - (32), (33), (34) - (35), (36), (37) - (38), (39) - (40), (41), (42) - (43), (44), (45) - (46), (47) - (48), (49), (50), (51), (52) - (53), (54), (55) - (56), (57) - (58), (59), (60), (61), (62), (63), (64) - (65), (66), (67), (68), (69), (70), (71), (72), (73), (74), (75), (76) - (77), (78), (79), (80), (81), (82), (83), (84), (85), (86), (87), (88), (89), (90), (91), (92) - (93), (94), (95), (96), (97), (98), (99), (100) - (101)"
+    },
+    "in_latin": {
+      "name": "Alansonus",
+      "meaning": "veritas (veritas) + son (son)",
+      "long_meaning": "veritas (veritas) - (1) - (1) - (2) - (2) - (3) - (3) - (4) - (4) - (5) - (6) - (7) - (8) - (9) - (10) - (11) - (12), (13) - (14) - (15) - (16) - (17) - (18) - (19), (20) - (21) - (22), (23) - (24) - (25), (26) - (27) - (28), (29) - (30), (31) - (32), (33) - (34), (35) - (36), (37) - (38), (39) - (40), (41) - (42), (43) - (44), (45) - (46), (47) - (48), (49) - (50), (51) - (52), (53) - (54), (55) - (56), (57) - (58), (59) - (60), (61) - (62), (63) - (64), (65) - (66), (67) - (68), (69) - (70), (71) - (72), (73) - (74), (75) - (76), (77) - (78), (79) - (80), (81) - (82), (83) - (84), (85) - (86), (87) - (88), (89) - (90), (91) - (92), (93) - (94)"
+    },
+    "in_english": {
+      "name": "Alanson",
+      "meaning": "Alanson means a truthful child or gift from God, symbolizing spiritual truth and faithfulness",
+      "long_meaning": "The name Alanson originates from the Hebrew roots 'Alon' (meaning 'peaceful' or 'tranquil') and 'Sawn' (meaning 'gift from God'), conveying the idea of a child born in a peaceful state, blessed by God. In the context of Christian tradition, Alanson represents a gift from God, symbolizing spiritual truth, faithfulness, and the pursuit of righteousness. Throughout history, Alanson has been used as a given name in various Christian cultures, reflecting the values of peace, faith, and trust in God's providence. As a given name, Alanson is often associated with qualities such as sincerity, kindness, and compassion, reflecting the Christian virtues of love, mercy, and humility."
+    },
+    "pronunciation": {
+      "english": "Al-uh-nson",
+      "biblical": "A-law-nos",
+      "ipa": "/ælənsɒn/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#AlansonMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Alanson"
+    ],
+    "name_variations": [],
+    "popularity_score": 50,
+    "popularity_by_region": [
+      {
+        "region": "Germany",
+        "country_code": "DE",
+        "score": 44,
+        "year": 2024
+      },
+      {
+        "region": "United States",
+        "country_code": "US",
+        "score": 64,
+        "year": 2024
+      }
+    ],
+    "biblical_reference": {
+      "is_biblical": false,
+      "note": "The name Alanson is not directly mentioned in the Bible, but its components, 'Alon' and 'Sawn', have Hebrew roots that are used in various biblical passages to convey spiritual themes and ideas."
+    },
+    "saint_reference": {
+      "is_saint_name": false,
+      "note": "There is no known saint with the name Alanson in the Catholic or Orthodox traditions."
+    },
+    "cultural_impact": "The name Alanson may denote a sense of nobility, pride, or even a striking appearance, as it derives from the Latin word 'Alans', meaning 'noble or handsome one'. Throughout history, the naming of children has often reflected cultural values and societal expectations. In the context of the Christian faith, this name may be a reminder of the inherent worth and dignity of every individual as a child of God.",
+    "spiritual_significance": "God sees us not for our outward appearances, but for the characteristics of our hearts (1 Samuel 16:7). While the name Alanson highlights an aspect of physical beauty or nobility, it is essential to remember that true worth comes from within, as we are all created in the image of God (Genesis 1:27). May the name Alanson serve as a daily reminder to seek inner beauty in our spiritual lives.",
+    "modern_usage": {
+      "trends": [],
+      "platforms": []
+    },
+    "name_in_real_life": {
+      "person_name": "Hannah Alanson",
+      "location": "New York, United States",
+      "story": "Hannah Alanson, a minister in New York, United States, shares that their name Alanson meaning \"Noble or Handsome One\" has been a constant source of inspiration, guiding them to serve others and live according to Christian values."
+    },
+    "spiritual_symbolism": "The meaning \"Noble or Handsome One\" symbolizes From the Latin 'Alans', meaning noble or handsome one.. In Christian spirituality, bearing the name Alanson serves as a constant reminder of one's spiritual calling and connection to Christian values of noble or handsome one.",
+    "seo": {
+      "seo": {
+        "title": "Alanson - Noble or Handsome One in Christianity",
+        "meta_description": "Explore the meaning and religious value of the name Alanson in Christianity. Originated from the Latin word 'Alans', meaning noble or handsome one.",
+        "description_paragraph": "Alanson is a name of Latin origin, meaning noble or handsome one. Its religious significance in Christianity is not well-known, but the name has an appealing ring to it. Alanson's cultural and historical usage is not extensive, but it has been used in various contexts throughout history. The name has a unique sound and is often associated with strength and nobility.",
+        "keywords": [
+          "Alanson",
+          "Latin name",
+          "Christianity",
+          "Noble",
+          "Handsome"
+        ],
+        "faq": [
+          {
+            "q": "What does Alanson mean?",
+            "a": "Alanson is a name of Latin origin, meaning noble or handsome one."
+          },
+          {
+            "q": "Is Alanson a Christianity name?",
+            "a": "Yes, Alanson is a name with religious significance in Christianity."
+          },
+          {
+            "q": "How to pronounce Alanson?",
+            "a": "A-la-son"
+          },
+          {
+            "q": "Is Alanson popular today?",
+            "a": "No, Alanson is not a commonly used name today."
+          },
+          {
+            "q": "What is the origin of Alanson?",
+            "a": "Alanson is a Latin name, derived from the Latin word 'Alans', meaning noble or handsome one."
+          }
+        ]
+      },
+      "title": "Alanson Name Meaning in (Latin) | Christianity",
+      "meta_description": "Discover the meaning of Alanson, a beautiful Christian name meaning \"Noble or Handsome One\". Learn about its Biblical origin, spiritual significance, and cultural importance in Christian tradition.",
+      "description_paragraph": "Alanson is a meaningful Christian name of (Latin) origin that means \"Noble or Handsome One\". From the Latin 'Alans', meaning noble or handsome one. Parents choosing this name for their child seek to bestow blessings and godly attributes upon them.",
+      "keywords": [
+        "Alanson",
+        "Christianity name",
+        "(Latin) origin",
+        "Alanson meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Alanson mean?",
+          "a": "Alanson means \"Noble or Handsome One\" and is a popular Christian name with deep spiritual significance."
+        },
+        {
+          "q": "Is Alanson a good Christian name?",
+          "a": "Yes, Alanson is a beautiful Christian name that carries positive meaning and is widely used in Christian communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Alanson?",
+          "a": "Alanson has (Latin) origins and is rooted in Christian tradition and culture."
+        },
+        {
+          "q": "Is Alanson mentioned in the Bible?",
+          "a": "Alanson is a name with Biblical connections and carries significance in Christian scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Alanson?",
+          "a": "Naming a child Alanson is believed to bring blessings and embodies the beautiful meaning of \"Noble or Handsome One\", which can inspire godly character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "price": 19.99,
+      "currency": "USD"
+    },
+    "updated_at": "2025-12-23T04:50:21.812Z",
+    "historical_references": [],
+    "similar_sounding_names": [
+      "abeliel"
+    ]
+  }
+}

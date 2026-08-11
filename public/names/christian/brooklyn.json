@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Brooklyn",
+    "slug": "brooklyn",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "christian",
+    "meaning": "Broken land"
+  }
+}

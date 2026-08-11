@@ -1,0 +1,216 @@
+{
+  "success": true,
+  "data": {
+    "name": "Haggian",
+    "slug": "haggian",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek"
+    ],
+    "gender": "(Male)",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "short_meaning": "Prophet, visionary",
+    "long_meaning": "Derived from the Hebrew word ‘hag', which means ‘prophet’ or ‘seer'. In the Old Testament, Haggai was a prophet who encouraged the Jews to rebuild the Temple in Jerusalem after their return from exile.",
+    "spiritual_meaning": "Encouragement, inspiration, and guidance from the divine",
+    "emotional_traits": [
+      "Wise",
+      "Courageous"
+    ],
+    "hidden_personality_traits": [
+      "L = Loyal",
+      "F = Faithful"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 1,
+    "numerology_meaning": "Represents new beginnings, leadership, and independence.",
+    "in_hebrew": {
+      "name": "הגיאן",
+      "meaning": "שמות כנסייתיים",
+      "long_meaning": "השם 'הגיאן' נגזר מהמילה 'הגיא', שמשמעותה 'הסתלקות', 'פרידה', או 'התרחקות'. השם 'הגיאן' עשוי לשמש כשם כנסייתי, שבסופו של דבר, זה 'פרידה' או 'תרחקות' של הסתלקות מרע. אין הכרה בקיימותו של השם 'הגיאן' במקרא. השם 'הגיא' מופיע פעם אחת בספר תהילים, שם הוא תיאור של 'הסתלקות' או 'התרחקות'."
+    },
+    "in_greek": {
+      "name": "Ἁγιαν",
+      "meaning": "χριστιανικό όνομα",
+      "long_meaning": "Το όνομα Ἁγιαν προέρχεται από τη λέξη ἡγίειν, που σημαίνει 'αποχωρισμός', 'απομακρυστική' ή 'απέχθεια'. Η λέξη Ἁγιαν μπορεί να χρησιμοποιηθεί ως χριστιανικό όνομα, στο τέλος του οποίου βρίσκεται η 'απέχθεια' ή 'αποχωρισμός' από τη σωτηρία. Δεν υπάρχει αναφορά στο όνομα Ἁγιαν στην Καινη Διαθήκη. Η λέξη ἡγίειν εμφανίζεται μία φορά στο Ψαλτήρι, όπου είναι περιγραφή του 'αποχωρισμού' ή 'απέχθιας'."
+    },
+    "in_latin": {
+      "name": "Haggianus",
+      "meaning": "nomen Christianum",
+      "long_meaning": "Nomen Haggianus a verbo Haggianum derivatur, id est 'relegare', 'separare', 'abstergere'. Haggianum potest esse nomen Christianum, in quo ultima pars significationem habet 'separare' vel 'relegare' ab impietate. Nomen Haggianum non reperitur in Bibliis Veteris Testamenti. Verbum Haggianum in aliquo loco Bibliae Nova reperitur, ubi significat 'relegare' vel 'separare'."
+    },
+    "in_english": {
+      "name": "Haggian",
+      "meaning": "Christian name derived from Hebrew root",
+      "long_meaning": "The name Haggian is derived from the Hebrew root 'hag', meaning 'to depart', 'to leave', or 'to separate'. The name Haggian is potentially a Christian name, signifying 'separation' or 'departure' from evil. There is no biblical reference to the name Haggian. The Hebrew word 'hag' appears once in the Psalms, describing 'departure' or 'separation'. In Christian tradition, the name Haggian may symbolize spiritual growth and detachment from worldly desires."
+    },
+    "pronunciation": {
+      "english": "HAG-ee-an",
+      "biblical": "Not applicable, as the name is not found in the Bible",
+      "ipa": "/hæɡɪən/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#HaggianMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Haggian"
+    ],
+    "name_variations": [],
+    "popularity_score": 50,
+    "popularity_by_region": [
+      {
+        "region": "United Kingdom",
+        "country_code": "UK",
+        "score": 30,
+        "year": 2024
+      },
+      {
+        "region": "Poland",
+        "country_code": "PL",
+        "score": 69,
+        "year": 2024
+      }
+    ],
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "saint_reference": {
+      "is_saint_name": false,
+      "saint_name": "",
+      "note": ""
+    },
+    "cultural_impact": "The name \"Haggai\" holds historical significance as it was given to a biblical prophet who played a pivotal role in encouraging the Jews to rebuild the Temple in Jerusalem post-exile. This event marked the beginning of the Second Temple Period, which laid the foundation for the development of the Second Jewish Commonwealth, and, eventually, the birth of Christianity itself. Thus, the name \"Haggai\" is synonymous with reconstruction, perseverance, and the revival of Israelite spirituality.",
+    "spiritual_significance": "In spiritual terms, the name \"Haggai\" signifies a messenger of God who spoke the truth and inspired his people to reconnect with their faith. As a prophet, Haggai exhorted the Jews to remember their covenant with God, to return to the ritual observances of the Jerusalem Temple, and to dedicate themselves anew to their God. This call to repentance, renewal, and rededication echoes the core message of Christianity, which invites each of us to turn back to God and live in accordance with His will. Thus, the name \"Haggai\" not only highlights God's enduring presence throughout history but also underscores the importance of staying spiritually attuned and committed to our faith.",
+    "historical_references": [
+      {
+        "reference": "Haggai was an Old Testament prophet who lived in Judah around 520 BC during the Persian Empire. He is known for urging the Jews to rebuild the Temple in Jerusalem, which they had neglected after their return from exile in Babylon.",
+        "time_period": "520 BC",
+        "context": "Persian Empire, Jewish exile in Babylon"
+      },
+      {
+        "reference": "The name 'Haggai' means 'festive' or 'great' in Hebrew. This is a reference to the joy and celebration that came with the rebuilding of the Temple, which had been in ruins since the Babylonian conquest.",
+        "time_period": "520 BC",
+        "context": "Rebuilding of the Second Temple in Jerusalem"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "neo-paganism",
+        "spirituality",
+        "new age"
+      ],
+      "platforms": [
+        "Facebook groups",
+        "personal blogs",
+        "YouTube channels"
+      ],
+      "modern_context": "The name Hagian, derived from the biblical figure Haggai, has seen a modern resurgence in various spiritual contexts, particularly within neo-pagan and new age communities. On Facebook groups and personal blogs, Hagian is used as a spiritual name or alias, representing a connection to the divine or the natural world. On YouTube channels, individuals share their interpretations of Haggai's teachings and apply them to contemporary spirituality, often blending elements of neo-paganism and new age beliefs. Overall, the name Hagian is used as a symbol of personal transformation, growth, and spiritual exploration, reflecting the evolving nature of modern spiritual practices."
+    },
+    "name_in_real_life": {
+      "person_name": "Ruth Haggian",
+      "location": "Jerusalem, Israel",
+      "story": "Ruth Haggian from Jerusalem, Israel embodies the meaning of Haggian - \"Prophet, visionary\". Raised in a Christian family, they were taught to honor the significance of their name and walk in faith throughout their life."
+    },
+    "spiritual_symbolism": "The name Haggai means \"festive\" or \"given by God\" in Hebrew. In the Bible, Haggai was a prophet who encouraged the Jews to rebuild the Temple in Jerusalem after their return from exile. His messages emphasized God's presence and blessings in their rebuilding efforts.",
+    "seo": {
+      "seo": {
+        "title": "Haggian - Hebrew Christian Prophet Name Meaning and Origin",
+        "meta_description": "Discover the meaning and religious significance of the Hebrew name Haggian, which means 'prophet' or 'seer'. Learn about its origin and cultural/religious usage in Christianity.",
+        "description_paragraph": "The Hebrew name Haggian is derived from the word ‘hag', which means ‘prophet' or ‘seer'. In the Old Testament, Haggai was a prophet who encouraged the Jews to rebuild the Temple in Jerusalem after their return from exile. The name Haggian continues to be popular today due to its strong religious connection and meaningful origin.",
+        "keywords": [
+          "Haggian",
+          "Hebrew name",
+          "prophet",
+          "Christianity",
+          "Old Testament"
+        ],
+        "faq": [
+          {
+            "q": "What does Haggian mean?",
+            "a": "Haggian is a Hebrew name that means ‘prophet' or ‘seer'."
+          },
+          {
+            "q": "Is Haggian a Christianity name?",
+            "a": "Yes, Haggian is a name of Hebrew origin that holds significant religious value in Christianity as it is derived from the Old Testament prophet Haggai."
+          },
+          {
+            "q": "How to pronounce Haggian?",
+            "a": "Hag-gi-an"
+          },
+          {
+            "q": "Is Haggian popular today?",
+            "a": "While Haggian may not be a commonly used name today, it continues to be popular among those seeking a name with strong religious significance and meaningful origin."
+          },
+          {
+            "q": "What is the origin of Haggian?",
+            "a": "The name Haggian originated from the Hebrew word ‘hag', which means ‘prophet' or ‘seer'. In the Old Testament, Haggai was a prophet who encouraged the Jews to rebuild the Temple in Jerusalem after their return from exile."
+          }
+        ]
+      },
+      "title": "Haggian Name Meaning in (Hebrew) | Christianity",
+      "meta_description": "Discover the meaning of Haggian, a beautiful Christian name meaning \"Prophet, visionary\". Learn about its Biblical origin, spiritual significance, and cultural importance in Christian tradition.",
+      "description_paragraph": "Haggian is a meaningful Christian name of (Hebrew) origin that means \"Prophet, visionary\". Derived from the Hebrew word ‘hag', which means ‘prophet’ or ‘seer'. In the Old Testament, Haggai was a prophet who encouraged the Jews to rebuild the Temple in Jerusalem after their return from exile. Parents choosing this name for their child seek to bestow blessings and godly attributes upon them.",
+      "keywords": [
+        "Haggian",
+        "Christianity name",
+        "(Hebrew) origin",
+        "Haggian meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Haggian mean?",
+          "a": "Haggian means \"Prophet, visionary\" and is a popular Christian name with deep spiritual significance."
+        },
+        {
+          "q": "Is Haggian a good Christian name?",
+          "a": "Yes, Haggian is a beautiful Christian name that carries positive meaning and is widely used in Christian communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Haggian?",
+          "a": "Haggian has (Hebrew) origins and is rooted in Christian tradition and culture."
+        },
+        {
+          "q": "Is Haggian mentioned in the Bible?",
+          "a": "Haggian is a name with Biblical connections and carries significance in Christian scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Haggian?",
+          "a": "Naming a child Haggian is believed to bring blessings and embodies the beautiful meaning of \"Prophet, visionary\", which can inspire godly character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "ads": true,
+      "affiliate_links": [
+        "https://example.com/buy-books-about-haggian",
+        "https://example.com/buy-jewelry-with-carnelian-stone"
+      ]
+    },
+    "updated_at": "2025-12-23T04:50:20.619Z",
+    "similar_sounding_names": [
+      "abeliel",
+      "Abijah",
+      "Adalyn",
+      "Adelaide",
+      "Adele",
+      "Adonella",
+      "Agnes",
+      "Agnieszka",
+      "Aimee",
+      "Alarice"
+    ]
+  }
+}

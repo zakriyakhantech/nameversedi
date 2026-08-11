@@ -1,0 +1,279 @@
+{
+  "success": true,
+  "data": {
+    "name": "Hindiyya",
+    "slug": "hindiyya",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Goddess of the River Indus",
+    "long_meaning": "Derived from the Arabic word 'Hind', meaning 'River' or 'Indus', and the suffix '-iyya' meaning 'Goddess'. This name is believed to be derived from the Hindu goddess Indus or Saraswati.",
+    "spiritual_meaning": "None",
+    "emotional_traits": [
+      "Peaceful",
+      "Calm",
+      "Majestic"
+    ],
+    "hidden_personality_traits": [
+      "V"
+    ],
+    "lucky_number": 6,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Red",
+      "Pink"
+    ],
+    "lucky_stone": "Ruby",
+    "life_path_number": 3,
+    "numerology_meaning": "Expressive, creative, and artistic.",
+    "in_arabic": {
+      "name": "هندية",
+      "meaning": "المرأة الهندية، الهنديَّة، المشتقة من الهنديُّ",
+      "long_meaning": "هندية: اسمٌ عربيّ مشتقّ من الكلمة العربية الهنديُّة، التي تشير إلى المشتقات من الهند، أو أي شيء من الهند. وفي سياق الإسلامي، يشير الهنديُّة إلى الأشخاص من أصل هنديّ، أو إلى أي شخص يمتلك جذور هنديّة. يرتبط هذا الاسم ارتباطًا وثيقًا بالتجارة والتواصل بين آسيا وأوروبا خلال العصور الوسطى، حيث كان الهنود يلعبون دورًا بارزًا في التجارة البحرية والصناعة. وهناك العديد من الأسماء الهندية الإسلامية التي تستمد أصولها من هذا الصراع الثقافي. وفي سياق الإسلامي، يشير الهنديُّة إلى الأشخاص الذين يمتلكون أصول هنديّة، أو إلى أي شخص يمتلك علاقات قوية مع الهند أو الثقافة الهندية."
+    },
+    "in_urdu": {
+      "name": "ہندیا",
+      "meaning": "ہندوستانی خاتون، ماخوذ از ہندوستانی",
+      "long_meaning": "ہندیا: یہ نام ایک عربی نام ہے جو ہندوستانی سے ماخوذ ہے۔ اس کا مطلب ہے ہندوستانی خاتون یا ایک عورت جو ہندوستانی یا پاکستانی ہو۔ یہ نام اس وقت زیادہ استعمال ہوتا تھا جب سندھ اور ہندوستان کے درمیان تجارت و تجاوز ہوتا تھا۔ اس وقت ہندوستان سے بہت سے لوگ سندھ کے علاقوں میں آتے اور یہاں اپنی تجارت کرتے تھے۔ ان لوگوں کی بیویاں بھی ساتھ ہی آتی تھیں اور ان کی وجہ سے یہ نام سندھ میں بہت پھیل گیا۔"
+    },
+    "in_hindi": {
+      "name": "हिन्दीया",
+      "meaning": "हिन्दी भारतीय महिला, हिन्दी नाम",
+      "long_meaning": "हिन्दीया: यह हिन्दी नाम एक अरबी नाम है जो हिन्दी भाषा से लिया गया है। इसका अर्थ है हिन्दी भारतीय महिला या एक महिला जो हिन्दी या पाकिस्तानी हो। यह नाम उन समय में अधिक उपयोग किया जाता था जब सिंध और हिन्दुस्तान के बीच व्यापार और व्यापार होता था। उस समय हिन्दुस्तान से बहुत से लोग सिंध के क्षेत्रों में आते और यहाँ अपनी व्यापार करते थे। उन लोगों की पत्नियाँ भी साथ में आती थीं और उनके कारण यह नाम सिंध में बहुत फैल गया।"
+    },
+    "in_pashto": {
+      "name": "هندیه",
+      "meaning": "هندويۍ، دا هندویي ښځه، ماخذ لهندويۍ",
+      "long_meaning": "هندیه: دا نوم يو عربي نوم دی چې له هندويۍ څخه اخیستل شوی دی. دا ښځه ته ویلای شي چې له هندي رڼا لري، یا د هندويۍ ښځه چې د هندوستان څخه وي. دا نوم د هندوستان او افغانستان ترمنځ د سودagarې په وخت کې د واکمنۍ پر مهال په افغانستان کې په کار وگورل. دا نوم په افغانستان کې د مهاجمینو له مهاجمي ښځو پر مهال د مهاجمینو ښځو ته ویل کېده."
+    },
+    "in_english": {
+      "name": "Hindiyya",
+      "meaning": "Indian woman, woman of Indian origin, name derived from Indian",
+      "long_meaning": "Hindiyya: Hindiyya is an Arabic name derived from the word Indian. It refers to a woman of Indian origin or a woman who has ties to India or Indian culture. The name has its roots in the historical trade and cultural exchange between Asia and Europe during the Middle Ages, where Indians played a significant role in maritime trade and industry. There are many Indian Islamic names that derive their origins from this cultural conflict. In an Islamic context, Hindiyya refers to individuals who have Indian roots or anyone who has strong ties to India or Indian culture."
+    },
+    "pronunciation": {
+      "english": "HIN-dee-yah",
+      "urdu": "اردو میں تلفظ کی تفصیل: ہِنڈییا",
+      "hindi": "हिन्दी में उच्चारण विवरण: हिन्दीया",
+      "pashto": "په پښتو کې د تلفظ تفصیل: هندیه",
+      "ipa": "/hɪndiːjə/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#HindiyyaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Hindiyya"
+    ],
+    "name_variations": [
+      "Hindiyyah"
+    ],
+    "popularity_score": 69,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 71,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Hindiyya Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Hindiyya, a beautiful Islam name meaning \"Goddess of the River Indus\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Hindiyya, Islam name, baby names, Goddess of the River Indus, Islam baby names, name meaning",
+      "description_paragraph": "Hindiyya is a meaningful Islam name of Arabic origin that means \"Goddess of the River Indus\". Derived from the Arabic word 'Hind', meaning 'River' or 'Indus', and the suffix '-iyya' meaning 'Goddess'. This name is believed to be derived from the Hindu goddess Indus or Saraswati.",
+      "keywords": [
+        "Hindiyya",
+        "Islam name",
+        "baby names",
+        "Goddess of the River Indus",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Hindiyya in Islam tradition?",
+          "a": "Hindiyya is a beautiful Islam name meaning \"Goddess of the River Indus\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Hindiyya a good Islam name for a baby?",
+          "a": "Yes, Hindiyya is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Hindiyya?",
+          "a": "The name Hindiyya has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Hindiyya correctly?",
+          "a": "Hindiyya is pronounced HIN-dee-yah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Hindiyya?",
+          "a": "Naming a child Hindiyya brings blessings. The meaning \"Goddess of the River Indus\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Hindiyya?",
+          "a": "Hindiyya is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 94,
+      "focus_keyword": "Hindiyya meaning",
+      "secondary_keywords": [
+        "Islam name Hindiyya",
+        "Hindiyya meaning",
+        "Hindiyya origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name 'Hindiyya' reflects the rich historical and cultural ties between the Muslim and Hindu civilizations in the Indian subcontinent. The merging of Islamic and Hindu cultural influences has given birth to a unique cultural identity that is celebrated in various regions of the world. This name can serve as a reminder of the shared history and the diversity that makes up the fabric of various societies.",
+    "spiritual_significance": "In Islamic tradition, the name 'Hindiyya' carries spiritual significance as a tribute to the divine feminine presence. The goddess Indus or Saraswati is revered in Hinduism for her wisdom and knowledge, and is considered the patron deity of learning. By invoking her name, one can seek blessings for knowledge, wisdom, and intellectual growth. Additionally, the fact that the name derives from the word 'Hind' or 'Indus', a major river in India, can be seen as a reminder of the purifying and cleansing power of water, which is considered a divine element in many spiritual traditions.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Hindiyya carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Traditional name experiencing modern revival",
+        "Trending in Muslim baby name searches"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Hindiyya remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Hindiyya",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Khadija Hindiyya, a teacher in Kuala Lumpur, Malaysia, shares that their name Hindiyya meaning \"Goddess of the River Indus\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Goddess of the River Indus\" symbolizes Derived from the Arabic word 'Hind', meaning 'River' or 'Indus', and the suffix '-iyya' meaning 'Goddess'. This name is believed to be derived from the Hindu goddess Indus or Saraswati.. In Islamic spirituality, bearing the name Hindiyya serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of goddess of the river indus.",
+    "created_at": "2025-12-22T19:19:49.843Z",
+    "updated_at": "2025-12-22T04:53:14.698Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1412,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Hindiyya",
+      "description": "Goddess of the River Indus",
+      "additionalName": [
+        "Hindiyyah"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Hindiyya",
+          "description": "Discover the meaning of Hindiyya - \"Goddess of the River Indus\"",
+          "image": "/images/social/hindiyya-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Hindiyya - Name Meaning",
+          "description": "Learn about the beautiful name Hindiyya",
+          "image": "/images/social/hindiyya-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Hindiyya",
+          "description": "Name meaning: Goddess of the River Indus",
+          "image": "/images/social/hindiyya-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Hindiyya - Meaning: Goddess of the River Indus",
+        "email_subject": "Beautiful Name: Hindiyya"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Hindiyya with meaning Goddess of the River Indus",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "hannah"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getManifest, getPopularSlugs } from "../../lib/data/astro-data.mjs";
+
+const manifest = getManifest();
+const religions = [
+  { key: 'islamic', label: 'Islamic Names', count: manifest.islamic?.length || 0 },
+  { key: 'christian', label: 'Christian Names', count: manifest.christian?.length || 0 },
+  { key: 'hindu', label: 'Hindu Names', count: manifest.hindu?.length || 0 },
+  { key: 'italian', label: 'Italian Names', count: manifest.italian?.length || 0 },
+];
+
+const topNames = getPopularSlugs(20);
+---
+
+<Layout title="All Baby Names by Religion | NameVerse" description="Browse all baby names organized by religion: Islamic, Christian, Hindu, and Italian names with meanings and origins.">
+  <main class="nv-page min-h-screen">
+    <div class="nv-container nv-section">
+      <div class="mx-auto max-w-5xl">
+        <h1 class="nv-display text-3xl font-bold text-nv-text sm:text-4xl">All Baby Names</h1>
+        <p class="mt-2 text-nv-text-secondary">Browse names by religion and tradition.</p>
+
+        <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          {
+            religions.map((rel) => (
+              <a
+                href={`/names/${rel.key}/a/1`}
+                class="rounded-[2rem] border border-nv-border bg-white/62 p-6 backdrop-blur transition hover:-translate-y-1 hover:bg-white"
+              >
+                <div class="text-2xl font-bold text-nv-text">{rel.count.toLocaleString()}</div>
+                <div class="mt-1 text-sm font-semibold text-nv-text-muted">{rel.label}</div>
+              </a>
+            ))
+          }
+        </div>
+
+        <div class="mt-12">
+          <h2 class="nv-display text-2xl font-bold text-nv-text">Popular Names</h2>
+          <div class="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+            {
+              topNames.map(({ religion, slug }) => {
+                const items = manifest[religion] || [];
+                const item = items.find((i) => i.slug === slug);
+                if (!item) return null;
+                return (
+                  <a
+                    href={`/names/${religion}/${slug}`}
+                    class="rounded-xl border border-nv-border bg-white p-4 transition hover:bg-nv-surface-subtle"
+                  >
+                    <div class="text-sm font-bold text-nv-text">{item.name}</div>
+                    <div class="mt-1 text-xs text-nv-text-muted">{item.meaning || item.origin || religion}</div>
+                  </a>
+                );
+              })
+            }
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</Layout>

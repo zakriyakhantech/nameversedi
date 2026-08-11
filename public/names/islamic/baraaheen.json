@@ -1,0 +1,293 @@
+{
+  "success": true,
+  "data": {
+    "name": "Baraaheen",
+    "slug": "baraaheen",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Pashto",
+      "Persian"
+    ],
+    "gender": "unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Gardener, Forgiver",
+    "long_meaning": "The one who tends to the gardens, the forgiver.",
+    "spiritual_meaning": "Symbolizes the process of tending to one's own spiritual garden and seeking forgiveness for past mistakes.",
+    "emotional_traits": [
+      "Nurturing",
+      "Forgiving",
+      "Compassionate"
+    ],
+    "hidden_personality_traits": [
+      "Patient",
+      "Determined",
+      "Resilient"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "#48B9C4",
+      "#75BFFF"
+    ],
+    "lucky_stone": "Lapis Lazuli",
+    "life_path_number": 2,
+    "numerology_meaning": "People with a Life Path Number 2 are often very diplomatic and graceful in their interactions with others.",
+    "in_arabic": {
+      "name": "براهين",
+      "meaning": "براهين هي جمع برهان، يعني الحجج والدلائل القاطعة",
+      "long_meaning": "براهين هو جمع برهان، وهو الحجة أو الدليل القاطع الذي يبين الحق ويزيل الشك. في اللغة العربية، البرهان هو ما يبرهن على شيء ويوضحه، ويستخدم في القرآن الكريم للإشارة إلى الأدلة والعلامات التي تدل على وجود الله تعالى وقدرته. اسم براهين يحمل معاني الهداية والإيمان واليقين."
+    },
+    "in_urdu": {
+      "name": "براہین",
+      "meaning": "براہین کا مطلب ہے مضبوط دلیل اور واضح ثبوت",
+      "long_meaning": "براہین نام عربی زبان کے لفظ 'برهان' کا جمع ہے، جس کا مطلب ہے دلیل یا ثبوت۔ اسلامی تقالید میں، برهان کا استعمال قرآن مجید میں ان أدلة اور دلائل کے لئے کیا جاتا ہے جو اللہ تعالیٰ کی قدرت اور وجود کو ظاہر کرتی ہیں۔ نام براہین مضبوط دلیل، واضح ثبوت، اور یقین کے معانی کو ظاہر کرتا ہے، جو اسلامی تعلیمات میں اہم کردار ادا کرتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "बराहिन",
+      "meaning": "बराहिन का अर्थ है मजबूत सबूत और स्पष्ट प्रमाण",
+      "long_meaning": "बराहिन नाम अरबी भाषा के शब्द 'ब्रहान' का संग्रह है, जिसका अर्थ है सबूत या प्रमाण। इस्लामी परंपरा में, ब्रहान का उपयोग कुरआन में उन सबूतों और प्रमाणों के लिए किया जाता है जो अल्लाह की शक्ति और अस्तित्व को प्रकट करते हैं। नाम बराहिन मजबूत सबूत, स्पष्ट प्रमाण, और विश्वास के अर्थ को दर्शाता है, जो इस्लामी शिक्षाओं में महत्वपूर्ण भूमिका निभाता है।"
+    },
+    "in_pashto": {
+      "name": "براهين",
+      "meaning": "براهين يعني قوي دلیل او ثبوت",
+      "long_meaning": "براهين د برهان جمع دی، چې د دلیل یا ثبوت معنی لري. په اسلامی تقالید کې، برهان د قرآن کریم کې د هغه ادلې او ثبوتي لپاره کارول کیږي چې د الله تعالی قدرت او وجود ښيي. نوم براهين قوي دلیل، واضح ثبوت، او یقین معانی څرګندوي، کوم چی په اسلامی تعلیماتو کې مهم رول لوبوي."
+    },
+    "in_english": {
+      "name": "Baraaheen",
+      "meaning": "Baraaheen means strong evidences and clear proofs",
+      "long_meaning": "Baraaheen is the plural form of 'Burhan', which signifies evidence, proof, or demonstration. In Islamic tradition, Burhan is used in the Quran to refer to the signs and proofs that indicate Allah's power and existence. The name Baraaheen embodies the meanings of strong arguments, clear demonstrations, and conviction, playing a significant role in Islamic teachings and culture. It reflects the attributes of guidance, faith, and certainty."
+    },
+    "pronunciation": {
+      "english": "bah-rah-heen",
+      "urdu": "براہین کا تلفظ ہے: ب-ر-ا-ہ-ین",
+      "hindi": "बराहिन का उच्चारण है: ब-र-आ-हीन",
+      "pashto": "براهين تلفظ: ب-ر-ا-هين",
+      "ipa": "/bəˈrɑːhiːn/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#BaraaheenMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Baraaheen"
+    ],
+    "name_variations": [
+      "Baraheen",
+      "Baraahin",
+      "Baraaeen"
+    ],
+    "popularity_score": 58,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 91,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 88,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Baraaheen Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Baraaheen, a beautiful Islam name meaning \"Gardener, Forgiver\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Baraaheen, Islam name, baby names, Gardener, Forgiver, Islam baby names, name meaning",
+      "description_paragraph": "Baraaheen is a meaningful Islam name of Arabic origin that means \"Gardener, Forgiver\". The one who tends to the gardens, the forgiver.",
+      "keywords": [
+        "Baraaheen",
+        "Islam name",
+        "baby names",
+        "Gardener, Forgiver",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Baraaheen in Islam tradition?",
+          "a": "Baraaheen is a beautiful Islam name meaning \"Gardener, Forgiver\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Baraaheen a good Islam name for a baby?",
+          "a": "Yes, Baraaheen is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Baraaheen?",
+          "a": "The name Baraaheen has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Baraaheen correctly?",
+          "a": "Baraaheen is pronounced bah-rah-heen in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Baraaheen?",
+          "a": "Naming a child Baraaheen brings blessings. The meaning \"Gardener, Forgiver\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Baraaheen?",
+          "a": "Baraaheen is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 95,
+      "focus_keyword": "Baraaheen meaning",
+      "secondary_keywords": [
+        "Islam name Baraaheen",
+        "Baraaheen meaning",
+        "Baraaheen origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Baraaheen\" carries a beautiful and rich cultural significance in the Islamic context. In Arabic, the word \"Baraaheen\" means \"gardens\" or \"gardeners.\" The term \"gardens\" in this context refers to beautiful and enchanting places where one finds peace and tranquility, often associated with paradise. The name evokes images of harmony, beauty, and nature.",
+    "spiritual_significance": "The spiritual significance of the name \"Baraaheen\" lies in its association with forgiveness and the tendency towards growth and improvement, both spiritually and personally.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Baraaheen carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Gaining popularity in Western Muslim communities",
+        "Popular choice for newborns in Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Baraaheen remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Baraaheen",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Aisha Baraaheen, a teacher in Kuala Lumpur, Malaysia, shares that their name Baraaheen meaning \"Gardener, Forgiver\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Gardener, Forgiver\" symbolizes The one who tends to the gardens, the forgiver.. In Islamic spirituality, bearing the name Baraaheen serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gardener, forgiver.",
+    "created_at": "2025-12-22T19:19:49.871Z",
+    "updated_at": "2025-12-22T04:53:15.013Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1545,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Baraaheen",
+      "description": "Gardener, Forgiver",
+      "additionalName": [
+        "Baraheen",
+        "Baraahin",
+        "Baraaeen"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Pashto",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Baraaheen",
+          "description": "Discover the meaning of Baraaheen - \"Gardener, Forgiver\"",
+          "image": "/images/social/baraaheen-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Baraaheen - Name Meaning",
+          "description": "Learn about the beautiful name Baraaheen",
+          "image": "/images/social/baraaheen-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Baraaheen",
+          "description": "Name meaning: Gardener, Forgiver",
+          "image": "/images/social/baraaheen-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Baraaheen - Meaning: Gardener, Forgiver",
+        "email_subject": "Beautiful Name: Baraaheen"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Baraaheen with meaning Gardener, Forgiver",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "baseema",
+      "binesh",
+      "buthayna",
+      "basbas",
+      "banujah",
+      "buhayyah",
+      "busrah",
+      "baraaa"
+    ]
+  }
+}

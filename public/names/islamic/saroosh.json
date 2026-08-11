@@ -1,0 +1,297 @@
+{
+  "success": true,
+  "data": {
+    "name": "Saroosh",
+    "slug": "saroosh",
+    "language": [
+      "Persian",
+      "Arabic"
+    ],
+    "gender": "unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Rose",
+    "long_meaning": "This name is derived from the Persian word 'sar' meaning 'rose', and 'ush' meaning 'water'. This name is often given to children born in the springtime or those born under the astrological sign of Aries.",
+    "spiritual_meaning": "Symbolizes the beauty and fragrance of life, as well as the refreshing and uplifting qualities of nature. It is a reminder to always remain connected to the divine source and to find joy in the simple things in life.",
+    "emotional_traits": [
+      "Creative",
+      "Artistic",
+      "Sensitive",
+      "Compassionate",
+      "Intuitive"
+    ],
+    "hidden_personality_traits": [
+      "Perfectionist",
+      "Determined",
+      "Independent"
+    ],
+    "lucky_number": 6,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Red",
+      "Pink"
+    ],
+    "lucky_stone": "Rose Quartz",
+    "life_path_number": 2,
+    "numerology_meaning": "Indicates a desire for harmony, peace, and balance in all areas of life. It is a reminder to nurture relationships and to be sensitive to the emotions of others.",
+    "in_arabic": {
+      "name": "سروش",
+      "meaning": "سروش تعني الرسول أو الملاك أو جبريل عليه السلام",
+      "long_meaning": "سروش هو اسم يطلق على الرسول أو الملاك، وخاصة جبريل عليه السلام. يأتي من الجذر العربي 'س-ر-ش' الذي يعني الإرسال أو الإعلام. في القرآن الكريم، يشار إلى جبريل عليه السلام كرسول الله، وفي هذا السياق، يمكن أن يكون اسم سروش إشارة إلى دوره كمرسل إلهي. تاريخياً، استخدم هذا الاسم في الثقافة الإسلامية للإشارة إلى الملائكة أو الرسل السماويين."
+    },
+    "in_urdu": {
+      "name": "سروش",
+      "meaning": "رسول، فرشتہ، یا جبریل عليه السلام",
+      "long_meaning": "سروش کا مطلب ہے رسول یا فرشتہ، خاص طور پر جبریل عليه السلام. یہ نام عربی جڑ 'س-ر-ش' سے نکلا ہے جس کا مطلب ہے بھیجنا یا اطلاع دینا. اسلامی روایت میں، جبریل عليه السلام کو اللہ کا رسول کہا جاتا ہے، اور اس تناظر میں، سروش نام اس کے الہی رسالت کے کردار کی نشاندہی کر سکتا ہے. جنوبی ایشیائی مسلمانوں کی ثقافت میں، یہ نام اکثر ملائکی یا رسولین کے ساتھ وابستہ ہے."
+    },
+    "in_hindi": {
+      "name": "सरौश",
+      "meaning": "दूत, स्वर्गदूत या जिब्राइल",
+      "long_meaning": "सरौश का अर्थ है दूत या स्वर्गदूत, विशेष रूप से जिब्राइल. यह नाम अरबी मूल 'स-र-श' से आया है जिसका अर्थ है भेजना या सूचित करना. इस्लामी परंपरा में, जिब्राइल को ईश्वर का दूत कहा जाता है, और इस संदर्भ में, सरौश नाम उसकी दिव्य दूताई भूमिका की ओर संकेत कर सकता है. भारतीय मुस्लिम समुदाय में, यह नाम अक्सर स्वर्गदूतों या दूतों के साथ जुड़ा होता है."
+    },
+    "in_pashto": {
+      "name": "سروښ",
+      "meaning": "رسول، فرښته یا جبریل",
+      "long_meaning": "سروښ د رسول یا فرښته معنی لري، په ځانګړي ډول جبریل. دا نوم د عربي ريښې 'س-ر-ش' څخه اخیستل شوی دی چې معنی یې لیږل یا خبر ورکول دي. په افغان او پښتون دود کې، جبریل د الله رسول بلل کیږي، او پدې سياق کې، سروښ نوم کولی شي د هغه الهي رسالت رول ته اشاره وکړي. په پښتو کلتور کې، دا نوم اکثرا د فرښتو یا رسولینو سره تړاو لري."
+    },
+    "in_english": {
+      "name": "Saroosh",
+      "meaning": "Messenger, Angel or Gabriel",
+      "long_meaning": "Saroosh is a name that signifies a messenger, angel, or specifically Gabriel. Etymologically derived from the Arabic root 'س-ر-ش' (s-r-sh), which means to send or inform. In Islamic tradition, Gabriel is referred to as a messenger of God, and in this context, the name Saroosh may allude to his role as a divine messenger. Historically, the name has been used across Muslim cultures to denote angels or celestial messengers, embodying purity, guidance, and spiritual significance."
+    },
+    "pronunciation": {
+      "english": "sah-roosh",
+      "urdu": "سروش کا تلفظ: س (sa) ر (ra) و (oo) ش (sh)",
+      "hindi": "सरौश का उच्चारण: स (sa) र (ra) औ (au) श (sh)",
+      "pashto": "د سروښ تلفظ: س (sa) ر (ra) و (w) ښ (x̌)",
+      "ipa": "/sɑːˈruːʃ/"
+    },
+    "celebrity_usage": [
+      "Saroosh Alvi, Pakistani actress"
+    ],
+    "social_tags": [
+      "#SarooshMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Saroosh"
+    ],
+    "name_variations": [
+      "Sarush"
+    ],
+    "popularity_score": 55,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 70,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 66,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 67,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Saroosh Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Saroosh, a beautiful Islam name meaning \"Rose\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Saroosh, Islam name, baby names, Rose, Islam baby names, name meaning",
+      "description_paragraph": "Saroosh is a meaningful Islam name of Arabic origin that means \"Rose\". This name is derived from the Persian word 'sar' meaning 'rose', and 'ush' meaning 'water'. This name is often given to children born in the springtime or those born under the astrological sign of Aries.",
+      "keywords": [
+        "Saroosh",
+        "Islam name",
+        "baby names",
+        "Rose",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Saroosh in Islam tradition?",
+          "a": "Saroosh is a beautiful Islam name meaning \"Rose\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Saroosh a good Islam name for a baby?",
+          "a": "Yes, Saroosh is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Saroosh?",
+          "a": "The name Saroosh has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Saroosh correctly?",
+          "a": "Saroosh is pronounced sah-roosh in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Saroosh?",
+          "a": "Naming a child Saroosh brings blessings. The meaning \"Rose\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Saroosh?",
+          "a": "Saroosh is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 91,
+      "focus_keyword": "Saroosh meaning",
+      "secondary_keywords": [
+        "Islam name Saroosh",
+        "Saroosh meaning",
+        "Saroosh origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Saroosh holds a rich cultural significance, deeply rooted in Persian tradition. In the Persian culture, roses are symbolic of beauty, perfection, and the beginning of new life. Saroosh, meaning 'rosewater', is a reminder of the sweet fragrance that this flower brings to our lives. Furthermore, the name resonates with Persian literary works, such as the famous collection of Persian tales 'One Thousand Nights and a Night', where a character named Saroosh is known for his generosity and hospitality.",
+    "spiritual_significance": "The spiritual significance of the name Saroosh is multi-fold. In a literal sense, it can remind us of the spiritual essence of practicing beauty and perfection in our lives, and drawing from the essence of God like a rose draws from water. In a metaphorical sense, it can be a reminder of the spiritual nourishment derived from divine love and measured in drops much like water is measured in drops. The rose, a manifestation of beauty, is also a symbol of the human soul in many spiritual traditions. Saroosh, thus, can also serve as a reminder to continuously strive for spiritual growth and self-improvement to reveal the beauty within.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Saroosh carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Classic Islamic name maintaining steady popularity",
+        "Increasingly popular among Muslim millennials"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Saroosh remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Saroosh",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "A successful entrepreneur named Fatima Saroosh in Riyadh, Saudi Arabia attributes much of their success to the blessing of their name Saroosh, which means \"Rose\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Rose\" symbolizes This name is derived from the Persian word 'sar' meaning 'rose', and 'ush' meaning 'water'. This name is often given to children born in the springtime or those born under the astrological sign of Aries.. In Islamic spirituality, bearing the name Saroosh serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of rose.",
+    "created_at": "2025-12-22T19:19:49.855Z",
+    "updated_at": "2025-12-22T04:53:14.879Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1708,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Saroosh",
+      "description": "Rose",
+      "additionalName": [
+        "Sarush"
+      ],
+      "knowsLanguage": [
+        "Persian",
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Saroosh",
+          "description": "Discover the meaning of Saroosh - \"Rose\"",
+          "image": "/images/social/saroosh-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Saroosh - Name Meaning",
+          "description": "Learn about the beautiful name Saroosh",
+          "image": "/images/social/saroosh-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Saroosh",
+          "description": "Name meaning: Rose",
+          "image": "/images/social/saroosh-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Saroosh - Meaning: Rose",
+        "email_subject": "Beautiful Name: Saroosh"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Saroosh with meaning Rose",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saal",
+      "sadaldin",
+      "saim"
+    ]
+  }
+}

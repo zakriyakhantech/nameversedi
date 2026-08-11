@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Zayd",
+    "slug": "zayd",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "islamic",
+    "meaning": "Growth"
+  }
+}

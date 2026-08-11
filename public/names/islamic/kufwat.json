@@ -1,0 +1,287 @@
+{
+  "success": true,
+  "data": {
+    "name": "Kufwat",
+    "slug": "kufwat",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Wise, Powerful, Strong",
+    "long_meaning": "Derived from the Arabic word 'Kufuwa' which means 'to be wise, powerful and strong'.",
+    "spiritual_meaning": "Encourages spiritual growth and inner strength, inspiring a sense of wisdom and power within the individual.",
+    "emotional_traits": [
+      "Confident",
+      "Brave",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "Introspective",
+      "Mysterious",
+      "Deep"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Lapis Lazuli",
+    "life_path_number": 11,
+    "numerology_meaning": "A master number, signifying intuition, insight, and creativity. Those with this number often have a strong spiritual connection and are natural leaders and innovators.",
+    "in_arabic": {
+      "name": "كفوت",
+      "meaning": "الحجر الأسود، العقدة، القبلة، المرجعية",
+      "long_meaning": "كفوت: الحجر الأسود، هو الحجر الأسود الذي وضعته النبي محمد ﷺ في الكعبة المشرفة، والذي يعتبر المرجع الأسمى في الإسلام، ويجسد القيم الإسلامية مثل التوحيد والجهاد والإيمان، ويُحتفل به في كل يوم في المساجد الإسلامية، ويُعتبر المرجعية للعبادة والتعبد، ويُستخدم كمرجعية للقادة والمصلين، ويُحفظ كتابةً ومحفظًا، ويُحتفل به في كل يوم في المساجد الإسلامية، ويُعتبر رمزًا للتوحيد والإيمان، ويُستخدم كرمز للعبادة والتعبد، ويُعتبر المرجع الأسمى في الإسلام، ويُحفظ كتابةً ومحفظًا، ويُحتفل به في كل يوم في المساجد الإسلامية، ويُعتبر رمزًا للتوحيد والإيمان."
+    },
+    "in_urdu": {
+      "name": "کفوت",
+      "meaning": "حجرِ أسود، عقدہ، قبله، مرجع",
+      "long_meaning": "کفوت: حجرِ اسود ہے جو نبی صلی اللہ علیہ وآلہ وسلم نے کعبہ مشرفہ میں رکھا تھا، اور یہ اسلام کا سب سے بڑا مرجع ہے، یہ توحید، جهاد اور ایمان کی نمائندگی کرتا ہے، اور ہر روز مساجد میں اس کی یاد منائی جاتی ہے، یہ عبادت اور تعبد کی مرجع ہے، اور قائدین اور مصلین کا مرجع ہے، اسے تحفظ کے ساتھ لکھا جاتا ہے، اور ہر روز مساجد میں اس کی یاد منائی جاتی ہے، یہ توحید اور ایمان کا رمز ہے، اسے عبادت اور تعبد کے لئے رمز کے طور پر استعمال کیا جاتا ہے، اور یہ اسلام کا سب سے بڑا مرجع ہے، اور اسے تحفظ کے ساتھ لکھا جاتا ہے، اور ہر روز مساجد میں اس کی یاد منائی جاتی ہے، یہ توحید اور ایمان کا رمز ہے۔"
+    },
+    "in_hindi": {
+      "name": "कुफ्वत",
+      "meaning": "काले पत्थर, बंधन, दिशा, प्रतीक",
+      "long_meaning": "कुफ्वत: काला पत्थर जिसे नबी मुहम्मद ﷺ ने काबा में रखा था, जो इस्लाम का सबसे बड़ा प्रतीक है, जो इस्लामी मूल्यों जैसे कि एकता, संघर्ष और ईमान की प्रतीकात्मकता करता है, जो दिनभर मस्जिदों में इसकी याद दिलाई जाती है, जो पूजा और समर्पण की प्रतीकता है, और नेताओं और मुसलमानों का प्रतीक है, जिसे लेखन के साथ संरक्षित किया जाता है, जो दिनभर मस्जिदों में इसकी याद दिलाई जाती है, जो एकता और ईमान का प्रतीक है, जिसे पूजा और समर्पण के लिए प्रतीक के रूप में उपयोग किया जाता है, और जो इस्लाम का सबसे बड़ा प्रतीक है, जिसे लेखन के साथ संरक्षित किया जाता है, जो दिनभर मस्जिदों में इसकी याद दिलाई जाती है, जो एकता और ईमान का प्रतीक है।"
+    },
+    "in_pashto": {
+      "name": "کوفوت",
+      "meaning": "کالې پاتثر, بندنه, د لړلیو پوهنه, پښه",
+      "long_meaning": "کوفوت: کالې پاتثر چې د نبی محمد ﷺ لخوا په کبې مشرفې کې راووړل شوی وو، چې د اسلام دوه نړیو د واکمني پر نښه دی، چې د توحید، جهاد او ایمان د څرگندويي پوهنه کوي، چې ډیری ورځې په مساجد کې د یاد په توگه په یاد کول کیدی، چې د عبادت او تعبد د پوهنه پښه دی، چې د مصلینو او د مشرانو د پوهنه پښه دی، چې لیکل کېدونکې په توگه ساتل کیدی، چې ډیری ورځې په مساجد کې د یاد په توگه په یاد کول کیدی، چې د توحید او ایمان د څرگندويي پوهنه کوي، چې د عبادت او تعبد په توگه د پوهنه پښه دی، چې د اسلام دوه نړیو د واکمني پر نښه دی، چې لیکل کېدونکې په توگه ساتل کیدی، چې ډیری ورځې په مساجد کې د یاد په توگه په یاد کول کیدی."
+    },
+    "in_english": {
+      "name": "Kufwat",
+      "meaning": "Black Stone, Bond, Direction, Reference",
+      "long_meaning": "Kufwat: The Black Stone, which was placed by Prophet Muhammad ﷺ in the Kaaba, is the most important symbol of Islam, representing the Islamic values of unity, struggle, and faith. It is remembered every day in mosques, and serves as a symbol of worship and submission. It is a reference point for leaders and Muslims, and is preserved in writing. Every day it is remembered in mosques, and serves as a symbol of unity and faith. It is used as a symbol of worship and submission, and is the most important symbol of Islam, preserved in writing. Every day it is remembered in mosques, and serves as a symbol of unity and faith."
+    },
+    "pronunciation": {
+      "english": "/kuːfˈwæt/",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/kuːfˈwæt/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#KufwatMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Kufwat"
+    ],
+    "name_variations": [],
+    "popularity_score": 71,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 88,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 89,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 73,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Kufwat Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Kufwat, a beautiful Islam name meaning \"Wise, Powerful, Strong\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Kufwat, Islam name, baby names, Wise, Powerful, Strong, Islam baby names, name meaning",
+      "description_paragraph": "Kufwat is a meaningful Islam name of Arabic origin that means \"Wise, Powerful, Strong\". Derived from the Arabic word 'Kufuwa' which means 'to be wise, powerful and strong'.",
+      "keywords": [
+        "Kufwat",
+        "Islam name",
+        "baby names",
+        "Wise, Powerful, Strong",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Kufwat in Islam tradition?",
+          "a": "Kufwat is a beautiful Islam name meaning \"Wise, Powerful, Strong\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Kufwat a good Islam name for a baby?",
+          "a": "Yes, Kufwat is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Kufwat?",
+          "a": "The name Kufwat has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Kufwat correctly?",
+          "a": "Kufwat is pronounced /kuːfˈwæt/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Kufwat?",
+          "a": "Naming a child Kufwat brings blessings. The meaning \"Wise, Powerful, Strong\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Kufwat?",
+          "a": "Kufwat is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 93,
+      "focus_keyword": "Kufwat meaning",
+      "secondary_keywords": [
+        "Islam name Kufwat",
+        "Kufwat meaning",
+        "Kufwat origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Kufwat\" is a powerful and evocative name with a rich cultural heritage in Islamic traditions. It implies the bearer of the name to be wise, courageous, and a strong leader. In Islamic cultures, particularly in the Middle East, this name would carry an air of respected authority and intellectual prowess. In gatherings and social events, individuals named Kufwat would be recognized for their wisdom, character, and ability to make informed decisions.",
+    "spiritual_significance": "On the spiritual level, the name \"Kufwat\" symbolizes an individual who is striving to embody the qualities of wisdom, strength, and power in their daily lives, as encouraged in the Islamic faith. This name serves as a constant reminder of the importance of seeking knowledge, developing inner strength, and using one's abilities to make a positive impact on the world. By embracing the spiritual significance of the name, the individual is often inspired to lead a life of purpose and personal growth, guided by the wisdom of the ancient Islamic traditions.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Kufwat carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Popular choice for newborns in Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Kufwat remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Kufwat",
+      "location": "Istanbul, Turkey",
+      "story": "Zainab Kufwat from Istanbul, Turkey embodies the meaning of Kufwat - \"Wise, Powerful, Strong\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Wise, Powerful, Strong\" symbolizes Derived from the Arabic word 'Kufuwa' which means 'to be wise, powerful and strong'.. In Islamic spirituality, bearing the name Kufwat serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of wise, powerful, strong.",
+    "created_at": "2025-12-22T19:19:49.852Z",
+    "updated_at": "2025-12-22T04:53:14.832Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1434,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Kufwat",
+      "description": "Wise, Powerful, Strong",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Kufwat",
+          "description": "Discover the meaning of Kufwat - \"Wise, Powerful, Strong\"",
+          "image": "/images/social/kufwat-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Kufwat - Name Meaning",
+          "description": "Learn about the beautiful name Kufwat",
+          "image": "/images/social/kufwat-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Kufwat",
+          "description": "Name meaning: Wise, Powerful, Strong",
+          "image": "/images/social/kufwat-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Kufwat - Meaning: Wise, Powerful, Strong",
+        "email_subject": "Beautiful Name: Kufwat"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Kufwat with meaning Wise, Powerful, Strong",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "kashish",
+      "kabir",
+      "kayan"
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "success": true,
+  "data": {
+    "name": "Shakib",
+    "slug": "şakib",
+    "language": [
+      "English",
+      "Urdu",
+      "Arabic",
+      "Pashto",
+      "Hindi"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Patient, Enduring",
+    "long_meaning": "Shakib is an elegant Arabic name meaning 'patient', 'enduring', or 'tolerant'. It reflects strong emotional control, humility, and spiritual resilience.",
+    "spiritual_meaning": "Symbolizes inner peace and endurance — a soul that can withstand challenges with grace and faith.",
+    "emotional_traits": [
+      "Patient",
+      "Gentle",
+      "Humble",
+      "Resilient"
+    ],
+    "hidden_personality_traits": [
+      "S = Steadfast and silent strength",
+      "H = Harmonious with others",
+      "A = Accepting of trials",
+      "K = Kind-hearted under pressure",
+      "I = Inner calm",
+      "B = Balanced emotionally"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Grey",
+      "Sky Blue"
+    ],
+    "lucky_stone": "Aquamarine",
+    "life_path_number": 6,
+    "numerology_meaning": "Number 4 reflects stability and patience. Shakib stays firm even in turbulence.",
+    "in_arabic": {
+      "name": "شَكِيب",
+      "meaning": "المتسلط، المسلط، المسلطون، المسلطين، المتسلطون، المسلطون، المسلطين، المسلطون، المتسلطون",
+      "long_meaning": "شَكِيب: هو المسلط في الجسد، المسلط في الدين، المسلط في القلب، المسلط في الروح، المسلط في النفس، المسلط في الحواس، المسلط في السمع، المسلط في البصر، المسلط في الأذن، المسلط في اللسان، المسلط في القلب، المسلط في الرؤية، المسلط في السمع، المسلط في السمع، المسلط في الحواس، المسلط في النفس، المسلط في القلب، المسلط في الروح. والشَكِيب من أسماء الله الحسنى في القرآن الكريم، ويراد به المسلط في الجسد والدين والقلب، وهو من أسماء الله التي تظهر قوته و سلطانه على المخلوقين."
+    },
+    "in_urdu": {
+      "name": "شکيب",
+      "meaning": "وہ جسے اللہ نے اپنے سوا کسی چیز کو حکم دے دیا ہو، جو اس کے حُکم پر کام کرتا ہو، جس پر اللہ کا حکم ہو، جو اللہ کے سوا کسی چیز کو حکم نہ دے۔",
+      "long_meaning": "شکيب: ایک نام ہے جو اللہ کے ساتھ تعلق رکھتا ہے، اس کا مطلب ہے کہ جسے اللہ نے اپنے سوا کسی چیز کو حکم دے دیا ہو، جو اس کے حکم پر کام کرتا ہو، جس پر اللہ کا حکم ہو، جو اللہ کے سوا کسی چیز کو حکم نہ دے۔ یہ نام قرآن میں بھی موجود ہے، اور اس کا مطلب ہے کہ اللہ تعالیٰ کے ساتھ تعلق رکھنے والا، جو اللہ کے حکم پر کام کرتا ہو، اور جسے اللہ کا حکم ہوتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "शकीब",
+      "meaning": "जिसे अल्लाह ने अपने सिवा किसी चीज़ को आदेश दिया है, जो उसके आदेश पर काम करता है, जिस पर अल्लाह का आदेश है, जो अल्लाह के सिवा किसी चीज़ को आदेश न दे。",
+      "long_meaning": "शकीब: एक नाम है जो अल्लाह के साथ संबंध रखता है, इसका अर्थ है कि जिसे अल्लाह ने अपने सिवा किसी चीज़ को आदेश दिया है, जो उसके आदेश पर काम करता है, जिस पर अल्लाह का आदेश है, जो अल्लाह के सिवा किसी चीज़ को आदेश न दे। यह नाम कुरआन में भी पाया जाता है, और इसका अर्थ है कि अल्लाह के साथ संबंध रखने वाला, जो अल्लाह के आदेश पर काम करता है, और जिसके ऊपर अल्लाह का आदेश होता है।"
+    },
+    "in_pashto": {
+      "name": "شکيب",
+      "meaning": "څوک چا څوک یوځای حکم ورکوي، څوک یوځای حکم ورکوي، څوک یوځای حکم ورکوي، څوک یوځای حکم ورکوي، څوک یوځای حکم ورکوي",
+      "long_meaning": "شکيب: دا نامه د خدای سره اړوند دی، دا چا چا څوک یوځای حکم ورکوي، څوک یوځای حکم ورکوي، څوک یوځای حکم ورکوي، څوک یوځای حکم ورکوي، څوک یوځای حکم ورکوي، دا چا دا په خدای سربیره چا څوک حکم ورکوي، دا چا دا په خدای سره اړوند دی."
+    },
+    "in_english": {
+      "name": "Shakib",
+      "meaning": "Patient, enduring, one who waits wisely",
+      "long_meaning": "Represents patience, resilience, and waiting with wisdom in adversity."
+    },
+    "pronunciation": {
+      "english": "shah-KEEB",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ʃɑːˈkib/"
+    },
+    "celebrity_usage": [
+      "Shakib Al Hasan (Bangladeshi cricketer)"
+    ],
+    "social_tags": [
+      "#ŞakibMeaning",
+      "#İslamcBebekAdları",
+      "#Arapİsimleri",
+      "#Müslümanİsimleri",
+      "#Şakib"
+    ],
+    "name_variations": [],
+    "popularity_score": 60,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 76,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Shakib Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Shakib, a beautiful Islam name meaning \"Patient, Enduring\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Shakib, Islam name, baby names, Patient, Enduring, Islam baby names, name meaning",
+      "description_paragraph": "Shakib is a meaningful Islam name of Arabic origin that means \"Patient, Enduring\". Shakib is an elegant Arabic name meaning 'patient', 'enduring', or 'tolerant'. It reflects strong emotional control, humility, and spiritual resilience.",
+      "keywords": [
+        "Shakib",
+        "Islam name",
+        "baby names",
+        "Patient, Enduring",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Shakib in Islam tradition?",
+          "a": "Shakib is a beautiful Islam name meaning \"Patient, Enduring\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Shakib a good Islam name for a baby?",
+          "a": "Yes, Shakib is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Shakib?",
+          "a": "The name Shakib has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Shakib correctly?",
+          "a": "Shakib is pronounced shah-KEEB in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Shakib?",
+          "a": "Naming a child Shakib brings blessings. The meaning \"Patient, Enduring\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Shakib?",
+          "a": "Shakib is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 91,
+      "focus_keyword": "Shakib meaning",
+      "secondary_keywords": [
+        "Islam name Shakib",
+        "Shakib meaning",
+        "Shakib origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Shakib is deeply rooted in Islamic culture, as the ability to remain patient and show endurance in the face of adversity is highly valued in Muslim society. It is a name that carries significance as a reminder for individuals to be steadfast, especially in challenging times.",
+    "spiritual_significance": "From a spiritual perspective, the name Shakib holds deep meaning in the Islamic belief system. Patience and endurance are considered virtues that lead one closer to Allah. The name Shakib serves as a daily reminder to practice these qualities and strengthen one's faith. It is also believed that the name itself may bring blessings of inner peace and equanimity.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Ali ibn Abi Talib, the cousin and son-in-law of Prophet Muhammad, was one of the most trusted companions and the fourth caliph of Islam.",
+        "time_period": "7th century",
+        "context": "Islamic history"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Ali is a common name in the Middle East and South Asia"
+      ],
+      "platforms": [
+        "Social media, genealogy websites"
+      ],
+      "modern_context": "The name Shakib remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Yusuf Shakib",
+      "location": "Istanbul, Turkey",
+      "story": "A successful entrepreneur named Yusuf Shakib in Istanbul, Turkey attributes much of their success to the blessing of their name Shakib, which means \"Patient, Enduring\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The name Shakib means \"the one who is capable and strong in faith and deeds.\" It symbolizes the inner strength and unwavering commitment to Allah, despite the challenges and trials of life.",
+    "created_at": "2025-06-30T23:36:00+05:00",
+    "updated_at": "2025-12-22T04:53:14.051Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1021,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Shakib",
+      "description": "Patient, Enduring",
+      "additionalName": [],
+      "knowsLanguage": [
+        "English",
+        "Urdu",
+        "Arabic",
+        "Pashto",
+        "Hindi"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Shakib",
+          "description": "Discover the meaning of Shakib - \"Patient, Enduring\"",
+          "image": "/images/social/shakib-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Shakib - Name Meaning",
+          "description": "Learn about the beautiful name Shakib",
+          "image": "/images/social/shakib-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Shakib",
+          "description": "Name meaning: Patient, Enduring",
+          "image": "/images/social/shakib-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Shakib - Meaning: Patient, Enduring",
+        "email_subject": "Beautiful Name: Shakib"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Shakib with meaning Patient, Enduring",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saim",
+      "sadaldin",
+      "saal"
+    ]
+  }
+}

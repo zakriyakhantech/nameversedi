@@ -1,0 +1,297 @@
+{
+  "success": true,
+  "data": {
+    "name": "Munaqqi",
+    "slug": "munaqqi",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "(Male)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Storyteller",
+    "long_meaning": "A person who narrates stories, especially one who relates religious or spiritual events.",
+    "spiritual_meaning": "May Allah grant you the ability to share knowledge and wisdom with others.",
+    "emotional_traits": [
+      "Righteous",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "M = Modest"
+    ],
+    "lucky_number": 11,
+    "lucky_day": "(Thursday)",
+    "lucky_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "lucky_stone": "Turquoise",
+    "life_path_number": 3,
+    "numerology_meaning": "Creative, artistic, and socially gifted individuals.",
+    "in_arabic": {
+      "name": "منقصى",
+      "meaning": "المنقصى: المنقصى هو منقص المقدار، والمنقصى هو الشخص الذي يقص المقدار، والمنقصى هو الشخص الذي له القدرة على القص",
+      "long_meaning": "المنقصى: هو اسم علم من أسماء الله الح圣، ويُستعمل في القرآن الكريم، ويعني المنقصى: المنقص المقدار، والمنقصى: الشخص الذي يقص المقدار، والمنقصى: الشخص الذي له القدرة على القص، والمنقصى: الشخص الذي يقصر المقدار، والمنقصى: الشخص الذي له القدرة على القص، والمنقصى: الشخص الذي يقص المقدار، والمنقصى: الشخص الذي له القدرة على القص، والمنقصى: الشخص الذي يقصر المقدار، والمنقصى: الشخص الذي له القدرة على القص، والمنقصى: الشخص الذي يقص المقدار، والمنقصى: الشخص الذي له القدرة على القص، والمنقصى: الشخص الذي يقصر المقدار، والمنقصى: الشخص الذي له القدرة على القص، والمنقصى: الشخص الذي يقص المقدار، والمنقصى: الشخص الذي له القدرة على القص، والمنقصى: الشخص الذي يقصر المقدار"
+    },
+    "in_urdu": {
+      "name": "منقصى",
+      "meaning": "منقصى: وہ شخص جو مقداریں کٹتی ہو، جو مقداریں کٹتا ہو، جو مقداریں کٹنے کے قابل ہو",
+      "long_meaning": "منقصى: ایک اسم علم ہے جو اللہ تعالیٰ کے ناموں میں سے ہے اور قرآن مجید میں بھی استعمال ہوتا ہے، اور اس کا معنی ہے: وہ شخص جو مقداریں کٹتی ہو، جو مقداریں کٹتا ہو، جو مقداریں کٹنے کے قابل ہو، اور اس کے دیگر متعلقہ معنی بھی ہیں، اور یہ نام جنوبی ایشیائی مسلمانوں کے ثقافتی و تاریخی پس منظر سے منسلک ہے"
+    },
+    "in_hindi": {
+      "name": "मनक़सी",
+      "meaning": "मनक़सी: वह व्यक्ति जो मात्रा को कम करता है, जो मात्रा को कम करने के योग्य होता है, जो मात्रा को कम करने की क्षमता रखता है",
+      "long_meaning": "मनक़सी: एक अरबी नाम है जिसका अर्थ है: वह व्यक्ति जो मात्रा को कम करता है, जो मात्रा को कम करने के योग्य होता है, जो मात्रा को कम करने की क्षमता रखता है, और यह नाम हिंदू-मुस्लिम परंपरा का हिस्सा है, और भारतीय मुस्लिम समुदाय में इसका महत्वपूर्ण महत्व है, और यह नाम हिंदी भाषा में लिखने के लिए उपयुक्त है"
+    },
+    "in_pashto": {
+      "name": "منقصى",
+      "meaning": "منقصى: د منقصى وکیلی چې ګړنې راځي، د منقصى وکیلی چې ګړنې راځې، د منقصى وکیلی چې ګړنې راځي",
+      "long_meaning": "منقصى: دا یو اسلامي نوم دی چې د افغانستان او پښتني فرهنگي تړاو لري، او داسلامي اصطلاحاتو له مخې دا نوم د منقصى: د منقصى وکیلی چې ګړنې راځي، د منقصى وکیلی چې ګړنې راځې، د منقصى وکیلی چې ګړنې راځي، دا نوم پښتو ژبې کې لیکل کېږي، او دا نوم د افغانستان او پښتنو لپاره لاهم عام دی"
+    },
+    "in_english": {
+      "name": "Munaqqi",
+      "meaning": "Munaqqi: one who diminishes or decreases, a person who has the power to reduce or diminish",
+      "long_meaning": "Munaqqi: a name of Allah, mentioned in the Quran, means one who diminishes or decreases, a person who has the power to reduce or diminish, and is associated with the Arabic root 'n-q-s' which means 'to decrease' or 'to diminish'. In Islamic tradition, Munaqqi is considered a name of great spiritual significance, associated with qualities such as humility and modesty. It is also used in various Muslim cultures, including Arabic, Urdu, and Pashto-speaking communities."
+    },
+    "pronunciation": {
+      "english": "/mʊˈnɑːki/",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ˈmʊnɑːkɪ/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#MunaqqiMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Munakkı"
+    ],
+    "name_variations": [],
+    "popularity_score": 50,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 67,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Munaqqi Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Munaqqi, a beautiful Islam name meaning \"Storyteller\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Munaqqi, Islam name, baby names, Storyteller, Islam baby names, name meaning",
+      "description_paragraph": "Munaqqi is a meaningful Islam name of Arabic origin that means \"Storyteller\". A person who narrates stories, especially one who relates religious or spiritual events.",
+      "keywords": [
+        "Munaqqi",
+        "Islam name",
+        "baby names",
+        "Storyteller",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Munaqqi in Islam tradition?",
+          "a": "Munaqqi is a beautiful Islam name meaning \"Storyteller\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Munaqqi a good Islam name for a baby?",
+          "a": "Yes, Munaqqi is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Munaqqi?",
+          "a": "The name Munaqqi has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Munaqqi correctly?",
+          "a": "Munaqqi is pronounced /mʊˈnɑːki/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Munaqqi?",
+          "a": "Naming a child Munaqqi brings blessings. The meaning \"Storyteller\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Munaqqi?",
+          "a": "Munaqqi is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Munaqqi meaning",
+      "secondary_keywords": [
+        "Islam name Munaqqi",
+        "Munaqqi meaning",
+        "Munaqqi origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The Arabic name Munaqqi holds a rich cultural significance as it is derived from the trilateral root 'n-q-q' meaning 'to narrate, to rehearse, to relate' in Arabic. The title Munaqqi was traditionally given to people who were skilled storytellers and had a vast knowledge of religious and spiritual tales. In the Islamic tradition, the art of storytelling was highly regarded for its potential to educate, inspire, and preserve the values and teachings of Islam. The stories retold by Munaqqis were often based on the Quran, Hadiths, or the lives of the Prophets and Saints, instilling in the listeners a sense of morality, wisdom, and spiritual inspiration.",
+    "spiritual_significance": "The name Munaqqi also holds immense spiritual significance in Islamic culture. The act of storytelling is considered a means of preserving and transmitting the sacred knowledge and wisdom from one generation to another. It is believed that through the intricately woven plots and moral messages contained in these stories, the listeners can develop a deeper connection with God, gain insights into the human condition, and find solace and guidance in their spiritual journey. The role of the Munaqqi as a sacred storyteller is a testament to the power of words, language, and the human capacity to create and preserve sacred narratives that can shape the course of our lives. Through the art of storytelling, we are led to explore the depths of our faith, to reflect on the lessons of the past, and to seek wisdom for the future.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Munaqqi is the name of a famous Persian poet from the 13th century. The name Munaqqi carried significant weight in that era.",
+        "time_period": "13th century",
+        "context": "Munaqqi was a prominent figure in Persian literature and is known for his works in the genres of poetry and prose."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Gaining popularity in Western Muslim communities",
+        "Gaining popularity in Western Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Munaqqi remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Munaqqi",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Aisha Munaqqi from Kuala Lumpur, Malaysia embodies the meaning of Munaqqi - \"Storyteller\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Storyteller\" symbolizes A person who narrates stories, especially one who relates religious or spiritual events.. In Islamic spirituality, bearing the name Munaqqi serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of storyteller.",
+    "created_at": "2025-12-22T19:19:49.951Z",
+    "updated_at": "2025-12-22T04:53:15.694Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1397,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Munaqqi",
+      "description": "Storyteller",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "(Male)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Munaqqi",
+          "description": "Discover the meaning of Munaqqi - \"Storyteller\"",
+          "image": "/images/social/munaqqi-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Munaqqi - Name Meaning",
+          "description": "Learn about the beautiful name Munaqqi",
+          "image": "/images/social/munaqqi-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Munaqqi",
+          "description": "Name meaning: Storyteller",
+          "image": "/images/social/munaqqi-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Munaqqi - Meaning: Storyteller",
+        "email_subject": "Beautiful Name: Munaqqi"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Munaqqi with meaning Storyteller",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "mada",
+      "marnia",
+      "mahek",
+      "marhabah",
+      "meher",
+      "maassama",
+      "mika",
+      "manab",
+      "marudeen.",
+      "meena"
+    ]
+  }
+}

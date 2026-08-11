@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Samuel",
+    "slug": "samuel",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "christian",
+    "meaning": "God has heard"
+  }
+}

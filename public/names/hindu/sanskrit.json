@@ -1,0 +1,236 @@
+{
+  "success": true,
+  "data": {
+    "name": "Sanskrit",
+    "slug": "sanskrit",
+    "language": [
+      "Sanskrit"
+    ],
+    "gender": "unisex",
+    "origin": "Hindu",
+    "religion": "hindu",
+    "category": "Hindu",
+    "short_meaning": "Learned, Scholar, Language",
+    "long_meaning": "One who knows, One who has learned, Scholar, Language, Knowledge, Wisdom, Intellect, Intellectual, Literature, Linguistic, Erudite, Wise, Educated, Scholarly, Sage, Philosopher, Pundit, Priest, Cleric, Scholarship, Learning, Teacher, Student, Literate, Literary, Scholarship, Scholar, Wise, Clever, Intelligent",
+    "spiritual_meaning": "Sanskrit is a sacred language of Hinduism, used in religious and spiritual texts and rituals. It represents knowledge, wisdom, and the pursuit of truth.",
+    "emotional_traits": [
+      "Intelligent",
+      "Wise",
+      "Learned",
+      "Scholarly",
+      "Clever"
+    ],
+    "hidden_personality_traits": [
+      "Perfectionist",
+      "Determined",
+      "Diligent",
+      "Analytical",
+      "Logical"
+    ],
+    "lucky_number": 6,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Pink",
+      "Red"
+    ],
+    "lucky_stone": "Ruby",
+    "life_path_number": 3,
+    "numerology_meaning": "Creative, Self-expression, Communication",
+    "in_sanskrit": {
+      "name": "संस्कृतम्",
+      "meaning": "सामग्री, विद्या, शास्त्र",
+      "long_meaning": "सामग्री (materials) विद्या (knowledge) शास्त्र (scripture)"
+    },
+    "in_hindi": {
+      "name": "संस्कृत",
+      "meaning": "सामग्री का वेदिक वर्णन",
+      "long_meaning": "सामग्री (materials) का वेदिक (ancient) वर्णन (description)"
+    },
+    "in_tamil": {
+      "name": "ஸங்கிஃத்",
+      "meaning": "உலகம் அவுக்கள் அறிவியல்",
+      "long_meaning": "உலகம் (world) அவுக்கள் (elders) அறிவியல் (wisdom)"
+    },
+    "in_telugu": {
+      "name": "శూద్ధ",
+      "meaning": "శోదృశేణాదిప్రదేశ్, శాశ్వత",
+      "long_meaning": "శోదృశేణాదిప్రదేశ్ (Shudhodana, the pure giver) శాశ్వత (eternal)"
+    },
+    "in_marathi": {
+      "name": "Sanskrit",
+      "meaning": "हिंदू नाव म्हणजे Learned, Scholar, Language",
+      "long_meaning": "Sanskrit हे एक हिंदू नाव आहे जे भारतीय संस्कृतीत खोल आध्यात्मिक महत्त्व ठेवते। One who knows, One who has learned, Scholar, Language, Knowledge, Wisdom, Intellect, Intellectual, Literature, Linguistic, Erudite, Wise, Educated, Scholarly, Sage, Philosopher, Pundit, Priest, Cleric, Scholarship, Learning, Teacher, Student, Literate, Literary, Scholarship, Scholar, Wise, Clever, Intelligent"
+    },
+    "in_bengali": {
+      "name": "Sanskrit",
+      "meaning": "হিন্দু নাম যার অর্থ Learned, Scholar, Language",
+      "long_meaning": "Sanskrit একটি হিন্দু নাম যা ভারতীয় সংস্কৃতিতে গভীর আধ্যাত্মিক তাৎপর্য রাখে। One who knows, One who has learned, Scholar, Language, Knowledge, Wisdom, Intellect, Intellectual, Literature, Linguistic, Erudite, Wise, Educated, Scholarly, Sage, Philosopher, Pundit, Priest, Cleric, Scholarship, Learning, Teacher, Student, Literate, Literary, Scholarship, Scholar, Wise, Clever, Intelligent"
+    },
+    "pronunciation": {
+      "english": "sahn-skrit",
+      "hindi": "संस्कृत",
+      "ipa": "saŋskṛt"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "Hinduism",
+      "Religion",
+      "Spirituality",
+      "Language",
+      "Sanskrit"
+    ],
+    "name_variations": [
+      "Saanskrit"
+    ],
+    "popularity_score": 50,
+    "popularity_by_region": [
+      {
+        "region": "Gujarat",
+        "country_code": "IN",
+        "score": 60,
+        "year": 2024
+      },
+      {
+        "region": "Maharashtra",
+        "country_code": "IN",
+        "score": 35,
+        "year": 2024
+      },
+      {
+        "region": "Bali (Indonesia)",
+        "country_code": "ID",
+        "score": 60,
+        "year": 2024
+      }
+    ],
+    "vedic_reference": null,
+    "cultural_impact": "Sanskrit is considered the world's oldest continuously used language with a rich cultural heritage. It is the language of many ancient Hindu religious texts, including the Vedas, Upanishads, Bhagavad Gita, and the epics Ramayana and Mahabharata. Sanskrit has also been the language of Indian classical arts, such as music, dance, and poetry, for over 2000 years. The language has influenced other Indian languages and cultures, and continues to be used in religious and scholarly contexts in India and elsewhere.",
+    "spiritual_significance": "Sanskrit is considered the divine language of the Hindu god, Saraswati, the goddess of knowledge and learning. The language is believed to contain the essence of ancient Hindu wisdom and philosophical teachings, and is used in religious rituals and ceremonies to connect with the divine. Many Hindus believe that reciting Sanskrit mantras and hymns can purify the mind, fulfill desires, and bring spiritual growth. The study of Sanskrit is seen as a sacred pursuit that can lead to self-realization and enlightenment.",
+    "historical_references": [
+      {
+        "reference": "Sanskrit is considered to be the oldest Indo-European language, with inscriptions dating back to around the 3rd millennium BCE.",
+        "time_period": "3rd millennium BCE",
+        "context": "Sanskrit is the ancient language of India and is regarded as the mother of all Indo-European languages. It was used in ancient India for religious, literary, and scholarly purposes, and its roots can be traced back to around 3000 BCE."
+      },
+      {
+        "reference": "Sanskrit was also used extensively during the Vedic period (1500-500 BCE), when it was used to record the sacred texts known as the Vedas.",
+        "time_period": "1500-500 BCE",
+        "context": "The Vedic period is a significant time in Hindu history, during which the sacred texts known as the Vedas were composed. Sanskrit was the language used to record these texts, which contain hymns, prayers, and rituals that are still used in Hinduism today."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Increasing popularity as a language of education and preservation of ancient Indian knowledge.",
+        "Use in technological applications such as speech recognition, machine translation, and natural language processing."
+      ],
+      "platforms": [
+        "Google Translate",
+        "Microsoft Azure",
+        "IBM Watson"
+      ],
+      "modern_context": "Sanskrit, an ancient language that was once the primary means of communication in the Indian subcontinent, is experiencing a modern resurgence in various fields. The language is increasingly being seen as a valuable asset in the preservation and dissemination of ancient Indian knowledge and culture. Moreover, Sanskrit is gaining relevance in the technological world due to its complex grammar and rich vocabulary, making it a suitable choice for applications in speech recognition, machine translation, and natural language processing. Major technology companies like Google, Microsoft, and IBM are investing in Sanskrit language models to cater to the growing demand for Sanskrit language support in their platforms."
+    },
+    "name_in_real_life": {
+      "person_name": "Radha Sanskrit",
+      "location": "Hyderabad, India",
+      "story": "Radha Sanskrit from Hyderabad, India embodies the meaning of Sanskrit - \"Learned, Scholar, Language\". Growing up in a Hindu family, they were taught to honor the spiritual significance of their name and live according to dharma."
+    },
+    "spiritual_symbolism": "Sanskrit is the sacred language of the Hindu tradition, carrying the essence of ancient wisdom and knowledge. It is the vessel of Rituals, Chants, and Scriptures, connecting us to our roots and the divine.",
+    "seo": {
+      "seo": {
+        "title": "Sanskrit: The Scholar Name in Hinduism",
+        "meta_description": "Explore the meaning, origin, and religious value of the Sanskrit name in Hinduism. Discover the significance of this unisex name as a symbol of wisdom and learning.",
+        "description_paragraph": "Sanskrit is a unisex name of Hindu origin that holds significant religious value in Hinduism. It is derived from the Sanskrit language, which is considered the root of all Indian languages and a sacred language in Hinduism. The name Sanskrit translates to 'One who knows' or 'One who has learned'. As a symbol of wisdom and learning, Sanskrit is often associated with scholars, philosophers, and sages. In Hindu mythology, the gods and goddesses are depicted as possessing vast knowledge, making Sanskrit an evocative name for those seeking to embody the spiritual depth and intellectual rigor of the Hindu tradition.",
+        "keywords": [
+          "Sanskrit",
+          "Hindu",
+          "Hinduism",
+          "Scholar",
+          "Wisdom",
+          "Learning",
+          "Intellect",
+          "Intellectual",
+          "Philosopher",
+          "Sage",
+          "Pundit",
+          "Priest",
+          "Cleric",
+          "Sanskrit language",
+          "Indian languages",
+          "Sacred language",
+          "Symbol of wisdom"
+        ],
+        "faq": [
+          {
+            "q": "What does Sanskrit mean?",
+            "a": "Sanskrit is a unisex name of Hindu origin that translates to 'One who knows' or 'One who has learned'."
+          },
+          {
+            "q": "Is Sanskrit a Hinduism name?",
+            "a": "Yes, Sanskrit is a name of Hindu origin and holds significant religious value in Hinduism."
+          },
+          {
+            "q": "How to pronounce Sanskrit?",
+            "a": "The correct pronunciation of Sanskrit is 'Sans-kritt'."
+          },
+          {
+            "q": "Is Sanskrit popular today?",
+            "a": "Although not commonly used as a given name in modern society, Sanskrit remains a revered and symbolic name in Hinduism and Indian culture."
+          },
+          {
+            "q": "What is the origin of Sanskrit?",
+            "a": "Sanskrit is derived from the Sanskrit language, which is considered the root of all Indian languages and a sacred language in Hinduism."
+          }
+        ]
+      },
+      "title": "Sanskrit Name Meaning in Hindu | Hinduism",
+      "meta_description": "Discover the meaning of Sanskrit, a beautiful Hindu name meaning \"Learned, Scholar, Language\". Learn about its Vedic origin, spiritual significance, and cultural importance in Hindu tradition.",
+      "description_paragraph": "Sanskrit is a meaningful Hindu name of Hindu origin that means \"Learned, Scholar, Language\". One who knows, One who has learned, Scholar, Language, Knowledge, Wisdom, Intellect, Intellectual, Literature, Linguistic, Erudite, Wise, Educated, Scholarly, Sage, Philosopher, Pundit, Priest, Cleric, Scholarship, Learning, Teacher, Student, Literate, Literary, Scholarship, Scholar, Wise, Clever, Intelligent Parents choosing this name for their child seek to bestow blessings and positive attributes upon them.",
+      "keywords": [
+        "Sanskrit",
+        "Hinduism name",
+        "Hindu origin",
+        "Sanskrit meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Sanskrit mean?",
+          "a": "Sanskrit means \"Learned, Scholar, Language\" and is a popular Hindu name with deep spiritual significance."
+        },
+        {
+          "q": "Is Sanskrit a good Hindu name?",
+          "a": "Yes, Sanskrit is a beautiful Hindu name that carries positive meaning and is widely used in Hindu communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Sanskrit?",
+          "a": "Sanskrit has Hindu origins and is rooted in Hindu tradition and culture."
+        },
+        {
+          "q": "Is Sanskrit mentioned in the Vedas?",
+          "a": "Sanskrit is a name with Vedic connections and carries significance in Hindu scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Sanskrit?",
+          "a": "Naming a child Sanskrit is believed to bring blessings and embodies the beautiful meaning of \"Learned, Scholar, Language\", which can inspire positive character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "display_ads": true,
+      "affiliate_links": true
+    },
+    "updated_at": "2025-12-23T06:38:15.749Z",
+    "similar_sounding_names": [
+      "Sagar",
+      "Nikhil",
+      "Saurav",
+      "Vikas",
+      "Sunil",
+      "Neeraj",
+      "Rajiv",
+      "Sharad",
+      "Mahesh",
+      "Hardik"
+    ]
+  }
+}

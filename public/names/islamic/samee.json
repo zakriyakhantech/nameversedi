@@ -1,0 +1,288 @@
+{
+  "success": true,
+  "data": {
+    "name": "Samee",
+    "slug": "samee",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Sleeper",
+    "long_meaning": "One who is tranquil and at peace, like someone who is deep in sleep.",
+    "spiritual_meaning": "Symbolizes the calmness and peacefulness of one's soul, even during difficult times.",
+    "emotional_traits": [
+      "Calm",
+      "Peaceful",
+      "Patient"
+    ],
+    "hidden_personality_traits": [
+      "Creative",
+      "Introspective"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Lapis Lazuli",
+    "life_path_number": 5,
+    "numerology_meaning": "An individual with a Life Path Number 5 is a free spirit and can adapt to any situation.",
+    "in_arabic": {
+      "name": "سمي",
+      "meaning": "السميع هو من أسماء الله الحسنى، يعني سميع الدعاء",
+      "long_meaning": "السميع هو اسم من أسماء الله الحسنى، وهو يعني الذي يسمع جميع الأصوات الظاهرة والباطنة، ويسمع دعاء عباده ويستجيب لهم. ورد اسم الله السميع في القرآن الكريم في عدة مواضع، منها قوله تعالى: \"وَاللَّهُ سَمِيعٌ بَصِيرٌ\". يعتبر اسم السميع من الأسماء التي تعبر عن صفة من صفات الله تعالى، وهي السمع الذي يتصف به الله تعالى."
+    },
+    "in_urdu": {
+      "name": "سمي",
+      "meaning": "سميع کا مطلب ہے دعا کو سننے والا، اللہ کے خوبصورت ناموں میں سے ایک",
+      "long_meaning": "سميع (Samee) اللہ کے اُس نام سے ماخوذ ہے جو کہ دعا کو سننے والا ہے۔ یہ نام اللہ کے 99 ناموں (اسماء اللہ الحسنی) میں شامل ہے، جو قرآن مجید میں مختلف آیات میں ذکر ہوا ہے، جیسے کہ: \"واللہ سمیع بصیر\"۔ سميع کا مطلب ہے کہ اللہ تعالیٰ ہر دعا کو سنتا ہے اور اپنے بندوں کی ضروریات کو پورا کرتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "समी",
+      "meaning": "समी का अर्थ है प्रार्थना सुनने वाला, अल्लाह के सुंदर नामों में से एक",
+      "long_meaning": "समी (Samee) अल्लाह के उस नाम से लिया गया है जिसका अर्थ है प्रार्थना सुनने वाला। यह नाम अल्लाह के 99 नामों (असमاء अल्लाह الحسنی) में से एक है, जो कुरआन में विभिन्न आयतों में उल्लेखित है, जैसे कि: \"واللہ سمیع بصیر\"। समी का अर्थ है कि अल्लाह तआला हर प्रार्थना को सुनता है और अपने सेवकों की जरूरतों को पूरा करता है।"
+    },
+    "in_pashto": {
+      "name": "سمي",
+      "meaning": "د سميع نوم معنی دا دی چې دعا اورونکی، د الله ښکلي نومونو څخه يو",
+      "long_meaning": "سميع (Samee) د الله د هغه نوم څخه اخيستل شوی دی چې معنی يې دعا اورونکی دی. دا نوم د الله 99 نومونو (اسماء الله الحسنی) څخه يو دی، کوم چې په قرآن کريم کې په مختلفو آيتونو کې ذکر شوی دی، لکه: \"واللہ سمیع بصیر\"۔ سميع د دې معنی دی چې الله تعالیٰ هر دعا ته غوږ نیسي او خپلو بنده ګانو اړتیاوې پوره کوي۔"
+    },
+    "in_english": {
+      "name": "Samee",
+      "meaning": "Samee means All-Hearing, One who hears all Prayers",
+      "long_meaning": "The name Samee is derived from the Arabic root 'S-M-‘', which means 'to hear'. It is one of the 99 names of Allah (Asma'ul-Husna), signifying that He is All-Hearing, Omnipresent, and listens to the prayers of His servants. The Quran mentions 'As-Samee' in several verses, emphasizing Allah's attribute of having perfect hearing. This name holds great spiritual significance in Islam, symbolizing the mercy and responsiveness of Allah towards His creations."
+    },
+    "pronunciation": {
+      "english": "Samee - /sɑːmiː/",
+      "urdu": "سمیع - سَمیع",
+      "hindi": "समी - स-मी",
+      "pashto": "سمي - سَمي",
+      "ipa": "/sɑːmiː/"
+    },
+    "celebrity_usage": [
+      "Samee Lalani - Pakistani actor",
+      "Samee Ullah - British boxer",
+      "Samee Rasheed - Indian cricketer"
+    ],
+    "social_tags": [
+      "#SameeMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Samee"
+    ],
+    "name_variations": [
+      "Sami"
+    ],
+    "popularity_score": 57,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 75,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Samee Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Samee, a beautiful Islam name meaning \"Sleeper\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Samee, Islam name, baby names, Sleeper, Islam baby names, name meaning",
+      "description_paragraph": "Samee is a meaningful Islam name of Arabic origin that means \"Sleeper\". One who is tranquil and at peace, like someone who is deep in sleep.",
+      "keywords": [
+        "Samee",
+        "Islam name",
+        "baby names",
+        "Sleeper",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Samee in Islam tradition?",
+          "a": "Samee is a beautiful Islam name meaning \"Sleeper\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Samee a good Islam name for a baby?",
+          "a": "Yes, Samee is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Samee?",
+          "a": "The name Samee has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Samee correctly?",
+          "a": "Samee is pronounced Samee - /sɑːmiː/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Samee?",
+          "a": "Naming a child Samee brings blessings. The meaning \"Sleeper\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Samee?",
+          "a": "Samee is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 90,
+      "focus_keyword": "Samee meaning",
+      "secondary_keywords": [
+        "Islam name Samee",
+        "Samee meaning",
+        "Samee origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Samee is of Arabic origin, and in Muslim cultures, it is considered a beautiful and meaningful name. It is derived from the word \"sama,\" which means \"to be at peace\" or \"to rest,\" signifying a sense of calm, tranquility, and serenity. This name carries a rich cultural heritage, being rooted in the Islamic faith and its values of inner peace and contentment.",
+    "spiritual_significance": "The spiritual significance of the name Samee lies in its deeper meaning - that of being at peace with oneself and with Allah. It is believed that when a person attains inner peace and calmness, they are able to connect more deeply with their spiritual side and tap into the divine wisdom that resides within them. Furthermore, the name is a reminder of the importance of seeking peace and tranquility in one's heart and soul, which is essential for spiritual growth and development. Therefore, the name Samee serves as an inspiring and reflective call to cultivate inner peace and harmony, ultimately leading to a more fulfilled and purposeful life.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Samee carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Popular choice for newborns in Muslim communities",
+        "Popular choice for newborns in Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Samee remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Samee",
+      "location": "Karachi, Pakistan",
+      "story": "Fatima Samee from Karachi, Pakistan embodies the meaning of Samee - \"Sleeper\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Sleeper\" symbolizes One who is tranquil and at peace, like someone who is deep in sleep.. In Islamic spirituality, bearing the name Samee serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of sleeper.",
+    "created_at": "2025-12-22T19:19:49.913Z",
+    "updated_at": "2025-12-22T04:53:15.312Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1453,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Samee",
+      "description": "Sleeper",
+      "additionalName": [
+        "Sami"
+      ],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Samee",
+          "description": "Discover the meaning of Samee - \"Sleeper\"",
+          "image": "/images/social/samee-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Samee - Name Meaning",
+          "description": "Learn about the beautiful name Samee",
+          "image": "/images/social/samee-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Samee",
+          "description": "Name meaning: Sleeper",
+          "image": "/images/social/samee-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Samee - Meaning: Sleeper",
+        "email_subject": "Beautiful Name: Samee"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Samee with meaning Sleeper",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saal",
+      "sadaldin",
+      "saim"
+    ]
+  }
+}

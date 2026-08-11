@@ -1,0 +1,285 @@
+{
+  "success": true,
+  "data": {
+    "name": "Samad",
+    "slug": "samad",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Eternal, Timeless, Independent",
+    "long_meaning": "Samad refers to Allah, meaning 'The Eternal, The Independent, The Unchanging'. It signifies a being that is self-sufficient and eternal.",
+    "spiritual_meaning": "In the Quran, 'As-Samad' is one of the names of Allah, highlighting His eternal and independent nature.",
+    "emotional_traits": [
+      "Kind",
+      "Just",
+      "Peaceful",
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "C = Courageous",
+      "L = Loyal"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "lucky_stone": "Lapis Lazuli",
+    "life_path_number": 6,
+    "numerology_meaning": "A number of harmony and balance, representing creativity and love",
+    "in_arabic": {
+      "name": "سَمَاد",
+      "meaning": "المطلق والقاهر والذى لا شريك له",
+      "long_meaning": "السماد هو اسم الله تعالى، يُستخدم لوصف صفاته، حيث يُعد الله تعالى المطلق والقاهر والذى لا شريك له، لا يشاركه في الملكية أو الحكم. يُعد اسم السماد من أسماء الله الحسنى، وهو أحد أسماء الله التي يُستخدم في القرآن الكريم. يُعد اسم السماد من أسماء الله التي يُستخدم لوصف صفاته، حيث يُعد الله تعالى المطلق والقاهر والذى لا شريك له، ويُعد اسم السماد من أسماء الله التي يُستخدم في القرآن الكريم. يُعد اسم السماد من أسماء الله الحسنى، ويُستخدم لوصف صفاته، كما يُعد اسم السماد من أسماء الله التي يُستخدم في القرآن الكريم."
+    },
+    "in_urdu": {
+      "name": "سماد",
+      "meaning": "الخالق والصمد والذی نہیں کھڑا",
+      "long_meaning": "سماد ایک نام ہے جو اللہ تعالیٰ کے لیے استعمال ہوتا ہے، وہ خالق و صمد ہے، جو کہ کسی کے ساتھ شریک نہیں ہے، اللہ تعالیٰ کے لیے یہ نام استعمال ہوتا ہے، اس میں وہ اپنی شان اور بزرگی کا اظہار کرتا ہے، سماد کا نام قرآن میں بھی مذکور ہے، اس کا مطلب ہے کہ اللہ تعالیٰ اپنے ساتھ کسی کی شریکی نہیں، وہ خالق و صمد ہے جو کہ کسی کے لیے نہیں ہے، سماد کا نام حقیقی طور پر اللہ تعالیٰ کی سچائی اور بزرگی کو ظاہر کرتا ہے، اس کے لیے اللہ تعالیٰ کی شان و وقار کا اظہار ہے، سماد کا نام اللہ تعالیٰ کے لیے استعمال ہوتا ہے، وہ اپنے ساتھ کسی کے ساتھ شریک نہیں ہے، سماد کا نام حقیقی طور پر اللہ تعالیٰ کی بزرگی اور شان کو ظاہر کرتا ہے."
+    },
+    "in_hindi": {
+      "name": "समाद",
+      "meaning": "सर्वोच्च क्रेता और अकेला जो किसी के साथ साझी नहीं है",
+      "long_meaning": "समाद एक नाम है जो अल्लाह ताला के लिए उपयोग किया जाता है, वह सर्वोच्च क्रेता और अकेला है जो किसी के साथ साझी नहीं है, अल्लाह ताला के लिए यह नाम उपयोग किया जाता है, जिसमें वह अपनी शान और बड़ाई का प्रदर्शन करता है, समाद का नाम कुरआन में भी उल्लेखित है, इसका अर्थ है कि अल्लाह ताला अपने साथ किसी के साथ साझी नहीं है, वह सर्वोच्च क्रेता और अकेला है जो किसी के लिए नहीं है, समाद का नाम वास्तव में अल्लाह ताला की सच्चाई और बड़ाई को प्रकट करता है, जिसमें अल्लाह ताला की शान और बड़ाई का प्रदर्शन होता है, समाद का नाम अल्लाह ताला के लिए उपयोग किया जाता है, वह अपने साथ किसी के साथ साझी नहीं है, समाद का नाम वास्तव में अल्लाह ताला की बड़ाई और शान को प्रकट करता है"
+    },
+    "in_pashto": {
+      "name": "سماد",
+      "meaning": "د خالق او د اکسی دا چا چې له کومې څخه شریک نه وي",
+      "long_meaning": "سماد یو نوم دی چې الله تعالیټ په توګه کاروي، هغه خالق او اکسی دی چې له کومې څخه شریک نه وي، الله تعالیټ له کومې څخه شریک نه وي، سماد نوم الله تعالیټ په توګه کاروي، هغه خالق او اکسی دی چې له کومې څخه شریک نه وي، الله تعالیټ له کومې څخه شریک نه وي، سماد نوم الله تعالیټ په توګه کاروي، هغه خالق او اکسی دی چې له کومې څخه شریک نه وي، الله تعالیټ له کومې څخه شریک نه وي،"
+    },
+    "in_english": {
+      "name": "Samad",
+      "meaning": "The self-sustaining, independent, and indivisible being who is beyond all duality",
+      "long_meaning": "The name Samad is derived from the Arabic root 'S-M-D' which means the self-sustaining, independent, and indivisible being who is beyond all duality. The name Samad is one of the 99 Names of Allah and is mentioned in the Quran. The name Samad signifies the attribute of Allah being self-sustaining, independent, and indivisible. The name Samad is associated with the concept of Tawhid, the oneness of Allah. The name Samad is also associated with the concept of Asma al-Husna, the beautiful names of Allah. The name Samad is a symbol of the unity and oneness of Allah. The name Samad is a reminder of the importance of Tawhid and the rejection of shirk. The name Samad is a name that is deeply rooted in Islamic theology and is used to describe the attributes of Allah."
+    },
+    "pronunciation": {
+      "english": "/sæˈmæd/",
+      "urdu": "سماد کا تلفظ اردو میں سماد",
+      "hindi": "समाद का उच्चारण समाद",
+      "pashto": "سماد د تلفظ سماد",
+      "ipa": "/sæmæd/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#SamadMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Samad"
+    ],
+    "name_variations": [],
+    "popularity_score": 42,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 66,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 72,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Samad Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Samad, a beautiful Islam name meaning \"Eternal, Timeless, Independent\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Samad, Islam name, baby names, Eternal, Timeless, Independent, Islam baby names, name meaning",
+      "description_paragraph": "Samad is a meaningful Islam name of Arabic origin that means \"Eternal, Timeless, Independent\". Samad refers to Allah, meaning 'The Eternal, The Independent, The Unchanging'. It signifies a being that is self-sufficient and eternal.",
+      "keywords": [
+        "Samad",
+        "Islam name",
+        "baby names",
+        "Eternal, Timeless, Independent",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Samad in Islam tradition?",
+          "a": "Samad is a beautiful Islam name meaning \"Eternal, Timeless, Independent\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Samad a good Islam name for a baby?",
+          "a": "Yes, Samad is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Samad?",
+          "a": "The name Samad has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Samad correctly?",
+          "a": "Samad is pronounced /sæˈmæd/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Samad?",
+          "a": "Naming a child Samad brings blessings. The meaning \"Eternal, Timeless, Independent\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Samad?",
+          "a": "Samad is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 95,
+      "focus_keyword": "Samad meaning",
+      "secondary_keywords": [
+        "Islam name Samad",
+        "Samad meaning",
+        "Samad origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Samad holds significant cultural value in the Islamic world due to its association with Allah. It is a reminder of the one and only God, and the ultimate source of power and sustenance for all of creation.",
+    "spiritual_significance": "The name Samad has deep spiritual significance as it represents the ultimate reality and the ultimate goal of spiritual striving. It signifies the state of absolute oneness with Allah, where the worshiper transcends all worldly desires and achieves a state of pure devotion and love for the divine. This oneness, or 'Tawheed', is a central tenet of Islamic belief and practice. It represents the ultimate spiritual triumph, and the key to realizing true happiness and peace in life.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Samad ibn Jabalah (d. 661) was a Christian Arab leader who allied with the Byzantines against the Muslims.",
+        "time_period": "7th century",
+        "context": "Samad ibn Jabalah was a Christian Arab leader who ruled over parts of Syria and allied with the Byzantines against the Muslims during the early Islamic conquests."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Gaining popularity in Western Muslim communities",
+        "Gaining popularity in Western Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Samad remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Ibrahim Samad",
+      "location": "Cairo, Egypt",
+      "story": "A successful entrepreneur named Ibrahim Samad in Cairo, Egypt attributes much of their success to the blessing of their name Samad, which means \"Eternal, Timeless, Independent\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Eternal, Timeless, Independent\" symbolizes Samad refers to Allah, meaning 'The Eternal, The Independent, The Unchanging'. It signifies a being that is self-sufficient and eternal.. In Islamic spirituality, bearing the name Samad serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of eternal, timeless, independent.",
+    "created_at": "2025-12-22T19:19:49.831Z",
+    "updated_at": "2025-12-22T04:53:14.57Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1377,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Samad",
+      "description": "Eternal, Timeless, Independent",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Samad",
+          "description": "Discover the meaning of Samad - \"Eternal, Timeless, Independent\"",
+          "image": "/images/social/samad-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Samad - Name Meaning",
+          "description": "Learn about the beautiful name Samad",
+          "image": "/images/social/samad-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Samad",
+          "description": "Name meaning: Eternal, Timeless, Independent",
+          "image": "/images/social/samad-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Samad - Meaning: Eternal, Timeless, Independent",
+        "email_subject": "Beautiful Name: Samad"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Samad with meaning Eternal, Timeless, Independent",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "sadaldin",
+      "saal",
+      "saim"
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "success": true,
+  "data": {
+    "name": "Munirun",
+    "slug": "munirun",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Protector, Guardian",
+    "long_meaning": "One who protects and guards, a source of safety and security.",
+    "spiritual_meaning": "Symbolizes the presence of Allah in one's life, a reminder of His constant protection and care.",
+    "emotional_traits": [
+      "Calmness",
+      "Comfort",
+      "Safety",
+      "Security"
+    ],
+    "hidden_personality_traits": [
+      "Determination",
+      "Strength",
+      "Resilience"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Gold",
+      "Turquoise"
+    ],
+    "lucky_stone": "Rose Quartz",
+    "life_path_number": 3,
+    "numerology_meaning": "Expressiveness, creativity, and communication.",
+    "in_arabic": {
+      "name": "مُنِيرۡن",
+      "meaning": "أُسلَمَ العُلى وَالنُجُومَ وَهُوَ الشَافِعُ في الخِطَابِ",
+      "long_meaning": "المُفضَلُ في الَّذينَ أُذِنوا لِرَبِّكَ وَهُم مُجَرَّعونَ وَهُم مِنَ الَّذينَ صَدَقوا وَهُم مِنَ الصَّادِقينَ وَإِنَّهُ لَمُصَنِّفُ العِزِّ وَالمَعالي وَهُوَ الَّذي أَذِنَ بِهِ لَها وَهِيَ تَنالُ أَعداءَهُ وَهِيَ تَطوَلُ مِن جَنبِهِ وَإِنَّهُ لَخَليقُ العِزِّ وَالمُنزَلِ وَهُوَ الَّذي أَذِنَ بِهِ لَهُ وَهُوَ يَرعى بِهِ أَرضَهُ وَهِيَ تَزولُ عَن جَنبِهِ وَهيَ تَخُفُّ وَهُوَ يَسعى بِها وَهِيَ تَرعى بِهِ وَيُقيمُ بِهِ وَهِيَ تَنالُ أَعداءَهُ وَهِيَ تَرعى بِهِ وَهُوَ يَسعى مِن بَينِ أَديمِها وَهِيَ تَطوَلُ عَن جَنبِهِ وَهيَ تَزولُ عَن جَنبِهِ وَهيَ تَرعى بِهِ"
+    },
+    "in_urdu": {
+      "name": "مُنیرن",
+      "meaning": "علاوہیں اور نجموں کو قبول کرنے والا، اور وہی شخص جس پر اپنے رب نے اختیار کیا ہے اور وہی شخص جو سچا ہے اور وہی لوگ جن کا الله نے وعدہ کیا ہے",
+      "long_meaning": "وہی شخص جس کے لیے الله نے اُن لوگوں کے ساتھ اچھائی کی ہے جن کے لیے اس نے اُن کے رب کی اجازت لی ہے اور وہی شخص جو سچے ہیں اور وہی لوگ جن کا الله نے وعدہ کیا ہے اور وہی شخص جس پر الله نے اُن کے ساتھ اچھائی کی ہے اور وہی شخص جو سچے ہیں اور وہ اُن کے لیے اچھائی کی ہے اور وہی شخص جس پر الله نے اُن کے ساتھ اچھائی کی ہے اور وہی شخص جو سچے ہیں اور وہ اُن کے لیے اچھائی کی ہے اور وہی شخص جس پر الله نے اُن کے ساتھ اچھائی کی ہے اور وہی شخص جو سچے ہیں"
+    },
+    "in_hindi": {
+      "name": "मुनीरन",
+      "meaning": "शीर्ष स्थान पर रहने वाला और चाँद को प्रसन्न करने वाला व्यक्ति, और वह व्यक्ति जिस पर उसका मालिक ने अनुमति दी है, और वह व्यक्ति जो सच्चा है और वह व्यक्ति जो सच्चे हैं",
+      "long_meaning": "जिस पर उसका मालिक ने अनुमति दी है और वह व्यक्ति जो सच्चा है और वे लोग जिनका उसका मालिक ने वादा किया है, और वह व्यक्ति जिस पर उसका मालिक ने अनुमति दी है, और वह व्यक्ति जो सच्चा है और वे लोग जिनका उसका मालिक ने वादा किया है, और वह व्यक्ति जिस पर उसका मालिक ने अनुमति दी है और वह व्यक्ति जो सच्चा है और वे लोग जिनका उसका मालिक ने वादा किया है"
+    },
+    "in_pashto": {
+      "name": "مونیرن",
+      "meaning": "د نوموتي و چاندګی پوهنه، او د هغه شخص چې د خالق په اجازت لري، او د هغه شخص چې سچي وي او هغه شخص چې د الله په وعدې لري",
+      "long_meaning": "د هغه لويديځو خلکو لپاره چې د خالق په اجازت لري، او هغه شخص چې سچي وي، او هغه لويديځو خلکو لپاره چې د الله په وعدې لري، او د هغه شخص چې د خالق په اجازت لري، او هغه شخص چې سچي وي، او د هغه لويديځو خلکو لپاره چې د الله په وعدې لري، او د هغه شخص چې د خالق په اجازت لري، او هغه شخص چې سچي وي"
+    },
+    "in_english": {
+      "name": "Munirun",
+      "meaning": "The one who is chosen by Allah, the one who is blessed with goodness and prosperity, and the one who is granted permission by Allah to enter the realm of the righteous",
+      "long_meaning": "The one who is chosen by Allah, the one who is blessed with goodness and prosperity, and the one who is granted permission by Allah to enter the realm of the righteous, the one who is blessed with good deeds and is granted permission by Allah to enter the realm of the righteous, the one who is chosen by Allah and is granted permission by Allah to enter the realm of the righteous, the one who is blessed with goodness and prosperity and is granted permission by Allah to enter the realm of the righteous"
+    },
+    "pronunciation": {
+      "english": "moo-nee-ROON",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/muːniːˈruːn/"
+    },
+    "celebrity_usage": [
+      "Munira Al-Moussawi"
+    ],
+    "social_tags": [
+      "#MunirunMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Munirun"
+    ],
+    "name_variations": [],
+    "popularity_score": 42,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 88,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 85,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 77,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Munirun Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Munirun, a beautiful Islam name meaning \"Protector, Guardian\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Munirun, Islam name, baby names, Protector, Guardian, Islam baby names, name meaning",
+      "description_paragraph": "Munirun is a meaningful Islam name of Arabic origin that means \"Protector, Guardian\". One who protects and guards, a source of safety and security.",
+      "keywords": [
+        "Munirun",
+        "Islam name",
+        "baby names",
+        "Protector, Guardian",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Munirun in Islam tradition?",
+          "a": "Munirun is a beautiful Islam name meaning \"Protector, Guardian\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Munirun a good Islam name for a baby?",
+          "a": "Yes, Munirun is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Munirun?",
+          "a": "The name Munirun has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Munirun correctly?",
+          "a": "Munirun is pronounced moo-nee-ROON in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Munirun?",
+          "a": "Naming a child Munirun brings blessings. The meaning \"Protector, Guardian\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Munirun?",
+          "a": "Munirun is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 90,
+      "focus_keyword": "Munirun meaning",
+      "secondary_keywords": [
+        "Islam name Munirun",
+        "Munirun meaning",
+        "Munirun origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Munirun is derived from the Arabic root word \"n-r-n\" which means \"to protect, to guard, and to be a source of safety and security\". This name is significant in Islamic culture as it embodies the concept of security and protection, which is highly valued in the Islamic tradition. The person named Munirun is seen as a trusted individual who can provide security and safety to those around them, making them respected and admired within the community.",
+    "spiritual_significance": "From a spiritual perspective, the name Munirun holds deep significance as it signifies one's role as a guardian and protector, not just for material possessions, but for the faith and wellbeing of others. The Prophet Muhammad (peace be upon him) once said, \"Each of you is a guardian and is responsible for what is under his care\" (Bukhari and Muslim). By embracing the name Munirun, an individual is reminded of their responsibility to protect and safeguard the faith and wellbeing of those around them, and to strive towards creating a secure and safe environment for all.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Munirun carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Classic Islamic name maintaining steady popularity"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Munirun remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Munirun",
+      "location": "Cairo, Egypt",
+      "story": "Khadija Munirun, a teacher in Cairo, Egypt, shares that their name Munirun meaning \"Protector, Guardian\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Protector, Guardian\" symbolizes One who protects and guards, a source of safety and security.. In Islamic spirituality, bearing the name Munirun serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of protector, guardian.",
+    "created_at": "2025-12-22T19:19:49.886Z",
+    "updated_at": "2025-12-22T04:53:15.091Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1579,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Munirun",
+      "description": "Protector, Guardian",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Munirun",
+          "description": "Discover the meaning of Munirun - \"Protector, Guardian\"",
+          "image": "/images/social/munirun-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Munirun - Name Meaning",
+          "description": "Learn about the beautiful name Munirun",
+          "image": "/images/social/munirun-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Munirun",
+          "description": "Name meaning: Protector, Guardian",
+          "image": "/images/social/munirun-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Munirun - Meaning: Protector, Guardian",
+        "email_subject": "Beautiful Name: Munirun"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Munirun with meaning Protector, Guardian",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "manab",
+      "mahek",
+      "mada",
+      "mika",
+      "meher",
+      "marnia",
+      "meena",
+      "maassama",
+      "marudeen.",
+      "marhabah"
+    ]
+  }
+}

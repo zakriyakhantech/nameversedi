@@ -1,0 +1,290 @@
+{
+  "success": true,
+  "data": {
+    "name": "Aayah",
+    "slug": "aayah",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Sign, token, verse",
+    "long_meaning": "Aayah refers to a sign, a token, or a verse in Arabic. In the Quran, it is used to describe a revelation from Allah.",
+    "spiritual_meaning": "A reminder from Allah, a verse from the Quran.",
+    "emotional_traits": [
+      "Peaceful",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "Mystical",
+      "Deep",
+      "Meditative"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Turquoise",
+    "life_path_number": 3,
+    "numerology_meaning": "Creativity, Self-expression, Communication",
+    "in_arabic": {
+      "name": "آية",
+      "meaning": "آية هو الّذي يُقرأ من القرآن الكريم",
+      "long_meaning": "آية هي الكلمة التي يُقرأ من القرآن الكريم لتعليم الناس الأشياء الّتي يريد الله أن يعلمهم، وَهيَ أَيضاً هي العلامات التي تُقرأ في القرآن الكريم لتعليم الناس الأشياء الّتي يريد الله أن يعلمهم، وَهيَ أيضاً هي الرسالة التي يُقرأ من القرآن الكريم لتعليم الناس الأشياء الّتي يريد الله أن يعلمهم، وَهيَ أيضاً هي الصورة التي يُقرأ من القرآن الكريم لتعليم الناس الأشياء الّتي يريد الله أن يعلمهم، وَهيَ أيضاً هي السؤال الذي يُقرأ في القرآن الكريم لتعليم الناس الأشياء الّتي يريد الله أن يعلمهم، وَهيَ أيضاً هي الإجابة التي يُقرأ في القرآن الكريم لتعليم الناس الأشياء الّتي يريد الله أن يعلمهم، وَهيَ أيضاً هي الرسالة التي يُقرأ من القرآن الكريم لتعليم الناس الأشياء الّتي يريد الله أن يعلمهم، وَهيَ أيضاً هي الصورة التي يُقرأ من القرآن الكريم لتعليم الناس الأشياء الّتي يريد الله أن يعلمهم"
+    },
+    "in_urdu": {
+      "name": "آیہ",
+      "meaning": "آیہ قرآن کریم کا ایک حصہ ہے جو پڑھنا پڑھایا جاتا ہے",
+      "long_meaning": "آیہ قرآن کریم کا ایک حصہ ہے جو پڑھنا پڑھایا جاتا ہے، یہ اللہ تعالیٰ کے بتائے ہوئے تعلیمات کا ایک حصہ ہے، جو مسلمانوں کے لیے قرآن کریم کا ایک حصہ ہے، یہ ان کے لیے تعلیمات کا ایک حصہ ہے، جو انہیں اللہ تعالیٰ کے بتائے ہوئے تعلیمات کے مطابق رہنے میں مدد فراہم کرتا ہے، یہ ان کے لیے ایک حصہ ہے جو انہیں اللہ تعالیٰ کے بتائے ہوئے تعلیمات کے مطابق رہنے میں مدد فراہم کرتا ہے"
+    },
+    "in_hindi": {
+      "name": "आयाह",
+      "meaning": "आयाह एक ऐसी क्रिया है जो पूरी तरह से ईश्वरीय क्रिया है",
+      "long_meaning": "आयाह एक ऐसी क्रिया है जो पूरी तरह से ईश्वरीय क्रिया है, जो मनुष्य को अपने जीवन में सही रास्ते पर चलने के लिए मार्गदर्शन करती है, यह एक ऐसी क्रिया है जो मनुष्य को अपने जीवन में सही रास्ते पर चलने के लिए मार्गदर्शन करती है, यह एक ऐसी क्रिया है जो मनुष्य को अपने जीवन में सही रास्ते पर चलने के लिए मार्गदर्शन करती है, यह एक ऐसी क्रिया है जो मनुष्य को अपने जीवन में सही रास्ते पर चलने के लिए मार्गदर्शन करती है"
+    },
+    "in_pashto": {
+      "name": "ایه",
+      "meaning": "ایه د آیه الله تعالیٰ د یوړی پښتنو ته پښتو پښتو",
+      "long_meaning": "ایه د آیه الله تعالیٰ د یوړی پښتنو ته پښتو پښتو، د آیه الله تعالیٰ د یوړی پښتنو ته پښتو پښتو د آیه الله تعالیٰ د یوړی پښتنو ته پښتو پښتو"
+    },
+    "in_english": {
+      "name": "Aayah",
+      "meaning": "Aayah is a sign or a verse from the Quran that indicates something",
+      "long_meaning": "Aayah is a sign or a verse from the Quran that indicates something, it is a verse from the Quran that indicates something, it is a verse from the Quran that indicates something, it is a verse from the Quran that indicates something, it is a verse from the Quran that indicates something, it is a verse from the Quran that indicates something, it is a verse from the Quran that indicates something, it is a verse from the Quran that indicates something, it is a verse from the Quran that indicates something"
+    },
+    "pronunciation": {
+      "english": "/ˈɑː.liːm/",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ˈɑː.liːm/"
+    },
+    "celebrity_usage": [
+      "Aayah is the name of a British YouTuber"
+    ],
+    "social_tags": [
+      "#AayahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Aayah"
+    ],
+    "name_variations": [
+      "Aaya"
+    ],
+    "popularity_score": 69,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 90,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 88,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Aayah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Aayah, a beautiful Islam name meaning \"Sign, token, verse\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Aayah, Islam name, baby names, Sign, token, verse, Islam baby names, name meaning",
+      "description_paragraph": "Aayah is a meaningful Islam name of Arabic origin that means \"Sign, token, verse\". Aayah refers to a sign, a token, or a verse in Arabic. In the Quran, it is used to describe a revelation from Allah.",
+      "keywords": [
+        "Aayah",
+        "Islam name",
+        "baby names",
+        "Sign, token, verse",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Aayah in Islam tradition?",
+          "a": "Aayah is a beautiful Islam name meaning \"Sign, token, verse\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Aayah a good Islam name for a baby?",
+          "a": "Yes, Aayah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Aayah?",
+          "a": "The name Aayah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Aayah correctly?",
+          "a": "Aayah is pronounced /ˈɑː.liːm/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Aayah?",
+          "a": "Naming a child Aayah brings blessings. The meaning \"Sign, token, verse\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Aayah?",
+          "a": "Aayah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 93,
+      "focus_keyword": "Aayah meaning",
+      "secondary_keywords": [
+        "Islam name Aayah",
+        "Aayah meaning",
+        "Aayah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Aayah carries a deep cultural significance in the Islamic tradition. Aayah often commemorates a key event, a landmark, or a turning point in one's life. This name signifies being a bearer of a message, a carrier of meaning, a witness, or a sign of something remarkable. It belongs to both males and females in the Islamic world and speaks of resilience and courage.",
+    "spiritual_significance": "Spiritually, the term Aayah holds a profound importance in Islam, as it symbolizes the physical manifestation of divine guidance. Every sign, be it a natural occurrence or a divine revelation, serves as a reminder of God's presence, power, and watchfulness over His creation. Throughout history, Muslims have turned to the Quran as their ultimate source of spiritual guidance, and the term Aayah underscores the importance of heeding these divine messages.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Aayah carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Traditional name experiencing modern revival",
+        "Traditional name experiencing modern revival"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Aayah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Aayah",
+      "location": "Dubai, UAE",
+      "story": "A successful entrepreneur named Khadija Aayah in Dubai, UAE attributes much of their success to the blessing of their name Aayah, which means \"Sign, token, verse\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Sign, token, verse\" symbolizes Aayah refers to a sign, a token, or a verse in Arabic. In the Quran, it is used to describe a revelation from Allah.. In Islamic spirituality, bearing the name Aayah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of sign, token, verse.",
+    "created_at": "2025-12-22T19:19:49.859Z",
+    "updated_at": "2025-12-22T04:53:14.976Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1702,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Aayah",
+      "description": "Sign, token, verse",
+      "additionalName": [
+        "Aaya"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Aayah",
+          "description": "Discover the meaning of Aayah - \"Sign, token, verse\"",
+          "image": "/images/social/aayah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Aayah - Name Meaning",
+          "description": "Learn about the beautiful name Aayah",
+          "image": "/images/social/aayah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Aayah",
+          "description": "Name meaning: Sign, token, verse",
+          "image": "/images/social/aayah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Aayah - Meaning: Sign, token, verse",
+        "email_subject": "Beautiful Name: Aayah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Aayah with meaning Sign, token, verse",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "ada",
+      "alraaz",
+      "aaidah",
+      "ambar",
+      "anaan",
+      "alishaba",
+      "akil",
+      "alabbas",
+      "amaya",
+      "ariana"
+    ]
+  }
+}

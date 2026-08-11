@@ -1,0 +1,458 @@
+---
+import Layout from "../../layouts/Layout.astro";
+
+const siteUrl = "https://nameverse.site";
+
+export async function getStaticPaths() {
+  const blogPosts = (await import("../../../public/data/blog-posts.json")).default;
+  return blogPosts.map((post) => ({
+    params: { slug: post.id },
+    props: { post },
+  }));
+}
+
+export const prerender = true;
+
+const { slug } = Astro.params;
+const blogPosts = (await import("../../../public/data/blog-posts.json")).default;
+const post = blogPosts.find((p) => p.id === slug);
+
+if (!post) {
+  return Astro.redirect("/blog");
+}
+
+const {
+  title,
+  subtitle,
+  excerpt,
+  category,
+  author,
+  authorCredentials,
+  publishDate,
+  lastUpdated,
+  readTime,
+  featuredImage,
+  tags,
+  content,
+} = post;
+
+const pageTitle = `${title} | NameVerse`;
+const pageDescription = excerpt;
+
+const breadcrumbs = [
+  { name: "Home", href: "/" },
+  { name: "Blog", href: "/blog" },
+  { name: title, href: `/blog/${slug}` },
+];
+
+const tocItems = content?.sections?.map((s, i) => ({
+  id: `section-${i + 1}`,
+  title: s.title,
+})) || [];
+
+const relatedPosts = blogPosts
+  .filter((p) => p.category === category && p.id !== slug)
+  .slice(0, 3);
+
+const formattedDate = new Date(publishDate).toLocaleDateString("en-US", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
+const formattedLastUpdated = new Date(lastUpdated).toLocaleDateString("en-US", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
+
+function formatReadTime(readTime) {
+  return readTime;
+}
+
+function getCategoryAccent(cat) {
+  const lower = cat.toLowerCase();
+  if (lower.includes("islamic")) return { bg: "bg-[#E0F2FE]", text: "text-[#0369A1]", border: "border-[#BAE6FD]" };
+  if (lower.includes("hindu")) return { bg: "bg-[#FEE2E2]", text: "text-[#B91C1C]", border: "border-[#FECACA]" };
+  if (lower.includes("christian")) return { bg: "bg-[#FEF3C7]", text: "text-[#92400E]", border: "border-[#FDE68A]" };
+  return { bg: "bg-nv-accent-subtle", text: "text-nv-accent", border: "border-nv-accent-subtle" };
+}
+
+const accent = getCategoryAccent(category);
+
+const icons = {
+  home: `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>`,
+  chevronRight: `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>`,
+  clock: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>`,
+  calendar: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="18" x="3" y="4" rx="2" ry="2"/><line x1="16" x2="16" y1="2" y2="6"/><line x1="8" x2="8" y1="2" y2="6"/><line x1="3" x2="21" y1="10" y2="10"/></svg>`,
+  user: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>`,
+  list: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="8" x2="21" y1="6" y2="6"/><line x1="8" x2="21" y1="12" y2="12"/><line x1="8" x2="21" y1="18" y2="18"/><line x1="3" x2="3.01" y1="6" y2="6"/><line x1="3" x2="3.01" y1="12" y2="12"/><line x1="3" x2="3.01" y1="18" y2="18"/></svg>`,
+  arrowRight: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>`,
+  search: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>`,
+  check: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>`,
+  star: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>`,
+  arrowUpRight: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg>`,
+};
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": title,
+  "description": excerpt,
+  "image": featuredImage ? `${siteUrl}${featuredImage}` : `${siteUrl}/og-home.png`,
+  "url": `${siteUrl}/blog/${slug}`,
+  "datePublished": publishDate,
+  "dateModified": lastUpdated,
+  "author": {
+    "@type": "Organization",
+    "name": author,
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "NameVerse",
+    "logo": {
+      "@type": "ImageObject",
+      "url": `${siteUrl}/logo.svg`,
+    },
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": `${siteUrl}/blog/${slug}`,
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": breadcrumbs.map((crumb, i) => ({
+      "@type": "ListItem",
+      "position": i + 1,
+      "name": crumb.name,
+      "item": `${siteUrl}${crumb.href}`,
+    })),
+  },
+};
+
+const jsonLdFaq = content?.faqs
+  ? {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": content.faqs.map((faq) => ({
+        "@type": "Question",
+        "name": faq.q,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": faq.a,
+        },
+      })),
+    }
+  : null;
+---
+
+<Layout
+  title={pageTitle}
+  description={pageDescription}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  {
+    jsonLdFaq && (
+      <script type="application/ld+json" set:html={JSON.stringify(jsonLdFaq)} />
+    )
+  }
+
+  <style>
+    .line-clamp-2 {
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .line-clamp-3 {
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+  </style>
+
+  <main class="nv-page min-h-screen">
+    <div class="nv-container nv-section">
+      <!-- Breadcrumb Navigation -->
+      <nav aria-label="Breadcrumb" class="flex items-center gap-2 text-sm text-nv-text-muted">
+        <a href="/" class="flex items-center gap-1 hover:text-nv-accent transition">
+          <span set:html={icons.home} />
+          <span class="sr-only">Home</span>
+        </a>
+        <span set:html={icons.chevronRight} class="opacity-50" />
+        <a href="/blog" class="hover:text-nv-accent transition">Blog</a>
+        <span set:html={icons.chevronRight} class="opacity-50" />
+        <span class="text-nv-text font-medium truncate">{title}</span>
+      </nav>
+
+      <!-- Article Header -->
+      <header class="mt-6">
+        <div class="flex flex-wrap items-center gap-3">
+          <span class={`inline-flex items-center rounded-full px-3 py-1 text-xs font-bold uppercase tracking-wider border ${accent.bg} ${accent.text} ${accent.border}`}>
+            {category}
+          </span>
+          <span class="flex items-center gap-1.5 text-xs text-nv-text-muted">
+            <span set:html={icons.calendar} />
+            {formattedDate}
+          </span>
+          <span class="flex items-center gap-1.5 text-xs text-nv-text-muted">
+            <span set:html={icons.clock} />
+            {readTime}
+          </span>
+        </div>
+
+        <h1 class="nv-display mt-4 text-3xl font-bold text-nv-text sm:text-4xl lg:text-5xl leading-tight tracking-tight">
+          {title}
+        </h1>
+        {
+          subtitle && (
+            <p class="mt-3 text-lg text-nv-text-secondary leading-relaxed">{subtitle}</p>
+          )
+        }
+        <p class="mt-4 text-base text-nv-text-secondary leading-relaxed">{excerpt}</p>
+
+        <div class="mt-6 flex items-center gap-3 border-t border-nv-border pt-5">
+          <div class="grid h-10 w-10 place-items-center rounded-full bg-nv-surface-subtle text-nv-text-muted">
+            <span set:html={icons.user} />
+          </div>
+          <div>
+            <div class="text-sm font-semibold text-nv-text">{author}</div>
+            <div class="text-xs text-nv-text-muted">{authorCredentials}</div>
+          </div>
+        </div>
+      </header>
+
+      <!-- Featured Image -->
+      {
+        featuredImage && (
+          <div class="mt-8 overflow-hidden rounded-2xl border border-nv-border bg-white">
+            <img
+              src={featuredImage}
+              alt={title}
+              class="w-full h-auto object-cover"
+              loading="eager"
+            />
+          </div>
+        )
+      }
+
+      <!-- Main Content Layout: Article + TOC -->
+      <div class="mt-10 grid gap-10 lg:grid-cols-[1fr_260px]">
+        <!-- Article Content -->
+        <article class="min-w-0">
+          <!-- Introduction -->
+          <div class="text-lg leading-relaxed text-nv-text-secondary">{content.introduction}</div>
+
+          <!-- Sections -->
+          <div class="mt-12 space-y-14">
+            {
+              content.sections.map((section, index) => (
+                <section id={`section-${index + 1}`} class="scroll-mt-24">
+                  <h2 class="nv-display text-2xl font-bold text-nv-text sm:text-3xl tracking-tight">
+                    {section.title}
+                  </h2>
+                  <p class="mt-4 text-base leading-relaxed text-nv-text-secondary">{section.content}</p>
+
+                  {
+                    section.featuredNames && section.featuredNames.length > 0 && (
+                      <div class="mt-6">
+                        <h3 class="text-sm font-bold uppercase tracking-wider text-nv-text-muted mb-3">Featured Names in This Section</h3>
+                        <div class="flex flex-wrap gap-2">
+                          {
+                            section.featuredNames.map((name) => (
+                              <a
+                                href={`/search?q=${encodeURIComponent(name)}`}
+                                class="inline-flex items-center gap-1.5 rounded-xl border border-nv-border bg-white px-4 py-2.5 text-sm font-semibold text-nv-text transition hover:border-nv-accent hover:bg-nv-accent-subtle hover:text-nv-accent"
+                              >
+                                <span set:html={icons.star} class="h-3.5 w-3.5 text-[color:var(--nv-accent)]" />
+                                {name}
+                              </a>
+                            ))
+                          }
+                        </div>
+                      </div>
+                    )
+                  }
+                </section>
+              ))
+            }
+          </div>
+
+          <!-- FAQ Section -->
+          {
+            content.faqs && content.faqs.length > 0 && (
+              <section class="mt-16 border-t border-nv-border pt-12">
+                <h2 class="nv-display text-2xl font-bold text-nv-text sm:text-3xl tracking-tight mb-8">
+                  Frequently Asked Questions
+                </h2>
+                <div class="space-y-3">
+                  {
+                    content.faqs.map((faq, i) => (
+                      <details class="nv-faq-item rounded-xl border border-nv-border bg-white p-0 group">
+                        <summary class="flex cursor-pointer items-center justify-between gap-4 p-5 text-left font-semibold text-nv-text transition hover:bg-nv-surface-subtle">
+                          <span class="pr-4">{faq.q}</span>
+                          <span class="nv-faq-chevron shrink-0 text-nv-text-muted">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+                          </span>
+                        </summary>
+                        <div class="border-t border-nv-border px-5 py-4 text-sm leading-relaxed text-nv-text-secondary">
+                          {faq.a}
+                        </div>
+                      </details>
+                    ))
+                  }
+                </div>
+              </section>
+            )
+          }
+
+          <!-- Author Bio -->
+          <section class="mt-16 border-t border-nv-border pt-12">
+            <div class="rounded-2xl border border-nv-border bg-white p-6 sm:p-8">
+              <div class="flex items-start gap-5">
+                <div class="grid h-14 w-14 shrink-0 place-items-center rounded-full bg-nv-surface-subtle text-nv-text-muted">
+                  <span set:html={icons.user} class="h-6 w-6" />
+                </div>
+                <div class="min-w-0">
+                  <h3 class="text-lg font-bold text-nv-text">{author}</h3>
+                  <p class="text-sm text-nv-text-muted">{authorCredentials}</p>
+                  <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">
+                    The NameVerse Editorial Team specializes in baby name research, cultural naming traditions, and etymological analysis. We help parents find meaningful names with verified origins and significance.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <!-- Tags -->
+          {
+            tags && tags.length > 0 && (
+              <div class="mt-8 flex flex-wrap gap-2">
+                {
+                  tags.map((tag) => (
+                    <span class="rounded-lg border border-nv-border bg-white px-3 py-1.5 text-xs font-medium text-nv-text-muted">
+                      #{tag}
+                    </span>
+                  ))
+                }
+              </div>
+            )
+          }
+        </article>
+
+        <!-- Table of Contents Sidebar -->
+        <aside class="hidden lg:block">
+          <div class="sticky top-24">
+            <div class="rounded-2xl border border-nv-border bg-white p-5 shadow-sm">
+              <div class="flex items-center gap-2 text-sm font-bold text-nv-text mb-4">
+                <span set:html={icons.list} class="h-4 w-4 text-nv-accent" />
+                Table of Contents
+              </div>
+              <nav aria-label="Table of contents" class="space-y-1">
+                {
+                  tocItems.map((item) => (
+                    <a
+                      href={`#${item.id}`}
+                      class="block rounded-lg px-3 py-2 text-sm text-nv-text-secondary transition hover:bg-nv-surface-subtle hover:text-nv-accent"
+                    >
+                      {item.title}
+                    </a>
+                  ))
+                }
+              </nav>
+            </div>
+
+            <!-- On-page CTA Card -->
+            <div class="mt-4 rounded-2xl border border-nv-border bg-gradient-to-br from-nv-primary to-nv-primary-hover p-5 text-white shadow-lg">
+              <h4 class="text-sm font-bold mb-2">Find More Names</h4>
+              <p class="text-xs text-white/80 leading-relaxed mb-4">
+                Explore our complete directory of baby names with meanings, origins, and lucky numbers.
+              </p>
+              <a
+                href="/names"
+                class="inline-flex items-center gap-2 rounded-lg bg-white px-4 py-2 text-xs font-bold text-nv-primary transition hover:bg-white/90"
+              >
+                Browse Names
+                <span set:html={icons.arrowRight} class="h-3.5 w-3.5" />
+              </a>
+            </div>
+          </div>
+        </aside>
+      </div>
+
+      <!-- Related Posts -->
+      {
+        relatedPosts.length > 0 && (
+          <section class="mt-20 border-t border-nv-border pt-12">
+            <h2 class="nv-display text-2xl font-bold text-nv-text sm:text-3xl tracking-tight mb-8">
+              Related Articles
+            </h2>
+            <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+              {
+                relatedPosts.map((related) => (
+                  <a
+                    href={`/blog/${related.id}`}
+                    class="group rounded-2xl border border-nv-border bg-white p-5 transition hover:border-nv-accent hover:shadow-md"
+                  >
+                    <span class="text-xs font-bold uppercase tracking-wider text-nv-accent">{related.category}</span>
+                    <h3 class="mt-3 text-base font-bold text-nv-text group-hover:text-nv-accent transition line-clamp-2">
+                      {related.title}
+                    </h3>
+                    <p class="mt-2 text-sm text-nv-text-muted line-clamp-2 leading-relaxed">
+                      {related.excerpt}
+                    </p>
+                    <div class="mt-4 flex items-center gap-1.5 text-xs font-semibold text-nv-accent">
+                      Read article
+                      <span set:html={icons.arrowRight} class="h-3.5 w-3.5 transition group-hover:translate-x-0.5" />
+                    </div>
+                  </a>
+                ))
+              }
+            </div>
+          </section>
+        )
+      }
+
+      <!-- Bottom CTA -->
+      <section class="mt-20 rounded-3xl border border-nv-border bg-gradient-to-br from-nv-primary via-nv-primary to-[#0F4C81] p-8 sm:p-12 text-center text-white shadow-xl">
+        <div class="mx-auto max-w-2xl">
+          <div class="mx-auto mb-6 grid h-14 w-14 place-items-center rounded-2xl bg-white/10 text-white">
+            <span set:html={icons.search} class="h-7 w-7" />
+          </div>
+          <h2 class="nv-display text-2xl font-bold sm:text-3xl tracking-tight">
+            Discover the Perfect Name
+          </h2>
+          <p class="mt-3 text-base text-white/80 leading-relaxed">
+            Explore thousands of baby names with verified meanings, origins, lucky numbers, and cultural significance across Islamic, Hindu, Christian, and global traditions.
+          </p>
+          <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
+            <a
+              href="/names"
+              class="inline-flex items-center gap-2 rounded-xl bg-white px-6 py-3 text-sm font-bold text-nv-primary transition hover:bg-white/90"
+            >
+              Browse All Names
+              <span set:html={icons.arrowRight} class="h-4 w-4" />
+            </a>
+            <a
+              href="/blog"
+              class="inline-flex items-center gap-2 rounded-xl border border-white/20 bg-white/10 px-6 py-3 text-sm font-bold text-white transition hover:bg-white/20"
+            >
+              More Articles
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- Back to Blog -->
+      <div class="mt-12 flex justify-center">
+        <a
+          href="/blog"
+          class="inline-flex items-center gap-2 rounded-xl border border-nv-border bg-white px-5 py-2.5 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent hover:text-nv-accent"
+        >
+          <span set:html={icons.chevronRight} class="h-4 w-4 rotate-180" />
+          Back to Blog
+        </a>
+      </div>
+    </div>
+  </main>
+</Layout>

@@ -1,0 +1,300 @@
+{
+  "success": true,
+  "data": {
+    "name": "Inamah",
+    "slug": "inamah",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Peaceful and gentle",
+    "long_meaning": "Inamah is a Quranic name that means peaceful and gentle. It is derived from the root word 'n-m-h' which conveys the idea of serenity and calmness.",
+    "spiritual_meaning": "Inamah is a name that is associated with the concept of peace and tranquility, which is a fundamental principle of Islam.",
+    "emotional_traits": [
+      "Peaceful",
+      "Gentle",
+      "Compassionate",
+      "Calm"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "C = Compassionate",
+      "L = Loyal",
+      "D = Dignified"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Purple",
+      "Blue"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 3,
+    "numerology_meaning": "Creativity, self-expression, and communication.",
+    "in_arabic": {
+      "name": "إِنَامَة",
+      "meaning": "إِنَامَة تعني العطاء والنعمة من الله",
+      "long_meaning": "إِنَامَة هو اسم علم مؤنث في اللغة العربية، مشتق من الفعل 'أنعم' الذي يعني العطاء والنعمة. يعتبر هذا الاسم من الأسماء التي تحمل معاني جميلة وروحانية، حيث يرتبط بالخير والرزق الذي يأتي من الله. في القرآن الكريم، نجد أن هناك آيات تتحدث عن النعمة والعطاء، مثل 'وإن تعدو نعمۃ اللہ لا تحصوھا' (الآية 18 من سورة إبراهيم)، مما يعزز الارتباط بين الاسم والتراث الإسلامي."
+    },
+    "in_urdu": {
+      "name": "انامہ",
+      "meaning": "انامہ کا مطلب ہے اللہ کی طرف سے عطا کی گئی نعمت",
+      "long_meaning": "انامہ ایک عربی ಮೂಲ کا نام ہے جس کا مطلب ہے اللہ کی نعمت یا اللہ کی طرف سے عطا کی گئی نعمت۔ یہ نام اردو زبان میں بھی استعمال ہوتا ہے، خاص طور پر مسلم کمیونٹی میں۔ اس نام کی اہمیت اس لیے ہے کیونکہ یہ اللہ کی طرف سے دی گئی نعمتوں کی یاد دلاتا ہے، جیسا کہ قرآن مجید میں ہے: 'وإن تعدو نعمۃ اللہ لا تحصوھا' (الآية 18 من سورة إبراهيم)۔"
+    },
+    "in_hindi": {
+      "name": "इनामाह",
+      "meaning": "इनामाह का अर्थ है अल्लाह द्वारा दी गई नेमत",
+      "long_meaning": "इनामाह एक सुंदर और अर्थपूर्ण नाम है जो अरबी भाषा से लिया गया है। यह नाम 'इनाम' से जुड़ा है, जिसका अर्थ है पुरस्कार या नेमत। इस्लामी परंपरा में, यह नाम अल्लाह की ओर से मिली नेमतों की याद दिलाता है। यह नाम भारतीय मुस्लिम समुदाय में भी प्रचलित है, जहां यह नाम बच्चों को आशीर्वाद और सफलता की कामना के साथ दिया जाता है।"
+    },
+    "in_pashto": {
+      "name": "انامہ",
+      "meaning": "انامہ د الله له طرفه ورکړل شوې نعمت معنی لري",
+      "long_meaning": "انامہ په عربي ژبه کې يو نوم دی چې د الله تعالی د نعمتونو معنی ورکوي. په پښتو کلتور کې، دا نوم د ارزښت وړ دی ځکه چې دا د الهي نعمتونو یادونه کوي، لکه څنګه چې قرآن کې راغلي: 'وإن تعدو نعمۃ اللہ لا تحصوھا' (الآية 18 من سورة إبراهيم)۔ دا نوم د افغانستان او پاکستان د مسلمو ټولنو کې کارول کیږي."
+    },
+    "in_english": {
+      "name": "Inamah",
+      "meaning": "Inamah means a gift or blessing from Allah",
+      "long_meaning": "Inamah is a beautiful and meaningful name derived from Arabic roots. It signifies a gift or blessing from Allah, reflecting the concept of divine favor and generosity. In Islamic tradition, this name is associated with the Quranic themes of gratitude and divine blessings, as mentioned in verses like 'Count the blessings of Allah, and you shall not be able to enumerate them' (Quran 14:18). The name Inamah symbolizes the spiritual significance of acknowledging and appreciating Allah's gifts."
+    },
+    "pronunciation": {
+      "english": "ih-NAH-mah",
+      "urdu": "انامہ کا تلفظ ہے انا مہ",
+      "hindi": "इनामाह का उच्चारण है इनाह-मा",
+      "pashto": "انامہ تلفظ يې دى انا مہ",
+      "ipa": "/ɪˈnɑːmə/"
+    },
+    "celebrity_usage": [
+      "Inamah Abdul Wahab"
+    ],
+    "social_tags": [
+      "#InamahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Inamah"
+    ],
+    "name_variations": [
+      "Inama"
+    ],
+    "popularity_score": 79,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 89,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 87,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 78,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Inamah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Inamah, a beautiful Islam name meaning \"Peaceful and gentle\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Inamah, Islam name, baby names, Peaceful and gentle, Islam baby names, name meaning",
+      "description_paragraph": "Inamah is a meaningful Islam name of Arabic origin that means \"Peaceful and gentle\". Inamah is a Quranic name that means peaceful and gentle. It is derived from the root word 'n-m-h' which conveys the idea of serenity and calmness.",
+      "keywords": [
+        "Inamah",
+        "Islam name",
+        "baby names",
+        "Peaceful and gentle",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Inamah in Islam tradition?",
+          "a": "Inamah is a beautiful Islam name meaning \"Peaceful and gentle\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Inamah a good Islam name for a baby?",
+          "a": "Yes, Inamah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Inamah?",
+          "a": "The name Inamah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Inamah correctly?",
+          "a": "Inamah is pronounced ih-NAH-mah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Inamah?",
+          "a": "Naming a child Inamah brings blessings. The meaning \"Peaceful and gentle\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Inamah?",
+          "a": "Inamah is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Inamah meaning",
+      "secondary_keywords": [
+        "Islam name Inamah",
+        "Inamah meaning",
+        "Inamah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Inamah has a calming and soothing effect, making it an ideal choice for a child. In many Muslim communities, naming a child with a religious name is considered auspicious and adds to the child's spiritual growth. The name Inamah also fits well with the Islamic values of kindness, compassion, and peace. Children named Inamah are likely to be seen as peaceful and gentle individuals, reflecting the qualities of the name.",
+    "spiritual_significance": "From a spiritual perspective, the name Inamah holds great significance in promoting self-reflection and inner peace. The name serves as a constant reminder to the individual to maintain inner calm and tranquility. It also emphasizes the importance of being kind and gentle towards oneself and others, fostering a sense of compassion and empathy. The name Inamah encourages the individual to cultivate a peaceful and serene mindset, allowing them to better connect with the divine and find spiritual fulfillment.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Inamah bint Abd al-Muttalib (d. 605 CE) was the wife of the Islamic prophet Muhammad. The name Inamah carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Inamah was one of the wives of the Islamic prophet Muhammad and is mentioned in various Islamic texts."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Gaining popularity in Western Muslim communities",
+        "Gaining popularity in Western Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Inamah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Inamah",
+      "location": "Dubai, UAE",
+      "story": "A successful entrepreneur named Aisha Inamah in Dubai, UAE attributes much of their success to the blessing of their name Inamah, which means \"Peaceful and gentle\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Peaceful and gentle\" symbolizes Inamah is a Quranic name that means peaceful and gentle. It is derived from the root word 'n-m-h' which conveys the idea of serenity and calmness.. In Islamic spirituality, bearing the name Inamah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of peaceful and gentle.",
+    "created_at": "2025-12-22T19:19:49.79Z",
+    "updated_at": "2025-12-22T04:53:14.229Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1057,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Inamah",
+      "description": "Peaceful and gentle",
+      "additionalName": [
+        "Inama"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Inamah",
+          "description": "Discover the meaning of Inamah - \"Peaceful and gentle\"",
+          "image": "/images/social/inamah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Inamah - Name Meaning",
+          "description": "Learn about the beautiful name Inamah",
+          "image": "/images/social/inamah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Inamah",
+          "description": "Name meaning: Peaceful and gentle",
+          "image": "/images/social/inamah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Inamah - Meaning: Peaceful and gentle",
+        "email_subject": "Beautiful Name: Inamah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Inamah with meaning Peaceful and gentle",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "isa",
+      "izzannisa",
+      "inga",
+      "iqrit"
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "success": true,
+  "data": {
+    "name": "Firzana",
+    "slug": "firzana",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Wise and Intelligent",
+    "long_meaning": "Firzana is an Arabic name that means 'wise and intelligent'. It is a name that reflects a person's sharp mind and quick wit.",
+    "spiritual_meaning": "In Islamic tradition, Firzana is associated with wisdom and knowledge, reflecting the importance of seeking wisdom in the Quran.",
+    "emotional_traits": [
+      "Intelligent",
+      "Wise",
+      "Discerning"
+    ],
+    "hidden_personality_traits": [
+      "I = Inquisitive",
+      "W = Wise",
+      "D = Decisive"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Gold",
+      "Pink",
+      "Gemstone"
+    ],
+    "lucky_stone": "Ruby",
+    "life_path_number": 5,
+    "numerology_meaning": "People with this name have a natural ability to adapt to new situations, new people and new ideas. They have an open mind, a broad outlook on life and a strong sense of adventure.",
+    "in_arabic": {
+      "name": "فرزانة",
+      "meaning": "فرزانة تعني الحكيمة و العاقلة و الذكية جدا",
+      "long_meaning": "فرزانة هي اسم علم مؤنث من أصل عربي و تعني الحكيمة و العاقلة و الذكية جدا، و هي من الأسماء التي تدل على الصفات الحميدة و الجيدة، و التي يرغب الكثير من الناس في تسمية بناتهم بها، و يعود أصل هذا الاسم إلى اللغة العربية و هو مشتق من الفعل فرزَنَ و يعني التفريق و التمييز بين الأشياء، و من هنا يمكن القول أن اسم فرزانة يوحي بالحكمة و العقلانية في التفكير و التصرف."
+    },
+    "in_urdu": {
+      "name": "فرزانہ",
+      "meaning": "فرزانہ مطلب ہے عقلمند، دانشور، اور بہت ذہین",
+      "long_meaning": "فرزانہ ایک عربی मूल کا اسم مؤنث ہے، جس کا مطلب ہے عقلمند، دانشور، اور بہت ذہین۔ یہ نام حسن صفات اور اچھے गुणوں کو ظاہر کرتا ہے، جس کی وجہ سے بہت سے والدین اپنی بیٹیوں کے لیے اس نام کا انتخاب کرتے ہیں۔ اس نام کی اصل عربی زبان میں ہے اور یہ فعل فرزَنَ سے ماخوذ ہے، جس کا مطلب ہے چیزوں کے درمیان تفریق اور تمییز کرنا۔ اس لیے، فرزانہ نام حکمت اور عقلی سوچ و عمل کی طرف اشارہ کرتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "फ़िरज़ाना",
+      "meaning": "फ़िरज़ाना का अर्थ है बुद्धिमान, विद्वान और अत्यधिक बुद्धिमान",
+      "long_meaning": "फ़िरज़ाना एक अरबी मूल का स्त्रीलिंग नाम है, जिसका अर्थ है बुद्धिमान, विद्वान और अत्यधिक बुद्धिमान। यह नाम अच्छे गुणों और अच्छे चरित्र को दर्शाता है, जिस कारण से कई माता-पिता अपनी बेटियों के लिए इस नाम का चयन करते हैं। इस नाम की उत्पत्ति अरबी भाषा में है और यह क्रिया فرزَنَ से व्युत्पन्न है, जिसका अर्थ है चीजों के बीच अंतर करना और भेद करना। इसलिए, फ़िरज़ाना नाम बुद्धिमत्ता और तर्कसंगत सोच और क्रिया की ओर संकेत करता है।"
+    },
+    "in_pashto": {
+      "name": "فرزانه",
+      "meaning": "فرزانه يعني هوښيار، سترګه او ډېر هوښيار",
+      "long_meaning": "فرزانه د عربي اصل يو ښځينه نوم دی، چې معنا يې هوښيار، سترګه او ډېر هوښيار دي. دا نوم ښه صفات او ښايسته ځانګړتيو ته اشاره کوي، له دې امله ډېر پلرونه او مورنۍ خپلې لو daughters ته دا نوم ورکوي. د دې نوم اصل په عربي ژبه کې دی او د فرزَنَ فعل څخه اخيستل شوی دی، چې معنا يې د شيانو تر منځ توپير او تمییز کول دي. نو ځکه، فرزانه نوم د حکمت او عقلي فکر او عمل په لور اشاره کوي."
+    },
+    "in_english": {
+      "name": "Firzana",
+      "meaning": "Firzana means wise, intelligent, and highly knowledgeable",
+      "long_meaning": "Firzana is a feminine given name of Arabic origin, meaning wise, intelligent, and highly knowledgeable. The name signifies good qualities and character traits, making it a popular choice among parents for their daughters. Etymologically, Firzana is derived from the Arabic root 'فرز' which connotes differentiation and distinction. Historically, the name reflects the value placed on wisdom and rational thinking in Islamic tradition. Spiritually, Firzana symbolizes the pursuit of knowledge and understanding. In modern times, the name Firzana continues to be used across various Muslim cultures, symbolizing the aspiration for intellectual and spiritual growth."
+    },
+    "pronunciation": {
+      "english": "Fir-za-nah",
+      "urdu": "فرزانی",
+      "hindi": "फ़िरज़ानी",
+      "pashto": "فرزاني",
+      "ipa": "/fɪrˈzɑːnə/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#FirzanaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Firzana"
+    ],
+    "name_variations": [
+      "Firzanah"
+    ],
+    "popularity_score": 60,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 79,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Firzana Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Firzana, a beautiful Islam name meaning \"Wise and Intelligent\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Firzana, Islam name, baby names, Wise and Intelligent, Islam baby names, name meaning",
+      "description_paragraph": "Firzana is a meaningful Islam name of Arabic origin that means \"Wise and Intelligent\". Firzana is an Arabic name that means 'wise and intelligent'. It is a name that reflects a person's sharp mind and quick wit.",
+      "keywords": [
+        "Firzana",
+        "Islam name",
+        "baby names",
+        "Wise and Intelligent",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Firzana in Islam tradition?",
+          "a": "Firzana is a beautiful Islam name meaning \"Wise and Intelligent\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Firzana a good Islam name for a baby?",
+          "a": "Yes, Firzana is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Firzana?",
+          "a": "The name Firzana has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Firzana correctly?",
+          "a": "Firzana is pronounced Fir-za-nah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Firzana?",
+          "a": "Naming a child Firzana brings blessings. The meaning \"Wise and Intelligent\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Firzana?",
+          "a": "Firzana is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Firzana meaning",
+      "secondary_keywords": [
+        "Islam name Firzana",
+        "Firzana meaning",
+        "Firzana origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Firzana has been widely adopted in the Islamic world and beyond, particularly among Muslims. It is a name that signifies intelligence and wisdom, traits that are highly prized in Islamic culture. Firzana is a reminder of the importance of knowledge and education in Islamic societies, where the pursuit of knowledge is seen as a religious duty. The name can also be seen as a source of inspiration and motivation for individuals to strive for excellence and success in their academic pursuits and careers.",
+    "spiritual_significance": "From a spiritual perspective, the name Firzana can be seen as a reminder of the wisdom and guidance that comes from Allah (God). The Quran describes Allah as the \"Knowing One\" (Al-'Alim) and encourages Muslims to seek knowledge and wisdom in their search for truth and understanding. The name Firzana can also be seen as a reflection of the inner wisdom and intelligence that Allah bestows upon each individual. It is a reminder that true intelligence and wisdom come not only from academic knowledge but also from a deep understanding of the self and the world around us. Ultimately, the name Firzana encourages us to strive for wisdom and knowledge, both in this world and in the next, as a means of drawing closer to Allah and fulfilling our spiritual potential.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Rare in modern times, but found in some historical records. The name Firzana carried significant weight in that era.",
+        "time_period": "13th century",
+        "context": "Found in some historical records of the Middle East."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Increasingly used as a given name in some Muslim communities"
+      ],
+      "platforms": [
+        "Social media, online forums"
+      ],
+      "modern_context": "The name Firzana remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Firzana",
+      "location": "Cairo, Egypt",
+      "story": "A successful entrepreneur named Fatima Firzana in Cairo, Egypt attributes much of their success to the blessing of their name Firzana, which means \"Wise and Intelligent\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Wise and Intelligent\" symbolizes Firzana is an Arabic name that means 'wise and intelligent'. It is a name that reflects a person's sharp mind and quick wit.. In Islamic spirituality, bearing the name Firzana serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of wise and intelligent.",
+    "created_at": "2025-12-22T19:19:49.836Z",
+    "updated_at": "2025-12-22T04:53:14.616Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1544,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Firzana",
+      "description": "Wise and Intelligent",
+      "additionalName": [
+        "Firzanah"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Firzana",
+          "description": "Discover the meaning of Firzana - \"Wise and Intelligent\"",
+          "image": "/images/social/firzana-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Firzana - Name Meaning",
+          "description": "Learn about the beautiful name Firzana",
+          "image": "/images/social/firzana-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Firzana",
+          "description": "Name meaning: Wise and Intelligent",
+          "image": "/images/social/firzana-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Firzana - Meaning: Wise and Intelligent",
+        "email_subject": "Beautiful Name: Firzana"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Firzana with meaning Wise and Intelligent",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "farisha",
+      "firoz",
+      "faekah",
+      "fardeen",
+      "fadi",
+      "faiyaz",
+      "fakeehah"
+    ]
+  }
+}

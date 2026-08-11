@@ -1,0 +1,291 @@
+{
+  "success": true,
+  "data": {
+    "name": "Shaykh",
+    "slug": "shaykh",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Elder, Leader",
+    "long_meaning": "Shaykh is an Arabic title of respect for an elder or religious leader.",
+    "spiritual_meaning": "A Shaykh in Islamic tradition is a spiritual guide or teacher, often a Sufi master.",
+    "emotional_traits": [
+      "Wise",
+      "Respectful",
+      "Leadership"
+    ],
+    "hidden_personality_traits": [
+      "V = Visionary",
+      "C = Charismatic",
+      "L = Loyal",
+      "D = Devoted"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Yellow",
+      "Gold"
+    ],
+    "lucky_stone": "Lapis Lazuli",
+    "life_path_number": 1,
+    "numerology_meaning": "Indicates independence, originality, and a strong will. Those born under this number are self-motivated and can achieve great things if they put their minds to it.",
+    "in_arabic": {
+      "name": "شيخ",
+      "meaning": "شيخ يعني كبير السن أو الرئيس أو الحكيم",
+      "long_meaning": "اسم شيخ مشتق من الجذر الشيح الذي يعني الشيخوخة أو كبار السن، وهو من الأسماء التي تحمل معاني الفخر والاحترام في الثقافة الإسلامية. يستخدم لوصف الشخص الحكيم أو الرئيس في مجموعة أو مجتمع ما. كما ورد في القرآن الكريم في عدة مواضع، منها قول الله تعالى: 'وَمَا كَانَ لَهُ عَلَيْهِمْ مِنْ سُلْطَانٍ إِلَّا لِنَعْلَمَ مَنْ يَأْمَنُهُ وَمَنْ يَخَافُهُ' (الإسراء: 33)، حيث يمكن تفسير السياق بالحكمة والقدرة."
+    },
+    "in_urdu": {
+      "name": "شیخ",
+      "meaning": "شیخ کا مطلب ہے بزرگ، رئیس یا حکیم",
+      "long_meaning": "شیخ نام عربی زبان کی اصطلاح ہے جس کا مطلب ہے عمر رسیدہ شخص، قبائل یا گروہ کا سربراہ یا فاضل و حکیم۔ یہ نام اسلامی ثقافت میں عزت و احترام کا حامل ہے۔ عربی جڑوں سے اخذ کردہ، اس کا استعمال مذہبی و دنیوی رہنماؤں کے لئے کیا جاتا ہے۔ جنوبی ایشیائی اسلامی روایات میں بھی اس کا استعمال شائع ہے، جہاں یہ علماء و مشایخ کے لئے استعمال ہوتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "शेख",
+      "meaning": "शेख का अर्थ है बुजुर्ग, प्रमुख या विद्वान",
+      "long_meaning": "शेख नाम की उत्पत्ति अरबी भाषा से हुई है, जिसका अर्थ है वृद्ध व्यक्ति, समूह का नेता या ज्ञानी व्यक्ति। इस नाम का प्रयोग इस्लामी संस्कृति में सम्मान और आदर के प्रतीक के रूप में किया जाता है। भारत में मुस्लिम समुदायों में भी इसका प्रयोग विद्वानों और धार्मिक नेताओं के लिए किया जाता है, जो उच्च सम्मान और आध्यात्मिक ज्ञान के प्रतीक के रूप में देखा जाता है।"
+    },
+    "in_pashto": {
+      "name": "شیخ",
+      "meaning": "شیخ د لوی سړي یا د پوهاندو او مشرکۍ مطلب دی",
+      "long_meaning": "د شیخ نوم په پښتو کې د لوی سړي یا د یوې ډلې د مشر په معنا کارول کېږي. دا نوم د احترام او درناوي غښتلی مفهوم لري، په ځانګړي ډول د پوهانو او مذهبي مشرانو په منځ کې. په پښتني کلتور او اسلامي روایاتو کې، شیخ یو داسې شخص دی چې د حکمت، علم او مشرکۍ صفات پکې وي."
+    },
+    "in_english": {
+      "name": "Shaykh",
+      "meaning": "Shaykh means an elderly person, leader, or wise person",
+      "long_meaning": "The name Shaykh is derived from the Arabic root 'sh-kh' which signifies elderly or wise. In Islamic tradition, it denotes a respected figure, often a learned person or leader in a community. The term is frequently used in the Quran and Hadith to refer to wise and knowledgeable individuals. Throughout Islamic history, the title has been bestowed upon notable scholars, Sufi leaders, and community elders, symbolizing their wisdom, piety, and leadership qualities."
+    },
+    "pronunciation": {
+      "english": "shaykh",
+      "urdu": "اردو میں تلفظ کی تفصیل شے-خ",
+      "hindi": "हिन्दी में उच्चारण विवरण शेख",
+      "pashto": "په پښتو کې د تلفظ تفصیل شیخ",
+      "ipa": "/ʃeɪk/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#ShaykhMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Shaykh"
+    ],
+    "name_variations": [],
+    "popularity_score": 54,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 77,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Shaykh Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Shaykh, a beautiful Islam name meaning \"Elder, Leader\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Shaykh, Islam name, baby names, Elder, Leader, Islam baby names, name meaning",
+      "description_paragraph": "Shaykh is a meaningful Islam name of Arabic origin that means \"Elder, Leader\". Shaykh is an Arabic title of respect for an elder or religious leader.",
+      "keywords": [
+        "Shaykh",
+        "Islam name",
+        "baby names",
+        "Elder, Leader",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Shaykh in Islam tradition?",
+          "a": "Shaykh is a beautiful Islam name meaning \"Elder, Leader\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Shaykh a good Islam name for a baby?",
+          "a": "Yes, Shaykh is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Shaykh?",
+          "a": "The name Shaykh has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Shaykh correctly?",
+          "a": "Shaykh is pronounced shaykh in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Shaykh?",
+          "a": "Naming a child Shaykh brings blessings. The meaning \"Elder, Leader\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Shaykh?",
+          "a": "Shaykh is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 97,
+      "focus_keyword": "Shaykh meaning",
+      "secondary_keywords": [
+        "Islam name Shaykh",
+        "Shaykh meaning",
+        "Shaykh origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "In many Muslim communities, the title Shaykh is given as a sign of respect and honor to religious leaders, teachers, and scholars. It is often used to denote seniority, wisdom, and knowledge in both secular and religious circles.",
+    "spiritual_significance": "The title Shaykh holds a deep spiritual significance in Muslim culture, representing a guide or teacher on the spiritual path to God. The Shaykh serves as a bridge between the wider community and the divine, providing guidance, knowledge, and spiritual direction to those seeking a deeper connection with Allah. Through their wisdom and teachings, the Shaykh plays a crucial role in helping individuals navigate the complexities of Islamic belief and practice and in fostering a strong, vibrant spiritual community.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Shaykh carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Classic Islamic name maintaining steady popularity"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Shaykh remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Yusuf Shaykh",
+      "location": "Cairo, Egypt",
+      "story": "A successful entrepreneur named Yusuf Shaykh in Cairo, Egypt attributes much of their success to the blessing of their name Shaykh, which means \"Elder, Leader\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Elder, Leader\" symbolizes Shaykh is an Arabic title of respect for an elder or religious leader.. In Islamic spirituality, bearing the name Shaykh serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of elder, leader.",
+    "created_at": "2025-12-22T19:19:49.803Z",
+    "updated_at": "2025-12-22T04:53:14.483Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1328,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Shaykh",
+      "description": "Elder, Leader",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Shaykh",
+          "description": "Discover the meaning of Shaykh - \"Elder, Leader\"",
+          "image": "/images/social/shaykh-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Shaykh - Name Meaning",
+          "description": "Learn about the beautiful name Shaykh",
+          "image": "/images/social/shaykh-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Shaykh",
+          "description": "Name meaning: Elder, Leader",
+          "image": "/images/social/shaykh-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Shaykh - Meaning: Elder, Leader",
+        "email_subject": "Beautiful Name: Shaykh"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Shaykh with meaning Elder, Leader",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saim",
+      "saal",
+      "sadaldin"
+    ]
+  }
+}

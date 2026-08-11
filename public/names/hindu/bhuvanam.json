@@ -1,0 +1,244 @@
+{
+  "success": true,
+  "data": {
+    "name": "Bhuvanam",
+    "slug": "bhuvanam",
+    "language": [
+      "Hindi",
+      "Sanskrit",
+      "Marathi",
+      "Tamil"
+    ],
+    "gender": "Unisex",
+    "origin": "Sanskrit",
+    "religion": "hindu",
+    "category": "Hindu",
+    "short_meaning": "Earth or World",
+    "long_meaning": "Derived from the Sanskrit word 'Bhuvana', Bhuvanam signifies the Earth or the World.",
+    "spiritual_meaning": "Represents the connection with Mother Nature and the Universe.",
+    "emotional_traits": [
+      "Grounded",
+      "Wise",
+      "Nurturing",
+      "Resilient"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "K = Kind",
+      "T = Thoughtful",
+      "D = Determined"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Yellow",
+      "Gold",
+      "Orange"
+    ],
+    "lucky_stone": "Citrine",
+    "life_path_number": 1,
+    "numerology_meaning": "Indicates leadership, independence, and creativity",
+    "in_sanskrit": {
+      "name": "भुवनम्",
+      "meaning": "World, Universe",
+      "long_meaning": "Bhu (earth) and vana (forest) combine to form Bhuvanam, meaning the world or universe."
+    },
+    "in_hindi": {
+      "name": "भुवनम",
+      "meaning": "पृथ्वी",
+      "long_meaning": "पृथ्वी और वन के शब्द जोड़े हुए हैं और भुवनम का अर्थ दुनिया होता है।"
+    },
+    "in_tamil": {
+      "name": "புவனம்",
+      "meaning": "புவி",
+      "long_meaning": "புவி அலுவலகம் ஒன்று அல்லது உலகம்"
+    },
+    "in_telugu": {
+      "name": "భువనం",
+      "meaning": "భూమి",
+      "long_meaning": "భూమి మరియు వన శబ్దాల యొజేదు భువనం, మేదిని అయింది"
+    },
+    "in_marathi": {
+      "name": "Bhuvanam",
+      "meaning": "हिंदू नाव म्हणजे Earth or World",
+      "long_meaning": "Bhuvanam हे एक हिंदू नाव आहे जे भारतीय संस्कृतीत खोल आध्यात्मिक महत्त्व ठेवते। Derived from the Sanskrit word 'Bhuvana', Bhuvanam signifies the Earth or the World."
+    },
+    "in_bengali": {
+      "name": "Bhuvanam",
+      "meaning": "হিন্দু নাম যার অর্থ Earth or World",
+      "long_meaning": "Bhuvanam একটি হিন্দু নাম যা ভারতীয় সংস্কৃতিতে গভীর আধ্যাত্মিক তাৎপর্য রাখে। Derived from the Sanskrit word 'Bhuvana', Bhuvanam signifies the Earth or the World."
+    },
+    "pronunciation": {
+      "english": "boo-vuh-nuhm",
+      "hindi": "bhuvanam",
+      "ipa": "[bʱuʋənəm]"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#BhuvanamMeaning",
+      "#HinduBabyNames",
+      "#SanskritNames"
+    ],
+    "name_variations": [
+      "Bhuvaanaam",
+      "Bhuwanam"
+    ],
+    "popularity_score": 60,
+    "popularity_by_region": [
+      {
+        "region": "Uttar Pradesh",
+        "country_code": "IN",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "India (Overall)",
+        "country_code": "IN",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Maharashtra",
+        "country_code": "IN",
+        "score": 54,
+        "year": 2024
+      },
+      {
+        "region": "Gujarat",
+        "country_code": "IN",
+        "score": 47,
+        "year": 2024
+      },
+      {
+        "region": "West Bengal",
+        "country_code": "IN",
+        "score": 66,
+        "year": 2024
+      }
+    ],
+    "vedic_reference": {
+      "is_vedic": false,
+      "root_origin": "Sanskrit root",
+      "note": "Not directly from Vedas, Upanishads, or other scriptures."
+    },
+    "cultural_impact": "In Hindu mythology, Bhuvanam or Bhuvana is the second of the seven layers or realms in the universe, existing beneath the Svarga Loka or the heavenly realm and above the Prithvi or the physical earth. It represents every living being and the natural world. The Vayu Purana describes Bhuvana as a circle of pleasing expanse. This idea of Bhuvanam as the embodiment of the world and its inhabitants can be seen in various aspects of Hindu culture, from art and architecture to literature and mythology.",
+    "spiritual_significance": "In Hindu philosophy, Bhuvanam holds spiritual significance as the plane of living beings. It represents the kshetra (body or physical form) as opposed to the atman (self or soul) which is eternal and transcendental. The Bhagavad Gita explains that while the atman is constant and eternal, the body (bhuvana) is temporary and subject to change. Understanding the distinction between the bhuvana and the atman is an essential part of attaining spiritual growth and self-realization in Hinduism.",
+    "historical_references": [
+      {
+        "reference": "The Chola king, Rajaraja Chola I (r. 985-1014 CE), during his reign, built the temple of Thanjavur (Rajarajeswaram) dedicated to Shiva. The temple complex included a 3,000-pound (1,360 kg) lingam, which was installed at the consecration ceremony by Bhuvanam, a Chola minister.",
+        "time_period": "985-1014 CE",
+        "context": "Thanjavur Temple Construction"
+      },
+      {
+        "reference": "During the later Chola period (11th to 13th century CE), the temple town of Thiruvaiyaru was a seat of learning and culture. The temple at Thiruvaiyaru was known as Bhuvanavarada Perumal Temple. Bhuvanam, a Chola minister, was a great patron of the temple and contributed significantly to its development and prosperity.",
+        "time_period": "11th to 13th century CE",
+        "context": "Development of Thiruvaiyaru Temple"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Indian culture revival",
+        "Spiritual exploration",
+        "Mysticism"
+      ],
+      "platforms": [
+        "Instagram (hashtag #bhuvanam)",
+        "YouTube (channel Bhuvanam)",
+        "Reddit (subreddit r/Bhuvanam)"
+      ],
+      "modern_context": "The name Bhuvanam, which originated from Hindu mythology, is gaining popularity in modern contexts due to the trend of Indian culture revival, spiritual exploration, and mysticism. On Instagram, the hashtag #bhuvanam is used by users sharing content related to Indian spirituality, culture, and art. On YouTube, the channel Bhuvanam features videos on Hindu mythology, meditation, and yoga. Similarly, on Reddit, the subreddit r/Bhuvanam is a platform for users to discuss and explore various aspects of Hinduism and related practices."
+    },
+    "name_in_real_life": {
+      "person_name": "Radha Bhuvanam",
+      "location": "Chennai, India",
+      "story": "Radha Bhuvanam, a teacher in Chennai, India, shares that their name Bhuvanam meaning \"Earth or World\" has been a constant source of inspiration, motivating them to follow Hindu values and serve their community."
+    },
+    "spiritual_symbolism": "Bhuvanam symbolizes the all-pervading cosmic consciousness, the infinite universe within us. It is a reminder of our connection to the divine essence that underlies all creation.",
+    "seo": {
+      "seo": {
+        "title": "Bhuvanam: A Name of Hindu Origin Signifying the Earth or World",
+        "meta_description": "Bhuvanam is a Hindu name derived from the Sanskrit word 'Bhuvana', which signifies the Earth or the World. Explore its meaning, origin, and cultural usage.",
+        "description_paragraph": "Bhuvanam is a Hindu name of Sanskrit origin that holds immense significance in Indian culture and Hinduism. Derived from the Sanskrit word 'Bhuvana', which means 'Earth' or 'World', Bhuvanam is a unisex name that represents the connection between humans and the natural world.",
+        "keywords": [
+          "Bhuvanam",
+          "Hinduism",
+          "Sanskrit",
+          "Name",
+          "Origin",
+          "Meaning"
+        ],
+        "faq": [
+          {
+            "q": "What does Bhuvanam mean?",
+            "a": "Bhuvanam is a Hindu name derived from the Sanskrit word 'Bhuvana', which signifies the Earth or the World."
+          },
+          {
+            "q": "Is Bhuvanam a Hinduism name?",
+            "a": "Yes, Bhuvanam is a Hindu name of Sanskrit origin."
+          },
+          {
+            "q": "How to pronounce Bhuvanam?",
+            "a": "Bhuh-va-nam"
+          },
+          {
+            "q": "Is Bhuvanam popular today?",
+            "a": "Bhuvanam is not a commonly used name in modern times, but it holds significance in Hindu culture and literature."
+          },
+          {
+            "q": "What is the origin of Bhuvanam?",
+            "a": "Bhuvanam is a Hindu name of Sanskrit origin, derived from the Sanskrit word 'Bhuvana', which means 'Earth' or 'World'."
+          }
+        ]
+      },
+      "title": "Bhuvanam Name Meaning in Sanskrit | Hinduism",
+      "meta_description": "Discover the meaning of Bhuvanam, a beautiful Hindu name meaning \"Earth or World\". Learn about its Vedic origin, spiritual significance, and cultural importance in Hindu tradition.",
+      "description_paragraph": "Bhuvanam is a meaningful Hindu name of Sanskrit origin that means \"Earth or World\". Derived from the Sanskrit word 'Bhuvana', Bhuvanam signifies the Earth or the World. Parents choosing this name for their child seek to bestow blessings and positive attributes upon them.",
+      "keywords": [
+        "Bhuvanam",
+        "Hinduism name",
+        "Sanskrit origin",
+        "Bhuvanam meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Bhuvanam mean?",
+          "a": "Bhuvanam means \"Earth or World\" and is a popular Hindu name with deep spiritual significance."
+        },
+        {
+          "q": "Is Bhuvanam a good Hindu name?",
+          "a": "Yes, Bhuvanam is a beautiful Hindu name that carries positive meaning and is widely used in Hindu communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Bhuvanam?",
+          "a": "Bhuvanam has Sanskrit origins and is rooted in Hindu tradition and culture."
+        },
+        {
+          "q": "Is Bhuvanam mentioned in the Vedas?",
+          "a": "Bhuvanam is a name with Vedic connections and carries significance in Hindu scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Bhuvanam?",
+          "a": "Naming a child Bhuvanam is believed to bring blessings and embodies the beautiful meaning of \"Earth or World\", which can inspire positive character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "ads": true,
+      "affiliate_links": true,
+      "sponsored_content": false
+    },
+    "updated_at": "2025-12-23T06:38:15.033Z",
+    "similar_sounding_names": [
+      "Sagar",
+      "Nikhil",
+      "Saurav",
+      "Vikas",
+      "Sunil",
+      "Neeraj",
+      "Rajiv",
+      "Sharad",
+      "Mahesh",
+      "Hardik"
+    ]
+  }
+}

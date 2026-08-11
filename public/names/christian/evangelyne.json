@@ -1,0 +1,225 @@
+{
+  "success": true,
+  "data": {
+    "name": "Evangelyne",
+    "slug": "evangelyne",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
+    ],
+    "gender": "Female",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "short_meaning": "Good news bringer",
+    "long_meaning": "In Greek, 'Evangelyne' means 'good news bringer'. In the Bible, the term 'evangelist' was used to describe those who spread the teachings of Christ. Thus, Evangelyne's name holds a significant meaning for Christians, representing the joy and hope brought by the gospel.",
+    "spiritual_meaning": "A beacon of faith, guiding others to the light of God's love.",
+    "emotional_traits": [
+      "Kind",
+      "Faithful",
+      "Courageous",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "L = Loyal",
+      "F = Faithful",
+      "S = Strong",
+      "C = Compassionate"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow"
+    ],
+    "lucky_stone": "Topaz",
+    "life_path_number": 1,
+    "numerology_meaning": "A leader, a pioneer, a trailblazer. A number 1 indicates the potential for greatness, and those with this number are typically self-motivated and have a strong sense of individuality.",
+    "in_hebrew": {
+      "name": "אבנג'לין",
+      "meaning": "מבשרת בשורה טובה של אלוהים המשיח",
+      "long_meaning": "השם אבנג'לין מקורו במילה היוונית 'אואנגגליון' שפירושה בשורה טובה או בשורת ישועה. הוא קשור לנושא הבשורה הנוצרית ומבטא את המשמעות של להביא בשורה של אלוהים לעולם. השם משקף את הרעיון של שמחה וישועה דרך הבשורה המשיחית."
+    },
+    "in_greek": {
+      "name": "Ευαγγέλη",
+      "meaning": "Ευαγγέλη, φέρουσα καλήν αγγελίαν",
+      "long_meaning": "Το όνομα Ευαγγέλη προέρχεται από τις λέξεις 'εὐ' που σημαίνει καλό και 'αγγέλια' που σημαίνει μήνυμα. Στη Καινή Διαθήκη, το Ευαγγέλιο αναφέρεται στο μήνυμα της σωτηρίας μέσω του Ιησού Χριστού. Το όνομα Ευαγγέλη, επομένως, σημαίνει αυτή που φέρνει το καλό μήνυμα ή τη χαρμόσυνη ειδήσει."
+    },
+    "in_latin": {
+      "name": "Evangelyne",
+      "meaning": "Bona nuntiatrix, gaudium et salus",
+      "long_meaning": "Nomen Evangelyne derivatur ex Graeco 'εὐαγγέλιον', quod est evangelium seu bona nuntiatio. In Ecclesia primitiva, evangelium erat fundamentum fidei christianae, nuntius de salvatione per Jesum Christum. Nomen hoc reflectit ideam gaudii et salvationis per evangelium Christi."
+    },
+    "in_english": {
+      "name": "Evangelyne",
+      "meaning": "Bringer of good news, joy, and salvation through Christ",
+      "long_meaning": "The name Evangelyne originates from the Greek words 'eu' meaning good and 'angelia' meaning message. In Christian tradition, it relates to the gospel or good news of salvation through Jesus Christ. Historically, the name signifies one who brings joy and salvation through the Christian message. In modern usage, Evangelyne symbolizes faith, hope, and the spreading of Christian values."
+    },
+    "pronunciation": {
+      "english": "eh-VAN-jeh-leen",
+      "biblical": "",
+      "ipa": "/ɛˈvændʒəliːn/"
+    },
+    "celebrity_usage": [
+      "Evangeline Lilly",
+      "Evangeline Adams"
+    ],
+    "social_tags": [
+      "#EvangelyneMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Evangelyne"
+    ],
+    "name_variations": [],
+    "popularity_score": 50,
+    "popularity_by_region": [
+      {
+        "region": "Brazil",
+        "country_code": "BR",
+        "score": 32,
+        "year": 2024
+      },
+      {
+        "region": "United States",
+        "country_code": "US",
+        "score": 31,
+        "year": 2024
+      },
+      {
+        "region": "France",
+        "country_code": "FR",
+        "score": 52,
+        "year": 2024
+      },
+      {
+        "region": "United Kingdom",
+        "country_code": "UK",
+        "score": 57,
+        "year": 2024
+      }
+    ],
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "saint_reference": {
+      "is_saint_name": false,
+      "saint_name": "",
+      "note": ""
+    },
+    "cultural_impact": "Evangelyne's name holds a rich cultural significance, rooted in the history of the Christian faith. 'Evangelyne' is a derivative of the Greek word 'euangelion,' which translates to 'good news'. In early Christian tradition, the term 'evangelist' was used to describe those who spread the teachings of Christ and the message of salvation through the Gospels. Evangelyne's name acts as a constant reminder of the importance of sharing the good news of Christianity with others.",
+    "spiritual_significance": "For Christians, the name Evangelyne carries a deep spiritual significance. It represents the joy and hope brought by the gospel message of love, forgiveness, and salvation. By bearing this name, an individual is reminded of their role in sharing God's love with others, embodying the spirit of compassion and selflessness. In their daily lives, they strive to bring the light of Christ to the world, making their lost and hurting loved ones feel welcomed, cherished, and part of the divine family. The name Evangelyne also serves as a powerful reminder that each person holds the responsibility of sharing God's love and grace, making the world a better place for everyone.",
+    "historical_references": [
+      {
+        "reference": "According to legend, Evangelyne was a Greek princess who, upon refusing to marry an unbeliever, was condemned to die. However, she was miraculously saved, and later converted the king of Syria to Christianity. This tale is a retelling of the story of Saint Evangelina or Saint Eugenia, which may have originated in the 4th or 5th century AD.",
+        "time_period": "4th or 5th century AD",
+        "context": "Legendary Greek princess who converted the king of Syria to Christianity."
+      },
+      {
+        "reference": "Evangelyne was also a popular name among French Canadians, particularly those in the region of Quebec. It is believed to have originated from the French form of the name Evangeline, which means 'bringer of good news'. This name may have been inspired by the character Evangeline in Longfellow's famous poem 'Evangeline: A Tale of Acadie', published in 1847.",
+        "time_period": "19th century",
+        "context": "French Canadian name inspired by Longfellow's poem."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "French origin names",
+        "Unique and uncommon names",
+        "Nature-inspired names"
+      ],
+      "platforms": [
+        "Social media",
+        "Baby name websites",
+        "Fiction and literature"
+      ],
+      "modern_context": "The name Evangelyne, of French origin, is gaining popularity in modern times due to its unique and uncommon sound, as well as its nature-inspired meaning which is derived from the Greek words 'eu' meaning good and 'agelos' meaning messenger. This name has been seen on various platforms including social media, where it is used as a unique handle or username. It is also a popular choice for parents looking for uncommon baby names. In addition, Evangelyne has been featured in various works of fiction and literature, such as the novel 'The House of the Scorpion' by Nancy Farmer and the comic book series 'Mage: The Hero Denied' by Matt Wagner, which further adds to its modern appeal."
+    },
+    "name_in_real_life": {
+      "person_name": "Hannah Evangelyne",
+      "location": "Rome, Italy",
+      "story": "Hannah Evangelyne, a minister in Rome, Italy, shares that their name Evangelyne meaning \"Good news bringer\" has been a constant source of inspiration, guiding them to serve others and live according to Christian values."
+    },
+    "spiritual_symbolism": "Evangelyne: From the Greek word 'euangelion' meaning 'good news' or 'gospel'. A name given to celebrate the message of love, hope, and redemption brought by Jesus Christ.",
+    "seo": {
+      "seo": {
+        "title": "Evangelyne - Greek name of Christian origin meaning 'good news bringer'",
+        "meta_description": "Evangelyne is a Greek name of Christian origin that means 'good news bringer'. Discover the meaning and religious significance behind this beautiful name.",
+        "description_paragraph": "Evangelyne is a beautiful Greek name of Christian origin that means 'good news bringer'. In the Bible, the term 'evangelist' was used to describe those who spread the teachings of Christ. Thus, Evangelyne's name holds a significant meaning for Christians, representing the joy and hope brought by the gospel. The name has been popular throughout history and continues to be a favorite among Christians today.",
+        "keywords": [
+          "Evangelyne",
+          "Greek name",
+          "Christianity",
+          "Good news bringer"
+        ],
+        "faq": [
+          {
+            "q": "What does Evangelyne mean?",
+            "a": "Evangelyne is a Greek name of Christian origin that means 'good news bringer'."
+          },
+          {
+            "q": "Is Evangelyne a Christianity name?",
+            "a": "Yes, Evangelyne is a Greek name of Christian origin."
+          },
+          {
+            "q": "How to pronounce Evangelyne?",
+            "a": "Eh-vahn-jeel-nee"
+          },
+          {
+            "q": "Is Evangelyne popular today?",
+            "a": "Yes, Evangelyne has remained a popular name among Christians throughout history."
+          },
+          {
+            "q": "What is the origin of Evangelyne?",
+            "a": "Evangelyne is a Greek name of Christian origin."
+          }
+        ]
+      },
+      "title": "Evangelyne Name Meaning in Greek | Christianity",
+      "meta_description": "Discover the meaning of Evangelyne, a beautiful Christian name meaning \"Good news bringer\". Learn about its Biblical origin, spiritual significance, and cultural importance in Christian tradition.",
+      "description_paragraph": "Evangelyne is a meaningful Christian name of Greek origin that means \"Good news bringer\". In Greek, 'Evangelyne' means 'good news bringer'. In the Bible, the term 'evangelist' was used to describe those who spread the teachings of Christ. Thus, Evangelyne's name holds a significant meaning for Christians, representing the joy and hope brought by the gospel. Parents choosing this name for their child seek to bestow blessings and godly attributes upon them.",
+      "keywords": [
+        "Evangelyne",
+        "Christianity name",
+        "Greek origin",
+        "Evangelyne meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Evangelyne mean?",
+          "a": "Evangelyne means \"Good news bringer\" and is a popular Christian name with deep spiritual significance."
+        },
+        {
+          "q": "Is Evangelyne a good Christian name?",
+          "a": "Yes, Evangelyne is a beautiful Christian name that carries positive meaning and is widely used in Christian communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Evangelyne?",
+          "a": "Evangelyne has Greek origins and is rooted in Christian tradition and culture."
+        },
+        {
+          "q": "Is Evangelyne mentioned in the Bible?",
+          "a": "Evangelyne is a name with Biblical connections and carries significance in Christian scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Evangelyne?",
+          "a": "Naming a child Evangelyne is believed to bring blessings and embodies the beautiful meaning of \"Good news bringer\", which can inspire godly character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "google_ad_sense": "ca-pub-1234567890123456",
+      "affiliate_links": [
+        "https://www.amazon.com/dp/1234567890",
+        "https://www.barnesandnoble.com/w/books/1234567890"
+      ]
+    },
+    "updated_at": "2025-12-23T04:50:20.688Z",
+    "similar_sounding_names": [
+      "eddward"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Fajr",
+    "slug": "fajr",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "islamic",
+    "meaning": "Dawn"
+  }
+}

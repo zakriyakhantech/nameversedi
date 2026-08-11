@@ -1,0 +1,289 @@
+{
+  "success": true,
+  "data": {
+    "name": "Mahban",
+    "slug": "mahban",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "(Male/Female/Unisex)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Compassionate friend",
+    "long_meaning": "Derived from the Arabic word 'mahabbah', meaning 'love'. Mahban signifies a compassionate friend or someone who embodies love and kindness.",
+    "spiritual_meaning": "In Islamic tradition, Mahban represents the bond of love and friendship between believers, reflecting the Hadith 'The believer to the believer is like a building, each part strengthens the other.'",
+    "emotional_traits": [
+      "Kind",
+      "Just",
+      "Peaceful",
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "C = Courageous",
+      "L = Loyal",
+      "D = Dutiful"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 6,
+    "numerology_meaning": "A harmonizing, caring and loving person.",
+    "in_arabic": {
+      "name": "محبان",
+      "meaning": "المحبان أهل الرحمة و العطاء",
+      "long_meaning": "المحبان أهل الرحمة و العطاء، و هم أهل الذکر، أهل العلم، أهل الحکم، و هم الذين یتکفلون بالمسکین، و یقدمون العطاء، و یتطوعون فی الخیر، و هم أهل الجود، و هم أهل الصدق، و هم أهل العفاف، و هم أهل الخیر، و هم أهل الإحسان، و هم أهل الشکر، و هم أهل الذکر، و هم أهل العلم، و هم أهل الحکم، و هم أهل الذیق، و هم أهل السخاء، و هم أهل الخیر، و هم أهل الإحسان، و هم أهل الشکر، و هم أهل الذکر، و هم أهل العلم، و هم أهل الحکم، و هم أهل الذیق، و هم أهل السخاء، و هم أهل الخیر، و هم أهل الإحسان، و هم أهل الشکر، و هم أهل الذکر"
+    },
+    "in_urdu": {
+      "name": "محبان",
+      "meaning": "محبان اللوم کے لائق اور دوسروں کو خیرات دینے والے",
+      "long_meaning": "محبان اللوم کے لائق اور دوسروں کو خیرات دینے والے، وہ لوگ ہیں جو اللہ تعالیٰ کا ذکر کرتے ہیں، وہ علم کے مالک ہیں، وہ حکم کے مالک ہیں، اور وہ ہیں جو مساکین کے متعلق تناول کرتے ہیں اور خیرات پیش کرتے ہیں، وہ ہیں جو سخاوت کے مالک ہیں، وہ ہیں جو صادقین ہیں، وہ ہیں جو عفاف کے مالک ہیں، اور وہ ہیں جو خیر کے مالک ہیں، وہ ہیں جو احسان کے مالک ہیں، اور وہ ہیں جو شُکر کے مالک ہیں، اور وہ ہیں جو ذکر کے مالک ہیں، اور وہ ہیں جو علم کے مالک ہیں، اور وہ ہیں جو حکم کے مالک ہیں، اور وہ ہیں جو ذیق کے مالک ہیں، اور وہ ہیں جو سخا کے مالک ہیں، اور وہ ہیں جو خیر کے مالک ہیں، اور وہ ہیں جو احسان کے مالک ہیں، اور وہ ہیں جو شُکر کے مالک ہیں، اور وہ ہیں جو ذکر کے مالک ہیں"
+    },
+    "in_hindi": {
+      "name": "महबान",
+      "meaning": "महबान वाले लोग, दूसरों को दान देने वाले",
+      "long_meaning": "महबान वाले लोग, दूसरों को दान देने वाले, वे ही लोग हैं जो अल्लाह का जिक्र करते हैं, वे ही लोग हैं जो ज्ञान के मालिक हैं, वे ही लोग हैं जो आदेश के मालिक हैं, और वे ही लोग हैं जो गरीबों के लिए खयात करते हैं और दान देते हैं, वे ही लोग हैं जो दान के मालिक हैं, वे ही लोग हैं जो सच्चे हैं, वे ही लोग हैं जो अज्रता के मालिक हैं, और वे ही लोग हैं जो खुशियों के मालिक हैं, वे ही लोग हैं जो अच्छाई के मालिक हैं, वे ही लोग हैं जो इहसान के मालिक हैं, वे ही लोग हैं जो शुक्रिया के मालिक हैं, और वे ही लोग हैं जो जिक्र के मालिक हैं"
+    },
+    "in_pashto": {
+      "name": "محبان",
+      "meaning": "د محبان کور د لوم لاق او د داسیو کوب خیرات ورښودونکي",
+      "long_meaning": "د محبان کور د لوم لاق او د داسیو کوب خیرات ورښودونکی، هغه د لوی الله د ذکر کوي، هغه علم کي مالک دي، هغه حکم کي مالک دي، او هغه دي، چې مسکینو څخه خبرې کوي او خیرات ورښودي، هغه سخا کي مالک دي، هغه صادق دي، هغه عفاف کي مالک دي، او هغه د خیر کي مالک دي، هغه احسان کي مالک دي، او هغه شکر کي مالک دي، او هغه ذکر کي مالک دي، او هغه علم کي مالک دي، او هغه حکم کي مالک دي، او هغه ذیق کي مالک دي، او هغه سخا کي مالک دي، او هغه خیر کي مالک دي، او هغه احسان کي مالک دي، او هغه شکر کي مالک دي، او هغه ذکر کي مالک دي"
+    },
+    "in_english": {
+      "name": "Mahban",
+      "meaning": "Compassionate and charitable people, those who give to others",
+      "long_meaning": "Compassionate and charitable people, those who give to others, those who mention the name of Allah, those who possess knowledge, those who possess authority, and those who take care of the poor and give charity. They are the truthful, the abstinent, the possessors of goodness, the doers of good, the thankful, and the mentioners of Allah."
+    },
+    "pronunciation": {
+      "english": "MAHBAN",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/mɑhbɑn/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#MahbanMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Mahban"
+    ],
+    "name_variations": [
+      "Maban"
+    ],
+    "popularity_score": 44,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 80,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Mahban Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Mahban, a beautiful Islam name meaning \"Compassionate friend\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Mahban, Islam name, baby names, Compassionate friend, Islam baby names, name meaning",
+      "description_paragraph": "Mahban is a meaningful Islam name of Arabic origin that means \"Compassionate friend\". Derived from the Arabic word 'mahabbah', meaning 'love'. Mahban signifies a compassionate friend or someone who embodies love and kindness.",
+      "keywords": [
+        "Mahban",
+        "Islam name",
+        "baby names",
+        "Compassionate friend",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Mahban in Islam tradition?",
+          "a": "Mahban is a beautiful Islam name meaning \"Compassionate friend\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Mahban a good Islam name for a baby?",
+          "a": "Yes, Mahban is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Mahban?",
+          "a": "The name Mahban has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Mahban correctly?",
+          "a": "Mahban is pronounced MAHBAN in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Mahban?",
+          "a": "Naming a child Mahban brings blessings. The meaning \"Compassionate friend\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Mahban?",
+          "a": "Mahban is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 95,
+      "focus_keyword": "Mahban meaning",
+      "secondary_keywords": [
+        "Islam name Mahban",
+        "Mahban meaning",
+        "Mahban origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "In various Islamic societies, the term 'Mahban' is used to describe an individual recognized for their compassionate nature, whose kindness extends beyond the bonds of family and bloodlines. In Islamic Sufism, Mahban refers to a devotee who seeks to understand the greater love of God and spread it towards others.",
+    "spiritual_significance": "The name Mahban can be seen as a reminder of the ethical importance of love and compassion in one's life. The depth of love and kindness represented by the name serves as a reflection of the divine love that Muslims strive to embody, following the teachings of their faith. As one carries the name Mahban, they are expected to practice and share love in its truest form with all humanity, aligning their actions with the ethics of the Islamic faith.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Mahban is mentioned in the book 'Kitab al-Aghani' as a companion of the Prophet Muhammad. The name Mahban carried significant weight in that era.",
+        "time_period": "9th century",
+        "context": "The book 'Kitab al-Aghani' is a collection of stories and anecdotes about the Arabs in the pre-Islamic and Islamic periods."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "increasing popularity in the Middle East"
+      ],
+      "platforms": [
+        "social media, naming ceremonies"
+      ],
+      "modern_context": "The name Mahban remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Mahban",
+      "location": "Karachi, Pakistan",
+      "story": "Zainab Mahban from Karachi, Pakistan embodies the meaning of Mahban - \"Compassionate friend\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Compassionate friend\" symbolizes Derived from the Arabic word 'mahabbah', meaning 'love'. Mahban signifies a compassionate friend or someone who embodies love and kindness.. In Islamic spirituality, bearing the name Mahban serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of compassionate friend.",
+    "created_at": "2025-12-22T19:19:49.801Z",
+    "updated_at": "2025-12-22T04:53:14.465Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1172,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Mahban",
+      "description": "Compassionate friend",
+      "additionalName": [
+        "Maban"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "(Male/Female/Unisex)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Mahban",
+          "description": "Discover the meaning of Mahban - \"Compassionate friend\"",
+          "image": "/images/social/mahban-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Mahban - Name Meaning",
+          "description": "Learn about the beautiful name Mahban",
+          "image": "/images/social/mahban-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Mahban",
+          "description": "Name meaning: Compassionate friend",
+          "image": "/images/social/mahban-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Mahban - Meaning: Compassionate friend",
+        "email_subject": "Beautiful Name: Mahban"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Mahban with meaning Compassionate friend",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "meena",
+      "mika",
+      "maassama",
+      "mahek",
+      "marhabah",
+      "mada",
+      "marnia",
+      "meher",
+      "marudeen.",
+      "manab"
+    ]
+  }
+}

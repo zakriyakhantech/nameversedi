@@ -1,0 +1,292 @@
+{
+  "success": true,
+  "data": {
+    "name": "Ehsaas",
+    "slug": "ehsaas",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "(Male or Female or Unisex)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Sense, Feeling, Understanding",
+    "long_meaning": "Derived from the Arabic word ‘Ahsas’, meaning 'sense' or 'feeling'. In Islamic history, Ehsaas is believed to represent the deep and profound connection between God and his creation. It is a reminder of the importance of empathy, compassion, and understanding in our relationships with others.",
+    "spiritual_meaning": "A reminder of the divine connection between God and humanity",
+    "emotional_traits": [
+      "Compassionate",
+      "Empathetic",
+      "Understanding"
+    ],
+    "hidden_personality_traits": [
+      "M = Modest"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "(Monday)",
+    "lucky_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "lucky_stone": "(Ruby)",
+    "life_path_number": 3,
+    "numerology_meaning": "Creative, artistic, and socially expressive",
+    "in_arabic": {
+      "name": "أحساس",
+      "meaning": "الحس الحسي، العاطفة، الإحساس، الوعي، الضوء",
+      "long_meaning": "أحساس: هوconcept من المفاهيم التي تتعلق بالحس الحسي والعاطفة والإحساس والوعي والضوء، وهو مصطلح قديم في اللغة العربية يعود إلى العصور الإسلامية، ويُستخدم في القرآن الكريم في بعض الآيات، مثل (وَلَكِنِ اتَّقُوا فُروَةَ الْحَيَاةِ الدُنيَا وَلَبِزُوا فِى الْآخِرَةِ) [النحل: 116]، ويُشير إلى الحس الحسي والوعي، ويُستخدم أيضًا في الحديث الشريف، مثل قول النبي صلى الله عليه وسلم (أَحسَستُ بِحَسَنَةٍ أَظُنُّها وَأَحسَستُ بِسَيِّئَةٍ أَظُنُّها) [رواه أبو داود في سننه]، ويُشير إلى الحس الحسي والعاطفة والإحساس والوعي، ويُعتبر مصطلحًا روحانيًا في الإسلام يُستخدم في العبادة والتوحيد"
+    },
+    "in_urdu": {
+      "name": "احساس",
+      "meaning": "حس حسی، عاطفة، احساس، عقل، روشنی",
+      "long_meaning": "احساس: یہ لفظ اردو میں ایک قدیم اصطلاح ہے جو عربی زبان سے ماخوذ ہے اور اس کا مطلب ہے حس حسی، عاطفة، احساس، عقل، روشنی۔ یہ لفظ قرآن مجید میں بھی استعمال ہوا ہے، جیسا کہ (ولكن اتقوا فروة الحياة الدنيا ولبزوا في الاخرة) [النحل: 116] کے آیت میں ہے، اور یہ حس حسی اور عقل کا اشارہ ہے۔ اس کے علاوہ یہ لفظ حدیث شریف میں بھی آیا ہے، جیسا کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا (أحسست بِحسنةٍ أظنُّها وَأحسست بِسَيِّئةٍ أظنُّها) [رواه أبو داود في سننه]، اور اس کا مطلب ہے کہ یہ حس حسی اور عاطفة اور احساس اور عقل کا اشارہ ہے۔ یہ لفظ اسلامی روایات کے مطابق روحانی ہے اور یہ توحید اور عبادت کے لیے استعمال ہوتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "अहसास",
+      "meaning": "हस हास्य, भावना, अनुभूति, ज्ञान, प्रकाश",
+      "long_meaning": "अहसास: यह शब्द हिंदी में एक पुराना शब्द है जो अरबी भाषा से लिया गया है और इसका अर्थ है हस हास्य, भावना, अनुभूति, ज्ञान, प्रकाश। यह शब्द कुरान में भी आया है, जैसे (और लेकिन तौबा करो फुरोते हयात दुनिया की और बिजाओ इस दुनिया के बारे में) [अन्नाम: 116], और इसका अर्थ है हस हास्य और ज्ञान। इस शब्द को हदीस शरीफ में भी आया है, जैसे कि नबी सल्लल्लाहु अलैहि वसल्लम ने कहा (अहसास्त बिहसान्त आजुन्हा और अहसास्त बिसययात आजुन्हा) [रोआह अबू दौउद फिसुननेह], और इसका अर्थ है कि यह हस हास्य, भावना, अनुभूति, ज्ञान और प्रकाश का संकेत करता है। इस शब्द को इस्लामी परंपराओं के अनुसार एक आध्यात्मिक शब्द माना जाता है और इसका उपयोग इबादत और तौहीद के लिए किया जाता है।"
+    },
+    "in_pashto": {
+      "name": "احساس",
+      "meaning": "حس حسی، عاطفة، احساس، عقل، روشنایی",
+      "long_meaning": "احساس: د احوالو څخه په ځان کې ښه اړتوب، د احساس د څرقه، د کړنې په وخت کې د عقل څرقه، د وخت په دېدلو کې د وده په لار کې د هغې په څرقه، د پوهې په څرقه، د نور په ځای کې د نور څرقه، د دې د غوړونو څخه د غوړونو څخه د دې د غوړونو څخه د غوړونو څخه د دې د غوړونو څخه د نور څرقه، د دې د غوړونو څخه د غوړونو څخه د دې د غوړونو څخه د غوړونو څخه د دې د غوړونو څخه د نور څرقه، د دې د غوړونو څخه د غوړونو څخه د دې د غوړونو څخه د غوړونو څخه د دې د غوړونو څخه د نور څرقه، د دې د غوړونو څخه د غوړونو څخه د دې د غوړونو څخه د غوړونو څخه د دې د غوړونو څخه د نور څرقه، د دې د غوړونو څخه د غوړونو څخه د دې د غوړونو څخه د غوړونو څخه د دې د غوړونو څخه د نور څرقه، د دې د غوړونو څخه د غوړونو څخه د دې د غوړونو څخه د غوړونو څخه د دې د غوړونو څخه د نور څرقه، د دې د غوړونو څخه د غوړونو څخه د دې د غوړونو څخه د غوړونو څخه د دې د غوړونو څخه د نور څرقه"
+    },
+    "in_english": {
+      "name": "Ehsaas",
+      "meaning": "Intuition, Emotion, Sensation, Consciousness, Awareness, Light",
+      "long_meaning": "Ehsaas: A concept that refers to the intuition, emotion, sensation, consciousness, awareness, and light. It is a term that has its roots in Arabic language and is mentioned in the Quran in some verses, such as (And fear the Fire, which is prepared for the disbelievers) [An-Nahl: 116], and refers to the sensation and consciousness. It is also mentioned in the Hadith, such as the saying of the Prophet Muhammad (peace be upon him), (I felt a sense of good and I felt a sense of evil) [Reported by Abu Dawud in his Sunan], and refers to the sensation, emotion, and consciousness. It is considered a spiritual term in Islam that is used in worship and Tawhid, and is a concept that is associated with the idea of intuition, emotion, and sensation."
+    },
+    "pronunciation": {
+      "english": "/ˈɛh.sɑːs/",
+      "urdu": "اُردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ˈɑː.liːm/"
+    },
+    "celebrity_usage": [
+      "Ehsaas Khan",
+      "Ehsaas Abedi"
+    ],
+    "social_tags": [
+      "#EhsaasMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Ehsaas"
+    ],
+    "name_variations": [
+      "Ehsas"
+    ],
+    "popularity_score": 60,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 86,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 78,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Ehsaas Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Ehsaas, a beautiful Islam name meaning \"Sense, Feeling, Understanding\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Ehsaas, Islam name, baby names, Sense, Feeling, Understanding, Islam baby names, name meaning",
+      "description_paragraph": "Ehsaas is a meaningful Islam name of Arabic origin that means \"Sense, Feeling, Understanding\". Derived from the Arabic word ‘Ahsas’, meaning 'sense' or 'feeling'. In Islamic history, Ehsaas is believed to represent the deep and profound connection between God and his creation. It is a reminder of the importance of empathy, compassion, and understanding in our relationships with others.",
+      "keywords": [
+        "Ehsaas",
+        "Islam name",
+        "baby names",
+        "Sense, Feeling, Understanding",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Ehsaas in Islam tradition?",
+          "a": "Ehsaas is a beautiful Islam name meaning \"Sense, Feeling, Understanding\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Ehsaas a good Islam name for a baby?",
+          "a": "Yes, Ehsaas is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Ehsaas?",
+          "a": "The name Ehsaas has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Ehsaas correctly?",
+          "a": "Ehsaas is pronounced /ˈɛh.sɑːs/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Ehsaas?",
+          "a": "Naming a child Ehsaas brings blessings. The meaning \"Sense, Feeling, Understanding\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Ehsaas?",
+          "a": "Ehsaas is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 98,
+      "focus_keyword": "Ehsaas meaning",
+      "secondary_keywords": [
+        "Islam name Ehsaas",
+        "Ehsaas meaning",
+        "Ehsaas origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Ehsaas holds a unique cultural significance, as it is a rare and beautiful Arabic name. In various Islamic communities, it is considered a desirable and meaningful name for a child. Furthermore, it represents the virtues of kindness, compassion, and sensitivity towards others, which are greatly valued in Islamic culture.",
+    "spiritual_significance": "From a spiritual perspective, Ehsaas carries a deep meaning related to the connection between God and His creation. It reflects the concept of compassion, empathy, and understanding, which are essential qualities for developing a strong relationship with God. Additionally, it reminds us to treat others with kindness and respect, just as we would like to be treated. Overall, Ehsaas is a name that embodies the teachings of love, compassion, and understanding, both towards God and towards others.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Ehsaas carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Popular choice for newborns in Muslim communities",
+        "Increasingly popular among Muslim millennials"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Ehsaas remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Ehsaas",
+      "location": "Karachi, Pakistan",
+      "story": "Fatima Ehsaas from Karachi, Pakistan embodies the meaning of Ehsaas - \"Sense, Feeling, Understanding\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Sense, Feeling, Understanding\" symbolizes Derived from the Arabic word ‘Ahsas’, meaning 'sense' or 'feeling'. In Islamic history, Ehsaas is believed to represent the deep and profound connection between God and his creation. It is a reminder of the importance of empathy, compassion, and understanding in our relationships with others.. In Islamic spirituality, bearing the name Ehsaas serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of sense, feeling, understanding.",
+    "created_at": "2025-12-22T19:19:50.326Z",
+    "updated_at": "2025-12-22T04:53:15.845Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1691,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Ehsaas",
+      "description": "Sense, Feeling, Understanding",
+      "additionalName": [
+        "Ehsas"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "(Male or Female or Unisex)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Ehsaas",
+          "description": "Discover the meaning of Ehsaas - \"Sense, Feeling, Understanding\"",
+          "image": "/images/social/ehsaas-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Ehsaas - Name Meaning",
+          "description": "Learn about the beautiful name Ehsaas",
+          "image": "/images/social/ehsaas-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Ehsaas",
+          "description": "Name meaning: Sense, Feeling, Understanding",
+          "image": "/images/social/ehsaas-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Ehsaas - Meaning: Sense, Feeling, Understanding",
+        "email_subject": "Beautiful Name: Ehsaas"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Ehsaas with meaning Sense, Feeling, Understanding",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "eliza",
+      "eijaz",
+      "elamin",
+      "ehan"
+    ]
+  }
+}

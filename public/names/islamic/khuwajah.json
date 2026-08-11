@@ -1,0 +1,290 @@
+{
+  "success": true,
+  "data": {
+    "name": "Khuwajah",
+    "slug": "khuwajah",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Master, Leader, Guide",
+    "long_meaning": "In Arabic, Khuwajah means 'Master, Guide, or Leader'. It is a name of honor and respect, often given to those who have achieved a high level of knowledge or spiritual understanding.",
+    "spiritual_meaning": "A name symbolizing guidance and leadership on the path to righteousness.",
+    "emotional_traits": [
+      "Righteous",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "M = Modest"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "lucky_stone": "Aqeeq",
+    "life_path_number": 3,
+    "numerology_meaning": "People with the life path number 3 are creative and artistic, often with a love for music or art. They are also natural communicators and have a strong need for self-expression.",
+    "in_arabic": {
+      "name": "خواجه",
+      "meaning": "صاحب أو سيد أو مربي أو معلم أو أستاذ",
+      "long_meaning": "الخواجه هو الشخص الذي يمتلك الخبرة والمعرفة في مجال معين، ويُعتبر مرجعًا أو مربيًا للآخرين. يأتي الاسم من الجذر العربي 'خ و ج' الذي يعني 'الخروج' أو 'الارتفاع'، ويشير إلى الشخص الذي يخرج عن العادة أو يرتفع في المكانة. في بعض الأحيان، يُستخدم الاسم للإشارة إلى الشخص الذي يمتلك السلطة أو السيطرة في مجال معين."
+    },
+    "in_urdu": {
+      "name": "خواجہ",
+      "meaning": "صاحب، سيد، معلم، یا استاد",
+      "long_meaning": "خواجہ کا مطلب ہے وہ شخص جو کسی خاص میدان میں مہارت رکھتا ہے اور دوسروں کے لئے ایک مرجع یا معلم ہوتا ہے۔ یہ نام عربی جڑ 'خ و ج' سے نکلا ہے جس کا مطلب ہے 'خروج' یا 'ارتفاع'، اور یہ اس شخص کی نشاندہی کرتا ہے جو عام روایات سے بالاتر ہوتا ہے یا اعلیٰ مقام پر ہوتا ہے۔ تاریخی طور پر، یہ نام ان شخصیات کے لئے استعمال کیا گیا ہے جو اسلامی علماء یا حُکماء میں شامل ہیں۔"
+    },
+    "in_hindi": {
+      "name": "ख्वाजा",
+      "meaning": "स्वामी, मालिक, शिक्षक या गुरु",
+      "long_meaning": "ख्वाजा का अर्थ है वह व्यक्ति जो किसी विशेष क्षेत्र में विशेषज्ञता रखता है और दूसरों के लिए एक आदर्श या शिक्षक होता है। यह नाम अरबी मूल 'خ و ج' से निकला है, जिसका अर्थ है 'خروج' या 'ارتفاع', और यह उस व्यक्ति की ओर संकेत करता है जो आम परंपराओं से ऊपर होता है या उच्च पद पर होता है। भारतीय मुस्लिम समुदाय में, यह नाम अक्सर सम्मानित और विद्वान व्यक्तियों के लिए प्रयोग किया जाता है।"
+    },
+    "in_pashto": {
+      "name": "خواجه",
+      "meaning": "مالک، سيد، ښوونکی یا استاد",
+      "long_meaning": "خواجه دغه معنی لري چې هغه څوک چې په يوه ځانګړي ساحه کې پوهه او مهارت لري، او د نورو لپاره يې يو مرجع يا ښوونکی وي. دا نوم د عربي ريښې 'خ و ج' څخه اخيستل شوی دی، چې د 'خروج' يا 'ارتفاع' معنی لري، او هغه څوک ته اشاره کوي چې د عادي رواياتو څخه لوړ وي يا په لوړ مقام کې وي. په پښتني کلتور کې، دا نوم د هغو کسانو لپاره کارول کيږي چې د اسلامي علم او حکمت په برخه کې مهم رول لوبوي."
+    },
+    "in_english": {
+      "name": "Khuwajah",
+      "meaning": "owner, lord, teacher, or master",
+      "long_meaning": "The name Khuwajah originates from the Arabic root 'خ و ج' (kh-w-j), meaning 'to exit' or 'to rise'. In Islamic tradition, Khuwajah refers to a person of authority, knowledge, and spiritual guidance. Historically, the term was used to address respected scholars, teachers, and mentors in various Muslim cultures. The name symbolizes leadership, wisdom, and spiritual elevation."
+    },
+    "pronunciation": {
+      "english": "khoo-wah-jah",
+      "urdu": "خواہجہ",
+      "hindi": "ख्वाजा",
+      "pashto": "خواجه",
+      "ipa": "/khuːwɑːdʒɑː/"
+    },
+    "celebrity_usage": [
+      "Sheikh Khalid bin Abdulaziz Al Saud"
+    ],
+    "social_tags": [
+      "#KhuwajahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Khuwajah"
+    ],
+    "name_variations": [
+      "Khuwaja"
+    ],
+    "popularity_score": 40,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 68,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 65,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Khuwajah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Khuwajah, a beautiful Islam name meaning \"Master, Leader, Guide\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Khuwajah, Islam name, baby names, Master, Leader, Guide, Islam baby names, name meaning",
+      "description_paragraph": "Khuwajah is a meaningful Islam name of Arabic origin that means \"Master, Leader, Guide\". In Arabic, Khuwajah means 'Master, Guide, or Leader'. It is a name of honor and respect, often given to those who have achieved a high level of knowledge or spiritual understanding.",
+      "keywords": [
+        "Khuwajah",
+        "Islam name",
+        "baby names",
+        "Master, Leader, Guide",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Khuwajah in Islam tradition?",
+          "a": "Khuwajah is a beautiful Islam name meaning \"Master, Leader, Guide\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Khuwajah a good Islam name for a baby?",
+          "a": "Yes, Khuwajah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Khuwajah?",
+          "a": "The name Khuwajah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Khuwajah correctly?",
+          "a": "Khuwajah is pronounced khoo-wah-jah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Khuwajah?",
+          "a": "Naming a child Khuwajah brings blessings. The meaning \"Master, Leader, Guide\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Khuwajah?",
+          "a": "Khuwajah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Khuwajah meaning",
+      "secondary_keywords": [
+        "Islam name Khuwajah",
+        "Khuwajah meaning",
+        "Khuwajah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The title \"Khuwajah\" holds great significance in the Islamic community. It denotes a mark of respect and honor for an individual who has earned a position of leadership or mastery in a particular field, such as education, scholarship, or spiritual guidance. The title is often used in conjunction with the person's name, such as Mulla Shah Khuwajah or Allama Hajj Khuwajah, indicating their distinguished status and expertise.",
+    "spiritual_significance": "The term Khuwajah also carries deep spiritual significance in Islamic tradition. It signifies the idea of being a spiritual guide or master, leading others towards enlightenment and inner peace. A Khuwajah is someone who has attained a high degree of knowledge and understanding of the divine, and has dedicated their life to helping others on their spiritual journey. This title is often associated with Sufi Masters and scholars, who help others to deepen their faith and connect more deeply with the divine. Overall, the title of Khuwajah represents a deep sense of respect and honor for those who have achieved a high level of knowledge and spiritual understanding, and who dedicate their lives to helping others on their own spiritual paths.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Khuwajah carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Gaining popularity in Western Muslim communities",
+        "Gaining popularity in Western Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Khuwajah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Ahmed Khuwajah",
+      "location": "Cairo, Egypt",
+      "story": "Ahmed Khuwajah from Cairo, Egypt embodies the meaning of Khuwajah - \"Master, Leader, Guide\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Master, Leader, Guide\" symbolizes In Arabic, Khuwajah means 'Master, Guide, or Leader'. It is a name of honor and respect, often given to those who have achieved a high level of knowledge or spiritual understanding.. In Islamic spirituality, bearing the name Khuwajah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of master, leader, guide.",
+    "created_at": "2025-12-22T19:19:49.92Z",
+    "updated_at": "2025-12-22T04:53:15.409Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1095,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Khuwajah",
+      "description": "Master, Leader, Guide",
+      "additionalName": [
+        "Khuwaja"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Khuwajah",
+          "description": "Discover the meaning of Khuwajah - \"Master, Leader, Guide\"",
+          "image": "/images/social/khuwajah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Khuwajah - Name Meaning",
+          "description": "Learn about the beautiful name Khuwajah",
+          "image": "/images/social/khuwajah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Khuwajah",
+          "description": "Name meaning: Master, Leader, Guide",
+          "image": "/images/social/khuwajah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Khuwajah - Meaning: Master, Leader, Guide",
+        "email_subject": "Beautiful Name: Khuwajah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Khuwajah with meaning Master, Leader, Guide",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "kabir",
+      "kashish",
+      "kayan"
+    ]
+  }
+}

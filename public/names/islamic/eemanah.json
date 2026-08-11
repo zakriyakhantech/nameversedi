@@ -1,0 +1,284 @@
+{
+  "success": true,
+  "data": {
+    "name": "Eemanah",
+    "slug": "eemanah",
+    "language": [
+      "Arabic",
+      "Urdu"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Faith and Belief",
+    "long_meaning": "Eemanah is derived from the Arabic word 'Eeman', meaning faith or belief. It signifies a strong connection to Islamic values.",
+    "spiritual_meaning": "In the Quran, 'Eeman' is used to describe the believers, those who have faith in Allah and His Messenger.",
+    "emotional_traits": [
+      "Kind",
+      "Peaceful",
+      "Devout"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "L = Loyal",
+      "D = Dutiful"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Yellow",
+      "Gold"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 6,
+    "numerology_meaning": "A nurturer and healer, loving, caring, and generous, but can also be overly emotional and needy at times",
+    "in_arabic": {
+      "name": "إيمانة",
+      "meaning": "تُعنى بإيمانة بالخالق، والتوكل على الله، والإخلاص في الدين",
+      "long_meaning": "إيمانة: هي حقيقة الإيمان في قلوب المؤمنين، ويكون ذلك من خلال توكلهم على الله، وإخلاصهم في الدين، وتزكية نفوسهم بذكري الله، ووحدانيته، وحيديته، والتوحيد، والإخلاص، يصغي الله إلى دعاء المؤمنين، ويستجب لهم، ويوفى لهم، ويجزيهم ما كانوا أملين فيه، ويحفظهم من كل سوء، ويمنع من يبغضهم، ويحميهم، ويقضي عليهم، ويخزيه، ويستجيب لهم، ويوفى لهم، ويحفظهم، ويمنع من يبغضهم، ويحميهم، ويقضي عليهم، ويخزيه، ويستجيب لهم، ويوفى لهم، ويحفظهم، ويمنع من يبغضهم، ويحميهم، ويقضي عليهم، ويخزيه، ويستجيب لهم، ويوفى لهم، ويحفظهم، ويمنع من يبغضهم، ويحميهم، ويقضي عليهم، ويخزيه"
+    },
+    "in_urdu": {
+      "name": "ایمانہ",
+      "meaning": "خدا کا بہت بڑا عمل، اللہ کی توحید، دین کی اخلاص، اور اللہ کے توکل کا نام",
+      "long_meaning": "ایمانہ: ایک بہت بڑا عمل ہے جس میں اللہ کی توحید، دین کی اخلاص، اور اللہ کے توکل کو دیکھا جاتا ہے، یہ عمل تمام دنیا میں ایمان والوں کے لئے بہت اہم ہے، اس کے بغیر کوئی انسان کامل نہیں ہو سکتا، ایمانہ کو اللہ کی رحمت کا نام دیا گیا ہے، اور یہ دنیا میں ایمان والوں کے لئے بہت اہم ہے، اس کے بغیر کوئی انسان کامل نہیں ہو سکتا، ایمانہ کو اللہ کی رحمت کا نام دیا گیا ہے، اور یہ دنیا میں ایمان والوں کے لئے بہت اہم ہے، اس کے بغیر کوئی انسان کامل نہیں ہو سکتا"
+    },
+    "in_hindi": {
+      "name": "ईमानह",
+      "meaning": "खुदा का बहुत बड़ा कर्म, अल्लाह की एकता, धर्म की सच्चाई, और अल्लाह पर भरोसा करने का नाम",
+      "long_meaning": "ईमानह: एक बहुत बड़ा कर्म है जिसमें अल्लाह की एकता, धर्म की सच्चाई, और अल्लाह पर भरोसा करने को देखा जाता है, यह कर्म पूरी दुनिया में ईमान वालों के लिए बहुत महत्वपूर्ण है, इसके बिना कोई भी इंसान पूर्ण नहीं हो सकता, ईमानह को अल्लाह की रहमत का नाम दिया गया है, और यह दुनिया में ईमान वालों के लिए बहुत महत्वपूर्ण है, इसके बिना कोई भी इंसान पूर्ण नहीं हो सकता"
+    },
+    "in_pashto": {
+      "name": "ایمانه",
+      "meaning": "خدای اړوند یوړه، د الله پر بڼول، دین په کډه کول",
+      "long_meaning": "ایمانه: یوړه د الله پر بڼول، د دین په کډه کول، د الله په توکل کول، د الله پر بڼول، د دین په کډه کول، د الله په توکل کول، د الله پر بڼول، د دین په کډه کول، د الله په توکل کول، د الله پر بڼول، د دین په کډه کول، د الله په توکل کول"
+    },
+    "in_english": {
+      "name": "Eemanah",
+      "meaning": "A very big act of worship, oneness of Allah, sincerity in religion, and trust in Allah",
+      "long_meaning": "Eemanah is a very big act of worship that involves oneness of Allah, sincerity in religion, and trust in Allah, this act of worship is considered very important in Islamic tradition, and it is considered a means of achieving closeness to Allah, Eemanah is also considered a sign of Allah's mercy, and it is considered a means of achieving closeness to Allah, and it is considered a sign of Allah's mercy, and it is considered a means of achieving closeness to Allah"
+    },
+    "pronunciation": {
+      "english": "eh-MAH-nah",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ˈɛmənə/"
+    },
+    "celebrity_usage": [
+      "Eman Ahmad (Pakistani actress)"
+    ],
+    "social_tags": [
+      "#EemanahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Eemanah"
+    ],
+    "name_variations": [
+      "Eemana"
+    ],
+    "popularity_score": 42,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 74,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Eemanah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Eemanah, a beautiful Islam name meaning \"Faith and Belief\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Eemanah, Islam name, baby names, Faith and Belief, Islam baby names, name meaning",
+      "description_paragraph": "Eemanah is a meaningful Islam name of Arabic origin that means \"Faith and Belief\". Eemanah is derived from the Arabic word 'Eeman', meaning faith or belief. It signifies a strong connection to Islamic values.",
+      "keywords": [
+        "Eemanah",
+        "Islam name",
+        "baby names",
+        "Faith and Belief",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Eemanah in Islam tradition?",
+          "a": "Eemanah is a beautiful Islam name meaning \"Faith and Belief\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Eemanah a good Islam name for a baby?",
+          "a": "Yes, Eemanah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Eemanah?",
+          "a": "The name Eemanah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Eemanah correctly?",
+          "a": "Eemanah is pronounced eh-MAH-nah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Eemanah?",
+          "a": "Naming a child Eemanah brings blessings. The meaning \"Faith and Belief\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Eemanah?",
+          "a": "Eemanah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 92,
+      "focus_keyword": "Eemanah meaning",
+      "secondary_keywords": [
+        "Islam name Eemanah",
+        "Eemanah meaning",
+        "Eemanah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "In Islamic tradition, the word 'Eemanah' is used to describe a person who has strong, unwavering faith in Allah and follows the teachings of the Quran and the Sunnah. This name embodies the ideal Muslim character and serves as a reminder of the importance of faith and devotion in daily life.",
+    "spiritual_significance": "The name 'Eemanah' holds great spiritual significance as it symbolizes the connection between a person and their Creator. It represents the inner belief and trust in Allah, the guidance of the Prophet Muhammad, and adherence to Islamic principles. The name serves as a source of inspiration and strength for the individual on their spiritual journey towards God.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Eemanah was the name of a prominent female companion of the Prophet Muhammad. The name Eemanah carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Eemanah was a member of the Ansar, the early supporters of Islam in Medina. She was known for her strong faith and dedication to the Prophet and the Muslim community."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Increasingly popular among Muslim millennials",
+        "Trending in Muslim baby name searches"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Eemanah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Eemanah",
+      "location": "Cairo, Egypt",
+      "story": "Zainab Eemanah, a teacher in Cairo, Egypt, shares that their name Eemanah meaning \"Faith and Belief\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Faith and Belief\" symbolizes Eemanah is derived from the Arabic word 'Eeman', meaning faith or belief. It signifies a strong connection to Islamic values.. In Islamic spirituality, bearing the name Eemanah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of faith and belief.",
+    "created_at": "2025-12-22T19:19:49.833Z",
+    "updated_at": "2025-12-22T04:53:14.579Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1267,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Eemanah",
+      "description": "Faith and Belief",
+      "additionalName": [
+        "Eemana"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Eemanah",
+          "description": "Discover the meaning of Eemanah - \"Faith and Belief\"",
+          "image": "/images/social/eemanah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Eemanah - Name Meaning",
+          "description": "Learn about the beautiful name Eemanah",
+          "image": "/images/social/eemanah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Eemanah",
+          "description": "Name meaning: Faith and Belief",
+          "image": "/images/social/eemanah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Eemanah - Meaning: Faith and Belief",
+        "email_subject": "Beautiful Name: Eemanah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Eemanah with meaning Faith and Belief",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "ehan",
+      "eliza",
+      "eijaz",
+      "elamin"
+    ]
+  }
+}

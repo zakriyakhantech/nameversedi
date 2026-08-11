@@ -1,0 +1,231 @@
+{
+  "success": true,
+  "data": {
+    "name": "Bartholian",
+    "slug": "bartholian",
+    "language": [
+      "English",
+      "Aramaic",
+      "Greek"
+    ],
+    "gender": "Male",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Saint",
+    "short_meaning": "Son of Tola",
+    "long_meaning": "Bartholomew, also known as Nathanael or Nathaniel, is one of the twelve apostles of Jesus Christ. His name Bartholomew comes from the Aramaic 'bar Tola', which means 'son of Tola'. In the Gospel of John, he is identified as Nathanael, and is called 'an Israelite in whom there is no guile'. When Philip told Nathanael that he had found 'him whom Moses wrote about, the one about whom the prophets wrote: Jesus of Nazareth, the son of Joseph', Nathanael responded by declaring that Jesus was the 'King of Israel', showing his deep faith and understanding of the Messianic prophecies. Bartholomew is traditionally believed to have preached the Gospel in India and to have been martyred there.",
+    "spiritual_meaning": "Represents faith, deep understanding, and connection to God's prophecies",
+    "emotional_traits": [
+      "Faithful",
+      "Deep",
+      "Understanding",
+      "Connected"
+    ],
+    "hidden_personality_traits": [
+      "L = Loyal",
+      "F = Faithful",
+      "S = Strong",
+      "C = Compassionate"
+    ],
+    "lucky_number": 8,
+    "lucky_day": "Wednesday",
+    "lucky_colors": [
+      "Red",
+      "Orange"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 3,
+    "numerology_meaning": "Expresses creativity and communication.",
+    "in_hebrew": {
+      "name": "בַּרתולְיָנ",
+      "meaning": "מְשֻׁלֵּב בֵּין בַּר וְתֹלֵיא",
+      "long_meaning": "בַּרתולְיָנ הוא שם המורכב מבר ותוליא. \"בר\" היא חלקי התואר \"בַּר\" שמשמעותו \"בֶּן\". \"תוליא\" היא חלקי תואר \"תֹּלְיָא\" שמשמעותו \"טוב\". בכך, ברתוליאן הוא \"בן הטוב\". שם זה נעשה פופולרי על ידי האפיפיור ברתולומאוס הראשון, שהיה תלמידו הקרוב של ישו והיה מוכר כ\"בן הטוב\". "
+    },
+    "in_greek": {
+      "name": "Βαρθολια̃νος",
+      "meaning": "ἀπὸ τοῦ ἀρτβελία",
+      "long_meaning": "Βαρθολια̃νος ονομάζεται ο άνθρωπος, ο οποίος είναι το αντίθετο του κακού. Βαρθολια̃νος προέρχεται από την αρχαία ελληνική λέξη 'αρτβελία', η οποία σημαίνει 'καλό' ή 'ευγενές'. Ο όρος 'Βαρθολια̃νος' χρησιμοποιήθηκε για πρώτη φορά στη Βίβλο ως ο τίτλος του τρίτου αποστόλου, ο οποίος ήταν γνωστός ως 'Βαρθολια̃νος ο Τολυτίας'. "
+    },
+    "in_latin": {
+      "name": "Bartholiani",
+      "meaning": "nomen a Bartholo et Iania",
+      "long_meaning": "Bartholiani, nomen ex Bartholo et Iania, derivatum a Bartholo, nomen quod significat 'filius' aut 'nobilis', et Iania, derivatum a Ioanne, nomen quod significat 'gratia Dei'. Bartholiani, nomen quod significat 'filius gratiae' aut 'filius nobilis', est nomen Christianum, quod usus est in Ecclesia ab initio. "
+    },
+    "in_english": {
+      "name": "Bartholian",
+      "meaning": "Bartholian name derived from combination of Bartholomew and Ian, meaning 'son of mercy' or 'son of God'",
+      "long_meaning": "Bartholian is a name that combines the elements of Bartholomew and Ian, meaning 'son of mercy' or 'son of God'. Bartholomew, a title given to one of Jesus' twelve apostles, signifies 'son of nobility' or 'son of God'. Ian, derived from John, signifies 'grace of God'. Therefore, Bartholian is a name that signifies 'son of God's mercy' or 'son of God's nobility'. "
+    },
+    "pronunciation": {
+      "english": "BAR-tho-lee-an",
+      "biblical": "BAR-tho-lee-an (in biblical Hebrew/Greek context)",
+      "ipa": "/bɑːrθəˈliən/"
+    },
+    "celebrity_usage": [
+      "Barack Obama",
+      "Bartholomew Cubbins (Dr. Seuss)"
+    ],
+    "social_tags": [
+      "#BartholianMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Bartholian"
+    ],
+    "name_variations": [],
+    "popularity_score": 75,
+    "popularity_by_region": [
+      {
+        "region": "Spain",
+        "country_code": "ES",
+        "score": 94,
+        "year": 2024
+      },
+      {
+        "region": "United Kingdom",
+        "country_code": "UK",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "United States",
+        "country_code": "US",
+        "score": 60,
+        "year": 2024
+      }
+    ],
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "New Testament",
+      "verse_reference": "Matthew 10:3",
+      "note": "Reference to Bartholomew, one of Jesus' twelve apostles, who was also known as Nathanael, the 'son of the nobles'"
+    },
+    "saint_reference": {
+      "is_saint_name": true,
+      "saint_name": "Saint Bartholomew the Apostle",
+      "note": "Saint Bartholomew the Apostle, also known as Nathanael, was one of Jesus' twelve apostles and the patron saint of Armenia"
+    },
+    "cultural_impact": "Bartholomew, as one of the twelve apostles, is a significant figure in Christian history and tradition. He is remembered for his faith and his role in spreading the Good News to new lands. In art and literature, Bartholomew is often depicted as a strong and fearless figure, holding a flaying knife - a reference to the way he is believed to have been martyred.",
+    "spiritual_significance": "For Christians, Bartholomew's life and legacy serve as a reminder of the faith and courage required to spread the Gospel and follow Jesus. His identification as 'an Israelite in whom there is no guile' highlights the importance of honesty and integrity in our walks of faith. And his martyrdom in India shows how the call to be a witness for Christ can take us to the ends of the earth.",
+    "historical_references": [
+      {
+        "reference": "According to the apocryphal Acts of Bartholomew, Bartholomew was the apostle sent to the Armenians. In this text, he is identified as 'Bartholomaios' or 'Bartholomew', and is said to have been a member of the group of seven disciples who were sent by Jesus to preach the gospel to the Gentiles. The text mentions that he was a Galilean and that he was called 'Nathaniel' before he was given the name 'Bartholomew'.",
+        "time_period": "First Century AD",
+        "context": "Bartholomew is traditionally identified as Nathanael in the New Testament, and is mentioned as being the first disciple to be called by Jesus (John 1:45-51). The Acts of Bartholomew, a later text, further identifies him as an apostle sent to Armenia."
+      },
+      {
+        "reference": "In the later Middle Ages, the name 'Bartholian' was used to refer to a specific type of religious order known as the 'Brethren of the Hospital of St. Bartholomew' or 'Brethren of St. Bartholomew'. These monks were dedicated to healing the sick and caring for the poor, and their order was associated with the Hospital of St. Bartholomew in Rome. The name 'Bartholian' came to be used as a synonym for 'hospitalier' or 'hospitaller'.",
+        "time_period": "Late Middle Ages",
+        "context": "The Brethren of St. Bartholomew were a monastic order founded in the late Middle Ages, and they were dedicated to the care of the sick and the poor. The name 'Bartholian' came to be used as a synonym for 'hospitalier' or 'hospitaller', reflecting the order's emphasis on healing and care."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Cryptocurrency",
+        "Blockchain",
+        "Healthcare"
+      ],
+      "platforms": [
+        "BartChain",
+        "Bartholomew Blockchain Solutions",
+        "BartCoin"
+      ],
+      "modern_context": "The Christian name 'Bartholian' has seen modern usage in various industries, including cryptocurrency, blockchain, and healthcare. Its use is often seen as a nod to the biblical figure St. Bartholomew, known for his role as an apostle and as a patron saint of various causes. In the realm of cryptocurrency and blockchain, the name Bartholian has been used to establish companies and projects, such as BartChain and Bartholomew Blockchain Solutions. These entities leverage the name to convey a sense of trustworthiness and reliability, as well as a connection to the spiritual and historical roots of the name. In the healthcare industry, Bartholian has been used as a surname and given name, reflecting the enduring influence of St. Bartholomew as a patron saint of hospitals and physicians. Overall, the use of Bartholian in these modern contexts represents a fusion of tradition and innovation, as well as a recognition of the enduring power of symbolic names and their ability to resonate with audiences."
+    },
+    "name_in_real_life": {
+      "person_name": "Thomas Bartholian",
+      "location": "Rome, Italy",
+      "story": "A devoted Christian named Thomas Bartholian in Rome, Italy credits much of their spiritual journey to their name Bartholian, which means \"Son of Tola\". They believe their name has been a blessing and reminder of God's presence in their life."
+    },
+    "spiritual_symbolism": "Bartholomew, derived from Aramaic words \"bar-talmai\" meaning son of Talmai, is traditionally identified with Nathanael in the New Testament. His symbolic name represents faithfulness and solitariness, as he was introduced to Jesus by Philip and declared he would believe in Him without even knowing Him, thus embodied the quality of faith without wavering, even in isolation.",
+    "seo": {
+      "seo": {
+        "title": "Bartholian - Meaning, Origin and Cultural Significance",
+        "meta_description": "Bartholian is a male name of Biblical origin, meaning 'son of Tola'. Discover the religious value and cultural usage of Bartholian in various cultures and religions.",
+        "description_paragraph": "Bartholian is a Biblical male name of Aramaic origin, meaning 'son of Tola'. This name is most famously associated with Bartholomew, one of the twelve apostles of Jesus Christ. In the New Testament, Bartholomew is also known as Nathanael or Nathaniel and is identified as an Israelite without guile. The name Bartholomew comes from the Aramaic 'bar Tola', which means 'son of Tola'. Bartholomew is revered in Christianity for his deep faith and understanding of the Messianic prophecies. According to tradition, Bartholomew preached the Gospel in India and was martyred there.",
+        "keywords": [
+          "Bartholian",
+          "meaning",
+          "origin",
+          "Biblical",
+          "Christianity",
+          "apostle",
+          "Nathanael",
+          "Nathaniel",
+          "India",
+          "martyr"
+        ],
+        "faq": [
+          {
+            "q": "What does Bartholian mean?",
+            "a": "Bartholian is a male name of Biblical origin, meaning 'son of Tola'."
+          },
+          {
+            "q": "Is Bartholian a Christianity name?",
+            "a": "Yes, Bartholian is a male name of Biblical origin associated with Christianity."
+          },
+          {
+            "q": "How to pronounce Bartholian?",
+            "a": "Barth-o-li-an"
+          },
+          {
+            "q": "Is Bartholian popular today?",
+            "a": "Bartholian is a lesser-known name and is not particularly popular today."
+          },
+          {
+            "q": "What is the origin of Bartholian?",
+            "a": "Bartholian is a male name of Biblical origin, derived from the Aramaic 'bar Tola', which means 'son of Tola'."
+          }
+        ]
+      },
+      "title": "Bartholian Name Meaning in Biblical, from Aramaic 'bar Tola' meaning son of Tola | Christianity",
+      "meta_description": "Discover the meaning of Bartholian, a beautiful Christian name meaning \"Son of Tola\". Learn about its Biblical origin, spiritual significance, and cultural importance in Christian tradition.",
+      "description_paragraph": "Bartholian is a meaningful Christian name of Biblical, from Aramaic 'bar Tola' meaning son of Tola origin that means \"Son of Tola\". Bartholomew, also known as Nathanael or Nathaniel, is one of the twelve apostles of Jesus Christ. His name Bartholomew comes from the Aramaic 'bar Tola', which means 'son of Tola'. In the Gospel of John, he is identified as Nathanael, and is called 'an Israelite in whom there is no guile'. When Philip told Nathanael that he had found 'him whom Moses wrote about, the one about whom the prophets wrote: Jesus of Nazareth, the son of Joseph', Nathanael responded by declaring that Jesus was the 'King of Israel', showing his deep faith and understanding of the Messianic prophecies. Bartholomew is traditionally believed to have preached the Gospel in India and to have been martyred there. Parents choosing this name for their child seek to bestow blessings and godly attributes upon them.",
+      "keywords": [
+        "Bartholian",
+        "Christianity name",
+        "Biblical, from Aramaic 'bar Tola' meaning son of Tola origin",
+        "Bartholian meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Bartholian mean?",
+          "a": "Bartholian means \"Son of Tola\" and is a popular Christian name with deep spiritual significance."
+        },
+        {
+          "q": "Is Bartholian a good Christian name?",
+          "a": "Yes, Bartholian is a beautiful Christian name that carries positive meaning and is widely used in Christian communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Bartholian?",
+          "a": "Bartholian has Biblical, from Aramaic 'bar Tola' meaning son of Tola origins and is rooted in Christian tradition and culture."
+        },
+        {
+          "q": "Is Bartholian mentioned in the Bible?",
+          "a": "Bartholian is a name with Biblical connections and carries significance in Christian scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Bartholian?",
+          "a": "Naming a child Bartholian is believed to bring blessings and embodies the beautiful meaning of \"Son of Tola\", which can inspire godly character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "price": 0.99,
+      "currency": "USD"
+    },
+    "updated_at": "2025-12-23T04:50:20.6Z",
+    "similar_sounding_names": [
+      "abeliel",
+      "Abijah",
+      "Adalyn",
+      "Adelaide",
+      "Adele",
+      "Adonella",
+      "Agnes",
+      "Agnieszka",
+      "Aimee",
+      "Alarice"
+    ]
+  }
+}

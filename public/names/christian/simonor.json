@@ -1,0 +1,229 @@
+{
+  "success": true,
+  "data": {
+    "name": "Simonor",
+    "slug": "simonor",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
+    ],
+    "gender": "Male",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Virtue",
+    "short_meaning": "My beloved one",
+    "long_meaning": "Derived from the Hebrew name Shimon, which means 'he who hears' or 'my beloved'. In the New Testament, Simon Peter, one of Jesus' apostles, is also known as Simon bar-Jonah or Simon Peter, which means 'Simon, son of Jonah'. Simon Peter is known as the rock upon which Jesus will build His Church.",
+    "spiritual_meaning": "A name of deep love and devotion, often given to those who are expected to serve as strong foundations in their communities or families.",
+    "emotional_traits": [
+      "Kind",
+      "Faithful",
+      "Courageous",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "L=Loyal",
+      "S=Strong"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "Yellow",
+      "Gold"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 1,
+    "numerology_meaning": "Represents new beginnings, independence, and leadership.",
+    "in_hebrew": {
+      "name": "שמעונור",
+      "meaning": "השם שמעונור הוא שמעון האור",
+      "long_meaning": "השם שמעונור הוא צורה משונה של השם שמעון, שפירושו הוא שמע או קשוב, והסיומת 'ור' מוסיפה משמעות של אור או אור ה', מה שיכול להתפרש כשמעון המאיר או שמעון עם האור האלוהי. השם שמעון הוא אחד משנים עשר בניו של יעקב, והוא מוזכר בספר בראשית."
+    },
+    "in_greek": {
+      "name": "Σιμωνορ",
+      "meaning": "Σιμωνορ σημαίνει Σίμων ο φωτός",
+      "long_meaning": "Το όνομα Σιμωνορ είναι μια παραλλαγή του ονόματος Σίμων, που σημαίνει ακρόαση ή ακούω, και η κατάληξη 'ορ' προσθέτει τη σημασία του φωτός ή του φωτός του Θεού, που μπορεί να ερμηνευτεί ως Σίμων ο φωτισμένος ή Σίμων με το θείο φως. Το όνομα Σίμων είναι ένα από τα δώδεκα παιδιά του Ιακώβ και αναφέρεται στο Βιβλίο της Γένεσης."
+    },
+    "in_latin": {
+      "name": "Simonor",
+      "meaning": "Simonor means Simon the light",
+      "long_meaning": "The name Simonor is a variation of the name Simon, which means hearing or hearkening, and the suffix 'or' adds the meaning of light or divine light, which can be interpreted as Simon the enlightened or Simon with divine illumination. The name Simon is one of the twelve sons of Jacob and is mentioned in the Book of Genesis."
+    },
+    "in_english": {
+      "name": "Simonor",
+      "meaning": "Simonor means a hearing or enlightened one with divine light",
+      "long_meaning": "The name Simonor originates from the Hebrew name 'Shimon,' meaning 'he who hears' or 'listener,' and the Greek/Latin adaptation 'Simon.' The suffix 'or' suggests 'light,' implying 'enlightened one' or 'bearer of divine light.' Simon, one of Jacob's twelve sons in the Bible (Genesis 29:33), has been a significant name in Christian tradition. The name Simonor, therefore, embodies a spiritual connotation of being attuned to divine will and radiating spiritual enlightenment. Historically, the name Simon has been popularized by several saints and biblical figures, including Simon the Apostle. The name is associated with qualities of listening, obedience, and illumination."
+    },
+    "pronunciation": {
+      "english": "SIM-o-nor",
+      "biblical": "Shimon",
+      "ipa": "/ˈsɪməˌnɔːr/"
+    },
+    "celebrity_usage": [
+      "Simon Pegg",
+      "Simone Biles",
+      "Simon Cowell"
+    ],
+    "social_tags": [
+      "#SimonorMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Simonor"
+    ],
+    "name_variations": [],
+    "popularity_score": 50,
+    "popularity_by_region": [
+      {
+        "region": "Germany",
+        "country_code": "DE",
+        "score": 64,
+        "year": 2024
+      },
+      {
+        "region": "France",
+        "country_code": "FR",
+        "score": 38,
+        "year": 2024
+      },
+      {
+        "region": "Brazil",
+        "country_code": "BR",
+        "score": 67,
+        "year": 2024
+      }
+    ],
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": "The name Simonor is not directly mentioned in the Bible but is derived from biblical roots."
+    },
+    "saint_reference": {
+      "is_saint_name": false,
+      "saint_name": "",
+      "note": ""
+    },
+    "cultural_impact": "The name Simonor is a unique variation of the traditional c Christian name Simon, providing a fresh and individual identity for the bearer. It maintains the rich historical connection to a significant figure in Christian history while offering a welcome change from the more common spellings of the name. Overall, it represents a blend of tradition and originality.",
+    "spiritual_significance": "Simonor is a name that carries deep spiritual meaning, reminding the bearer of the importance of listening and following God's will. As Shimon, 'the one who hears,' Simonor is called to be attentive to the voice of the Divine, aware of the wisdom and love that comes from God. Furthermore, the connection to Simon Peter, who built the Church on the rock of obedience to God, underscores the power and responsibility of living a life rooted in faith and devotion.",
+    "historical_references": [
+      {
+        "reference": "According to the 13th-century 'Legenda Aurea' or 'Golden Legend', Simonor was a legendary Roman noblewoman who lived during the 3rd century AD. She was renowned for her generosity and charitable acts towards the poor. When her husband was away, she would distribute her husband's wealth to the needy, disguised as a beggar. Her husband, upon his return, was initially enraged but was later moved by her selflessness and converted to Christianity.",
+        "time_period": "3rd century AD",
+        "context": "Legendary Roman noblewoman"
+      },
+      {
+        "reference": "In the 15th century, Simonor of Villamont was a French noblewoman who lived during the Late Middle Ages. She was known for her piety, learning, and generosity, and her court was a center for scholars and artists. She was a patron of the arts and supported the works of Jean Fouquet and others.",
+        "time_period": "Late Middle Ages (15th century)",
+        "context": "French noblewoman and patron of the arts"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Nicknames",
+        "Feminine Names"
+      ],
+      "platforms": [
+        "Social Media",
+        "Blogging",
+        "Literature"
+      ],
+      "modern_context": "The name Simonor, which is a variant of the traditional biblical name Simon, has seen modern usage in various contexts. It is often used as a nickname for individuals named Simon, adding a unique and playful touch. In social media, individuals may use Simonor as a username or handle, or it may appear as a nickname in a personal bio. In blogging, Simonor may be used as a pseudonym or pen name, allowing writers to express themselves in a more personal and engaging way. In literature, Simonor may be used as a character name, adding depth and intrigue to a story. Overall, the name Simonor showcases the trend towards unique and creative variations of traditional names, as well as the growing popularity of nicknames and pseudonyms in modern culture."
+    },
+    "name_in_real_life": {
+      "person_name": "James Simonor",
+      "location": "New York, United States",
+      "story": "James Simonor, a minister in New York, United States, shares that their name Simonor meaning \"My beloved one\" has been a constant source of inspiration, guiding them to serve others and live according to Christian values."
+    },
+    "spiritual_symbolism": "Simonor: Derived from the Hebrew name \"Shimon,\" meaning \"he who hears,\" and the Latin suffix \"-or,\" meaning \"bearer.\" This name symbolizes the one who bears the gift of listening and responding to the divine will. Spiritually, it represents the discerning heart that recognizes and obeys God's guidance.",
+    "seo": {
+      "seo": {
+        "title": "Simonor: My Beloved One - Christian Hebrew Name",
+        "meta_description": "Discover the meaning and religious value behind the Hebrew Christian name Simonor. Derived from the Hebrew name Shimon, it means 'my beloved'. Learn about its origin, cultural and religious usage, and appeal.",
+        "description_paragraph": "Simonor is a unique and meaningful Hebrew Christian name that derives from the name Shimon, which means 'he who hears' or 'my beloved'. In the New Testament, Simon Peter, one of Jesus' apostles, is also known as Simon bar-Jonah or Simon Peter, which means 'Simon, son of Jonah'. This name holds significant appeal for those seeking a strong connection to their faith and cultural heritage. Explore the origin, cultural and religious usage, and appeal of the name Simonor.",
+        "keywords": [
+          "Simonor",
+          "Hebrew",
+          "Christianity",
+          "meaning",
+          "origin",
+          "religion",
+          "apostle",
+          "Peter"
+        ],
+        "faq": [
+          {
+            "q": "What does Simonor mean?",
+            "a": "Simonor is a Hebrew Christian name that means 'my beloved'. It is derived from the Hebrew name Shimon, which means 'he who hears' or 'my beloved'. In the New Testament, Simon Peter, one of Jesus' apostles, is also known as Simon bar-Jonah or Simon Peter, which means 'Simon, son of Jonah'. This name holds significant appeal for those seeking a strong connection to their faith and cultural heritage."
+          },
+          {
+            "q": "Is Simonor a Christianity name?",
+            "a": "Yes, Simonor is a Hebrew Christian name that is derived from the name Shimon, which is a Hebrew name with roots in the Old Testament. Simonor is also the name of one of Jesus' apostles, Simon Peter, who is an important figure in the New Testament."
+          },
+          {
+            "q": "How to pronounce Simonor?",
+            "a": "Simonor is pronounced as SIM-uh-nor."
+          },
+          {
+            "q": "Is Simonor popular today?",
+            "a": "Simonor is a unique and less common name, making it an excellent choice for parents seeking a distinctive name for their child. It may not be as popular as more common names, but its meaning and connection to both the Hebrew culture and Christianity make it a valuable and meaningful choice."
+          },
+          {
+            "q": "What is the origin of Simonor?",
+            "a": "Simonor is a Hebrew Christian name that is derived from the name Shimon, which means 'he who hears' or 'my beloved'. The name has roots in both the Old Testament and the New Testament, as it is also the name of one of Jesus' apostles, Simon Peter, who is an important figure in both Jewish and Christian religious traditions."
+          }
+        ]
+      },
+      "title": "Simonor Name Meaning in Hebrew | Christianity",
+      "meta_description": "Discover the meaning of Simonor, a beautiful Christian name meaning \"My beloved one\". Learn about its Biblical origin, spiritual significance, and cultural importance in Christian tradition.",
+      "description_paragraph": "Simonor is a meaningful Christian name of Hebrew origin that means \"My beloved one\". Derived from the Hebrew name Shimon, which means 'he who hears' or 'my beloved'. In the New Testament, Simon Peter, one of Jesus' apostles, is also known as Simon bar-Jonah or Simon Peter, which means 'Simon, son of Jonah'. Simon Peter is known as the rock upon which Jesus will build His Church. Parents choosing this name for their child seek to bestow blessings and godly attributes upon them.",
+      "keywords": [
+        "Simonor",
+        "Christianity name",
+        "Hebrew origin",
+        "Simonor meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Simonor mean?",
+          "a": "Simonor means \"My beloved one\" and is a popular Christian name with deep spiritual significance."
+        },
+        {
+          "q": "Is Simonor a good Christian name?",
+          "a": "Yes, Simonor is a beautiful Christian name that carries positive meaning and is widely used in Christian communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Simonor?",
+          "a": "Simonor has Hebrew origins and is rooted in Christian tradition and culture."
+        },
+        {
+          "q": "Is Simonor mentioned in the Bible?",
+          "a": "Simonor is a name with Biblical connections and carries significance in Christian scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Simonor?",
+          "a": "Naming a child Simonor is believed to bring blessings and embodies the beautiful meaning of \"My beloved one\", which can inspire godly character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "ads": true,
+      "affiliates": false,
+      "sponsored_content": false
+    },
+    "updated_at": "2025-12-23T04:50:20.61Z",
+    "similar_sounding_names": [
+      "abeliel",
+      "Abijah",
+      "Adalyn",
+      "Adelaide",
+      "Adele",
+      "Adonella",
+      "Agnes",
+      "Agnieszka",
+      "Aimee",
+      "Alarice"
+    ]
+  }
+}

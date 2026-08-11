@@ -1,0 +1,296 @@
+{
+  "success": true,
+  "data": {
+    "name": "Shehla",
+    "slug": "shehla",
+    "language": [
+      "Urdu",
+      "Arabic"
+    ],
+    "gender": "female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Moon",
+    "long_meaning": "Derived from the Arabic word 'shahla', meaning 'moon' or 'the night', reflecting the soothing and calming influence of the celestial body.",
+    "spiritual_meaning": "Symbolizes the peaceful and tranquil nature of the night and the moon, representing the feminine energies of nurturing, intuition, and emotional depth.",
+    "emotional_traits": [
+      "Calm",
+      "Peaceful",
+      "Gentle",
+      "Nurturing",
+      "Intuitive"
+    ],
+    "hidden_personality_traits": [
+      "Mysterious",
+      "Introspective",
+      "Deep",
+      "Intelligent"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "Silver",
+      "White"
+    ],
+    "lucky_stone": "Moonstone",
+    "life_path_number": 3,
+    "numerology_meaning": "Creativity, self-expression, and communication",
+    "in_arabic": {
+      "name": "شَهْلَة",
+      "meaning": "الجمال والجاذبية، النزاهة والخير، الحكمة والذكاء",
+      "long_meaning": "شَهْلَةُ: اسمٌ عربي، مشتقٌ من الشَهَل، الَّذي يُشيرُ إلى الجمال والجاذبية؛ وبالتالي، يشيرُ اسمُ شَهْلَة إلى شخصٍ جميلٍ، ذي جاذبية، ذي نزاهةٍ وذكاءٍ؛ وقد يكونَ هذا الاسمُ مُتَأثراً بتجليةٍ في الشخصية، وإثارةً في القلب؛ حيثُ أنّ الجمالُ والجاذبيةُ هي من أهمّ الجوانبَ الإنسانية. وقد يكونَ هذا الاسمُ مُستوحىً من قصةِ سيدنا عليٍّ رَضِيَ اللَهُ عَنْهُ، حيثُ كانَ شَهلاً بالغَزالِ، وكانَ هذا الشَهَلُ من أروعَ ما كانَ يُبديهُ؛ فهوَ يُظهرُ جمالاً ووَفرةً وَكَمالاً في ذاتِهِ، فمنهُ يُنالُ العِزّ وَيُستَودعُ الخَير."
+    },
+    "in_urdu": {
+      "name": "شہلہ",
+      "meaning": "جمالی جاذبیت، نزاہت، خیر، حکمت، ذکاوت",
+      "long_meaning": "شہلہ نام ایک عرب نام ہے، جو شہل سے مشتق ہے، جو جمال اور جاذبیت کے لیے استعمال ہوتا ہے، اس لیے شہلہ نام ایک جمیلہ، جاذبہ، نازک و ذاکرہ ہے۔ یہ نام ایک شخص کی وجہ تسمیہ میں استعمال ہو سکتا ہے جو اپنی زبردست خوبیوں اور بہادری کے لیے مشہور ہے۔ یہ نام کے معنی میں ایک خاص جوش اور جذبہ ہے، جو اس شخص کی شخصیت کی گہرائی کا اظہار کرتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "शेहला",
+      "meaning": "सौंदर्य, आकर्षण, निर्मलता, अच्छाई, बुद्धिमत्ता, विवेक",
+      "long_meaning": "शेहला नाम एक अरबी नाम है, जो शेहल से बना हुआ है, जो सौंदर्य और आकर्षण के लिए उपयोग किया जाता था। शेहला नाम एक सुंदर, आकर्षक, निर्मल और बुद्धिमान व्यक्ति के लिए उपयुक्त है। यह नाम एक व्यक्ति की विशेषताओं और गुणों का प्रतीक है, जैसे कि सौंदर्य, आकर्षण, निर्मलता, अच्छाई, बुद्धिमत्ता और विवेक।"
+    },
+    "in_pashto": {
+      "name": "شېهلا",
+      "meaning": "جمالي، جذب، نزاهت، خير، حکمت، ذکاوت",
+      "long_meaning": "شېهلا نوم یو عربي نوم دی، چې له شېهل څخه اخیستل شوی دی، چې د جمالي او جذبې لپاره کارول کېږي؛ نو شېهلا نوم یو جميل، جذاب، نازک او ذاکرې څښتنې لپاره په کار اېږي. دا نوم د شخص لپاره په کار اېږي، چې د خپلې سيمې او ځواک په توگه د ټولو په درک کې ځي."
+    },
+    "in_english": {
+      "name": "Shehla",
+      "meaning": "Beauty, charm, innocence, kindness, wisdom, intelligence",
+      "long_meaning": "Shehla is an Arabic name derived from the root word 'shahala', which means beauty, charm, and innocence. The name is associated with the qualities of a virtuous and intelligent person, and is often given to girls born into families of high social standing. In Islamic tradition, the name Shehla is associated with the virtue of beauty and kindness, and is considered a symbol of spiritual growth and self-improvement."
+    },
+    "pronunciation": {
+      "english": "/ʃɛhlə/",
+      "urdu": "شہلہ",
+      "hindi": "शेहला",
+      "pashto": "شېهلا",
+      "ipa": "/ʃeɪhla/"
+    },
+    "celebrity_usage": [
+      "Shehla Zaidi",
+      "Shehla Chatoor"
+    ],
+    "social_tags": [
+      "#ShehlaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Shehla"
+    ],
+    "name_variations": [
+      "Shela"
+    ],
+    "popularity_score": 49,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 68,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 72,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Shehla Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Shehla, a beautiful Islam name meaning \"Moon\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Shehla, Islam name, baby names, Moon, Islam baby names, name meaning",
+      "description_paragraph": "Shehla is a meaningful Islam name of Arabic origin that means \"Moon\". Derived from the Arabic word 'shahla', meaning 'moon' or 'the night', reflecting the soothing and calming influence of the celestial body.",
+      "keywords": [
+        "Shehla",
+        "Islam name",
+        "baby names",
+        "Moon",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Shehla in Islam tradition?",
+          "a": "Shehla is a beautiful Islam name meaning \"Moon\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Shehla a good Islam name for a baby?",
+          "a": "Yes, Shehla is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Shehla?",
+          "a": "The name Shehla has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Shehla correctly?",
+          "a": "Shehla is pronounced /ʃɛhlə/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Shehla?",
+          "a": "Naming a child Shehla brings blessings. The meaning \"Moon\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Shehla?",
+          "a": "Shehla is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 93,
+      "focus_keyword": "Shehla meaning",
+      "secondary_keywords": [
+        "Islam name Shehla",
+        "Shehla meaning",
+        "Shehla origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Shehla holds a rich cultural significance in Muslim communities as it is inspired by the beauty, grace, and peaceful energy of the moon in the Islamic tradition. The moon is often mentioned in the Quran, and is a symbol of tranquility, wisdom, and feminine strength.",
+    "spiritual_significance": "The name Shehla carries profound spiritual significance as it reminds us of the divine and cyclical nature of life, symbolized by the moon's phases. It encourages us to embrace change, cultivate inner peace, and reflect on the wisdom of the universe. Each time we hear this name, it serves as a gentle reminder to connect with the eternal and mysterious forces of the cosmos.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Shehla is mentioned in the book 'The Golden Age of Islam' as a name associated with the 8th century.",
+        "time_period": "8th century",
+        "context": "The name Shehla was used during the Islamic Golden Age, a period of cultural and scientific flourishing in the Islamic world."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "increasing popularity in the Middle East and North Africa"
+      ],
+      "platforms": [
+        "social media, naming ceremonies"
+      ],
+      "modern_context": "The name Shehla remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Layla Shehla",
+      "location": "Istanbul, Turkey",
+      "story": "Layla Shehla from Istanbul, Turkey embodies the meaning of Shehla - \"Moon\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Moon\" symbolizes Derived from the Arabic word 'shahla', meaning 'moon' or 'the night', reflecting the soothing and calming influence of the celestial body.. In Islamic spirituality, bearing the name Shehla serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of moon.",
+    "created_at": "2025-12-22T19:19:49.856Z",
+    "updated_at": "2025-12-22T04:53:14.889Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1276,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Shehla",
+      "description": "Moon",
+      "additionalName": [
+        "Shela"
+      ],
+      "knowsLanguage": [
+        "Urdu",
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Shehla",
+          "description": "Discover the meaning of Shehla - \"Moon\"",
+          "image": "/images/social/shehla-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Shehla - Name Meaning",
+          "description": "Learn about the beautiful name Shehla",
+          "image": "/images/social/shehla-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Shehla",
+          "description": "Name meaning: Moon",
+          "image": "/images/social/shehla-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Shehla - Meaning: Moon",
+        "email_subject": "Beautiful Name: Shehla"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Shehla with meaning Moon",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "sadaldin",
+      "saim",
+      "saal"
+    ]
+  }
+}

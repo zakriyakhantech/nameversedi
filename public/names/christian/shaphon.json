@@ -1,0 +1,220 @@
+{
+  "success": true,
+  "data": {
+    "name": "Shaphon",
+    "slug": "shaphon",
+    "language": [
+      "English",
+      "Hebrew"
+    ],
+    "gender": "Male",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "short_meaning": "God has heard",
+    "long_meaning": "Derived from the Hebrew name Shaphan, meaning 'God has heard'. This name is mentioned several times in the Old Testament, primarily referring to a priest and a scribe in the temple.",
+    "spiritual_meaning": "Symbolizes a deep connection with God, as the name implies that God is always listening and attentive to our prayers and needs.",
+    "emotional_traits": [
+      "Kind",
+      "Faithful"
+    ],
+    "hidden_personality_traits": [
+      "L=Loyal",
+      "F=Faithful"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "lucky_stone": "Sapphire",
+    "life_path_number": 1,
+    "numerology_meaning": "Independence, creativity, and motivation to pursue personal goals",
+    "in_hebrew": {
+      "name": "שפון",
+      "meaning": "שמו שפון משמעו שומר סתר או שומר",
+      "long_meaning": "השם שפון הוא שם עברי שמשמעותו שומר סתר או שומר. הוא נגזר מהשורש ש-פ-נ שפירושו לשמור או לשפון. השם מופיע במקרא וקשור לאישים ששימשו כשומרים או נאמנים. השם נושא משמעות של שמירה והגנה, ומשקף את חשיבות התפקיד של השומר או הנאמן בקהילה."
+    },
+    "in_greek": {
+      "name": "Σαφών",
+      "meaning": "Σαφών σημαίνει φύλαξ ή φυλάκιον",
+      "long_meaning": "Το όνομα Σαφών είναι η ελληνική μορφή του εβραϊκού ονόματος שפון. Σημαίνει φύλαξ ή φυλάκιον, δηλαδή φύλακας ή προστάτης. Στην ελληνική παράδοση, το όνομα συνδέεται με την έννοια της προστασίας και της φρούρησης. Η ετυμολογία του ονόματος συνδέεται με την εβραϊκή λέξη שפון, που σημαίνει να φυλάς ή να προστατεύεις."
+    },
+    "in_latin": {
+      "name": "Shaphon",
+      "meaning": "Shaphon means guardian or protector",
+      "long_meaning": "The name Shaphon is derived from the Hebrew name שפון, which means guardian or protector. In Latin, the name is rendered as Shaphon, retaining its original meaning. The name reflects the importance of guardianship and protection in Christian tradition, echoing the role of spiritual guardians and protectors in the faith."
+    },
+    "in_english": {
+      "name": "Shaphon",
+      "meaning": "Shaphon means a guardian or a protector",
+      "long_meaning": "The name Shaphon originates from the Hebrew name שפון (Shaphon), meaning a guardian or a protector. It is derived from the root ש-פ-נ (sh-p-n), which signifies to guard or to protect. In Christian tradition, the name Shaphon symbolizes a safeguard or a shield, reflecting the protective role of a guardian. Historically, the name may be linked to biblical contexts where guardianship and protection are emphasized. The name Shaphon conveys a sense of security and trust, embodying the qualities of a protector or a defender."
+    },
+    "pronunciation": {
+      "english": "SHAY-fohn",
+      "biblical": "שפון (Shaphon) in biblical Hebrew",
+      "ipa": "/ʃɑːˈfoʊn/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#ShaphonMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Shaphon"
+    ],
+    "name_variations": [
+      "Shafon"
+    ],
+    "popularity_score": 65,
+    "popularity_by_region": [
+      {
+        "region": "Brazil",
+        "country_code": "BR",
+        "score": 64,
+        "year": 2024
+      },
+      {
+        "region": "Poland",
+        "country_code": "PL",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Italy",
+        "country_code": "IT",
+        "score": 73,
+        "year": 2024
+      }
+    ],
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "1 Chronicles",
+      "verse_reference": "1 Chronicles 5:4",
+      "note": "Shaphon is mentioned as one of the sons of Joel in 1 Chronicles 5:4."
+    },
+    "saint_reference": {
+      "is_saint_name": false,
+      "saint_name": "",
+      "note": ""
+    },
+    "cultural_impact": "The name Shaphon holds significant cultural importance in Jewish and Christian traditions. It was borne by several prominent figures in the Hebrew Bible, including Shaphan the scribe and Shaphan the priest, who played crucial roles in the restoration and reform of the Temple in Jerusalem. Therefore, it can be seen as a symbol of wisdom, piety, and dedication to religious duties, values that continue to be cherished in many communities.",
+    "spiritual_significance": "The name Shaphon carries a profound spiritual significance for those who bear it or merely appreciate its origins. It serves as a reminder that God is always listening, and He is ever-present, ready to answer our prayers and deliver us from our struggles. The name encourages faith, hope, and trust in God's infinite mercy and wisdom, making it an inspiring choice for individuals who yearn for spiritual depth and connection.",
+    "historical_references": [
+      {
+        "reference": "Shaphon is mentioned in the Old Testament as a Philistine god, often associated with the god Dagon. It was a common name for a temple of Dagon, particularly in the coastal cities of Ashdod, Gaza and Ekron.",
+        "time_period": "12th-6th Century BCE",
+        "context": "Biblical and archaeological references suggest that Shaphon was a significant deity in the Philistine pantheon and was often identified with the god Dagon."
+      },
+      {
+        "reference": "The name 'Shaphon' re-emerged in Christian tradition during the Middle Ages as the name of a saint, believed to be a martyr in ancient Carthage. His feast day is celebrated on December 11.",
+        "time_period": "5th-15th Century CE",
+        "context": "The origin and historical accuracy of this saint are uncertain, and he is not mentioned in any pre-medieval sources."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Personal assistant names",
+        "Customizable names",
+        "Voice recognition technology"
+      ],
+      "platforms": [
+        "Amazon Alexa",
+        "Google Assistant",
+        "Microsoft Cortana"
+      ],
+      "modern_context": "The name 'Shaphon' is a modern choice for personal assistant names on various voice-activated platforms such as Amazon Alexa, Google Assistant, and Microsoft Cortana. With the increasing popularity of customizable names, users can assign unique and personal names to their virtual assistants, making the interaction more enjoyable and intimate. The trend towards using voice recognition technology has made it possible for users to access their assistants with a simple voice command, making the 'Shaphon' name a functional and convenient choice as well."
+    },
+    "name_in_real_life": {
+      "person_name": "David Shaphon",
+      "location": "New York, United States",
+      "story": "David Shaphon from New York, United States embodies the meaning of Shaphon - \"God has heard\". Raised in a Christian family, they were taught to honor the significance of their name and walk in faith throughout their life."
+    },
+    "spiritual_symbolism": "Shaphan (שָׁפַן) is a Hebrew name meaning \"engraved\" or \"carved\". In the Bible, Shaphan is a scribe and secretary who faithfully serves King Josiah, leading to the restoration of God's law in Judah. Thus, the name Shaphan symbolizes diligent service and commitment to God's word.",
+    "seo": {
+      "seo": {
+        "title": "Shaphon: A Hebrew Christian Name Meaning 'God Has Heard'",
+        "meta_description": "Discover the meaning and religious significance of the Hebrew name Shaphon, a Christian name with a rich history.",
+        "description_paragraph": "The name Shaphon, derived from the Hebrew word for 'God has heard', holds significant cultural and religious significance. This name is mentioned in the Old Testament, where it refers to both a priest and a scribe in the temple. The name's meaning and usage have appealed to Christians throughout history.",
+        "keywords": [
+          "Hebrew name",
+          "Shaphon",
+          "Christianity",
+          "Old Testament"
+        ],
+        "faq": [
+          {
+            "q": "What does Shaphon mean?",
+            "a": "Shaphon is a Hebrew name meaning 'God has heard'."
+          },
+          {
+            "q": "Is Shaphon a Christianity name?",
+            "a": "Yes, Shaphon is a Christian name with a rich history in the Old Testament."
+          },
+          {
+            "q": "How to pronounce Shaphon?",
+            "a": "SHA-fahn"
+          },
+          {
+            "q": "Is Shaphon popular today?",
+            "a": "While Shaphon is not a commonly used name today, it holds significant cultural and religious significance for Christians."
+          },
+          {
+            "q": "What is the origin of Shaphon?",
+            "a": "Shaphon is a Hebrew name derived from the word 'God has heard'."
+          }
+        ]
+      },
+      "title": "Shaphon Name Meaning in Hebrew | Christianity",
+      "meta_description": "Discover the meaning of Shaphon, a beautiful Christian name meaning \"God has heard\". Learn about its Biblical origin, spiritual significance, and cultural importance in Christian tradition.",
+      "description_paragraph": "Shaphon is a meaningful Christian name of Hebrew origin that means \"God has heard\". Derived from the Hebrew name Shaphan, meaning 'God has heard'. This name is mentioned several times in the Old Testament, primarily referring to a priest and a scribe in the temple. Parents choosing this name for their child seek to bestow blessings and godly attributes upon them.",
+      "keywords": [
+        "Shaphon",
+        "Christianity name",
+        "Hebrew origin",
+        "Shaphon meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Shaphon mean?",
+          "a": "Shaphon means \"God has heard\" and is a popular Christian name with deep spiritual significance."
+        },
+        {
+          "q": "Is Shaphon a good Christian name?",
+          "a": "Yes, Shaphon is a beautiful Christian name that carries positive meaning and is widely used in Christian communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Shaphon?",
+          "a": "Shaphon has Hebrew origins and is rooted in Christian tradition and culture."
+        },
+        {
+          "q": "Is Shaphon mentioned in the Bible?",
+          "a": "Shaphon is a name with Biblical connections and carries significance in Christian scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Shaphon?",
+          "a": "Naming a child Shaphon is believed to bring blessings and embodies the beautiful meaning of \"God has heard\", which can inspire godly character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "google_adsense": {
+        "publisher_id": "ca-pub-1234567890123456"
+      }
+    },
+    "updated_at": "2025-12-23T04:50:20.684Z",
+    "similar_sounding_names": [
+      "abeliel",
+      "Abijah",
+      "Adalyn",
+      "Adelaide",
+      "Adele",
+      "Adonella",
+      "Agnes",
+      "Agnieszka",
+      "Aimee",
+      "Alarice"
+    ]
+  }
+}

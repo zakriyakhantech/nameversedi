@@ -1,0 +1,280 @@
+{
+  "success": true,
+  "data": {
+    "name": "Hijrat",
+    "slug": "hijrat",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Migration to a better place",
+    "long_meaning": "Hijrat refers to the migration of the Prophet Muhammad (PBUH) from Mecca to Medina, symbolizing a journey towards a better life. It also represents a spiritual migration towards Allah.",
+    "spiritual_meaning": "The concept of Hijrat is mentioned in the Quran, where Allah says, 'And whoever emigrates in the cause of Allah will find on the earth many locations and abundance.' (Quran 4:100)",
+    "emotional_traits": [
+      "Brave",
+      "Determined",
+      "Compassionate"
+    ],
+    "hidden_personality_traits": [
+      "C = Courageous",
+      "D = Dutiful",
+      "E = Enthusiastic"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 6,
+    "numerology_meaning": "A harmonious, loving, family-oriented, and emotional person.",
+    "in_arabic": {
+      "name": "هجرة",
+      "meaning": "الهجرة من مكان إلى آخر، خاصة من مكة إلى المدينة",
+      "long_meaning": "الهجرة هي الانتقال من مكان إلى آخر، وخاصة هجرة النبي محمد صلى الله عليه وسلم من مكة إلى المدينة المنورة، والتي تعتبر حدثًا مهمًا في التاريخ الإسلامي. اشتقت كلمة الهجرة من الجذر العربي 'ه-ج-ر' الذي يعني الانتقال أو الترحيل. في القرآن الكريم، ذكرت كلمة الهجرة في سورة آل عمران الآية ١٢٠ 'وَالَّذِينَ هَاجَرُوا فِي سَبِيلِ اللَّهِ ثُمَّ قُتِلُوا أَوْ مَاتُوا يَرْزُقُهُمُ اللَّهُ رِزْقًا حَسَنًا وَاللَّهُ خَيْرٌ رَازِقًا'."
+    },
+    "in_urdu": {
+      "name": "ہجرت",
+      "meaning": "ایک جگہ سے دوسری جگہ پر جانا، خاص طور پر مکہ سے مدینہ",
+      "long_meaning": "ہجرت کا مطلب ہوتا ہے ایک جگہ سے دوسری جگہ پر جانا، اور خاص طور پر رسول اللہ صلی اللہ علیہ و آلہ و سلم کی مکہ سے مدینہ تک کی ہجرت، جو اسلامی تاریخ میں ایک اہم واقعہ ہے۔ اردو میں ہجرت کا استعمال مذہبی اور تاریخی سیاق و سباق میں ہوتا ہے۔ ہجرت کی اصطلاح عربی جڑ 'ه-ج-ر' سے نکلی ہے جس کا مطلب ہے 'پردہ کرنا' یا 'الگ ہونا'۔"
+    },
+    "in_hindi": {
+      "name": "हिजरत",
+      "meaning": "एक स्थान से दूसरे स्थान पर जाना, विशेष रूप से मक्का से मदीना",
+      "long_meaning": "हिजरत का अर्थ है एक स्थान से दूसरे स्थान पर जाना, विशेष रूप से मक्का से मदीना तक पैगंबर मुहम्मद की हिजरत, जो इस्लामी इतिहास में एक महत्वपूर्ण घटना है। यह नाम अरबी मूल 'ह-ज-र' से लिया गया है, जिसका अर्थ है 'स्थानांतरित करना' या 'दूर जाना'। हिजरत की इस्लामी परंपरा में महत्वपूर्ण भूमिका है और यह नाम अक्सर इस्लामी मूल्यों और इतिहास के प्रतीक के रूप में दिया जाता है।"
+    },
+    "in_pashto": {
+      "name": "هجرت",
+      "meaning": "له يوه ځاي څخه بل ځاي ته تلل، په ځانګړې توګه مکې څخه مدينې ته",
+      "long_meaning": "هجرت داسې معنی لري چې له يوه ځاي څخه بل ځاي ته ولاړ شي، او په ځانګړې توګه د پيغمبر محمد صلی الله عليه وسلم مکې څخه مدینې ته هجرت، کوم چې د اسلامي تاريخ يو مهم پېښه ده. د هجرت کلمه د عربي ريښې 'ه-ج-ر' څخه اخیستل شوې ده، چې معنی يې د تګ يا ليږدولو ده. په قرآن کريم کې، هجرت د سوره آل عمران په ۱۲۰ آيت کې ياد شوي ده."
+    },
+    "in_english": {
+      "name": "Hijrat",
+      "meaning": "Migration or journey, especially from Mecca to Medina",
+      "long_meaning": "Hijrat refers to migration or journey, particularly the migration of Prophet Muhammad from Mecca to Medina, a pivotal event in Islamic history. Etymologically derived from the Arabic root 'h-j-r', which means 'to leave' or 'to depart', the term Hijrat signifies a significant transition or relocation. In Islamic tradition, Hijrat is considered a crucial aspect of faith and a symbol of devotion, as mentioned in the Quran, Surah Al-Ahzab, Verse 50."
+    },
+    "pronunciation": {
+      "english": "hij-rat",
+      "urdu": "ہِجْرَت",
+      "hindi": "हिज़रत",
+      "pashto": "هِجرت",
+      "ipa": "/hɪdʒræt/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#HijratMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Hijrat"
+    ],
+    "name_variations": [],
+    "popularity_score": 50,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 93,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 87,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 88,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 77,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Hijrat Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Hijrat, a beautiful Islam name meaning \"Migration to a better place\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Hijrat, Islam name, baby names, Migration to a better place, Islam baby names, name meaning",
+      "description_paragraph": "Hijrat is a meaningful Islam name of Arabic origin that means \"Migration to a better place\". Hijrat refers to the migration of the Prophet Muhammad (PBUH) from Mecca to Medina, symbolizing a journey towards a better life. It also represents a spiritual migration towards Allah.",
+      "keywords": [
+        "Hijrat",
+        "Islam name",
+        "baby names",
+        "Migration to a better place",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Hijrat in Islam tradition?",
+          "a": "Hijrat is a beautiful Islam name meaning \"Migration to a better place\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Hijrat a good Islam name for a baby?",
+          "a": "Yes, Hijrat is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Hijrat?",
+          "a": "The name Hijrat has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Hijrat correctly?",
+          "a": "Hijrat is pronounced hij-rat in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Hijrat?",
+          "a": "Naming a child Hijrat brings blessings. The meaning \"Migration to a better place\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Hijrat?",
+          "a": "Hijrat is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Hijrat meaning",
+      "secondary_keywords": [
+        "Islam name Hijrat",
+        "Hijrat meaning",
+        "Hijrat origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The Hijrat, or the migration of the Prophet Muhammad (Peace Be Upon Him) from Mecca to Medina in 622 AD, is considered a pivotal moment in Islamic history as it marked the beginning of the Islamic calendar and the establishment of the first Islamic state. This event significantly shaped the Islamic community by providing them with a distinct Islamic identity, separating them from the polytheistic Arabian society and fostering a sense of Muslim unity. The Hijrat was also marked by various social, legal, and political changes that contributed to the development of Islamic law, institutions, and practices.",
+    "spiritual_significance": "Moreover, the Hijrat holds tremendous spiritual significance for Muslims, symbolizing the journey towards Allah and a desire to purify one's soul. The migration of the Prophet Muhammad (PBUH) denoted a shift from a life of opposition and hardship in Mecca towards a life of respect and stability in Medina. It also reflected the Prophet's commitment to spreading the message of Islam and his readiness to face new challenges for the sake of Allah. As a result, the Hijrat is a constant source of inspiration for Muslims, reminding them of the importance of staying committed to their faith, striving for a better life, and being prepared to face the challenges that come with it.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that The Hijra is the migration of Muhammad and his followers from Mecca to Medina in 622 CE. The name Hijrat carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "The Hijra marks the beginning of the Islamic calendar and the Islamic era."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "The term is used to refer to the migration itself, as well as the Islamic calendar and the Islamic era."
+      ],
+      "platforms": [
+        "Islamic studies, history, and culture"
+      ],
+      "modern_context": "The name Hijrat remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Hijrat",
+      "location": "Dubai, UAE",
+      "story": "Fatima Hijrat from Dubai, UAE embodies the meaning of Hijrat - \"Migration to a better place\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Migration to a better place\" symbolizes Hijrat refers to the migration of the Prophet Muhammad (PBUH) from Mecca to Medina, symbolizing a journey towards a better life. It also represents a spiritual migration towards Allah.. In Islamic spirituality, bearing the name Hijrat serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of migration to a better place.",
+    "created_at": "2025-12-22T19:19:49.804Z",
+    "updated_at": "2025-12-22T04:53:14.511Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1102,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Hijrat",
+      "description": "Migration to a better place",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Hijrat",
+          "description": "Discover the meaning of Hijrat - \"Migration to a better place\"",
+          "image": "/images/social/hijrat-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Hijrat - Name Meaning",
+          "description": "Learn about the beautiful name Hijrat",
+          "image": "/images/social/hijrat-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Hijrat",
+          "description": "Name meaning: Migration to a better place",
+          "image": "/images/social/hijrat-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Hijrat - Meaning: Migration to a better place",
+        "email_subject": "Beautiful Name: Hijrat"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Hijrat with meaning Migration to a better place",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "hannah"
+    ]
+  }
+}

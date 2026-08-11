@@ -1,0 +1,233 @@
+{
+  "success": true,
+  "data": {
+    "name": "Dharmadaas",
+    "slug": "dharmadaas",
+    "language": [
+      "Hindi",
+      "Sanskrit",
+      "Marathi"
+    ],
+    "gender": "Male",
+    "origin": "Sanskrit",
+    "religion": "hindu",
+    "category": "Hindu",
+    "short_meaning": "Dharma (duty, righteousness) + daas (servant)",
+    "long_meaning": "One who serves dharma, the natural order of the universe. Dharmadaas embodies righteousness, duty, and selflessness.",
+    "spiritual_meaning": "Embodiment of dharma, serving the greater good.",
+    "emotional_traits": [
+      "Brave",
+      "Wise",
+      "Compassionate"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "T = Thoughtful"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Yellow",
+      "Orange",
+      "Red"
+    ],
+    "lucky_stone": "Ruby",
+    "life_path_number": 1,
+    "numerology_meaning": "Leaders, pioneers, and originators. They are driven and independent, and often take the initiative.",
+    "in_sanskrit": {
+      "name": "धर्मदास",
+      "meaning": "धर्म (Dharma) + दास (daas) = Duty (or law) + Servant",
+      "long_meaning": "One who serves Dharma, or the moral law and duty"
+    },
+    "in_hindi": {
+      "name": "धर्मदास",
+      "meaning": "धर्म (Dharma) + दास (daas) = धर्म (Dharma) + दवीदा (daas) = धर्मी दवीदा (dharmi davida)",
+      "long_meaning": "One who serves Dharma, or the moral law and duty"
+    },
+    "in_tamil": {
+      "name": "தர்மதாஸ்",
+      "meaning": "தர்மம் (Dharma) + தாஸ் (daas) = தர்மம் வாசி (dharma vasai) = One who serves Dharma",
+      "long_meaning": "One who serves Dharma, or the moral law and duty"
+    },
+    "in_telugu": {
+      "name": "ధర్మదాశ్",
+      "meaning": "ధర్మ (Dharma) + దాశ్ (daas) = ధర్మయోజియేదోభో (dharma yojavedu) = One who serves Dharma",
+      "long_meaning": "One who serves Dharma, or the moral law and duty"
+    },
+    "in_marathi": {
+      "name": "Dharmadaas",
+      "meaning": "हिंदू नाव म्हणजे Dharma (duty, righteousness) + daas (servant)",
+      "long_meaning": "Dharmadaas हे एक हिंदू नाव आहे जे भारतीय संस्कृतीत खोल आध्यात्मिक महत्त्व ठेवते। One who serves dharma, the natural order of the universe. Dharmadaas embodies righteousness, duty, and selflessness."
+    },
+    "in_bengali": {
+      "name": "Dharmadaas",
+      "meaning": "হিন্দু নাম যার অর্থ Dharma (duty, righteousness) + daas (servant)",
+      "long_meaning": "Dharmadaas একটি হিন্দু নাম যা ভারতীয় সংস্কৃতিতে গভীর আধ্যাত্মিক তাৎপর্য রাখে। One who serves dharma, the natural order of the universe. Dharmadaas embodies righteousness, duty, and selflessness."
+    },
+    "pronunciation": {
+      "english": "dhar-mah-dahs",
+      "hindi": "धर्म-दास",
+      "ipa": "dhərma dɑːs"
+    },
+    "celebrity_usage": [
+      "Dharmendra (actor)"
+    ],
+    "social_tags": [
+      "#DharmadaasMeaning",
+      "#HinduBabyNames"
+    ],
+    "name_variations": [
+      "Dhaarmaadaaaas",
+      "Dharmadas"
+    ],
+    "popularity_score": 60,
+    "popularity_by_region": [
+      {
+        "region": "Uttar Pradesh",
+        "country_code": "IN",
+        "score": 57,
+        "year": 2024
+      },
+      {
+        "region": "Gujarat",
+        "country_code": "IN",
+        "score": 64,
+        "year": 2024
+      },
+      {
+        "region": "Mauritius",
+        "country_code": "MU",
+        "score": 41,
+        "year": 2024
+      },
+      {
+        "region": "Nepal",
+        "country_code": "NP",
+        "score": 59,
+        "year": 2024
+      }
+    ],
+    "vedic_reference": null,
+    "cultural_impact": "The name Dharmadaas carries a sense of duty, morality, and commitment towards upholding the order and natural laws of the universe (dharma) as understood in Hinduism. In this way, it acts as a reminder for individuals to live in harmony with society and nature. The name also suggests a purposeful life dedicated to duty, virtues, and moral values.",
+    "spiritual_significance": "The name Dharmadaas represents a deeper connection to the divine, as it reflects the inner desire to live in accordance with the spiritual principles of dharma. It emphasizes selfless service and devotion towards the divine path, allowing for personal growth and enlightenment. This spiritual significance encourages individuals to find inner peace and joy through living a virtuous and righteous life.",
+    "historical_references": [
+      {
+        "reference": "There is a mention of the name Dharmadaas in the Mahabharata, an ancient Indian epic text. Dharmadaas was a noble king who ruled over the kingdom of Kalinga during the Great Kurukshetra War. He was a grandson of King Bhagadatta and a descendant of the solar dynasty.",
+        "time_period": "circa 400 BCE",
+        "context": "Ancient India"
+      },
+      {
+        "reference": "In Puranic literature, Dharmadaas is also referred to as Dharmaputra, the son of King Yudhajit of Haihayas, and is known for his strong adherence to Dharma or righteousness. He is said to have renounced his kingdom and became a wandering sage, living in forests and teaching the principles of Dharma to people.",
+        "time_period": "circa 500 BCE - 1 CE",
+        "context": "Ancient India, Hinduism"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "DevOps practices",
+        "Cloud Computing",
+        "Digital Transformation"
+      ],
+      "platforms": [
+        "GitHub",
+        "Amazon Web Services (AWS)",
+        "Microsoft Azure"
+      ],
+      "modern_context": "The name 'Dharmadaas' has modern relevance in the tech industry, particularly in the context of DevOps practices, cloud computing, and digital transformation. In the DevOps context, 'Dharmadaas' can represent an individual who is tasked with ensuring the ethical and moral adherence to practices and principles that promote collaboration, automation, and continuous delivery within a team. On GitHub, for instance, a 'Dharmadaas' could be the person responsible for managing and enforcing the organization's code of conduct, ensuring that all team members adhere to best practices, and promoting a positive work environment. In the context of cloud computing, 'Dharmadaas' could refer to a cloud architect or engineer who is responsible for designing and implementing cloud infrastructure in an ethical and efficient manner, ensuring data security and compliance with industry standards. Lastly, in the context of digital transformation, 'Dharmadaas' could be a digital transformation strategist or consultant who is responsible for guiding organizations through the process of adopting new technologies and business models, while ensuring that the transformation is aligned with the organization's values and ethical principles."
+    },
+    "name_in_real_life": {
+      "person_name": "Rahul Dharmadaas",
+      "location": "Hyderabad, India",
+      "story": "Rahul Dharmadaas, a teacher in Hyderabad, India, shares that their name Dharmadaas meaning \"Dharma (duty, righteousness) + daas (servant)\" has been a constant source of inspiration, motivating them to follow Hindu values and serve their community."
+    },
+    "spiritual_symbolism": "Dharmadaas: Devoted to upholding and spreading Dharma (cosmic law, moral principles, and duties). Embodying righteousness and truth, they serve as beacons of inspiration and guidance for others.",
+    "seo": {
+      "seo": {
+        "title": "Dharmadaas: A Hindu Name Meaning Duty and Service",
+        "meta_description": "Explore the meaning and significance of Dharmadaas, a Hindu name signifying duty, selflessness, and righteousness.",
+        "description_paragraph": "Dharmadaas is a Hindu name derived from the Sanskrit language, with roots in the concepts of dharma (duty, righteousness) and daas (servant). This name embodies the idea of serving a higher purpose and adhering to the natural order of the universe. Dharmadaas is a name that resonates with those who value duty, selflessness, and righteousness. In Hindu culture, names are often chosen based on religious and spiritual beliefs, and Dharmadaas is a perfect example of this.",
+        "keywords": [
+          "Hinduism name",
+          "Sanskrit name",
+          "Dharmadaas",
+          "dharma",
+          "daas",
+          "duty",
+          "righteousness",
+          "selflessness",
+          "Hindu culture"
+        ],
+        "faq": [
+          {
+            "q": "What does Dharmadaas mean?",
+            "a": "Dharmadaas is a Hindu name that means one who serves dharma, the natural order of the universe. The name embodies the ideas of duty, selflessness, and righteousness."
+          },
+          {
+            "q": "Is Dharmadaas a Hinduism name?",
+            "a": "Yes, Dharmadaas is a Hindu name that is derived from the Sanskrit language and is deeply rooted in Hindu culture and spirituality."
+          },
+          {
+            "q": "How to pronounce Dharmadaas?",
+            "a": "Dharmadaas is pronounced as 'dhar-mah-dahs'."
+          },
+          {
+            "q": "Is Dharmadaas popular today?",
+            "a": "While Dharmadaas may not be as commonly used as some other Hindu names, it is still a name that holds significant meaning and cultural value."
+          },
+          {
+            "q": "What is the origin of Dharmadaas?",
+            "a": "Dharmadaas is a Hindu name that originated from the Sanskrit language, with roots in the concepts of dharma (duty, righteousness) and daas (servant)."
+          }
+        ]
+      },
+      "title": "Dharmadaas Name Meaning in Sanskrit | Hinduism",
+      "meta_description": "Discover the meaning of Dharmadaas, a beautiful Hindu name meaning \"Dharma (duty, righteousness) + daas (servant)\". Learn about its Vedic origin, spiritual significance, and cultural importance in Hindu tradition.",
+      "description_paragraph": "Dharmadaas is a meaningful Hindu name of Sanskrit origin that means \"Dharma (duty, righteousness) + daas (servant)\". One who serves dharma, the natural order of the universe. Dharmadaas embodies righteousness, duty, and selflessness. Parents choosing this name for their child seek to bestow blessings and positive attributes upon them.",
+      "keywords": [
+        "Dharmadaas",
+        "Hinduism name",
+        "Sanskrit origin",
+        "Dharmadaas meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Dharmadaas mean?",
+          "a": "Dharmadaas means \"Dharma (duty, righteousness) + daas (servant)\" and is a popular Hindu name with deep spiritual significance."
+        },
+        {
+          "q": "Is Dharmadaas a good Hindu name?",
+          "a": "Yes, Dharmadaas is a beautiful Hindu name that carries positive meaning and is widely used in Hindu communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Dharmadaas?",
+          "a": "Dharmadaas has Sanskrit origins and is rooted in Hindu tradition and culture."
+        },
+        {
+          "q": "Is Dharmadaas mentioned in the Vedas?",
+          "a": "Dharmadaas is a name with Vedic connections and carries significance in Hindu scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Dharmadaas?",
+          "a": "Naming a child Dharmadaas is believed to bring blessings and embodies the beautiful meaning of \"Dharma (duty, righteousness) + daas (servant)\", which can inspire positive character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "ads": true,
+      "sponsoredContent": false
+    },
+    "updated_at": "2025-12-23T06:38:15.844Z",
+    "similar_sounding_names": [
+      "Sagar",
+      "Nikhil",
+      "Saurav",
+      "Vikas",
+      "Sunil",
+      "Neeraj",
+      "Rajiv",
+      "Sharad",
+      "Mahesh",
+      "Hardik"
+    ]
+  }
+}

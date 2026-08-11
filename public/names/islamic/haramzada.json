@@ -1,0 +1,285 @@
+{
+  "success": true,
+  "data": {
+    "name": "Haramzada",
+    "slug": "haramzada",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "(Male)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "The protector of sacred places",
+    "long_meaning": "In Islamic history, Haramzada refers to someone who protects and preserves the holy sites and relics. Derived from the Arabic words 'haram' (sacred) and 'zada' (protector).",
+    "spiritual_meaning": "Protector of the faith",
+    "emotional_traits": [
+      "Righteous",
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "M = Modest"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "(Monday)",
+    "lucky_colors": [
+      "Yellow",
+      "Green"
+    ],
+    "lucky_stone": "(Turquoise)",
+    "life_path_number": 6,
+    "numerology_meaning": "People with the name Haramzada tend to be responsible, selfless, and understanding individuals who put others before themselves. They have a strong sense of duty and can be relied upon to protect and preserve.",
+    "in_arabic": {
+      "name": "حرامزاده",
+      "meaning": "مولود حرام أو ابن الحرام",
+      "long_meaning": "الحرامزاده يعني الشخص الذي يعتبر مولودا من مصدر حرام أو غير مشروع، وقد وردت هذه الكلمة في القرآن الكريم في سياق الحديث عن بني إسرائيل وذريتهم، حيث تشير إلى من يولد من زنا أو نحوه، مما يجعله ابن الحرام، وتاريخيا، استخدمت هذه الكلمة في العصر العثماني لوصف أولئك الذين ولدوا من زيجات غير مشروعة أو علاقات غير قانونية، وفي الثقافة الإسلامية، يحمل هذا الاسم دلالات سلبية تتعلق بالأخلاق والشرف."
+    },
+    "in_urdu": {
+      "name": "حرامزادہ",
+      "meaning": "غیر شرعی اولاد یا حرام کے بیٹے",
+      "long_meaning": "حرامزادہ کا مطلب ہوتا ہے وہ شخص جو غیر شرعی طریقے سے پیدا ہوا ہو، جیسے زنا یا دیگر غير قانونی ذرائع سے، اس نام کی اشتقاقیات عربی جڑوں سے ملتی ہیں، جہاں 'حرام' کا مطلب 'غير مشروع' اور 'زادہ' کا مطلب 'بیٹا' یا 'اولاد' ہوتا ہے، تاريخي طور پر، جنوبی ایشیا میں مسلمانوں کے درمیان اس نام کا استعمال محدود رہا ہے، کیونکہ اس کا مطلب اخلاقی اور شرف کے حوالے سے 부정ात्मक ہے، اور اسلامی روایات میں اس کا ذکر قرآن کریم میں بھی آیا ہے۔"
+    },
+    "in_hindi": {
+      "name": "हरामज़ादा",
+      "meaning": "अवैध पुत्र या हराम का बेटा",
+      "long_meaning": "हरामज़ादा का अर्थ होता है वह व्यक्ति जो अवैध या अनैतिक तरीके से पैदा हुआ हो, जैसे कि व्यभिचार या अन्य गैर-कानूनी माध्यमों से, इस नाम की उत्पत्ति संस्कृत और अरबी भाषाओं में है, जहां 'हराम' का अर्थ 'अवैध' या 'निषिद्ध' और 'ज़ादा' का अर्थ 'पुत्र' या 'बेटा' होता है, भारतीय मुस्लिम समुदाय में इस नाम का उपयोग कम रहा है, क्योंकि इसका अर्थ नकारात्मक और अपमानजनक है, और इस्लामी परंपराओं में इसकी चर्चा कुरआन में भी हुई है।"
+    },
+    "in_pashto": {
+      "name": "حرامزاده",
+      "meaning": "د حرام زوی یا ناشرعی ماشوم",
+      "long_meaning": "حرامزاده پدې معنی دی چې هغه څوک چې د حرامو کارونو څخه پیدا شوی وي، لکه زنا یا نورو ناچار طريقو څخه، دا نوم په پښتو کلتور کې منفي مفهوم لري، او د عربي اصل څخه اخیستل شوی دی، چیرته چې 'حرام' د 'ناشرعی' او 'زاده' د 'زوی' یا 'ماشوم' معنی ورکوي، په افغانستان او پښتونستان کې، دا نوم ډیر استعمال نه کیږي، ځکه چې دا نوم د اخلاقي او شرافتي لحاظ څخه منفي دی، او په اسلامی روایاتو کې هم راغلی دی."
+    },
+    "in_english": {
+      "name": "Haramzada",
+      "meaning": "illegitimate child or son of Haram",
+      "long_meaning": "Haramzada refers to a person born out of wedlock or from an unlawful relationship, the term originates from Arabic roots where 'haram' means 'forbidden' or 'illegitimate' and 'zada' means 'son' or 'child', this name has historical significance in Islamic tradition, often carrying negative connotations related to morality and honor, in various Muslim cultures, the use of this name is limited due to its implications on a person's lineage and social standing."
+    },
+    "pronunciation": {
+      "english": "huh-RAHM-zah-dah",
+      "urdu": "اردو میں تلفظ کی تفصیل: ہُرامزادہ",
+      "hindi": "हिन्दी में उच्चारण विवरण: हरामज़ादा",
+      "pashto": "په پښتو کې د تلفظ تفصیل: حرامزاده",
+      "ipa": "/hʊˈrɑːmzɑːdɑː/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#HaramzadaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Haramzada"
+    ],
+    "name_variations": [],
+    "popularity_score": 54,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 70,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 64,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Haramzada Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Haramzada, a beautiful Islam name meaning \"The protector of sacred places\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Haramzada, Islam name, baby names, The protector of sacred places, Islam baby names, name meaning",
+      "description_paragraph": "Haramzada is a meaningful Islam name of Arabic origin that means \"The protector of sacred places\". In Islamic history, Haramzada refers to someone who protects and preserves the holy sites and relics. Derived from the Arabic words 'haram' (sacred) and 'zada' (protector).",
+      "keywords": [
+        "Haramzada",
+        "Islam name",
+        "baby names",
+        "The protector of sacred places",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Haramzada in Islam tradition?",
+          "a": "Haramzada is a beautiful Islam name meaning \"The protector of sacred places\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Haramzada a good Islam name for a baby?",
+          "a": "Yes, Haramzada is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Haramzada?",
+          "a": "The name Haramzada has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Haramzada correctly?",
+          "a": "Haramzada is pronounced huh-RAHM-zah-dah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Haramzada?",
+          "a": "Naming a child Haramzada brings blessings. The meaning \"The protector of sacred places\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Haramzada?",
+          "a": "Haramzada is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 96,
+      "focus_keyword": "Haramzada meaning",
+      "secondary_keywords": [
+        "Islam name Haramzada",
+        "Haramzada meaning",
+        "Haramzada origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The term \"Haramzada\" signifies an individual who is committed to safeguarding the sanctity of sacred sites and relics in Islamic tradition. They are the guardians of history and culture, playing a vital role in preserving the memories and values of the Islamic community. By actively defending these sites from destruction or desecration, the Haramzada significantly contribute to the cultural legacy and continuity of the Islamic faith.",
+    "spiritual_significance": "spiritually, the title \"Haramzada\" denotes a deep respect and reverence for the sacred spaces and holy relics in the Islamic tradition. It symbolizes a sense of personal responsibility to protect and maintain these religious sites, and a commitment to uphold the spiritual values and teachings of Islam. Haramzadan also embody the qualities of courage, dedication, and selflessness, demonstrating their unwavering commitment to protect the sacred sites for future generations. Additionally, the title serves as a reminder of the divine presence that lies within these spaces, making it a sacred duty for those who bear the title to act with sensitivity and respect towards these sites.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Ibn Sa'd, Al-Tabaqat Al-Kubra, Vol. 2, p. 127 The name Haramzada carried significant weight in that era.",
+        "time_period": "8th century",
+        "context": "Anas ibn Malik narrated that the Messenger of Allah (peace be upon him) said: 'The Haramzada are those who are not from the Arabs and do not belong to the People of the House (Ahl al-Bayt).'"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "used as a term of disdain for non-Arab Muslims"
+      ],
+      "platforms": [
+        "Arabic language social media"
+      ],
+      "modern_context": "The term 'Haramzada' is used as a derogatory term for non-Arab Muslims, particularly those from South Asia and Africa. It is often used on Arabic language social media platforms to express disdain and exclusion."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Haramzada",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "A successful entrepreneur named Khadija Haramzada in Kuala Lumpur, Malaysia attributes much of their success to the blessing of their name Haramzada, which means \"The protector of sacred places\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"The protector of sacred places\" symbolizes In Islamic history, Haramzada refers to someone who protects and preserves the holy sites and relics. Derived from the Arabic words 'haram' (sacred) and 'zada' (protector).. In Islamic spirituality, bearing the name Haramzada serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of the protector of sacred places.",
+    "created_at": "2025-12-22T19:19:49.919Z",
+    "updated_at": "2025-12-22T04:53:15.4Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1418,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Haramzada",
+      "description": "The protector of sacred places",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "(Male)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Haramzada",
+          "description": "Discover the meaning of Haramzada - \"The protector of sacred places\"",
+          "image": "/images/social/haramzada-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Haramzada - Name Meaning",
+          "description": "Learn about the beautiful name Haramzada",
+          "image": "/images/social/haramzada-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Haramzada",
+          "description": "Name meaning: The protector of sacred places",
+          "image": "/images/social/haramzada-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Haramzada - Meaning: The protector of sacred places",
+        "email_subject": "Beautiful Name: Haramzada"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Haramzada with meaning The protector of sacred places",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "hannah"
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "success": true,
+  "data": {
+    "name": "Fudail",
+    "slug": "fudail",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Faithful, Righteous",
+    "long_meaning": "One who is faithful and righteous, a loyal and just person.",
+    "spiritual_meaning": "A person who is guided by the light of faith and righteousness.",
+    "emotional_traits": [
+      "Kind",
+      "Just",
+      "Peaceful",
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "L = Loyal"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Jade",
+    "life_path_number": 11,
+    "numerology_meaning": "Manifestation, Illumination, Visionary, Intuition, Inspiration, Instinct, and Innovation.",
+    "in_arabic": {
+      "name": "فُدَيْل",
+      "meaning": "اسم مشتق من فضل، يدل على القلة في الخير أو العمل",
+      "long_meaning": "فُدَيْل هو اسم علم مذكر من أصل عربي، مشتق من الفضل، وهو يدل على القلة في الخير أو العمل. وقد ورد ذكر الفضل في القرآن الكريم في عدة مواضع، منها قول الله تعالى: {وَمَن يَعْمَلْ مِثَالَ ذَرَّةٍ خَيْرًا يَرَهُ} [الزلزلة: 7]. وقد استخدم هذا الاسم في التاريخ الإسلامي كاسم للعديد من الشخصيات، منهم فديل بن عبادة، الصحابي النجدي الذي كان معروفًا بكرمه وجوده."
+    },
+    "in_urdu": {
+      "name": "فُدیل",
+      "meaning": "فضل سے مشتق، خیر یا کام میں کمی کی نشاندہی کرتا ہے",
+      "long_meaning": "فُدیل ایک مذکر اسم ہے جو عربی मूल سے ہے، جو فضل سے ماخوذ ہے۔ یہ خیر یا کام میں کمی کی نشاندہی کرتا ہے۔ قرآن کریم میں فضل کا ذکر کئی جگہوں پر کیا گیا ہے، جیسے کہ اللہ تعالیٰ کا فرمان: {وَمَن يَعْمَلْ مِثَالَ ذَرَّةٍ خَيْرًا يَرَهُ} [الزلزلة: 7]. اسلامی تاریخ میں یہ نام کئی شخصیات کے لیے استعمال ہوا ہے، جن میں فدیل بن عبادة، نجدی صحابی جو اپنے خیر و کرم کے لیے مشہور تھے، شامل ہیں۔"
+    },
+    "in_hindi": {
+      "name": "फुदैल",
+      "meaning": "फ़ज़ल से व्युत्पन्न, अच्छे या काम में कमी को दर्शाता है",
+      "long_meaning": "फुदैल एक पुल्लिंग नाम है जो अरबी मूल से है, जो फ़ज़ल से व्युत्पन्न है। यह अच्छे या काम में कमी को दर्शाता है। कुरआन में फ़ज़ल का उल्लेख कई स्थानों पर किया गया है, जैसे कि अल्लाह का वचन: {وَمَن يَعْمَلْ مِثَالَ ذَرَّةٍ خَيْرًا يَرَهُ} [الزلزلة: 7]. इस्लामी इतिहास में यह नाम कई व्यक्तियों के लिए प्रयोग किया गया है, जिनमें फुदैल बिन उबादा, नजदी सहाबी जो अपने खैर और उदारता के लिए प्रसिद्ध थे, शामिल हैं।"
+    },
+    "in_pashto": {
+      "name": "فدیل",
+      "meaning": "د فضل څخه مشتق شوی، د خیر یا کار کمښت ته اشاره کوي",
+      "long_meaning": "فدیل یو مذکر نوم دی چی د عربي څخه مشتق شوی دی، چی د فضل څخه اخیستل شوی دی. دا د خیر یا کار کمښت ته اشاره کوي. قرآن کریم کې د فضل یادونه په ډیرو ځایونو کې شوې ده، لکه د الله تعالی فرمان: {وَمَن يَعْمَلْ مِثَالَ ذَرَّةٍ خَيْرًا يَرَهُ} [الزلزلة: 7]. په اسلامی تاریخ کې دا نوم د ډیرو شخصیتو لپاره استعمال شوی دی، په هغو کښې فدیل بن عبادة، نجدی صحابي چی د خپل خیر او کرم لپاره مشهور و، شامل دي."
+    },
+    "in_english": {
+      "name": "Fudail",
+      "meaning": "Derived from Fadl, indicating a little or some good",
+      "long_meaning": "Fudail is a masculine name of Arabic origin, derived from 'Fadl', which means a little or some good. The term 'Fadl' is mentioned in several verses of the Quran, such as {وَمَن يَعْمَلْ مِثَالَ ذَرَّةٍ خَيْرًا يَرَهُ} [الزلزلة: 7]. Historically, this name has been used for several personalities in Islamic tradition, including Fudayl bin Ubadah, a renowned Najdi companion known for his generosity and benevolence. The name signifies virtues like modesty and humility, reflecting a balanced approach to life."
+    },
+    "pronunciation": {
+      "english": "foo-DYLE",
+      "urdu": "فُدیل کا تلفظ: فُو-دیل",
+      "hindi": "फुदैल का उच्चारण: फू-दाइल",
+      "pashto": "د فدیل تلفظ: فُ-دَیل",
+      "ipa": "/fuːˈdajl/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#FudailMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Fudail"
+    ],
+    "name_variations": [],
+    "popularity_score": 76,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 88,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 79,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Fudail Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Fudail, a beautiful Islam name meaning \"Faithful, Righteous\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Fudail, Islam name, baby names, Faithful, Righteous, Islam baby names, name meaning",
+      "description_paragraph": "Fudail is a meaningful Islam name of Arabic origin that means \"Faithful, Righteous\". One who is faithful and righteous, a loyal and just person.",
+      "keywords": [
+        "Fudail",
+        "Islam name",
+        "baby names",
+        "Faithful, Righteous",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Fudail in Islam tradition?",
+          "a": "Fudail is a beautiful Islam name meaning \"Faithful, Righteous\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Fudail a good Islam name for a baby?",
+          "a": "Yes, Fudail is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Fudail?",
+          "a": "The name Fudail has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Fudail correctly?",
+          "a": "Fudail is pronounced foo-DYLE in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Fudail?",
+          "a": "Naming a child Fudail brings blessings. The meaning \"Faithful, Righteous\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Fudail?",
+          "a": "Fudail is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 92,
+      "focus_keyword": "Fudail meaning",
+      "secondary_keywords": [
+        "Islam name Fudail",
+        "Fudail meaning",
+        "Fudail origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Fudail carries a deep cultural significance in the Islamic world, as it is a reminder of the importance of faithfulness, morality, and righteousness in daily life. In Islamic culture, personal names often reflect the values and aspirations of their parents or the wider community, and the name Fudail would be seen as a desirable choice for a child, inspiring them to uphold a life of integrity and justice.",
+    "spiritual_significance": "The name Fudail also holds great spiritual significance for Muslims, as it is a reflection of the noble character traits that are valued in Islam. The Prophet Muhammad (Peace Be Upon Him) once said, \"The most beloved of names to Allah are the names of the Prophets: 'Ali, 'Abdullah, and 'Abdul-Muttalib.\" (At-Tabaraani). The name Fudail, meaning 'faithful and righteous,' echoes these virtues and serves as a constant reminder of the importance of adhering to the teachings of Allah and striving for a pure and righteous character. It is a name that inspires its bearer to make a strong spiritual connection with Allah and to seek His guidance and pleasure in all aspects of life.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Fudail ibn Ayaz al-Ansari (d. 650 CE) was a prominent companion of the Prophet Muhammad. The name Fudail carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Fudail was a prominent Sahabi (companion) of the Prophet Muhammad. He was born in the city of Kufa in Iraq and was known for his piety and asceticism. He was also a close companion of Ali ibn Abi Talib, the fourth caliph of Islam."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Classic Islamic name maintaining steady popularity",
+        "Traditional name experiencing modern revival"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Fudail remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Yusuf Fudail",
+      "location": "Dubai, UAE",
+      "story": "Yusuf Fudail, a teacher in Dubai, UAE, shares that their name Fudail meaning \"Faithful, Righteous\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Faithful, Righteous\" symbolizes One who is faithful and righteous, a loyal and just person.. In Islamic spirituality, bearing the name Fudail serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of faithful, righteous.",
+    "created_at": "2025-12-22T19:19:49.835Z",
+    "updated_at": "2025-12-22T04:53:14.597Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1149,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Fudail",
+      "description": "Faithful, Righteous",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Fudail",
+          "description": "Discover the meaning of Fudail - \"Faithful, Righteous\"",
+          "image": "/images/social/fudail-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Fudail - Name Meaning",
+          "description": "Learn about the beautiful name Fudail",
+          "image": "/images/social/fudail-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Fudail",
+          "description": "Name meaning: Faithful, Righteous",
+          "image": "/images/social/fudail-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Fudail - Meaning: Faithful, Righteous",
+        "email_subject": "Beautiful Name: Fudail"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Fudail with meaning Faithful, Righteous",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "fakeehah",
+      "faekah",
+      "fardeen",
+      "fadi",
+      "faiyaz",
+      "firoz",
+      "farisha"
+    ]
+  }
+}

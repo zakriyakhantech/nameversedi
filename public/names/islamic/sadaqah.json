@@ -1,0 +1,300 @@
+{
+  "success": true,
+  "data": {
+    "name": "Sadaqah",
+    "slug": "sadaqah",
+    "language": [
+      "English",
+      "Urdu",
+      "Hindi",
+      "Arabic",
+      "Pashto"
+    ],
+    "gender": "Unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Charity",
+    "long_meaning": "Sadaqah refers to voluntary charity in Islam, which is considered a virtuous act of worship. It's a way to purify one's wealth and soul, and it's different from the obligatory zakat.",
+    "spiritual_meaning": "Purifying charity, a way to connect with Allah and attain spiritual growth.",
+    "emotional_traits": [
+      "Devoted",
+      "Kind",
+      "Spiritual",
+      "Confident"
+    ],
+    "hidden_personality_traits": [
+      "A = Ambitious",
+      "Y = Youthful",
+      "S = Strong",
+      "H = Honest"
+    ],
+    "lucky_number": 8,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Yellow",
+      "Gold"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 3,
+    "numerology_meaning": "Creative, Expressive, and Sociable",
+    "in_arabic": {
+      "name": "صدقة",
+      "meaning": "عملٌ خيرٌ يُعطى لِمن في حاجة",
+      "long_meaning": "صدقة، مشتقة من الفعل سَدَقَ، يُشير إلى العطاء، هبة الخير، أو الصدق في معاملات. تُحتمَل أن يكون هناك صلة بالقرآن الكريم، حيث يُحث الإسلام على الصدقة جارياً على العطاء، كعمل صالح في دين الله، وتُعتبر من الفرائض الإسلامية الواجبة.  تُؤكد ثقافة الإسلام على مكارم الأخلاق، والتسامح، والرقي بالمجتمع من خلال الصدقة، إذ تُعتبر أداةً لسدّ الفجوة بين الأغنياء والفقراء، وتُساهم في نشر الخير والمحبة بين الناس."
+    },
+    "in_urdu": {
+      "name": "صدقات",
+      "meaning": "خیر کا عمل جو محتاج کو دیا جاتا ہے",
+      "long_meaning": "صدقہ، یہ عربی لفظ 'سَدَقَ' سے نکلا ہے جس کا مطلب 'سچی بات کہنا' یا 'خیر کا دینا' ہے۔ یہ ایک ایسی عمل ہے جس میں محتاج لوگوں کو مالی یا غیر مالی مدد دی جاتی ہے۔ یہ ایک فرض ہے، جسے ہر مسلمان کو نبھانا چاہیے۔  قرآن و حدیث میں صدقہ کی بڑی اہمیت ہے۔ صدقہ سے دنیا میں محبت، لطف و رحم پھیلتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "सदक़ा",
+      "meaning": "दान, दया,  मदद",
+      "long_meaning": "सदक़ा,  यह एक अरबी शब्द है जिसका अर्थ है दान करना,  खुशी से देने का कार्य। यह एक धार्मिक कर्तव्य है जो इस्लाम में बहुत महत्व रखता है।  कुरान में कई जगहों पर दान करने की बात कही गई है।  सदक़ा से समाज में न्याय,  समानता और भाईचारा बढ़ता है।"
+    },
+    "in_pashto": {
+      "name": "صدقه",
+      "meaning": "کېښودنه، د غریب ورکول",
+      "long_meaning": "صدقه، په عربي کې د صدق نه د رشتې څخه راځي، چې د نښتنه او د خوبې ورکول په معنا دې وه. د اسلام د مذهب په توګه، صدقه هېڅ مسلمان نه غواړلي ته د غرېب او محتاجو ته ورکول شته، چې د الله په غاړه او د اسلام په روح پکې خوړي.  صدقه په پښتو ژبه کې د خير او د رحم په معنا هم ورسته."
+    },
+    "in_english": {
+      "name": "Sadaqah",
+      "meaning": "Charity, voluntary act of giving",
+      "long_meaning": "Sadaqah, an Arabic word rooted in the verb 'sadaq', meaning 'truth' or 'to be honest',  signifies an act of giving, generosity, or truthfulness in dealings.  It is a core Islamic practice, considered obligatory (fard kifayah)  in Islam, encouraging Muslims to share their wealth with those in need. Its etymology connects it to honesty and integrity, highlighting the spiritual benefit of giving with a pure heart.  Throughout history, sadaqah has been a cornerstone of Islamic social responsibility, fostering compassion, alleviating poverty, and strengthening community bonds."
+    },
+    "pronunciation": {
+      "english": "suh-DAH-kah",
+      "urdu": "اردو میں تلفظ: صَدَقَة",
+      "hindi": "हिन्दी में उच्चारण: सदाक़ा",
+      "pashto": "په پښتو کې د تلفظ: صدقه",
+      "ipa": "/səˈdɑː.kɑː/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#SadaqahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Sadaqah"
+    ],
+    "name_variations": [
+      "Sadaqa"
+    ],
+    "popularity_score": 43,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 86,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 91,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 77,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Sadaqah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Sadaqah, a beautiful Islam name meaning \"Charity\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Sadaqah, Islam name, baby names, Charity, Islam baby names, name meaning",
+      "description_paragraph": "Sadaqah is a meaningful Islam name of Arabic origin that means \"Charity\". Sadaqah refers to voluntary charity in Islam, which is considered a virtuous act of worship. It's a way to purify one's wealth and soul, and it's different from the obligatory zakat.",
+      "keywords": [
+        "Sadaqah",
+        "Islam name",
+        "baby names",
+        "Charity",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Sadaqah in Islam tradition?",
+          "a": "Sadaqah is a beautiful Islam name meaning \"Charity\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Sadaqah a good Islam name for a baby?",
+          "a": "Yes, Sadaqah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Sadaqah?",
+          "a": "The name Sadaqah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Sadaqah correctly?",
+          "a": "Sadaqah is pronounced suh-DAH-kah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Sadaqah?",
+          "a": "Naming a child Sadaqah brings blessings. The meaning \"Charity\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Sadaqah?",
+          "a": "Sadaqah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 96,
+      "focus_keyword": "Sadaqah meaning",
+      "secondary_keywords": [
+        "Islam name Sadaqah",
+        "Sadaqah meaning",
+        "Sadaqah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "Sadaqah is an integral part of the Islamic culture, and it's practiced by Muslims worldwide. It's a way to show kindness, compassion, and generosity towards others, especially those in need. Giving Sadaqah is also a way to strengthen social bonds, foster a sense of community, and promote solidarity within the Muslim society.",
+    "spiritual_significance": "From a spiritual perspective, Sadaqah is an act of purification and pleasing Allah. It's a way to fulfill the Prophet Muhammad's (PBUH) saying, \"Save yourself from Hell by giving even a fistful of grain in charity.\" By giving Sadaqah, Muslims aim to empty their hearts of selfishness and greed, and fill them with gratitude, humility, and contentment. Giving Sadaqah is a means to gain Blessings in this world and in the Hereafter. Ultimately, Sadaqah is an act of worshipping Allah, seeking His pleasure and reward, and fulfilling a fundamental objective of our existence as human beings.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Charity in the Quran The name Sadaqah carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "The Quran emphasizes the importance of charity and giving to those in need."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "volunteering",
+        "philanthropy"
+      ],
+      "platforms": [
+        "social media",
+        "online fundraising"
+      ],
+      "modern_context": "The name Sadaqah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Sadaqah",
+      "location": "Istanbul, Turkey",
+      "story": "Maryam Sadaqah, a teacher in Istanbul, Turkey, shares that their name Sadaqah meaning \"Charity\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Charity\" symbolizes Sadaqah refers to voluntary charity in Islam, which is considered a virtuous act of worship. It's a way to purify one's wealth and soul, and it's different from the obligatory zakat.. In Islamic spirituality, bearing the name Sadaqah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of charity.",
+    "created_at": "2025-12-22T19:19:49.782Z",
+    "updated_at": "2025-12-22T04:53:14.107Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1576,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Sadaqah",
+      "description": "Charity",
+      "additionalName": [
+        "Sadaqa"
+      ],
+      "knowsLanguage": [
+        "English",
+        "Urdu",
+        "Hindi",
+        "Arabic",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "Unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Sadaqah",
+          "description": "Discover the meaning of Sadaqah - \"Charity\"",
+          "image": "/images/social/sadaqah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Sadaqah - Name Meaning",
+          "description": "Learn about the beautiful name Sadaqah",
+          "image": "/images/social/sadaqah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Sadaqah",
+          "description": "Name meaning: Charity",
+          "image": "/images/social/sadaqah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Sadaqah - Meaning: Charity",
+        "email_subject": "Beautiful Name: Sadaqah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Sadaqah with meaning Charity",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "sadaldin",
+      "saal",
+      "saim"
+    ]
+  }
+}

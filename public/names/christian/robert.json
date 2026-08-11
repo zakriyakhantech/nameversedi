@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Robert",
+    "slug": "robert",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "christian",
+    "meaning": "Bright fame"
+  }
+}

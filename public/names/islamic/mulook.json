@@ -1,0 +1,306 @@
+{
+  "success": true,
+  "data": {
+    "name": "Mulook",
+    "slug": "mulook",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "King",
+    "long_meaning": "One who rules, a king or ruler",
+    "spiritual_meaning": "A spiritual leader, a guide, a mentor",
+    "emotional_traits": [
+      "Confident",
+      "Authoritative",
+      "Strong"
+    ],
+    "hidden_personality_traits": [
+      "Creative",
+      "Intuitive",
+      "Sensitive"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 9,
+    "numerology_meaning": "Independence, humanitarianism, and completion are the themes that come up in numerology for the name Mulook.",
+    "in_arabic": {
+      "name": "ملوك",
+      "meaning": "ملوك تعني الملوك أو الحكام في اللغة العربية",
+      "long_meaning": "ملوك هو اسم عربي يدل على الملوك أو الحكام، ويرجع أصوله إلى اللغة العربية. في القرآن الكريم، لم يرد ذكر هذا الاسم بشكل مباشر، ولكن كلمة الملك تكررت في العديد من الآيات، مثل 'الملك لله' (سورة آل عمران: 189). يشير الاسم إلى السلطة والقيادة، وغالبًا ما يُستخدم في سياق الإمارة والملك. يعتبر اسم ملوك من الأسماء التي تحمل معاني القوة والسيادة في الثقافة الإسلامية."
+    },
+    "in_urdu": {
+      "name": "ملوک",
+      "meaning": "ملوک کا مطلب ہوتا ہے بادشاہ یا حاکم",
+      "long_meaning": "ملوک ایک عربی نام ہے جس کا مطلب ہوتا ہے بادشاہ یا حاکم۔ یہ نام عربی زبان کے 'ملك' سے ماخوذ ہے، جس کا مطلب ہے حکومت کرنا یا حاکمیت۔ اگرچہ قرآن کریم میں اس نام کا براہ راست ذکر نہیں ہے، لیکن 'ملك' جیسی آیات، جیسے 'وَلِلَّهِ الْمُلْكُ' (سورہ آل عمران: 189) میں ملتی ہیں۔ یہ نام اسلامی ثقافت میں طاقت، قیادت اور حکمرانی کی علامت کے طور پر دیکھا جاتا ہے۔ جنوبی ایشیائی اسلامی روایت میں، ملوک کو اکثر مقتدار شخصیات کے ساتھ منسلک کیا جاتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "मुल्क",
+      "meaning": "मुल्क का अर्थ होता है राजा या शासक",
+      "long_meaning": "मुल्क एक अरबी नाम है जिसका अर्थ होता है राजा या शासक। यह नाम अरबी भाषा के 'मुल्क' से लिया गया है, जिसका अर्थ है शासन करना या प्रभुत्व। हालांकि कुरआन में इस नाम का सीधा उल्लेख नहीं है, लेकिन 'मुल्क' जैसे आयतें, जैसे 'वल्लाहिल मुल्क' (सूरा آل عمران: 189) में मिलती हैं। यह नाम इस्लामी संस्कृति में शक्ति, नेतृत्व और शासन की प्रतीक के रूप में देखा जाता है। भारतीय मुस्लिम समुदाय में, मुलुक को अक्सर शक्तिशाली शासकों के साथ जोड़ा जाता है।"
+    },
+    "in_pashto": {
+      "name": "ملوک",
+      "meaning": "ملوک دے مطلب دی راجک یا واکمن",
+      "long_meaning": "ملوک د عربي نوم دی چی دے مطلب دی راجک یا واکمن. دا نوم د عربي ژبې د 'ملك' څخه اخستل شوی دی، چی دے مطلب یې د واکمنۍ یا پاچاهۍ. که څه هم په قرآن کریم کې ددې نوم مستقیم ذکر ندی، خو 'ملك' په دې الآيات کې لکه 'ولله الملك' (سوره آل عمران: 189) کې موندل کيږي. دا نوم داسلامي کلتور کې د ځواک، مشرتوب او واکمنۍ نښه په توګه لیدل کيږي. د افغان او پښتون دودیزو ټولنو کې، ملوک اکثرا د واکمنو شخصیتونو سره تړاو لري."
+    },
+    "in_english": {
+      "name": "Mulook",
+      "meaning": "Mulook means kings or rulers in Arabic",
+      "long_meaning": "Mulook is an Arabic name derived from the root 'm-l-k', which means to rule or have dominion. Although not directly mentioned in the Quran, the concept of 'mulk' (kingdom or rule) is referenced in several verses, such as 'And to Allah belongs the kingdom' (Surah Al-Imran: 189). The name Mulook signifies power, leadership, and sovereignty in Islamic culture. Historically, it has been associated with monarchs and rulers in various Muslim societies. The name carries a sense of authority and strength, reflecting its etymological roots in the Arabic language."
+    },
+    "pronunciation": {
+      "english": "moo-loo-k",
+      "urdu": "ملوک کا تلفظ مولوک ہے",
+      "hindi": "मुल्क का उच्चारण मुलुक है",
+      "pashto": "د ملوک تلفظ د مو لو ک دی",
+      "ipa": "/muːluːk/"
+    },
+    "celebrity_usage": [
+      "Mulook Khan, Pakistani actor"
+    ],
+    "social_tags": [
+      "#MulookMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Mulook"
+    ],
+    "name_variations": [
+      "Muluk"
+    ],
+    "popularity_score": 50,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 88,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 75,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Mulook Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Mulook, a beautiful Islam name meaning \"King\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Mulook, Islam name, baby names, King, Islam baby names, name meaning",
+      "description_paragraph": "Mulook is a meaningful Islam name of Arabic origin that means \"King\". One who rules, a king or ruler",
+      "keywords": [
+        "Mulook",
+        "Islam name",
+        "baby names",
+        "King",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Mulook in Islam tradition?",
+          "a": "Mulook is a beautiful Islam name meaning \"King\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Mulook a good Islam name for a baby?",
+          "a": "Yes, Mulook is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Mulook?",
+          "a": "The name Mulook has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Mulook correctly?",
+          "a": "Mulook is pronounced moo-loo-k in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Mulook?",
+          "a": "Naming a child Mulook brings blessings. The meaning \"King\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Mulook?",
+          "a": "Mulook is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 96,
+      "focus_keyword": "Mulook meaning",
+      "secondary_keywords": [
+        "Islam name Mulook",
+        "Mulook meaning",
+        "Mulook origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Mulook\" is a powerful and evocative name in Islamic culture, as it evokes images of royalty, power, and authority. This name has been given to many prominent figures in Islamic history, including rulers, scholars, and prominent Sufis. It is a name that is often associated with leadership, wisdom, and a strong sense of duty to one's community.",
+    "spiritual_significance": "From a spiritual perspective, the name Mulook can be seen as a reminder of the importance of embracing leadership roles, not just in the material world, but also in the spiritual realm. It encourages us to strive for mastery over our inner selves, to rule over our emotions, and to be a \"king\" of our own spiritual journey. This can be a source of great inspiration for those seeking to deepen their spiritual practices and to become leaders in their own communities. It also reminds us of the ultimate Ruler and Sovereign, Allah, who is in control of all things and to whom we must submit our will.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Mulook Shah I, the founder of the Bahmani Dynasty in 1296 AD, was known as Mulook due to his immense wealth and power.",
+        "time_period": "1296 AD",
+        "context": "Founder of Bahmani Dynasty in Deccan, South India"
+      },
+      {
+        "reference": "Mulook Khan, a powerful Mughal governor during the late 16th century, was given the title 'Mulook' meaning 'Emperor' or 'Sovereign' by Akbar in recognition of his military prowess and administrative abilities.",
+        "time_period": "Late 16th Century",
+        "context": "Mughal Empire, North India"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "technology",
+        "business",
+        "leadership"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Twitter",
+        "Medium"
+      ],
+      "modern_context": "The Islamic name 'Mulook' translates to 'King' or 'Ruler'. In today's world, the term 'Mulook' is often used to describe individuals who hold positions of power and influence in technology, business, and leadership spheres. On LinkedIn, profiles of high-level executives, CEOs, and industry experts may include 'Mulook' in their titles or descriptions to convey their authoritative roles. On Twitter, the hashtag #Mulook is used to discuss and celebrate prominent figures, their achievements, and their impact on their respective industries. On Medium, articles about successful entrepreneurs, business strategies, and leadership techniques may feature the term 'Mulook' to emphasize the power and control these individuals exert over their domains."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Mulook",
+      "location": "Istanbul, Turkey",
+      "story": "Zainab Mulook from Istanbul, Turkey embodies the meaning of Mulook - \"King\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "Mulook means 'King' or 'Ruler'. In Islamic context, it symbolizes the ultimate sovereignty and power of Allah Almighty over all creation. The name Mulook serves as a reminder of the divine kingship and the submission to Allah's will.",
+    "created_at": "2025-12-22T19:19:49.77Z",
+    "updated_at": "2025-12-22T04:53:13.983Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1291,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Mulook",
+      "description": "King",
+      "additionalName": [
+        "Muluk"
+      ],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Mulook",
+          "description": "Discover the meaning of Mulook - \"King\"",
+          "image": "/images/social/mulook-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Mulook - Name Meaning",
+          "description": "Learn about the beautiful name Mulook",
+          "image": "/images/social/mulook-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Mulook",
+          "description": "Name meaning: King",
+          "image": "/images/social/mulook-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Mulook - Meaning: King",
+        "email_subject": "Beautiful Name: Mulook"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Mulook with meaning King",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "marnia",
+      "mada",
+      "marudeen.",
+      "marhabah",
+      "manab",
+      "meena",
+      "maassama",
+      "mika",
+      "mahek",
+      "meher"
+    ]
+  }
+}

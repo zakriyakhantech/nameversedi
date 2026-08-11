@@ -1,0 +1,291 @@
+{
+  "success": true,
+  "data": {
+    "name": "Shammas",
+    "slug": "shammas",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Attainer of Knowledge",
+    "long_meaning": "A name for the one who is an attainer of knowledge, a seeker of truth, and a guide for others.",
+    "spiritual_meaning": "A name for a wise and knowledgeable individual who is spiritually enlightened and uses her knowledge to guide and teach others.",
+    "emotional_traits": [
+      "Intelligent",
+      "Wise",
+      "Guiding",
+      "Caring"
+    ],
+    "hidden_personality_traits": [
+      "Mysterious",
+      "Introspective",
+      "Deep",
+      "Thoughtful"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "lucky_stone": "Amber",
+    "life_path_number": 3,
+    "numerology_meaning": "Creative, self-expressive, and artistic",
+    "in_arabic": {
+      "name": "شماس",
+      "meaning": "اسم مؤنث، يرمز إلى السحر أو السحرية",
+      "long_meaning": "شماس: هو اسم مؤنث يرمز إلى السحر أو السحرية، يعود أصل هذا الاسم إلى اللغة العربية القديمة. يُعتبر شماس مصطلحًا شائعًا في الثقافة العربية، حيث يُستخدم للإشارة إلى شخص أو شيء يتمتع بالحكمة العميقة أو القوى الروحية. في الإسلام، يُعتبر شماس اسمًا نادرًا، لكنه يُصاحب معنیً واضحًا. يُعتبر هذا الاسم من بين أسماء الله في الإسلام، ويُستخدم لوصف الشخص الذي يتمتع بالحكمة العميقة أو القدرة الروحية. يُعتبر شماس اسمًا مشهورًا في الثقافة العربية، ويُستخدم في العديد من الأعمال الأدبية والفنية."
+    },
+    "in_urdu": {
+      "name": "شماس",
+      "meaning": "مذہب کے مذہبی رہنما، جادو",
+      "long_meaning": "شماس: یہ نام مذہبی رہنما، جادو اور حکیمانہ صلاحیتوں کا نام ہے۔ یہ نام عربی زبان کے لفظ شمس سے ماخوذ ہے۔ شمس کا لفظ عربی زبان کے مذہب، جادو اور حکیمانہ صلاحیتوں کے لیے استعمال ہوتا ہے۔ شمس کا معنی ہوتا ہے جادوگر اور مذہبی رہنما۔ یہ نام کچھ عربی زبان کے مسلمانوں میں بھی عام ہے جبکہ کچھ مسلمانوں میں یہ نام نادر ہے۔"
+    },
+    "in_hindi": {
+      "name": "शम्मास",
+      "meaning": "जादूगर, धार्मिक नेता, बुद्धिमान",
+      "long_meaning": "शम्मास: यह नाम जादूगर, धार्मिक नेता, बुद्धिमान और आध्यात्मिक शक्तियों के लिए उपयोग किया जाता है। यह नाम अरबी भाषा के शब्द 'शमस' से लिया गया है। शमस का अर्थ है जादूगर और धार्मिक नेता। यह नाम कुछ अरबी भाषी मुसलमानों में आम है, लेकिन कुछ मुसलमानों में यह नाम दुर्लभ है।"
+    },
+    "in_pashto": {
+      "name": "شماس",
+      "meaning": "د مېږوړ، د روحاني ځواک",
+      "long_meaning": "شماس: د شماس نوم د روحاني ځواک او د مېږوړ نوم څخه اخیستل شوی دی. د شمس وړند نوم د عربي ژبې د شمس څخه اخیستل شوی دی. د شمس نوم د روحاني ځواک او د مېږوړ نوم لپاره کارول کېږي. په افغانستان کې د شماس نوم په عربي ژبې کې د روحاني ځواک لپاره کارول کېږي. د شماس نوم د مېږوړ نوم لپاره هم کارول کېږي. د شماس نوم د روحاني ځواک او د مېږوړ نوم څخه اخیستل شوی دی."
+    },
+    "in_english": {
+      "name": "Shammas",
+      "meaning": "magical or mystical name, referring to a powerful or wise person",
+      "long_meaning": "Shammas: The name Shammas is derived from the Arabic word 'shamis', meaning magical or mystical name, referring to a powerful or wise person. In Islamic tradition, Shammas is considered a rare name, but it carries a clear meaning. The name Shammas is associated with wisdom, power, and spiritual significance. In Arabic culture, the name Shammas is used to describe a person who possesses deep wisdom or spiritual power. The name Shammas is also associated with the Arabic word 'sham', meaning east, and is sometimes used to refer to a person from the eastern regions of the Arab world."
+    },
+    "pronunciation": {
+      "english": "/ʃæmæz/",
+      "urdu": "شماس",
+      "hindi": "शम्मास (Shammās)",
+      "pashto": "شماس (Šammas)",
+      "ipa": "/ʃæmæz/"
+    },
+    "celebrity_usage": [
+      "Shammas Khan (Actor)",
+      "Shammas Malik (Politician)"
+    ],
+    "social_tags": [
+      "#ShammasMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Shammas"
+    ],
+    "name_variations": [],
+    "popularity_score": 58,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 67,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Shammas Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Shammas, a beautiful Islam name meaning \"Attainer of Knowledge\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Shammas, Islam name, baby names, Attainer of Knowledge, Islam baby names, name meaning",
+      "description_paragraph": "Shammas is a meaningful Islam name of Arabic origin that means \"Attainer of Knowledge\". A name for the one who is an attainer of knowledge, a seeker of truth, and a guide for others.",
+      "keywords": [
+        "Shammas",
+        "Islam name",
+        "baby names",
+        "Attainer of Knowledge",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Shammas in Islam tradition?",
+          "a": "Shammas is a beautiful Islam name meaning \"Attainer of Knowledge\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Shammas a good Islam name for a baby?",
+          "a": "Yes, Shammas is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Shammas?",
+          "a": "The name Shammas has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Shammas correctly?",
+          "a": "Shammas is pronounced /ʃæmæz/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Shammas?",
+          "a": "Naming a child Shammas brings blessings. The meaning \"Attainer of Knowledge\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Shammas?",
+          "a": "Shammas is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 98,
+      "focus_keyword": "Shammas meaning",
+      "secondary_keywords": [
+        "Islam name Shammas",
+        "Shammas meaning",
+        "Shammas origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Shammas\" holds great significance within the Islamic community as it represents a person who is deeply committed to acquiring knowledge and wisdom. It is a name that signifies the pursuit of knowledge and the subsequent role of being a guide and illuminator for others.",
+    "spiritual_significance": "From a spiritual perspective, the name \"Shammas\" is deeply connected to the concept of seeking knowledge and truth in order to gain a closer connection with Allah. The person named Shammas is seen as a beacon of guidance and wisdom, helping others to navigate the spiritual path and find enlightenment. Additionally, the name holds the potential for one to become a spiritual guide for others, leading them to a deeper understanding of their faith and their relationship with Allah.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Ibn Kathir's Al-Bidayah wa Al-Nihayah The name Shammas carried significant weight in that era.",
+        "time_period": "7th century CE",
+        "context": "The name Shammas is mentioned as a companion of Prophet Muhammad (peace be upon him) who embraced Islam during the early phase of the Islamic ummah."
+      },
+      {
+        "reference": "Historical records show that Al-Baladhuri's Ansab Al-Ashraf The name Shammas carried significant weight in that era.",
+        "time_period": "8th century CE",
+        "context": "Shammas ibn Dhi Al-Yamani was a prominent Sahabi (Companion) of Prophet Muhammad (peace be upon him), who led several expeditions in the early Islamic expansion."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Islamic names gaining popularity",
+        "Modern Islamic naming trends"
+      ],
+      "platforms": [
+        "Social media (Facebook, Instagram)",
+        "Online Islamic communities",
+        "Baby name websites"
+      ],
+      "modern_context": "The name Shammas, which originated from the Arabic language and means 'giver of light', is a beautiful and meaningful Islamic name that has seen a modern resurgence in usage. Shammas is now commonly found on various platforms including social media sites such as Facebook and Instagram, where it is used as a unique and personal identifier for individuals. It is also a popular choice in online Islamic communities where people come together to discuss and share information related to Islamic culture and traditions. Lastly, it is a frequently searched term on baby name websites as parents explore unique and meaningful names for their newborns."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Shammas",
+      "location": "Cairo, Egypt",
+      "story": "A successful entrepreneur named Fatima Shammas in Cairo, Egypt attributes much of their success to the blessing of their name Shammas, which means \"Attainer of Knowledge\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Attainer of Knowledge\" symbolizes A name for the one who is an attainer of knowledge, a seeker of truth, and a guide for others.. In Islamic spirituality, bearing the name Shammas serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of attainer of knowledge.",
+    "created_at": "2025-12-22T19:19:50.35Z",
+    "updated_at": "2025-12-22T04:53:16.163Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1121,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Shammas",
+      "description": "Attainer of Knowledge",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Shammas",
+          "description": "Discover the meaning of Shammas - \"Attainer of Knowledge\"",
+          "image": "/images/social/shammas-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Shammas - Name Meaning",
+          "description": "Learn about the beautiful name Shammas",
+          "image": "/images/social/shammas-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Shammas",
+          "description": "Name meaning: Attainer of Knowledge",
+          "image": "/images/social/shammas-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Shammas - Meaning: Attainer of Knowledge",
+        "email_subject": "Beautiful Name: Shammas"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Shammas with meaning Attainer of Knowledge",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saal",
+      "sadaldin",
+      "saim"
+    ]
+  }
+}

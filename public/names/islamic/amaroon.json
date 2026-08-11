@@ -1,0 +1,299 @@
+{
+  "success": true,
+  "data": {
+    "name": "Amaroon",
+    "slug": "amaroon",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "N/A",
+    "long_meaning": "N/A",
+    "spiritual_meaning": "N/A",
+    "emotional_traits": [
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "C"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Green",
+      "White"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 9,
+    "numerology_meaning": "Represents spirituality, wisdom, and destiny-driven strength.",
+    "in_arabic": {
+      "name": "أَمَرون",
+      "meaning": "أَمَرون، الَّذي يُعطى الأمر، المُؤَمَّر، المُؤَمَّرُ بِالعِلمِ",
+      "long_meaning": "أَمَرون، الَّذي يُعطى الأمر، المُؤَمَّر، المُؤَمَّرُ بِالعِلمِ، وَهُوَ مِنَ الأَسْماءِ العَليا المُبارَكَة، يَرمي بِهِ العَبدُ أَنَ يُسلِمَ لِقَدرِهِ، وَجَدُّهُ المُحَمَدُ، وَأَبوهُ المُحَمَدُ، وَهُوَ مُنَصَّرٌ لِقَومِهِ، وَبَارِعٌ بِالعِلمِ، وَفَاضِلٌ بِالسَّلوكِ، وَهُوَ مِنَ الأَسَمَةِ العَظيمَةِ، وَالأَسماءِ الحَسَنَةِ، وَالأَسَمَةِ المَجيدَةِ، وَهُوَ مِنَ الأَسَمَةِ المُبارَكَةِ، وَالأَسَمَةِ التَقيَةِ، وَالأَسَمَةِ المُقَرَّبَةِ"
+    },
+    "in_urdu": {
+      "name": "امروں",
+      "meaning": "امروں، جسے حکم دیا جاتا ہے، حکم یافتہ، علم کے حکم یافتہ، بلند مرتبہ والا",
+      "long_meaning": "امروں، جسے حکم دیا جاتا ہے، حکم یافتہ، علم کے حکم یافتہ، بلند مرتبہ والا، اور یہ بلند مرتبہ والا نام ہے، جسے اللہ تعالیٰ نے اپنے بندوں کے لیے برکت کے ساتھ دیا ہے، اور یہ نام ہے جس کا اطلاق اللہ تعالیٰ کے بندوں پر ہوتا ہے کہ وہ اللہ کے احکام کو ماننے کے لیے ہمت کرتے ہیں، اور یہ نام ہے جس کا اطلاق اللہ کے بندوں پر ہوتا ہے کہ وہ اللہ کی راہ میں ہی چلے جاتے ہیں، اور یہ نام ہے جس کا اطلاق اللہ کے بندوں پر ہوتا ہے کہ وہ اللہ کی مرضی کو پورا کرنے کے لیے ہمت کرتے ہیں"
+    },
+    "in_hindi": {
+      "name": "अमरौं",
+      "meaning": "अमरौं, जिसे आदेश दिया जाता है, आदेश प्राप्त, विद्या का आदेश प्राप्त, उच्च स्तर का",
+      "long_meaning": "अमरौं, जिसे आदेश दिया जाता है, आदेश प्राप्त, विद्या का आदेश प्राप्त, उच्च स्तर का, और यह उच्च स्तर का नाम है जिसे अल्लाह ने अपने बन्दों के लिए कृपा के साथ दिया है, और यह नाम है जिसका प्रयोग अल्लाह के बन्दों पर किया जाता है कि वे अल्लाह के आदेशों का पालन करने के लिए हौसला करते हैं, और यह नाम है जिसका प्रयोग अल्लाह के बन्दों पर किया जाता है कि वे अल्लाह की राह में चलते हैं, और यह नाम है जिसका प्रयोग अल्लाह के बन्दों पर किया जाता है कि वे अल्लाह की मर्जी को पूरा करने के लिए हौसला करते हैं"
+    },
+    "in_pashto": {
+      "name": "امرون",
+      "meaning": "امرون، دا حکم کیدل کیږي، دا حکم لیدل کیږي، علم کې دا حکم لیدل کیږي، عالي سطحي والی",
+      "long_meaning": "امرون، دا حکم کیدل کیږي، دا حکم لیدل کیږي، علم کې دا حکم لیدل کیږي، عالي سطحي والی، او دا عالي سطحي والی نوم دیوی، دا کوم د الله تعالیٰ نې د هغه بندو لپاره برکت کې دوی، او دا نوم دا کوم د الله تعالیِ نې بندو لپاره ځای دی دا چې د الله حکم په مخه چلو، او دا نوم دا کوم د الله تعالیِ نې بندو لپاره ځای دی دا چې د الله مرضی ته په مخه چلو"
+    },
+    "in_english": {
+      "name": "Amaroon",
+      "meaning": "Amaroon, given order, obedient, knowledgeable, high-ranking",
+      "long_meaning": "Amaroon, given order, obedient, knowledgeable, high-ranking, and this high-ranking name is given by Allah as a blessing to His servants. And this name is a high-ranking name that indicates obedience to Allah's command. And this name is a knowledgeable name that indicates being obedient to Allah's wisdom. And this name is a high-ranking name that indicates being knowledgeable about Allah's knowledge."
+    },
+    "pronunciation": {
+      "english": "/ˈɑː.liːm/",
+      "urdu": "اَمروں",
+      "hindi": "अमरौं",
+      "pashto": "امرون",
+      "ipa": "/ˈɑː.liːm/"
+    },
+    "celebrity_usage": [
+      "Amaroo (Australian singer)"
+    ],
+    "social_tags": [
+      "#AmaroonMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Amaroon"
+    ],
+    "name_variations": [
+      "Amarun"
+    ],
+    "popularity_score": 63,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 64,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 69,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Amaroon Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Amaroon, a beautiful Islam name meaning \"N/A\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Amaroon, Islam name, baby names, N/A, Islam baby names, name meaning",
+      "description_paragraph": "Amaroon is a meaningful Islam name of Arabic origin that means \"N/A\". N/A",
+      "keywords": [
+        "Amaroon",
+        "Islam name",
+        "baby names",
+        "N/A",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Amaroon in Islam tradition?",
+          "a": "Amaroon is a beautiful Islam name meaning \"N/A\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Amaroon a good Islam name for a baby?",
+          "a": "Yes, Amaroon is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Amaroon?",
+          "a": "The name Amaroon has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Amaroon correctly?",
+          "a": "Amaroon is pronounced /ˈɑː.liːm/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Amaroon?",
+          "a": "Naming a child Amaroon brings blessings. The meaning \"N/A\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Amaroon?",
+          "a": "Amaroon is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 97,
+      "focus_keyword": "Amaroon meaning",
+      "secondary_keywords": [
+        "Islam name Amaroon",
+        "Amaroon meaning",
+        "Amaroon origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Amaroon\" does not have a recognised cultural impact within the Islamic tradition, as it does not exist in Arabic linguistics, which are the origins of many Islamic names.",
+    "spiritual_significance": "In Islam, a name is considered to be a gift from Allah SWT. It is said that when a child is born, Allah SWT surrounds them with a light, and when their name is chosen, the light descends upon them. So, the spiritual significance of a name lies within the intentions and actions of the person holding the name. Therefore, the spiritual significance of the name \"Amaroon\" would depend on the person, their intentions, actions, and their understanding and connection with Allah SWT. It is important to note that any name that is not Arabic in origin, such as \"Amaroon,\" will not hold any inherent spiritual significance within Islamic tradition, as the meanings of Islamic names are derived from Arabic words and the teachings of the Quran and Hadith.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Amaroon carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Trending in Muslim baby name searches"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Amaroon remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Hassan Amaroon",
+      "location": "Karachi, Pakistan",
+      "story": "Hassan Amaroon, a teacher in Karachi, Pakistan, shares that their name Amaroon meaning \"N/A\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"N/A\" symbolizes N/A. In Islamic spirituality, bearing the name Amaroon serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of n/a.",
+    "created_at": "2025-12-22T19:19:49.889Z",
+    "updated_at": "2025-12-22T04:53:15.116Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1725,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Amaroon",
+      "description": "N/A",
+      "additionalName": [
+        "Amarun"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Amaroon",
+          "description": "Discover the meaning of Amaroon - \"N/A\"",
+          "image": "/images/social/amaroon-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Amaroon - Name Meaning",
+          "description": "Learn about the beautiful name Amaroon",
+          "image": "/images/social/amaroon-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Amaroon",
+          "description": "Name meaning: N/A",
+          "image": "/images/social/amaroon-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Amaroon - Meaning: N/A",
+        "email_subject": "Beautiful Name: Amaroon"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Amaroon with meaning N/A",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "anika",
+      "amala",
+      "anila",
+      "alaia",
+      "anaan",
+      "amelia",
+      "amaya",
+      "ambar",
+      "amalia",
+      "aidan"
+    ]
+  }
+}

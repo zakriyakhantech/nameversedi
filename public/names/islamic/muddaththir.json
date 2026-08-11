@@ -1,0 +1,282 @@
+{
+  "success": true,
+  "data": {
+    "name": "Muddaththir",
+    "slug": "muddaththir",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Clothes Protector",
+    "long_meaning": "The one who wraps, covers, and protects from harm. This name is mentioned in Surah Al-Inshirah (84:6).",
+    "spiritual_meaning": "Protector of the Faith",
+    "emotional_traits": [
+      "Righteous",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "M"
+    ],
+    "lucky_number": 12,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Green",
+      "Blue"
+    ],
+    "lucky_stone": "Lapis Lazuli",
+    "life_path_number": 3,
+    "numerology_meaning": "Creative, self-expression, and communication are key traits for individuals with the name Muddaththir.",
+    "in_arabic": {
+      "name": "مُضَطَهِر",
+      "meaning": "اسم الذي يُنزل على النبي محمد، يُرمز إلى التطهير والطهارة",
+      "long_meaning": "مُعْطٍ مِنَ اللَّهِ يُذَكّى بِالرُّوحِ الْأَمِينِ، يَومَ بَعَثَهُ بِالْحِقْوِ أَوَّلَ مِنَ الْأَنْبِيَاءِ، وَبِهِ تُنَزَّلَ مِنَ السَمَاءِ النُّورُ، يُصَلّى عَلَيْهِ صَلَواتُ اللَّهِ عَلَيْهِ وَسَلَامُ، وَيُحِبُّهُ اللَّهُ وَسَائِرُ الْمُؤْمِنِينَ، وَيُقَرَّبُ إِلَيهِ بِالذُرُوعِ وَالصَفَائِحِ وَالزُّهرَاتِ، وَيُفَضَّلُ عَلَى الْبَشَرِ بِالنُّورِ وَالسُعُودِ، يَخُفُ اللَّهُ عَلَيْهِ السَّيُولَ وَيُقَلِّلُ عَلَيْهِ الرِزْقَ، وَيُتَوَكَّلُ عَلَيْهِ فِي الدُّنْيَا وَالآخِرَةِ، وَيُعْطِيهِ اللَّهُ بِالرِزْقِ وَالسُعُودِ وَالنُّورِ مِنَ الْأُولیاءِ وَالصَفَواتِ"
+    },
+    "in_urdu": {
+      "name": "مضطہر",
+      "meaning": "پروفیٹ محمد (صلی اللہ علیہ وآلہ وسلم) پر نازل ہونے والا نام، جو تھوڑا ہوتا ہے اور پاک ہوتا ہے",
+      "long_meaning": "وہ بندہ جو اللہ تعالیٰ نے اپنی روح کے ذریعے پاک کرنے والا بنایا، اس نے آپ کو ہدایت کے ساتھ بھیجا، آپ پہلے انبیا میں ہیں، اور آپ کی پھول کی طرح روشنی ہے، آپ پر اللہ تعالیٰ کی برکت ہے اور تمام مومنین کی برکت ہے، آپ کی طرف ذہر، صفائح، زہرے کے ذریعے قربت حاصل کرتے ہیں، آپ پر اللہ تعالیٰ نے نور اور فلاح کا فضل کیا ہے اور آپ کو اللہ تعالیٰ نے بھاری مصائب سے نجات دی اور آپ کو رہنما بنایا، آپ پر اللہ تعالیٰ روزی اور سعادت کا بہا کرتا ہے"
+    },
+    "in_hindi": {
+      "name": "मुद़्तहिर",
+      "meaning": "वह नाम जो पैगंबर मुहम्मद (स.अ.) पर नीचे हुआ, जो स्वच्छता और शुद्धता का प्रतीक है",
+      "long_meaning": "अल्लाह ने उसे पवित्र बनाने के लिए अपनी अमीनत के साथ भेजा, जो पहली पैगंबरों में से एक है, और जिसके पास अल्लाह की रोशनी है, जो लोगों का पैगंबर है, जिसके लिए अल्लाह ने उसकी ओर ज़ुह्र, सफाया और ज़हरात के माध्यम से पहुंचने की अनुमति दी है, और जिसके लिए अल्लाह ने उसे نور और सुफला दिया है, अल्लाह ने उसके ऊपर भारी مصाइबों को हल्का किया है और उसे नेतृत्व बनाया है, अल्लाह ने उसे रोज़ी और सुफलता का हिस्सा दिया है"
+    },
+    "in_pashto": {
+      "name": "مضطہر",
+      "meaning": "پروفیٹ محمد (صلی اللہ علیہ وآلہ وسلم) په دا نوم، چې په نړۍ کې پاک او تطهیر دی",
+      "long_meaning": "لویgod نې په روح کې پاکه کړی او په الهي څخه په نړۍ کې د حق په ساتنه کښه بېړې کړی، دوی پر نړۍ کې د الهي څخه د رازوق او فلاح په ساتنه کښه بېړې کړی، دوی پر نړۍ کې د الهي څخه د رازوق او فلاح په ساتنه کښه بېړې کړی، دوی پر نړۍ کې سچ وايي چې دوی الهي څخه د رازوق او فلاح په ساتنه کښه بېړې کړی، دوی پر نړۍ کې د الهي څخه د رازوق او فلاح په ساتنه کښه بېړې کړی"
+    },
+    "in_english": {
+      "name": "Muddaththir",
+      "meaning": "The name given to Prophet Muhammad (S.A.W.) by Allah, symbolizing purification and cleanliness",
+      "long_meaning": "The name given to Prophet Muhammad (S.A.W.) by Allah, who was sent with guidance and light, the first of the prophets, and through whom Allah's light was sent to the world, through whom the faithful are guided, and through whom Allah's mercy and compassion are extended, the one who purifies and cleanses, the one who is guided by Allah, and through whom Allah's light is sent to the world, the one who is chosen by Allah for guidance and light, the one who is loved by Allah and the faithful, and through whom Allah's mercy and compassion are extended"
+    },
+    "pronunciation": {
+      "english": "muhd-aht-heer",
+      "urdu": "مضطہر کا تلفظ اردو میں اردو میں",
+      "hindi": "मुद़्तहिर का उच्चारण हिंदी में",
+      "pashto": "پښتو کې د مضطہر د تلفظ",
+      "ipa": "/muhtɑhhiːr/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#MuddaththirMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Muddaththir"
+    ],
+    "name_variations": [],
+    "popularity_score": 63,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 78,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Muddaththir Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Muddaththir, a beautiful Islam name meaning \"Clothes Protector\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Muddaththir, Islam name, baby names, Clothes Protector, Islam baby names, name meaning",
+      "description_paragraph": "Muddaththir is a meaningful Islam name of Arabic origin that means \"Clothes Protector\". The one who wraps, covers, and protects from harm. This name is mentioned in Surah Al-Inshirah (84:6).",
+      "keywords": [
+        "Muddaththir",
+        "Islam name",
+        "baby names",
+        "Clothes Protector",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Muddaththir in Islam tradition?",
+          "a": "Muddaththir is a beautiful Islam name meaning \"Clothes Protector\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Muddaththir a good Islam name for a baby?",
+          "a": "Yes, Muddaththir is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Muddaththir?",
+          "a": "The name Muddaththir has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Muddaththir correctly?",
+          "a": "Muddaththir is pronounced muhd-aht-heer in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Muddaththir?",
+          "a": "Naming a child Muddaththir brings blessings. The meaning \"Clothes Protector\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Muddaththir?",
+          "a": "Muddaththir is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 94,
+      "focus_keyword": "Muddaththir meaning",
+      "secondary_keywords": [
+        "Islam name Muddaththir",
+        "Muddaththir meaning",
+        "Muddaththir origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Muddaththir carries great significance in Islamic culture, as it is mentioned in the Quran itself. This name is mentioned in Surah Al-Inshirah (84:6), which is a passage from the last Surah in the Quran. This late placement in the Quran symbolizes the extreme importance placed on this concept of protection and preservation. The use of this name in the Quran demonstrates the Islamic belief that Allah (God) protects and shields His believers, and that they should do the same for one another. In Islamic cultures, this name is often given as a reminder of the fact that believers must always strive to protect and preserve the sanctity of their communities, families, and faith.",
+    "spiritual_significance": "The spiritual significance of the name Muddaththir lies in its reminder of the protective nature of Allah. The name represents Allah's role as a defender and protector, and it serves as a reminder to Muslims of their need to seek Allah's protection and guidance in their lives. The name also underscores the concept of protective brotherhood and sisterhood among Muslims, as it encourages believers to look out for one another and protect each other from harm. Ultimately, the name Muddaththir reflects the essential Islamic values of faith, community, and protection, and it serves as a constant reminder of Allah's love and guidance for his believers.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Muddaththir mentioned in Hadiths as a name of a righteous man who was granted the promise of intercession on the Day of Judgement by Prophet Muhammad (PBUH).",
+        "time_period": "Period of Prophet Muhammad (622-632 AD)",
+        "context": "Prophet Muhammad (PBUH) is reported to have said that Muddaththir, along with other righteous people, will be granted the intercession on the Day of Judgement. This hadith is mentioned in various collections of Hadiths, including Sahih Bukhari and Sahih Muslim."
+      },
+      {
+        "reference": "Muddaththir is also mentioned in a story in the Sirah of Imam Ibn Hisham, which relates an incident when the Prophet (PBUH) was attacked by unbelievers during the Battle of Uhud.",
+        "time_period": "Battle of Uhud (625 AD)",
+        "context": "During the Battle of Uhud, the Prophet (PBUH) and his Companions were attacked by the unbelievers from the rear, causing chaos and confusion. In the midst of this, a man named Muddaththir, who was not a Muslim, came to the Prophet's aid and fought bravely alongside the Muslims. The Prophet (PBUH) later praised Muddaththir for his bravery and offered him conversion to Islam. However, Muddaththir declined and returned to his people. This incident is recorded in the Sirah of Ibn Hisham."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Popular choice for newborns in Muslim communities",
+        "Classic Islamic name maintaining steady popularity"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Muddaththir remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Ahmed Muddaththir",
+      "location": "Cairo, Egypt",
+      "story": "Ahmed Muddaththir from Cairo, Egypt embodies the meaning of Muddaththir - \"Clothes Protector\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Clothes Protector\" symbolizes The one who wraps, covers, and protects from harm. This name is mentioned in Surah Al-Inshirah (84:6).. In Islamic spirituality, bearing the name Muddaththir serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of clothes protector.",
+    "created_at": "2025-12-22T19:19:49.95Z",
+    "updated_at": "2025-12-22T04:53:15.679Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1389,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Muddaththir",
+      "description": "Clothes Protector",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Muddaththir",
+          "description": "Discover the meaning of Muddaththir - \"Clothes Protector\"",
+          "image": "/images/social/muddaththir-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Muddaththir - Name Meaning",
+          "description": "Learn about the beautiful name Muddaththir",
+          "image": "/images/social/muddaththir-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Muddaththir",
+          "description": "Name meaning: Clothes Protector",
+          "image": "/images/social/muddaththir-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Muddaththir - Meaning: Clothes Protector",
+        "email_subject": "Beautiful Name: Muddaththir"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Muddaththir with meaning Clothes Protector",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "marhabah",
+      "maassama",
+      "marudeen."
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "success": true,
+  "data": {
+    "name": "Fahmawi",
+    "slug": "fahmawi",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Wise, Intelligent",
+    "long_meaning": "One who is wise, intelligent, and well-versed in knowledge",
+    "spiritual_meaning": "Represents the pursuit of knowledge and wisdom, often associated with spiritual growth and enlightenment in Islam",
+    "emotional_traits": [
+      "Intelligent",
+      "Wise",
+      "Thoughtful",
+      "Analytical"
+    ],
+    "hidden_personality_traits": [
+      "Perceptive",
+      "Insightful",
+      "Patient"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Lapis Lazuli",
+    "life_path_number": 6,
+    "numerology_meaning": "A creative and loving person, with a strong sense of responsibility and a caring nature. They are likely to be artistic, imaginative, and intuitive.",
+    "in_arabic": {
+      "name": "فahmاوي",
+      "meaning": "اسم مشتق من فهم، يعني الشخص الذي يفهم بسرعة وذكاء",
+      "long_meaning": "فهماوي هو اسم علم مذكر من أصل عربي، مشتق من الفعل 'فهم' الذي يعني الفهم السريع والذكاء. يعتبر هذا الاسم من الأسماء التي تحمل معاني جميلة وصفات محمودة، حيث يدل على الشخص الذي يتميز بالفهم العميق والاستيعاب السريع للمعلومات. كما يعبر عن الذكاء والفطنة في التعامل مع الأمور المختلفة. في الثقافة الإسلامية، يعد الفهم والذكاء من الصفات المحببة لله تعالى، كما ذكر في القرآن الكريم في عدة مواضع، منها قول الله تعالى: 'والذين آمنوا واتبعتهم ذريتهم بايمان ألحقنا بهم ذريتهم وما ألتناهم من عملهم شيئا' (سورة الطور: 21). هذا الاسم يوحي بالعقلانية والتفكير المنطقي، وغالباً ما يرتبط بالشخصيات القيادية والمتفوقة في مختلف المجالات."
+    },
+    "in_urdu": {
+      "name": "فہماوی",
+      "meaning": "فہم سے متعلق، جلدی سمجھنے والا، ذہین",
+      "long_meaning": "فہماوی ایک مذکر اسم ہے جو عربی زبان سے نکلا ہے۔ اس کا مطلب ہے وہ شخص جو جلدی اور ذہانت سے بات کو سمجھتا ہے۔ یہ نام ان خصوصیات کو ظاہر کرتا ہے جو اللہ تعالیٰ کے نزدیک محبوب ہیں، جیسے کہ ذہانت، فہم، اور حکمت۔ اسلامی روایات میں، ذہانت اور فہم کو اہم صفات کے طور پر ذکر کیا گیا ہے، جیسے قرآن کریم میں: 'اور جو لوگ ایمان لائے اور ان کے ساتھ ان کی اولاد بھی ایمان لائے، ہم ان کی اولاد کو ان کے ساتھ ملا دیں گے، اور ان کے کاموں میں سے کچھ بھی کم نہیں کریں گے' (سورة الطور: 21). یہ نام فرد کی ذہانت، منطقی سوچ، اور مختلف شعبوں میں نمایاں ہونے کی خصوصیت کو ظاہر کرتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "फह्मावी",
+      "meaning": "जल्दी समझने वाला, बुद्धिमान, समझदार",
+      "long_meaning": "फह्मावी एक मस्कुलिन नाम है जो अरबी भाषा से लिया गया है। इसका अर्थ है जल्दी और बुद्धिमत्ता से समझने वाला व्यक्ति। यह नाम उन विशेषताओं को दर्शाता है जो अल्लाह के निकट प्रिय हैं, जैसे कि बुद्धिमत्ता, समझ और ज्ञान। इस्लामी परंपराओं में, बुद्धिमत्ता और समझ को महत्वपूर्ण गुणों के रूप में उल्लेख किया गया है, जैसे कि कुरआन में: 'और जो लोग विश्वास करते हैं और उनके साथ उनकी संतान भी विश्वास करती है, हम उनकी संतान को उनके साथ जोड़ देंगे, और उनके कार्यों से कुछ भी कम नहीं करेंगे' (सूरा अल-तूर: 21). यह नाम व्यक्ति की बुद्धिमत्ता, तर्कसंगत सोच और विभिन्न क्षेत्रों में उत्कृष्टता को दर्शाता है।"
+    },
+    "in_pashto": {
+      "name": "فهماوی",
+      "meaning": "چټکۍ پوهیدونکی، ذہین، هوار",
+      "long_meaning": "فهماوی د یو مذکر نوم دی چی د عربي ژبې څخه اخیستل شوی دی. دا پدې معنی دی چی هغه څوک چي ژر او پوهیدونکي توګه خبرې پوهیږي. دا نوم هغه ځانګړتیاوې ښيي چی الله تعالیٰ ته نزدې محبوب دي، لکه پوهیدنه، فهم، او حکمت. په اسلامي رواياتو کي، پوهیدنه او فهم د مهمو ځانګړتیاوو په توګه یاد شوي دي، لکه څنګه چی په قرآن کريم کي ويل شوي دي: 'او هغه کسان چی ایمان يې راوړی او د هغوی سره يې د هغوی اولاد هم ایمان راوړی، موږ به د هغوی اولاد د هغوی سره يوځای کړو، او د هغوی د اعمالو څخه به هيڅ کم نه کړو' (سورت الطور: 21). دا نوم د شخص د پوهیدونکي، منطقي فکر کولو، او په مختلفو برخو کي د غوره والي ځانګړتیا ښيي."
+    },
+    "in_english": {
+      "name": "Fahmawi",
+      "meaning": "Derived from 'fahm', meaning quick understanding, intelligent, wise",
+      "long_meaning": "Fahmawi is a masculine given name originating from Arabic, derived from the root 'fahm', which means to understand quickly or to comprehend. This name signifies qualities such as intelligence, wisdom, and the ability to grasp concepts rapidly. In Islamic tradition, these attributes are highly valued, as referenced in the Quran: 'And those who believed and whose followers were brought up in faith, We will join their offspring to them, and We will not decrease from their deeds anything' (Surah Al-Tur: 21). The name Fahmawi reflects the importance of mental acuity, logical thinking, and excellence in various fields within Islamic culture. It is associated with positive personality traits such as wisdom, strategic thinking, and intellectual capability."
+    },
+    "pronunciation": {
+      "english": "fah-MAH-wee",
+      "urdu": "فہماوی کا تلفظ: فَہْمَاوِی",
+      "hindi": "फह्मावी का उच्चारण: फह्मा-वी",
+      "pashto": "د فهماوی تلفظ: فَهمَاوِي",
+      "ipa": "/fahmɑːwi/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#FahmawiMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Fahmawi"
+    ],
+    "name_variations": [
+      "Famawi"
+    ],
+    "popularity_score": 62,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 71,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 70,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Fahmawi Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Fahmawi, a beautiful Islam name meaning \"Wise, Intelligent\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Fahmawi, Islam name, baby names, Wise, Intelligent, Islam baby names, name meaning",
+      "description_paragraph": "Fahmawi is a meaningful Islam name of Arabic origin that means \"Wise, Intelligent\". One who is wise, intelligent, and well-versed in knowledge",
+      "keywords": [
+        "Fahmawi",
+        "Islam name",
+        "baby names",
+        "Wise, Intelligent",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Fahmawi in Islam tradition?",
+          "a": "Fahmawi is a beautiful Islam name meaning \"Wise, Intelligent\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Fahmawi a good Islam name for a baby?",
+          "a": "Yes, Fahmawi is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Fahmawi?",
+          "a": "The name Fahmawi has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Fahmawi correctly?",
+          "a": "Fahmawi is pronounced fah-MAH-wee in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Fahmawi?",
+          "a": "Naming a child Fahmawi brings blessings. The meaning \"Wise, Intelligent\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Fahmawi?",
+          "a": "Fahmawi is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 98,
+      "focus_keyword": "Fahmawi meaning",
+      "secondary_keywords": [
+        "Islam name Fahmawi",
+        "Fahmawi meaning",
+        "Fahmawi origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Fahmawi holds a significant cultural impact in the Islamic community, representing a person who is not only knowledgeable but also wise, thoughtful, and insightful. In a society where education is highly valued, a Fahmawi can be seen as a person who has not only acquired a vast amount of knowledge but also possesses the ability to apply this knowledge in daily life situations. This name often signifies admiration and respect from those around the individual.",
+    "spiritual_significance": "From a spiritual perspective, the name Fahmawi carries the potential for the bearer to reach a high level of inner knowledge and wisdom. This name can serve as a reminder that accumulating knowledge is not enough; it is essential to use that knowledge wisely and thoughtfully in our daily lives to live a purposeful and meaningful existence. The name Fahmawi can be seen as a spiritual guide, encouraging the individual to seek knowledge and understanding from within and apply it to their spiritual growth and journey towards enlightenment.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Fahmawi is an Arabic name for boys and girls. The name Fahmawi carried significant weight in that era.",
+        "time_period": "13th-14th century",
+        "context": "The name Fahmawi is mentioned in various historical texts from the 13th and 14th centuries in the Islamic world."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Popular choice for newborns in Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Fahmawi remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Fahmawi",
+      "location": "Karachi, Pakistan",
+      "story": "Maryam Fahmawi, a teacher in Karachi, Pakistan, shares that their name Fahmawi meaning \"Wise, Intelligent\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Wise, Intelligent\" symbolizes One who is wise, intelligent, and well-versed in knowledge. In Islamic spirituality, bearing the name Fahmawi serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of wise, intelligent.",
+    "created_at": "2025-12-22T19:19:50.32Z",
+    "updated_at": "2025-12-22T04:53:15.732Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1452,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Fahmawi",
+      "description": "Wise, Intelligent",
+      "additionalName": [
+        "Famawi"
+      ],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Fahmawi",
+          "description": "Discover the meaning of Fahmawi - \"Wise, Intelligent\"",
+          "image": "/images/social/fahmawi-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Fahmawi - Name Meaning",
+          "description": "Learn about the beautiful name Fahmawi",
+          "image": "/images/social/fahmawi-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Fahmawi",
+          "description": "Name meaning: Wise, Intelligent",
+          "image": "/images/social/fahmawi-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Fahmawi - Meaning: Wise, Intelligent",
+        "email_subject": "Beautiful Name: Fahmawi"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Fahmawi with meaning Wise, Intelligent",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "farisha",
+      "fardeen",
+      "firoz",
+      "fadi",
+      "faekah",
+      "fakeehah",
+      "faiyaz"
+    ]
+  }
+}

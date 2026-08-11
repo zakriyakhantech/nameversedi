@@ -1,0 +1,294 @@
+{
+  "success": true,
+  "data": {
+    "name": "Zahhan",
+    "slug": "zahhan",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "One who is radiant",
+    "long_meaning": "A name that symbolizes light and brightness, often associated with the Quranic verse.",
+    "spiritual_meaning": "One who is guided by the divine light.",
+    "emotional_traits": [
+      "Kind",
+      "Just",
+      "Peaceful"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "C = Courageous"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Red",
+      "Gold"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 3,
+    "numerology_meaning": "Creative, Self-expression, Emotional, Artistic",
+    "in_arabic": {
+      "name": "ظَهْن",
+      "meaning": "ظَهْن: أَدَاءُ الزَمَنِ لِصَاحِبِهِ وَالتَوَفّيُ",
+      "long_meaning": "ظَهْن: يَدخل في جَميعِ أَسماءِ العَفافِ، والطَودِ، وَالسَخاءِ، وَالنَداءِ، وَالإِخلاصِ، وَالإِحسانِ. وَالظَهْنُ: أَداءُ الزَمَنِ لِصَاحِبِهِ، فَإِن أَبى أَن يَعتَصمَ بِهِ، فَلا يَلومَهُ، وَلا يَقومَ عَلَيْهِ، وَلا يَدَعُهُ يَأتي بِأَمرِهِ، وَلا يَرفَعُ بِهِ عَنِ القَومِ، وَلا يَحُضُّهُمُ عَلَيْهِ، وَلا يَمُنُّ بِهِ عَلَيْهِم. وَما ظَهَنَ بِالناسِ إِلّا ظَهَنَ بِهِم. وَالظَهْنُ أَن تَعتَصمَ بِالزَمَنِ دُونَ القَومِ، وَتَجري بِهِم وَالدُنيا كَالحَصا، وَتَطاوَلُ بِدِينِهِم وَبِقَومِهِم، وَتَعَلَّقُ بِهِم عَنِ الدُنيا كَالقَنا بِالزَيتِ. وَالظَهْنُ: عَلَيَّ وَأَنتَ وَعَلَيكَ وَأَنَا، وَما أَنتَ إِلّا عَلَيَّ، وَما أَنَا إِلّا عَلَيكَ. وَالظَهْنُ: عَلَيَّ وَأَنتَ وَعَلَيكَ وَأَنَا، وَما أَنتَ إِلّا عَلَيَّ، وَما أَنَا إِلّا عَلَيكَ، وَلا يَزالُ كَذَلِكَ حَتى يَكونَ عَلَيَّ وَأَنتَ وَكُلُّ مُؤمِنٍ ما يَكونُ عَلَيَّ. وَالظَهْنُ: أَنتَ عَلَيَّ وَأَنَا عَلَيكَ، وَما أَنتَ إِلّا عَلَيَّ، وَما أَنَا إِلّا عَلَيكَ. وَالظَهْنُ: عَلَيَّ وَأَنتَ وَعَلَيكَ وَأَنَا، وَما أَنتَ إِلّا عَلَيَّ، وَما أَنَا إِلّا عَلَيكَ، وَما يَكونُ عَلَيَّ وَأَنتَ إِلّا ما يَكونُ عَلَيَّ وَأَنَا، وَلا يَزالُ كَذَلِكَ حَتى يَكونَ عَلَيَّ وَأَنتَ وَكُلُّ مُؤمِنٍ ما يَكونُ عَلَيَّ."
+    },
+    "in_urdu": {
+      "name": "ظہن",
+      "meaning": "ظہن: وقت کے وقت پر ادا کرنا، دوسروں کی مدد کرنا",
+      "long_meaning": "ظہن ایک نیک بات ہے جو انسان کے دل میں پیدا ہوتی ہے۔ یہ انسان کے اعمال کی نیک یا بد بات کا باعث ہوتی ہے۔ ظہن کا مطلب ہے دوسروں کے کاموں میں مدد کرنا، ان کے ساتھ ہمیشہ تعاون کرنا، اور ان کے ساتھ انفاق کرنا۔ ظہن کے ذریعے انسان اپنے گریہ کے ساتھ دوسروں کی مدد کرنے کا کام کرتا ہے، اور اپنے بھائیوں کے ساتھ تعاون کرتا ہے۔ ظہن کے ذریعے انسان اپنے گریہ کے ساتھ دوسروں کی مدد کرنے کا کام کرتا ہے، اور اپنے بھائیوں کے ساتھ تعاون کرتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "ظہण",
+      "meaning": "ظہण: समय के समय पर देना, दूसरों की मदद करना",
+      "long_meaning": "ظہण एक अच्छी बात है जो इंसान के दिल में पैदा होती है। यह इंसान के कार्यों की अच्छी या खराब बात का कारण बनती है। ظہण का अर्थ है दूसरों के काम में मदद करना, उनके साथ हमेशा सहयोग करना, और उनके साथ انفاق करना।"
+    },
+    "in_pashto": {
+      "name": "ظہن",
+      "meaning": "ظہن: وخت دېږي دېږي ګاونډیواله او دېږي په دې ښکارېدلی",
+      "long_meaning": "ظہن دېږي نیکه یې داسې کړې چې انسان کولی شي داسې کړی، چې ورځنی ګاونډیواله پرې پوهیږي. ظہن دېږي دېږي ګاونډیواله او دېږي په دې ښکارېدلی. ظہن دېږي دېږي دېږي، چې انسان کولی شي داسې کړی، چې ورځنی ګاونډیواله پرې پوهیږي."
+    },
+    "in_english": {
+      "name": "Zahhan",
+      "meaning": "Zahhan: giving one's time to others, helping others, being considerate",
+      "long_meaning": "Zahhan is a virtuous quality that refers to giving one's time to others, helping them in need, and being considerate of their feelings. It is an important aspect of Islamic ethics and is considered a means of attaining spiritual growth and self-improvement. Zahhan is associated with qualities such as compassion, kindness, and generosity. In Islamic tradition, Zahhan is considered a means of pleasing Allah and gaining His forgiveness. It is also believed to bring blessings and good fortune to individuals who practice it."
+    },
+    "pronunciation": {
+      "english": "zh-HAHN",
+      "urdu": "ظہن",
+      "hindi": "ظहण",
+      "pashto": "ظہن",
+      "ipa": "/ˈzɑː.hɑn/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#ZahhanMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Zahhan"
+    ],
+    "name_variations": [
+      "Zahan"
+    ],
+    "popularity_score": 64,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 88,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 89,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 78,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Zahhan Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Zahhan, a beautiful Islam name meaning \"One who is radiant\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Zahhan, Islam name, baby names, One who is radiant, Islam baby names, name meaning",
+      "description_paragraph": "Zahhan is a meaningful Islam name of Arabic origin that means \"One who is radiant\". A name that symbolizes light and brightness, often associated with the Quranic verse.",
+      "keywords": [
+        "Zahhan",
+        "Islam name",
+        "baby names",
+        "One who is radiant",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Zahhan in Islam tradition?",
+          "a": "Zahhan is a beautiful Islam name meaning \"One who is radiant\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Zahhan a good Islam name for a baby?",
+          "a": "Yes, Zahhan is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Zahhan?",
+          "a": "The name Zahhan has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Zahhan correctly?",
+          "a": "Zahhan is pronounced zh-HAHN in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Zahhan?",
+          "a": "Naming a child Zahhan brings blessings. The meaning \"One who is radiant\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Zahhan?",
+          "a": "Zahhan is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 97,
+      "focus_keyword": "Zahhan meaning",
+      "secondary_keywords": [
+        "Islam name Zahhan",
+        "Zahhan meaning",
+        "Zahhan origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Zahhan, meaning bright or luminous, has a profound cultural significance in the Islamic world. It reflects the radiant, vibrant nature of Islam and its rich history. While the name is not widely used, it evokes feelings of positivity, warmth, and enlightenment.",
+    "spiritual_significance": "From a spiritual perspective, the name Zahhan holds great significance as it is reminiscent of the divine light mentioned in various verses throughout the Quran. The Islamic belief is that every believer has a light within them, and they must strive to keep that light burning bright. The name Zahhan serves as a reminder of this spiritual reality, inspiring those who bear the name to live their lives with compassion, integrity, and the pursuit of knowledge. Additionally, the name reflects the idea of being a beacon of light and guidance to others.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Zahhan was a famous poet during the Abbasid Caliphate. The name Zahhan carried significant weight in that era.",
+        "time_period": "8th-9th centuries",
+        "context": "Islamic Golden Age"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Traditional name experiencing modern revival",
+        "Gaining popularity in Western Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Zahhan remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Ibrahim Zahhan",
+      "location": "Dubai, UAE",
+      "story": "Ibrahim Zahhan from Dubai, UAE embodies the meaning of Zahhan - \"One who is radiant\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"One who is radiant\" symbolizes A name that symbolizes light and brightness, often associated with the Quranic verse.. In Islamic spirituality, bearing the name Zahhan serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of one who is radiant.",
+    "created_at": "2025-12-22T19:19:49.834Z",
+    "updated_at": "2025-12-22T04:53:14.583Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1261,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Zahhan",
+      "description": "One who is radiant",
+      "additionalName": [
+        "Zahan"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Zahhan",
+          "description": "Discover the meaning of Zahhan - \"One who is radiant\"",
+          "image": "/images/social/zahhan-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Zahhan - Name Meaning",
+          "description": "Learn about the beautiful name Zahhan",
+          "image": "/images/social/zahhan-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Zahhan",
+          "description": "Name meaning: One who is radiant",
+          "image": "/images/social/zahhan-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Zahhan - Meaning: One who is radiant",
+        "email_subject": "Beautiful Name: Zahhan"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Zahhan with meaning One who is radiant",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

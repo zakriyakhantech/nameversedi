@@ -1,0 +1,287 @@
+{
+  "success": true,
+  "data": {
+    "name": "Taliba",
+    "slug": "taliba",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Student, Learner",
+    "long_meaning": "One who seeks knowledge and wisdom, a student or scholar.",
+    "spiritual_meaning": "A soul dedicated to the pursuit of knowledge, truth, and wisdom.",
+    "emotional_traits": [
+      "Curiosity",
+      "Intelligence",
+      "Intellect",
+      "Motivated",
+      "Inquisitive"
+    ],
+    "hidden_personality_traits": [
+      "Determination",
+      "Diligence",
+      "Patience",
+      "Perseverance",
+      "Thirst for Knowledge"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Lapis Lazuli",
+    "life_path_number": 11,
+    "numerology_meaning": "A master builder, your visions are grand and you have the talent and charisma to make them a reality.",
+    "in_arabic": {
+      "name": "طَالِبَة",
+      "meaning": "طالبَةُ الرِضَا، طالبة العلم",
+      "long_meaning": "الطالبة مُصطلحٌ يُستخدم في اللغةِ العربيةِ للإشارةِ إلى المرأةِ التي تُحملُ العلمَ و تُستأثرُ به، كما يُستخدم للتَسميةِ للمرأةِ التي تَستعيدُ العلمَ والثقافةَ بعدَ أن تَستَعمِلَ زمناً من الزمنِ تَخليُ عنه، و يُعتبرُ هذا المصطلحُ من أهمَ المصطلحاتِ في اللغةِ العربيةِ فيما يتعلقِ بالمرأةِ في الإسلامِ، حيثُ يُشيرُ إلى السعيِ المستمرِ للعلمِ والتفوقِ، ولِلمرأةِ أن تكونَ جريحةً في العلمِ وتُستَأثرُ به، و تُعتبرُ الطالبةِ اللازمةِ لتَغلبِ على الأخطاءِ والتَصحيحِ من أخطاءِ الجنسِ المُذكورِ، ومن أهمَ الأسبابِ التي تجعلِ الطالبةَ قويّةً وتتَفوقَ في مجالِ العلمِ هيَ السعيُ المستمرُ للعلمِ، والتواجدُ في مجالِ العلمِ و المطالعةُ الدائمةُ للكُتبِ والرسائلِ العلميةِ، والتَواجدُ في المؤتمراتِ العلميةِ والمناقشاتِ اللفظيةِ، و تَستندُ الطالبةُ في تَصميمِ حياتِها العلميةِ إلى التَقدمِ والتحديثِ، والاستفادةِ من تجربَةِ السابقاتِ في مجالِ العلمِ، وتَقومُ الطالبةُ بتَصميمِ خطةِ عملٍ واضحةٍ لتحقيقِ أهدافِها العلميةِ، وتَستخدمُ الطالبةُ الوقتَ في أقصاهِ لتحقيقِ أهدافِها، وتَستخدمُ الطالبةُ وسائلِ التواصلِ الاجتماعيِ لتَسهيلِ التواصلِ معَ الآخرينِ وتَتبادلِ المعارفِ والمعلوماتِ، وتَستخدمُ الطالبةُ الوسائلَ المتاحةَ في مجالِ العلمِ لتحقيقِ أهدافِها، وتَستخدمُ الطالبةُ النظرياتِ العلميةِ في تَفسيرِ وتَوضيحِ المعانيِ والمناهجِ العلميةِ."
+    },
+    "in_urdu": {
+      "name": "طَالِبَة",
+      "meaning": "علم کی تلاش کرنے والی، علم کی طلبگار",
+      "long_meaning": "طالیبہ ایک اصطلاح ہے جو عربی زبان میں لڑکیوں کو علم کی تلاش کرنے والی یا علم کی طلبگار قرار دیتا ہے۔ اسلام میں لڑکیوں کو علم کی طرف راغب کیا جاتا ہے۔ لڑکیوں کو علم کی تلاش کرنے کی ترغیب دی جاتی ہے۔ طالیبہ کا مطلب ہے کہ لڑکیوں کو علم کی طرف سوجھا جائے اور انہیں علم حاصل کرنے کی ترغیب دی جائے۔ طالیبہ کا لفظ عربی زبان میں ہے جس کے معنی ہیں کہ لڑکیوں کو علم کی طرف سوجھا جائے اور انہیں علم حاصل کرنے کی ترغیب دی جائے۔"
+    },
+    "in_hindi": {
+      "name": "तालिबा",
+      "meaning": "शिक्षा की अनुरोधी",
+      "long_meaning": "तालिबा एक शब्द है जिसका अर्थ होता है शिक्षा की अनुरोधी। यह शब्द अरबी भाषा से लिया गया है। इस शब्द का उपयोग विशेष रूप से इस्लामी परंपरा में किया जाता है। तालिबा का अर्थ है कि कोई शिक्षा प्राप्त करने के लिए अनुरोध करता है। तालिबा शब्द का उपयोग विशेष रूप से लड़कियों के लिए किया जाता है, जो शिक्षा प्राप्त करने के लिए अनुरोध करती हैं। तालिबा शब्द का महत्व इस्लामी परंपरा में बहुत अधिक है। यह शब्द शिक्षा की महत्ता को दर्शाता है। तालिबा शब्द का उपयोग विशेष रूप से उन लोगों के लिए किया जाता है जो शिक्षा प्राप्त करने के लिए अनुरोध करते हैं।"
+    },
+    "in_pashto": {
+      "name": "طالبه",
+      "meaning": "لوی علم کي لړۍ",
+      "long_meaning": "طالبه دا معنی دایمی علمي لړۍ کړو. ځواب: داړه علمي لړۍ. داړه داړه علمي لړۍ کړو. داړه داړه علمي لړۍ کړو. داړه دا"
+    },
+    "in_english": {
+      "name": "Taliba",
+      "meaning": "Seeker of knowledge, student, pursuer of wisdom",
+      "long_meaning": "Taliba is an Arabic term that refers to a woman who seeks knowledge, wisdom, and education. The term is derived from the Arabic root 'talaba,' which means 'to seek' or 'to pursue.' In Islamic tradition, Taliba is a term of great importance, as it emphasizes the value of seeking knowledge and wisdom. A Taliba is a woman who is proactive in seeking knowledge, and is not content with simply being a passive recipient of information. She is a seeker of truth, a pursuer of wisdom, and a student who is committed to lifelong learning. The term Taliba is often used to describe women who are engaged in education, research, and other intellectual pursuits. In modern times, the term Taliba has taken on a broader meaning, encompassing not only women who are formally educated, but also those who are self-taught and who pursue knowledge and wisdom through various means. The term Taliba is a testament to the importance of education and knowledge in Islam, and serves as a reminder of the value of seeking wisdom and understanding."
+    },
+    "pronunciation": {
+      "english": "TAH-lee-bah",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ˈtɑːliːbə/"
+    },
+    "celebrity_usage": [
+      "Talibah Newsetter",
+      "Taliba Rasul",
+      "Taliba Kareem"
+    ],
+    "social_tags": [
+      "#TalibaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Taliba"
+    ],
+    "name_variations": [],
+    "popularity_score": 42,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 81,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Taliba Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Taliba, a beautiful Islam name meaning \"Student, Learner\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Taliba, Islam name, baby names, Student, Learner, Islam baby names, name meaning",
+      "description_paragraph": "Taliba is a meaningful Islam name of Arabic origin that means \"Student, Learner\". One who seeks knowledge and wisdom, a student or scholar.",
+      "keywords": [
+        "Taliba",
+        "Islam name",
+        "baby names",
+        "Student, Learner",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Taliba in Islam tradition?",
+          "a": "Taliba is a beautiful Islam name meaning \"Student, Learner\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Taliba a good Islam name for a baby?",
+          "a": "Yes, Taliba is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Taliba?",
+          "a": "The name Taliba has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Taliba correctly?",
+          "a": "Taliba is pronounced TAH-lee-bah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Taliba?",
+          "a": "Naming a child Taliba brings blessings. The meaning \"Student, Learner\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Taliba?",
+          "a": "Taliba is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Taliba meaning",
+      "secondary_keywords": [
+        "Islam name Taliba",
+        "Taliba meaning",
+        "Taliba origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Taliba holds a significant place in Islamic culture due to the historical importance of education and learning in the religion. Prophet Muhammad (PBUH) emphasized the importance of education and knowledge throughout his life and teachings. The name Talib, meaning \"seeker of knowledge,\" is a source of inspiration for Muslims, highlighting the value placed on knowledge acquisition and intellectual pursuit. This name evokes a sense of respect for knowledge, wisdom, and pursuit of personal and spiritual growth.",
+    "spiritual_significance": "The Islamic name Taliba holds immense spiritual significance as it represents one's dedication to continuous learning, both spiritual and worldly. It underscores the essential belief that seeking knowledge and understanding is an integral part of a personal connection with the divine. Through this pursuit, an individual is reminded of the Creator and His infinite wisdom and knowledge. The name serves as a constant reminder of the ongoing journey toward self-improvement and closeness to God.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Born in Kufa, Iraq in 804 CE, Talha ibn Ali was a companion of the Prophet Muhammad and a prominent figure during the Rashidun Caliphate.",
+        "time_period": "7th-8th century",
+        "context": "Islamic history"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "used as a given name for both males and females in the Muslim world"
+      ],
+      "platforms": [
+        "Popular in Pakistan, India, and Bangladesh"
+      ],
+      "modern_context": "The name Taliba remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Taliba",
+      "location": "Cairo, Egypt",
+      "story": "Zainab Taliba, a teacher in Cairo, Egypt, shares that their name Taliba meaning \"Student, Learner\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Student, Learner\" symbolizes One who seeks knowledge and wisdom, a student or scholar.. In Islamic spirituality, bearing the name Taliba serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of student, learner.",
+    "created_at": "2025-12-22T19:19:49.915Z",
+    "updated_at": "2025-12-22T04:53:15.317Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1114,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Taliba",
+      "description": "Student, Learner",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Taliba",
+          "description": "Discover the meaning of Taliba - \"Student, Learner\"",
+          "image": "/images/social/taliba-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Taliba - Name Meaning",
+          "description": "Learn about the beautiful name Taliba",
+          "image": "/images/social/taliba-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Taliba",
+          "description": "Name meaning: Student, Learner",
+          "image": "/images/social/taliba-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Taliba - Meaning: Student, Learner",
+        "email_subject": "Beautiful Name: Taliba"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Taliba with meaning Student, Learner",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

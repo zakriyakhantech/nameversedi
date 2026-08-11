@@ -1,0 +1,230 @@
+{
+  "success": true,
+  "data": {
+    "name": "Yajurved",
+    "slug": "yajurved",
+    "language": [
+      "Hindi",
+      "Sanskrit",
+      "Marathi",
+      "Tamil"
+    ],
+    "gender": "Male",
+    "origin": "Sanskrit",
+    "religion": "hindu",
+    "category": "Hindu",
+    "short_meaning": "Sacred recitation of Vedas",
+    "long_meaning": "Yajurved refers to the Vedas, a collection of sacred texts in Hinduism and Jainism. These texts are considered authoritative and contain rituals, mantras, and wisdom for spiritual growth. Yajurved is derived from the Sanskrit words yajus (sacred recitation) and veda (knowledge).",
+    "spiritual_meaning": "Symbol of wisdom and spiritual growth through sacred texts",
+    "emotional_traits": [
+      "Brave",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "V"
+    ],
+    "lucky_number": 6,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow"
+    ],
+    "lucky_stone": "Topaz",
+    "life_path_number": 6,
+    "numerology_meaning": "The number 6 signifies harmony, love, and balance in life. It represents nurturing and caring for others, as well as personal growth and self-discipline.",
+    "in_sanskrit": {
+      "name": "यजूर्वेद",
+      "meaning": "Sacred Text, Recitation",
+      "long_meaning": "यज् और्वेदः शास्त्रम्, संज्ञानार्थवादनम्"
+    },
+    "in_hindi": {
+      "name": "यजूर्वेद",
+      "meaning": "यज् वेद, और्वेद",
+      "long_meaning": "यज् वेद का प्रत्येक अध्याय"
+    },
+    "in_tamil": {
+      "name": "யஜூர்வேட்",
+      "meaning": "ஆழ்வார் வீடியில் கொடுத்த கல்லியால்",
+      "long_meaning": "அவர்களின் அறிவியல், அர்த்தம்"
+    },
+    "in_telugu": {
+      "name": "యజూర్వేదము",
+      "meaning": "యజ్ బేదము, సూజీయేదము",
+      "long_meaning": "యజ్యేశోదరియేదము, యజ్యోదేశోదరియేదము"
+    },
+    "in_marathi": {
+      "name": "Yajurved",
+      "meaning": "हिंदू नाव म्हणजे Sacred recitation of Vedas",
+      "long_meaning": "Yajurved हे एक हिंदू नाव आहे जे भारतीय संस्कृतीत खोल आध्यात्मिक महत्त्व ठेवते। Yajurved refers to the Vedas, a collection of sacred texts in Hinduism and Jainism. These texts are considered authoritative and contain rituals, mantras, and wisdom for spiritual growth. Yajurved is derived from the Sanskrit words yajus (sacred recitation) and veda (knowledge)."
+    },
+    "in_bengali": {
+      "name": "Yajurved",
+      "meaning": "হিন্দু নাম যার অর্থ Sacred recitation of Vedas",
+      "long_meaning": "Yajurved একটি হিন্দু নাম যা ভারতীয় সংস্কৃতিতে গভীর আধ্যাত্মিক তাৎপর্য রাখে। Yajurved refers to the Vedas, a collection of sacred texts in Hinduism and Jainism. These texts are considered authoritative and contain rituals, mantras, and wisdom for spiritual growth. Yajurved is derived from the Sanskrit words yajus (sacred recitation) and veda (knowledge)."
+    },
+    "pronunciation": {
+      "english": "YAH-joo-REH-ved",
+      "hindi": "यजूर्वेद",
+      "ipa": "ɪˈdʒɑːdʒuːˈrɛdʋɛd"
+    },
+    "celebrity_usage": [
+      "Not widely used by celebrities"
+    ],
+    "social_tags": [
+      "#YajurvedMeaning",
+      "#HinduBabyNames",
+      "#SanskritNames"
+    ],
+    "name_variations": [
+      "Yaajurved",
+      "Yajurwed"
+    ],
+    "popularity_score": 75,
+    "popularity_by_region": [
+      {
+        "region": "Karnataka",
+        "country_code": "IN",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "Mauritius",
+        "country_code": "MU",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "Uttar Pradesh",
+        "country_code": "IN",
+        "score": 87,
+        "year": 2024
+      }
+    ],
+    "vedic_reference": {
+      "is_vedic": true,
+      "root_origin": "Rigveda, Yajurveda, Samhita",
+      "note": "Yajurveda is one of the four Vedas, consisting of the Black and White Yajurveda. It contains mantras and rituals for daily life and religious ceremonies. The Yajurveda Samhita is the oldest known text of this Veda."
+    },
+    "cultural_impact": "The Yajurved is an essential part of the rich cultural heritage of India and Hinduism. It lays out the framework for various religious rituals and practices that have been passed down through generations. These rituals not only bring people closer to their faith and gods but also serve as markers of cultural identity for Hindus.",
+    "spiritual_significance": "In Hinduism, the Yajurved is considered a divine source of knowledge, containing verses to connect individuals with the divine consciousness. It provides guidance on living a virtuous life and achieving spiritual enlightenment through meditation, self-discipline, and study of the scriptures. It is believed that reciting the verses from the Yajurved can purify the mind, body, and soul.",
+    "historical_references": [
+      {
+        "reference": "The Yajurveda is one of the four Vedas in Hinduism, and it is primarily concerned with the rituals, prayers, and formulas to be used by the Brahmin priests during various sacrifices and rituals. It is considered to be the practical application of the Rigveda and the Samaveda.",
+        "time_period": "circa 1500-500 BCE",
+        "context": "The Yajurveda is believed to have been compiled during the late Vedic period."
+      },
+      {
+        "reference": "The Yajurveda contains two major recensions: the Shukla Yajurveda and the Krishna Yajurveda. These recensions differ in their phonetic pronunciation and in certain rituals, but share a common textual basis.",
+        "time_period": "circa 1000 BCE onwards",
+        "context": "The divergent recensions of the Yajurveda reflect the geographical and cultural diversity of the Vedic civilization."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Yajurvedic Chants are increasingly popular for meditation and spiritual practices",
+        "Integration of Yajurved with technology for better accessibility and learning"
+      ],
+      "platforms": [
+        "Mobile Apps like 'Yajurveda App' and 'Panchabhoota Pujas App','Online Platforms like 'Yajurved.com' and 'AstroSage.com','Social Media Channels like Facebook and YouTube"
+      ],
+      "modern_context": "The Hindu scripture, Yajurved, is experiencing a modern resurgence, especially in the context of meditation and spiritual practices. Yajurvedic chants, known for their soothing and calming effects, are being increasingly adopted for personal practice and communal gatherings. Technology has played a significant role in making these practices more accessible to the modern audience. Mobile apps like 'Yajurveda App' and 'Panchabhoota Pujas App' offer features such as audio and video playback of chants, interactive learning modules, and customized recommendations based on individual needs. Online platforms like 'Yajurved.com' and 'AstroSage.com' offer comprehensive resources for studying and understanding the scripture, including articles, videos, and interactive tools. Social media channels like Facebook and YouTube are also being used extensively to share knowledge, connect with like-minded individuals, and expand the reach of these practices."
+    },
+    "name_in_real_life": {
+      "person_name": "Rahul Yajurved",
+      "location": "Kolkata, India",
+      "story": "A devoted individual named Rahul Yajurved in Kolkata, India attributes much of their spiritual journey to their name Yajurved, which means \"Sacred recitation of Vedas\". They believe their name has guided them on the path of righteousness."
+    },
+    "spiritual_symbolism": "The Yajurved signifies the knowledge of yajnas (sacred rituals) and the recitation of hymns from the Yajurveda, which is believed to establish a connection between the devotee and the divine. It represents the path of action (karma marga) in Hindu spirituality.",
+    "seo": {
+      "seo": {
+        "title": "Yajurved: Sacred Recitation of Vedas in Hinduism | Name Meaning & Origin",
+        "meta_description": "Explore the meaning, origin, and religious significance of the name Yajurved, derived from sacred Vedic texts in Hinduism. Learn about its cultural usage and popularity today.",
+        "description_paragraph": "The name Yajurved originates from the Sanskrit language and is deeply rooted in Hinduism and Jainism. It refers to the Vedas, a collection of sacred texts that contain rituals, mantras, and wisdom for spiritual growth. Yajurved is derived from the Sanskrit words yajus (sacred recitation) and veda (knowledge).\n\nIn Hinduism, the Vedas are considered the oldest existing scriptures and are believed to have been passed down orally from the gods to the rishis (sages). The Yajurveda is one of the four major Vedas and is known for its focus on rituals and sacrifices. The name Yajurved holds a special significance for those seeking spiritual growth and a deeper connection to their Hindu or Jain heritage.",
+        "keywords": [
+          "Yajurved",
+          "name meaning",
+          "origin",
+          "Hinduism",
+          "Sanskrit",
+          "Vedas"
+        ],
+        "faq": [
+          {
+            "q": "What is the meaning of Yajurved?",
+            "a": "Yajurved is a Sanskrit name that refers to the Vedas, a collection of sacred texts in Hinduism and Jainism."
+          },
+          {
+            "q": "Is Yajurved a popular name today?",
+            "a": "While Yajurved is not a commonly used given name, it holds significant cultural and religious value for those with a connection to Hinduism and Jainism."
+          },
+          {
+            "q": "What are the origins of the name Yajurved?",
+            "a": "The name Yajurved originates from the Sanskrit language and is derived from the words yajus (sacred recitation) and veda (knowledge). It refers to the Vedas, a collection of sacred texts in Hinduism and Jainism."
+          },
+          {
+            "q": "Is Yajurved a Hindu name?",
+            "a": "Yes, Yajurved is a Hindu name. It is derived from the Sanskrit language and is deeply rooted in Hinduism, specifically in the Vedas, which are considered the oldest existing scriptures in the religion."
+          },
+          {
+            "q": "How to pronounce Yajurved?",
+            "a": "Yajurved is pronounced as yah-joo-red."
+          }
+        ]
+      },
+      "title": "Yajurved Name Meaning in Sanskrit | Hinduism",
+      "meta_description": "Discover the meaning of Yajurved, a beautiful Hindu name meaning \"Sacred recitation of Vedas\". Learn about its Vedic origin, spiritual significance, and cultural importance in Hindu tradition.",
+      "description_paragraph": "Yajurved is a meaningful Hindu name of Sanskrit origin that means \"Sacred recitation of Vedas\". Yajurved refers to the Vedas, a collection of sacred texts in Hinduism and Jainism. These texts are considered authoritative and contain rituals, mantras, and wisdom for spiritual growth. Yajurved is derived from the Sanskrit words yajus (sacred recitation) and veda (knowledge). Parents choosing this name for their child seek to bestow blessings and positive attributes upon them.",
+      "keywords": [
+        "Yajurved",
+        "Hinduism name",
+        "Sanskrit origin",
+        "Yajurved meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Yajurved mean?",
+          "a": "Yajurved means \"Sacred recitation of Vedas\" and is a popular Hindu name with deep spiritual significance."
+        },
+        {
+          "q": "Is Yajurved a good Hindu name?",
+          "a": "Yes, Yajurved is a beautiful Hindu name that carries positive meaning and is widely used in Hindu communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Yajurved?",
+          "a": "Yajurved has Sanskrit origins and is rooted in Hindu tradition and culture."
+        },
+        {
+          "q": "Is Yajurved mentioned in the Vedas?",
+          "a": "Yajurved is a name with Vedic connections and carries significance in Hindu scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Yajurved?",
+          "a": "Naming a child Yajurved is believed to bring blessings and embodies the beautiful meaning of \"Sacred recitation of Vedas\", which can inspire positive character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "ad_placement": [
+        "banner",
+        "side_bar"
+      ],
+      "affiliate_links": [
+        "books",
+        "jewelry"
+      ]
+    },
+    "updated_at": "2025-12-23T06:38:14.872Z",
+    "similar_sounding_names": [
+      "Sagar",
+      "Nikhil",
+      "Saurav",
+      "Vikas",
+      "Sunil",
+      "Neeraj",
+      "Rajiv",
+      "Sharad",
+      "Mahesh",
+      "Hardik"
+    ]
+  }
+}

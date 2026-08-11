@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Christian",
+    "slug": "christian",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "christian",
+    "meaning": "Follower of Christ"
+  }
+}

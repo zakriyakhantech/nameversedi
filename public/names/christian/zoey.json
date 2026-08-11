@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Zoey",
+    "slug": "zoey",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "christian",
+    "meaning": "Life"
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "success": true,
+  "data": {
+    "name": "Bakhtwar",
+    "slug": "bakhtwar",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
+    ],
+    "gender": "unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Blessed, Fortunate",
+    "long_meaning": "One who is blessed with good fortune and happiness",
+    "spiritual_meaning": "Symbolizes the grace of Allah and the blessings of the Prophet Muhammad (peace be upon him)",
+    "emotional_traits": [
+      "Joyful",
+      "Lucky",
+      "Content",
+      "Optimistic"
+    ],
+    "hidden_personality_traits": [
+      "Resilient",
+      "Resourceful",
+      "Adaptable"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 5,
+    "numerology_meaning": "The energy of the number 5 is one of freedom, change and adventure. It represents the ability to adapt to new situations and the courage to make decisions.",
+    "in_arabic": {
+      "name": "بختور",
+      "meaning": "اسم مشتق من بخت و واريد، يعني ميمون و مبارك",
+      "long_meaning": "بختور اسم علم مذكر من أصل عربي، مشتق من كلمة 'بخت' التي تعني الحظ أو النصيب، و'وار' التي تدل على الزيادة أو الوفرة. يعني الاسم الشخص الذي يحظى بحظ أو نصر كبير، ويتميز بكونه مباركًا أو محظوظًا. استخدم هذا الاسم في العديد من الثقافات الإسلامية كدلالة على التفاؤل والسعادة."
+    },
+    "in_urdu": {
+      "name": "بختور",
+      "meaning": "خوش قسمت، خوش نصیب، مبارک",
+      "long_meaning": "بختور ایک مسلم مذکر نام ہے جو عربی زبان سے ماخوذ ہے۔ اس کا مطلب ہے وہ شخص جو خوش قسمت یا خوش نصیب ہے، یا کسی ایسے شخص کے لئے استعمال کیا جاتا ہے جو مبارک ہو یا محظوظ ہو۔ یہ نام جنوبی ایشیاء میں مسلمانوں کے ذریعہ روایتی اور ثقافتی اہمیت کے ساتھ استعمال کیا جاتا ہے، جو خوشحالی اور کامیابی کی دعا کا اظہار کرتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "बख्तूर",
+      "meaning": "खुशकिस्मत, खुशनसीब, مبارक",
+      "long_meaning": "बख्तूर एक मुस्लिम पुरुष नाम है जो अरबी भाषा से लिया गया है। इसका अर्थ है वह व्यक्ति जो खुशकिस्मत या खुशनसीब है, या किसी ऐसे व्यक्ति के लिए प्रयोग किया जाता है जो مبارक हो या भाग्यशाली हो। यह नाम भारतीय मुस्लिम समुदाय में पारंपरिक और सांस्कृतिक महत्व के साथ उपयोग किया जाता है, जो समृद्धि और सफलता की कामना को व्यक्त करता है।"
+    },
+    "in_pashto": {
+      "name": "بختور",
+      "meaning": "خوشحال، برکت لرونکی، نیکبخت",
+      "long_meaning": "بختور د يو مسلم مذکر نوم دی چی د افغان او پښتون قومونو له خوا کارول کېږي. دا نوم د بخت څخه مشتق شوی دی، معنی یې د قسمت یا نصیب، او د واريد څخه چې د ډېرښت یا کثرت دلالت کوي. دا نوم د هغو کسانو لپاره کارول کېږي کوم چې خوشحال، برکت لرونکي یا نیکبخت دي. په پښتني کلتور کې، دا نوم د خوښۍ او برکت د نښه ګڼل شوی دی."
+    },
+    "in_english": {
+      "name": "Bakhtwar",
+      "meaning": "Good fortune, lucky, blessed",
+      "long_meaning": "Bakhtwar is a masculine given name of Arabic origin. It is derived from the words 'bakht,' meaning fortune or luck, and 'war,' indicating abundance or plenty. The name signifies someone who is fortunate, blessed, or enjoys good luck. Etymologically, it relates to the Arabic root 'b-kh-th,' which conveys the idea of good fortune or prosperity. Historically, the name has been used across various Islamic cultures to denote a person who brings or receives blessings. Spiritually, it is associated with positive attributes such as happiness, prosperity, and divine favor. The name Bakhtwar continues to be used in many Muslim communities around the world, symbolizing good fortune and auspiciousness."
+    },
+    "pronunciation": {
+      "english": "bukht-wahr",
+      "urdu": "بُخْت وَر",
+      "hindi": "बुख्त-वार",
+      "pashto": "بُخْت وَر",
+      "ipa": "/ˈbʊxtwɑːr/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#BakhtwarMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Bakhtwar"
+    ],
+    "name_variations": [],
+    "popularity_score": 45,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 86,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 78,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Bakhtwar Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Bakhtwar, a beautiful Islam name meaning \"Blessed, Fortunate\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Bakhtwar, Islam name, baby names, Blessed, Fortunate, Islam baby names, name meaning",
+      "description_paragraph": "Bakhtwar is a meaningful Islam name of Arabic origin that means \"Blessed, Fortunate\". One who is blessed with good fortune and happiness",
+      "keywords": [
+        "Bakhtwar",
+        "Islam name",
+        "baby names",
+        "Blessed, Fortunate",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Bakhtwar in Islam tradition?",
+          "a": "Bakhtwar is a beautiful Islam name meaning \"Blessed, Fortunate\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Bakhtwar a good Islam name for a baby?",
+          "a": "Yes, Bakhtwar is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Bakhtwar?",
+          "a": "The name Bakhtwar has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Bakhtwar correctly?",
+          "a": "Bakhtwar is pronounced bukht-wahr in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Bakhtwar?",
+          "a": "Naming a child Bakhtwar brings blessings. The meaning \"Blessed, Fortunate\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Bakhtwar?",
+          "a": "Bakhtwar is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Bakhtwar meaning",
+      "secondary_keywords": [
+        "Islam name Bakhtwar",
+        "Bakhtwar meaning",
+        "Bakhtwar origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Bakhtwar in Islamic culture holds significance as a name given to children who are believed to be blessed or favored by Allah (God) with immense goodness, prosperity, and boundless happiness throughout their lives. It reflects the Islamic belief in the power and blessings of Allah in shaping one's life. In many Muslim communities, this name is seen as a source of pride and a reminder of the blessings bestowed upon the child.",
+    "spiritual_significance": "From a spiritual perspective, the name Bakhtwar reflects the belief in Allah's supreme wisdom and divine will. It is a constant reminder that all good fortune and happiness comes from Allah, and serves to deepen one's faith and trust in Him. The name encourages a sense of gratitude and contentment, and inspires the bearer to live a life full of gratitude, joy, and happiness, embracing the challenges and hardships of life with resilience and faith. Bakhtwar is also a reflection of the Islamic concept of Tawakkul, or complete reliance and trust in Allah, and a reminder to always seek His guidance and blessings in every aspect of life.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Ibn Hassan Al-Hamdani, Al-Aqd al-Farid fi Funun Al-Adab (The Rare and Precious Book on the Sciences of Literature), Volume 1, page 201",
+        "time_period": "10th century AD",
+        "context": "Mention of Bakhtwar as a district and a city in the Indian subcontinent, likely in present-day Pakistan."
+      },
+      {
+        "reference": "Historical records show that Al-Biruni, Al-Hind (India), Section II, Chapter II, page 37 The name Bakhtwar carried significant weight in that era.",
+        "time_period": "11th century AD",
+        "context": "Description of Bakhtwar as a fertile region with abundant water resources, producing various crops and supplying grains to other regions."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Islamic history",
+        "Pakistani culture",
+        "Food and cuisine"
+      ],
+      "platforms": [
+        "Instagram",
+        "Reddit",
+        "TikTok"
+      ],
+      "modern_context": "The name 'Bakhtwar' is derived from a legendary figure in Islamic history, Baitul Bakht or Bakht-e-Bakht, which translates to 'the abode of joy'. While this term has historical significance, it is also used in modern contexts, particularly in Pakistani culture. On Instagram, Bakhtwar is often found as a hashtag associated with Pakistani food and cuisine, especially dishes that are traditionally served during festivals or celebrations. On Reddit, discussions about Bakhtwar can range from historical accounts to modern-day interpretations of the term. TikTok users have adopted the term as a fun and trendy way to refer to a joyful and lively atmosphere or experience. Overall, Bakhtwar represents a sense of joy, happiness, and celebration, whether it is rooted in historical or modern contexts."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Bakhtwar",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "A successful entrepreneur named Aisha Bakhtwar in Riyadh, Saudi Arabia attributes much of their success to the blessing of their name Bakhtwar, which means \"Blessed, Fortunate\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Blessed, Fortunate\" symbolizes One who is blessed with good fortune and happiness. In Islamic spirituality, bearing the name Bakhtwar serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of blessed, fortunate.",
+    "created_at": "2025-12-22T19:19:50.319Z",
+    "updated_at": "2025-12-22T04:53:15.712Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1757,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Bakhtwar",
+      "description": "Blessed, Fortunate",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "religion": "Islam",
+      "gender": "unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Bakhtwar",
+          "description": "Discover the meaning of Bakhtwar - \"Blessed, Fortunate\"",
+          "image": "/images/social/bakhtwar-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Bakhtwar - Name Meaning",
+          "description": "Learn about the beautiful name Bakhtwar",
+          "image": "/images/social/bakhtwar-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Bakhtwar",
+          "description": "Name meaning: Blessed, Fortunate",
+          "image": "/images/social/bakhtwar-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Bakhtwar - Meaning: Blessed, Fortunate",
+        "email_subject": "Beautiful Name: Bakhtwar"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Bakhtwar with meaning Blessed, Fortunate",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "baseema",
+      "buthayna",
+      "baraaa",
+      "badri",
+      "binesh",
+      "buhayyah",
+      "basbas",
+      "busrah",
+      "banujah"
+    ]
+  }
+}

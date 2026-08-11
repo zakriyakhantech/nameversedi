@@ -1,0 +1,307 @@
+{
+  "success": true,
+  "data": {
+    "name": "Zakaria",
+    "slug": "zakaria",
+    "language": [
+      "Arabic",
+      "English"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Giver of good news",
+    "long_meaning": "Boy of the giver of good news",
+    "spiritual_meaning": "Symbolizes the giving and receiving of blessings and good news",
+    "emotional_traits": [
+      "Generous",
+      "Compassionate",
+      "Blessed"
+    ],
+    "hidden_personality_traits": [
+      "Creative",
+      "Intuitive",
+      "Introspective"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Green"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 3,
+    "numerology_meaning": "Expressive, creative, and artistic",
+    "in_arabic": {
+      "name": "زكريا",
+      "meaning": "الذى يذكر الذكراء و هو اليكم رازقكم",
+      "long_meaning": "المرجع القرآني: 19:2-6، 21:83-85، 37:130-131، 38:47، 66:10، 19:58، 3:45  زكريا من اسماء الرسل في الإسلام، وهو والد يحيى بن زكريا، وهو اليكم رازقكم، و هو اليكم خير رازق، وهو الذى يذكر الذكراء، وهو الذى يرغب في التوبة"
+    },
+    "in_urdu": {
+      "name": "زکریا",
+      "meaning": "وہ کھانے پینے کا اہل بناتے ہیں، یہ تمہارے لیے رزق کے ذریعے ہیں",
+      "long_meaning": "قرآنی حوالہ: 19:2-6، 21:83-85، 37:130-131، 38:47، 66:10، 19:58، 3:45  زکریا اسلام میں رسولوں کے ناموں میں سے ہے، وہ زکریا کے بیٹے یحییٰ بن زکریا کے والد تھے، وہ تمہارے لیے رزق کے ذریعے ہیں، وہ تمہارے لیے بہترین رزق کے ذریعے ہیں، وہ ذكراء کو یاد دلانے والا ہے، وہ توبہ کرنے کا خواہش مند ہے"
+    },
+    "in_hindi": {
+      "name": "ज़करिया",
+      "meaning": "वे आपके लिए खाना पीना देने वाले हैं और आपके लिए अच्छा रज्जक हैं, वे धर्म को याद दिलाने वाले हैं और तौबा करने के इच्छुक हैं",
+      "long_meaning": "क़ुरआनिक रेफरेंस: 19:2-6, 21:83-85, 37:130-131, 38:47, 66:10, 19:58, 3:45 ज़करिया इस्लाम में रसूलों के नामों में से हैं, वह ज़करिया के पुत्र याह्या बिन ज़करिया के पिता थे, वे आपके लिए रज्जक हैं, वे आपके लिए अच्छा रज्जक हैं, वे धर्म को याद दिलाने वाले हैं, वे तौबा करने के इच्छुक हैं"
+    },
+    "in_pashto": {
+      "name": "زکریا",
+      "meaning": "هغه یو کښه کښلای چې ګذړه یاد کړي، هغه یو کښه چې خپل رازق وي او هغه یو کښه کښلای چې خپله خاطره وي",
+      "long_meaning": "قرآني حوالې: 19:2-6، 21:83-85، 37:130-131، 38:47، 66:10، 19:58، 3:45  زکریا د اسلام په اسلام کې د رسولانو نومونو په کڅوړه کې دی، هغه د زکریا زوی یحییٰ بن زکریا په پلار دی، هغه یو کښه کښلای چې خپل رازق وي، هغه یو کښه کښلای چې خپله خاطره وي، هغه یو کښه کښلای چې خپل رازق وي او هغه یو کښه کښلای چې خپل رازق وي، هغه یو کښه کښلای چې خپل رازق وي او هغه یو کښه کښلای چې خپل رازق وي"
+    },
+    "in_english": {
+      "name": "Zakaria",
+      "meaning": "The one who remembers the remembrance, he is your sustainer, he is the best sustainer, the one who reminds the remembrance, and the one who yearns for repentance",
+      "long_meaning": "Quranic reference: 19:2-6, 21:83-85, 37:130-131, 38:47, 66:10, 19:58, 3:45 Zakaria is one of the names of the prophets in Islam, he is the father of Yahya bin Zakaria, he is your sustainer, he is the best sustainer, the one who remembers the remembrance, and the one who yearns for repentance. The name Zakaria is derived from the Arabic root 'z-k-r' which means 'to remember' or 'to mention'. Zakaria is a name that carries a lot of significance in Islamic tradition and is associated with the qualities of being a good reminder and a sustainer."
+    },
+    "pronunciation": {
+      "english": "ZAK-uh-ree-uh",
+      "urdu": "زکریا کا تلفظ اردو میں",
+      "hindi": "ज़करिया का उच्चारण हिंदी में",
+      "pashto": "زکریا د تلفظ په پښتو کې",
+      "ipa": "/ˈzækəriə/"
+    },
+    "celebrity_usage": [
+      "Zakaria Abdelkafi",
+      "Zakaria Diouf"
+    ],
+    "social_tags": [
+      "#ZakariaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Zakaria"
+    ],
+    "name_variations": [],
+    "popularity_score": 63,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 89,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 76,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Zakaria Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Zakaria, a beautiful Islam name meaning \"Giver of good news\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Zakaria, Islam name, baby names, Giver of good news, Islam baby names, name meaning",
+      "description_paragraph": "Zakaria is a meaningful Islam name of Arabic origin that means \"Giver of good news\". Boy of the giver of good news",
+      "keywords": [
+        "Zakaria",
+        "Islam name",
+        "baby names",
+        "Giver of good news",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Zakaria in Islam tradition?",
+          "a": "Zakaria is a beautiful Islam name meaning \"Giver of good news\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Zakaria a good Islam name for a baby?",
+          "a": "Yes, Zakaria is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Zakaria?",
+          "a": "The name Zakaria has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Zakaria correctly?",
+          "a": "Zakaria is pronounced ZAK-uh-ree-uh in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Zakaria?",
+          "a": "Naming a child Zakaria brings blessings. The meaning \"Giver of good news\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Zakaria?",
+          "a": "Zakaria is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 95,
+      "focus_keyword": "Zakaria meaning",
+      "secondary_keywords": [
+        "Islam name Zakaria",
+        "Zakaria meaning",
+        "Zakaria origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The Islamic name Zakaria holds deep cultural significance in the Muslim world as it is the name of a highly revered prophet in Islamic tradition. Prophet Zakaria, also known as Zechariah in Christianity and Jewish traditions, is mentioned as a prophet and righteous servant of God in the Quran and the Hadiths. He is particularly known for his service to God and for the miraculous birth of his son, Prophet Yahya (John) ibn Zakaria, who was born to him through the intercession of God in a most remarkable way. The story of Zakaria and Yahya is among some of the most popular stories in Islamic tradition and is celebrated in various forms of Islamic art, literature, and storytelling.",
+    "spiritual_significance": "The spiritual significance of the Islamic name Zakaria lies in its connection to the prophet's unwavering faith and devotion to God. The name itself means 'giver of good news,' which symbolizes the message of spiritual enlightenment, guidance, and blessings thatProphet Zakaria brought to the people. The name also reminds us of the importance of serving and glorifying God in all aspects of our lives, just as Prophet Zakaria did during his time. In addition, the name is a reminder of the miraculous intervention of God in the lives of His servants, and the power of faith and prayer to bring about the impossible. Therefore, the name Zakaria is not only a beautiful and meaningful name but also a reminder of the blessings of God and the importance of staying steadfast on the path of righteousness.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Prophet Zakariya (as) The name Zakaria carried significant weight in that era.",
+        "time_period": "6th century BC",
+        "context": "According to Islamic tradition, Prophet Zakariya (peace be upon him) was a righteous prophet of Allah mentioned in the Quran. He was the father of Prophet Yahya (John the Baptist) and was responsible for the upbringing of Prophet Yusuf (Joseph) in Egypt."
+      },
+      {
+        "reference": "Historical records show that Zakariya ibn Muhammad The name Zakaria carried significant weight in that era.",
+        "time_period": "13th century AD",
+        "context": "Zakariya ibn Muhammad was a prominent Persian Sufi scholar and poet from the Rashidiyya order. He is best known for his works on Sufism and Islamic mysticism, including the book \"Asrar-i-Khudi\" (Secrets of the Self)."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Islamic name",
+        "Zakaria",
+        "Popularity",
+        "Middle Eastern origins",
+        "Religious significance"
+      ],
+      "platforms": [
+        "Social media",
+        "Music industry",
+        "Film and television"
+      ],
+      "modern_context": "The name Zakaria, which is of Middle Eastern origin and holds significant religious meaning in Islam, has seen a modern resurgence in various spheres of contemporary culture. Its popularity has been particularly noteworthy in the following platforms:\n\n1. Social media: The name Zakaria has been trending as a unique and beautiful Islamic name for newborn babies on various social media platforms such as Instagram, Facebook, and Twitter. Parents often share their joy and excitement about naming their child Zakaria, using hashtags like #ZakariaBaby and #NewBornZakaria.\n\n2. Music industry: The name Zakaria has been used in various musical compositions, particularly in Bollywood films and Middle Eastern music. Notable examples include the Pakistani singer Atif Aslam's song 'Pehla Nasha' and the Egyptian singer Amr Diab's song 'Ehla El Leila'.\n\n3. Film and television: The name Zakaria has been featured in several films and television shows, including the popular Turkish drama 'Diriliş: Ertuğrul' and the Indian web series 'The Family Man'. In these productions, characters named Zakaria often play significant roles and add depth to the storyline."
+    },
+    "name_in_real_life": {
+      "person_name": "Layla Zakaria",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "A successful entrepreneur named Layla Zakaria in Riyadh, Saudi Arabia attributes much of their success to the blessing of their name Zakaria, which means \"Giver of good news\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The name Zakaria in Arabic means \"pure\" or \"purifier\". In Islamic tradition, Zakaria is also the name of the father of Prophet Yahya (John the Baptist), who was known for his righteousness and devotion to God. Therefore, the name symbolizes spiritual purity and dedication to the divine will.",
+    "created_at": "2025-12-22T19:19:49.771Z",
+    "updated_at": "2025-12-22T04:53:14.017Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1783,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Zakaria",
+      "description": "Giver of good news",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "English"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Zakaria",
+          "description": "Discover the meaning of Zakaria - \"Giver of good news\"",
+          "image": "/images/social/zakaria-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Zakaria - Name Meaning",
+          "description": "Learn about the beautiful name Zakaria",
+          "image": "/images/social/zakaria-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Zakaria",
+          "description": "Name meaning: Giver of good news",
+          "image": "/images/social/zakaria-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Zakaria - Meaning: Giver of good news",
+        "email_subject": "Beautiful Name: Zakaria"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Zakaria with meaning Giver of good news",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

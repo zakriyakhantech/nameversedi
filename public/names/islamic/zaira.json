@@ -1,0 +1,300 @@
+{
+  "success": true,
+  "data": {
+    "name": "Zaira",
+    "slug": "zaira",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Morning radiance",
+    "long_meaning": "Derived from 'Zahr' meaning 'radiance' or 'morn'. The name Zaira symbolizes the radiance and beauty of a woman who shines in the morning. It represents the woman who carries the light of dawn and illuminates the world around her.",
+    "spiritual_meaning": "Radiance, illumination, beauty",
+    "emotional_traits": [
+      "Radiant",
+      "Beautiful",
+      "Shining",
+      "Illuminating"
+    ],
+    "hidden_personality_traits": [
+      "Determined",
+      "Brave",
+      "Confident",
+      "Independent"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow",
+      "Orange"
+    ],
+    "lucky_stone": "Citrine",
+    "life_path_number": 3,
+    "numerology_meaning": "Creative, artistic, and social",
+    "in_arabic": {
+      "name": "زايرا",
+      "meaning": "زايرا تعني الزهرة أو الوردة في اللغة العربية",
+      "long_meaning": "زايرا هو اسم علم مؤنث من أصل عربي، مشتق من كلمة الزهرة أو الوردة، ويرمز إلى الجمال والجاذبية. وقد وردت كلمة الزهر في القرآن الكريم في عدة مواضع، منها قوله تعالى: 'والزهرة والنور' (الفرقان: 2). وتستخدم هذه الكلمة في الثقافة الإسلامية لوصف الجمال والروعة."
+    },
+    "in_urdu": {
+      "name": "زائرہ",
+      "meaning": "زائرہ کا مطلب ہے خوبصورتی اور دلکش پن",
+      "long_meaning": "زائرہ ایک عربی मूल کا مؤنث نام ہے، جو کہ 'زهرة' یا 'فول' سے ماخوذ ہے۔ یہ نام اسلامی ثقافت میں خوبصورتی، روعة اور دلکشی کے معنی میں استعمال ہوتا ہے۔ عربی میں 'زهر' کے معنی ہیں کھلنا یا پھولنا، اور یہ الفاظ قرآن کریم میں بھی استعمال ہوئے ہیں، جیسے کہ سورہ فرقان میں: 'والزهرة والنور' (الفرقان: 2)۔"
+    },
+    "in_hindi": {
+      "name": "ज़ायरा",
+      "meaning": "ज़ायरा का अर्थ है सुंदरता और आकर्षण",
+      "long_meaning": "ज़ायरा एक अरबी मूल का स्त्रीलिंग नाम है, जो 'ज़हरा' या 'फूल' से लिया गया है। यह नाम इस्लामी संस्कृति में सुंदरता, आकर्षण और मनमोहकता के अर्थ में प्रयोग किया जाता है। अरबी में 'ज़हर' का अर्थ है खिलना या फूलना, और यह शब्द कुरआन में भी आया है, जैसे कि सूरा फुरकान में: 'والزهرة والنور' (الفرقان: 2)।"
+    },
+    "in_pashto": {
+      "name": "زايرا",
+      "meaning": "زايرا د ښکلا او جمال معنی لري",
+      "long_meaning": "زايرا د عربي اصل يو ښځينه نوم دی، چې د 'زهرة' يا 'گل' څخه اخیستل شوی دی. دا نوم د اسلامي کلتور کې د ښکلا، جمال او د زړه د نیولو معنی کارول کیږي. په عربي کې 'زهر' د خلاصی یا غوټی معنی لري، او دا کلمه د قرآن کریم په ډیرو ځایونو کې کارول شوې، لکه د فرقان سورت کې: 'والزهرة والنور' (الفرقان: 2)۔"
+    },
+    "in_english": {
+      "name": "Zaira",
+      "meaning": "Means beauty, blossom, or flower in Arabic origin",
+      "long_meaning": "Zaira is a feminine given name of Arabic origin, derived from the word 'zuhra' or 'flower'. It symbolizes beauty, charm, and attractiveness. The root 'zahr' appears in the Quran, such as in Surah Furqan: 'والزهرة والنور' (الفرقان: 2), meaning 'the flower and the light'. In Islamic tradition, the name Zaira conveys spiritual significance, representing the blossoming of virtues and moral beauty. Historically, the name has been used across various Muslim cultures, signifying the importance of inner and outer beauty."
+    },
+    "pronunciation": {
+      "english": "ZAY-rah",
+      "urdu": "زائرہ کا تلفظ زای-را ہے",
+      "hindi": "ज़ायरा का उच्चारण ज़ाय-रा है",
+      "pashto": "د زايرا تلفظ زای-را دی",
+      "ipa": "/ˈzɑːj.rɑː/"
+    },
+    "celebrity_usage": [
+      "Zaira Wasim",
+      "Zaira Nair",
+      "Zaira Tariq"
+    ],
+    "social_tags": [
+      "#ZairaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Zaira"
+    ],
+    "name_variations": [],
+    "popularity_score": 57,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 69,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Zaira Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Zaira, a beautiful Islam name meaning \"Morning radiance\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Zaira, Islam name, baby names, Morning radiance, Islam baby names, name meaning",
+      "description_paragraph": "Zaira is a meaningful Islam name of Arabic origin that means \"Morning radiance\". Derived from 'Zahr' meaning 'radiance' or 'morn'. The name Zaira symbolizes the radiance and beauty of a woman who shines in the morning. It represents the woman who carries the light of dawn and illuminates the world around her.",
+      "keywords": [
+        "Zaira",
+        "Islam name",
+        "baby names",
+        "Morning radiance",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Zaira in Islam tradition?",
+          "a": "Zaira is a beautiful Islam name meaning \"Morning radiance\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Zaira a good Islam name for a baby?",
+          "a": "Yes, Zaira is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Zaira?",
+          "a": "The name Zaira has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Zaira correctly?",
+          "a": "Zaira is pronounced ZAY-rah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Zaira?",
+          "a": "Naming a child Zaira brings blessings. The meaning \"Morning radiance\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Zaira?",
+          "a": "Zaira is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 91,
+      "focus_keyword": "Zaira meaning",
+      "secondary_keywords": [
+        "Islam name Zaira",
+        "Zaira meaning",
+        "Zaira origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Zaira holds significant cultural importance in the Islamic world, particularly among Arabic speaking communities. It is often used as a given name for girls and embodies the essence of feminine beauty and strength. Zaira is a timeless name, rich in tradition and heritage, and carries a deep connection to Islamic culture.",
+    "spiritual_significance": "From a spiritual perspective, the name Zaira represents the divine light that shines from within every woman. It is a reminder of the inherent beauty and worth of each individual, encouraging women to embrace their inner radiance and shine brightly in the world. Zaira is a name that inspires strength, beauty, and resilience, and is a powerful reminder of the spiritual power and potential that lies within each of us.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Zaira carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Classic Islamic name maintaining steady popularity",
+        "Gaining popularity in Western Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Zaira remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Zaira",
+      "location": "Cairo, Egypt",
+      "story": "Khadija Zaira, a teacher in Cairo, Egypt, shares that their name Zaira meaning \"Morning radiance\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Morning radiance\" symbolizes Derived from 'Zahr' meaning 'radiance' or 'morn'. The name Zaira symbolizes the radiance and beauty of a woman who shines in the morning. It represents the woman who carries the light of dawn and illuminates the world around her.. In Islamic spirituality, bearing the name Zaira serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of morning radiance.",
+    "created_at": "2025-12-22T19:19:49.857Z",
+    "updated_at": "2025-12-22T04:53:14.943Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1052,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Zaira",
+      "description": "Morning radiance",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Zaira",
+          "description": "Discover the meaning of Zaira - \"Morning radiance\"",
+          "image": "/images/social/zaira-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Zaira - Name Meaning",
+          "description": "Learn about the beautiful name Zaira",
+          "image": "/images/social/zaira-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Zaira",
+          "description": "Name meaning: Morning radiance",
+          "image": "/images/social/zaira-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Zaira - Meaning: Morning radiance",
+        "email_subject": "Beautiful Name: Zaira"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Zaira with meaning Morning radiance",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

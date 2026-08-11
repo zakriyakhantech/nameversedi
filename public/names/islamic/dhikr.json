@@ -1,0 +1,282 @@
+{
+  "success": true,
+  "data": {
+    "name": "Dhikr",
+    "slug": "dhikr",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Remembrance of God",
+    "long_meaning": "The repeated mention or remembrance of God",
+    "spiritual_meaning": "A constant reminder of God's presence in our lives",
+    "emotional_traits": [
+      "Serene",
+      "Reflective"
+    ],
+    "hidden_personality_traits": [
+      "Introspective",
+      "Contemplative"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Gold",
+      "White"
+    ],
+    "lucky_stone": "Moonstone",
+    "life_path_number": 6,
+    "numerology_meaning": "Service to others, nurturing, and healing",
+    "in_arabic": {
+      "name": "ذِكر",
+      "meaning": "ذِكر الذّي يَذكُر اللهَ وَيُذكَر لِلهِ",
+      "long_meaning": "ذِكر هو أَهمّ الأَعضاء في الجَسد البَشري، وَهو الذي يَستَعدُّ للصِحّة العُظمى وَيَستَعيدُ الحِكَم وَالأَخلاق الصالِحة، وَيَذكُر اللهَ في صَلاتِه وَنَواظرِه وَنَوافِلِه، وَيُذكَر لِلهِ في الأَوقات المُختَلِفة من حَياتِه، كَمَن يَستَعيدُ اللهَ في الصُبح وَالطُلوع وَالسُحور وَالأَيّام، وَكَمَن يَنذِرُ الناسَ بِذِكره وَيَدعوهم إلى اللهِ، وَكَمَن يَستَعدُّ لِلتَغليب وَالإِقتِدار وَالإِحسان وَالأَخلاق الحَسنة، وَكَمَن يُذكَر لِلهِ في الأَوقات المُختَلِفة من حَياتِه"
+    },
+    "in_urdu": {
+      "name": "ذِکر",
+      "meaning": "ذِکر وہ ہوتا ہے جو اللہ کو یاد کرتا ہے اور اللہ کی یاد میں ہوتا ہے",
+      "long_meaning": "ذِکر انسان کے جسم کا ایک اہم حصہ ہے، وہ انسان کو عظیم صحت اور اچھی اخلاقیات سے بہرہ ور کرتا ہے، اللہ کو یاد کرتا ہے، نمازوں اور نمازوں کے درمیان میں، اللہ کی یاد میں رہتا ہے، اللہ کو یاد رکھتا ہے، لوگوں کو اللہ کی طرف دعوت دیتا ہے، اللہ کی یاد میں رہتا ہے، اللہ کی طرف دعوت دیتا ہے، اللہ کی طرف دعوت دیتا ہے، اللہ کی یاد میں رہتا ہے، اللہ کی یاد میں رہتا ہے"
+    },
+    "in_hindi": {
+      "name": "धिक्र",
+      "meaning": "धिक्र वह होता है जो अल्लाह को याद करता है और अल्लाह की याद में होता है",
+      "long_meaning": "धिक्र मानव शरीर का एक महत्वपूर्ण अंग है, वह मानव को महान स्वास्थ्य और अच्छी आदतों से भला करता है, अल्लाह को याद करता है, नमाज़ के बीच में अल्लाह की याद करता है, अल्लाह की याद में रहता है, लोगों को अल्लाह की ओर पुकारता है, अल्लाह की याद में रहता है, अल्लाह की ओर पुकारता है, अल्लाह की याद में रहता है, अल्लाह की ओर पुकारता है, अल्लाह की याद में रहता है"
+    },
+    "in_pashto": {
+      "name": "ذِکر",
+      "meaning": "ذِکر هغه ګټور وظيفه ده چې الله ته یاد کوي او الله یې ته یاد کوي",
+      "long_meaning": "ذِکر انسان د جسم لوی جوړوکیږي، هغه انسان ته عظیم صحت او ښی اخلاقيات رامینځته کوي، الله ته یاد کوي، نماز له وخت الله ته یاد کوي، الله ته یاد کوي، الله ته یاد کوي، الله ته یاد کوي، الله ته یاد کوي، الله ته یاد کوي"
+    },
+    "in_english": {
+      "name": "Dhikr",
+      "meaning": "Dhikr is the remembrance of God and being remembered by God",
+      "long_meaning": "Dhikr is an essential part of the human body, and it plays a crucial role in maintaining good health and moral values. It is the act of remembering God and being remembered by God in various situations. Dhikr is not just about remembering God's name or attributes, but it's a way of life that involves constant remembrance and awareness of Allah's presence. It's a means of spiritual growth, self-purification, and closeness to Allah. Dhikr is highly valued in Islamic tradition and is considered a fundamental aspect of a Muslim's life."
+    },
+    "pronunciation": {
+      "english": "/dʒɪkr/",
+      "urdu": "ذِکر",
+      "hindi": "धिक्र",
+      "pashto": "ذِکر",
+      "ipa": "/ˈdʒɪkr/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#DhikrMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Dhikr"
+    ],
+    "name_variations": [],
+    "popularity_score": 56,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 82,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Dhikr Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Dhikr, a beautiful Islam name meaning \"Remembrance of God\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Dhikr, Islam name, baby names, Remembrance of God, Islam baby names, name meaning",
+      "description_paragraph": "Dhikr is a meaningful Islam name of Arabic origin that means \"Remembrance of God\". The repeated mention or remembrance of God",
+      "keywords": [
+        "Dhikr",
+        "Islam name",
+        "baby names",
+        "Remembrance of God",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Dhikr in Islam tradition?",
+          "a": "Dhikr is a beautiful Islam name meaning \"Remembrance of God\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Dhikr a good Islam name for a baby?",
+          "a": "Yes, Dhikr is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Dhikr?",
+          "a": "The name Dhikr has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Dhikr correctly?",
+          "a": "Dhikr is pronounced /dʒɪkr/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Dhikr?",
+          "a": "Naming a child Dhikr brings blessings. The meaning \"Remembrance of God\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Dhikr?",
+          "a": "Dhikr is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 97,
+      "focus_keyword": "Dhikr meaning",
+      "secondary_keywords": [
+        "Islam name Dhikr",
+        "Dhikr meaning",
+        "Dhikr origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "- Dhikr is a common practice in Islamic culture, particularly during solitary contemplation or collective gatherings known as Sama'a or Dhikr circles.",
+    "spiritual_significance": "- Dhikr serves as a constant reminder of the presence and mercy of Allah, helping to purify the soul and strengthen one's faith.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Dhikr carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Gaining popularity in Western Muslim communities",
+        "Trending in Muslim baby name searches"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Dhikr remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Dhikr",
+      "location": "Karachi, Pakistan",
+      "story": "A successful entrepreneur named Khadija Dhikr in Karachi, Pakistan attributes much of their success to the blessing of their name Dhikr, which means \"Remembrance of God\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Remembrance of God\" symbolizes The repeated mention or remembrance of God. In Islamic spirituality, bearing the name Dhikr serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of remembrance of god.",
+    "created_at": "2025-12-22T19:19:49.85Z",
+    "updated_at": "2025-12-22T04:53:14.774Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1167,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Dhikr",
+      "description": "Remembrance of God",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Dhikr",
+          "description": "Discover the meaning of Dhikr - \"Remembrance of God\"",
+          "image": "/images/social/dhikr-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Dhikr - Name Meaning",
+          "description": "Learn about the beautiful name Dhikr",
+          "image": "/images/social/dhikr-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Dhikr",
+          "description": "Name meaning: Remembrance of God",
+          "image": "/images/social/dhikr-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Dhikr - Meaning: Remembrance of God",
+        "email_subject": "Beautiful Name: Dhikr"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Dhikr with meaning Remembrance of God",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "dean",
+      "diya",
+      "dhuka",
+      "dafiyah",
+      "dimah",
+      "dina",
+      "daniel"
+    ]
+  }
+}

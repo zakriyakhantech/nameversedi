@@ -1,0 +1,231 @@
+{
+  "success": true,
+  "data": {
+    "name": "Cart",
+    "slug": "cart",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
+    ],
+    "gender": "(Male or Female or Unisex)",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "short_meaning": "Chariot, Cart",
+    "long_meaning": "From the Latin word 'carta', meaning 'chariot' or 'cart'. A cart is a wheeled vehicle used to transport goods and people. In Christian symbolism, a cart or chariot represents the journey of life, with God as the driver.",
+    "spiritual_meaning": "A symbol of the journey of life, with God as the driver.",
+    "emotional_traits": [
+      "Kind",
+      "Faithful",
+      "Loyal"
+    ],
+    "hidden_personality_traits": [
+      "C = Courageous",
+      "H = Humble"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Red",
+      "Orange"
+    ],
+    "lucky_stone": "Carnelian",
+    "life_path_number": 6,
+    "numerology_meaning": "A number of harmony, love, and service.",
+    "in_hebrew": {
+      "name": "×§×¨×ª",
+      "meaning": "×§×¨×ª ×”×•×‘×•×“ ×œ×™×•×•×” ×”×•×•×•×¨",
+      "long_meaning": "×§×¨×ª ×”×•×‘×•×“ ×œ×™×•×•×” ×”×•×•×•×¨ ×”×•×•×•×• ×—×•×•×‘×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×• ×—×•×•×•×•"
+    },
+    "in_greek": {
+      "name": "Κάρτ",
+      "meaning": "Κάρτ ονομάζεται ατομικό όνομα που προέρχεται από το αγγλικό",
+      "long_meaning": "Κάρτ είναι ένα ατομικό όνομα που προέρχεται από το αγγλικό, με possibile σχέση με την αγγλική λέξη cart που σημαίνει άμαξα ή καρότσι. Το όνομα μπορεί να σχετίζεται με την ιδέα της μεταφοράς ή του μετακίνησης. Έχει επίσης συσχετιστεί με την ιδέα του ελέγχου ή της κυριαρχίας."
+    },
+    "in_latin": {
+      "name": "Cart",
+      "meaning": "Cart nomen proprium, originem habet ex lingua Anglica",
+      "long_meaning": "Cart est nomen proprium quod originem habet ex lingua Anglica. Possibile est ut sit cognatum cum verbo cart quod significat carrus vel carriola. Nomen hoc potest referri ad notionem transportationis vel motus. Item, habet connexionem cum notionem dominionis aut potentiae."
+    },
+    "in_english": {
+      "name": "Cart",
+      "meaning": "name of English origin, possibly related to the word for cart or carriage",
+      "long_meaning": "the name Cart is of English origin, possibly related to the word for cart or carriage, and is associated with the idea of transportation or movement. It has also been linked to the idea of control or dominion, suggesting a strong and authoritative individual. In Christian tradition, the name Cart may symbolize the journey of faith or the transportation of spiritual knowledge."
+    },
+    "pronunciation": {
+      "english": "KART",
+      "biblical": "no specific pronunciation in biblical Hebrew or Greek context",
+      "ipa": "/kɑːt/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#CartMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames"
+    ],
+    "name_variations": [],
+    "popularity_score": 55,
+    "popularity_by_region": [
+      {
+        "region": "Italy",
+        "country_code": "IT",
+        "score": 41,
+        "year": 2024
+      },
+      {
+        "region": "Poland",
+        "country_code": "PL",
+        "score": 57,
+        "year": 2024
+      },
+      {
+        "region": "Brazil",
+        "country_code": "BR",
+        "score": 59,
+        "year": 2024
+      }
+    ],
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "saint_reference": {
+      "is_saint_name": false,
+      "saint_name": "",
+      "note": ""
+    },
+    "cultural_impact": "Historically, the name \"Cart\" may evoke images of horse-drawn carriages or industrial tractors, and could have associations with the logistics or transportation industries. In a more figurative sense, the name might conjure feelings of travel or adventure.",
+    "spiritual_significance": "In Christianity, the name \"Cart\" might be seen as a reminder of the spiritual journey that each person embarks upon in life, with God at the helm. It can suggest trust in God's guidance as we navigate through the ups and downs of life, just as a charioteer steers a vehicle towards its destination. Additionally, some may see the name as a call to bring the \"goods\" of God's love and teachings to others. Ultimately, the name \"Cart\" can serve as a powerful reminder that our lives are a journey, and that with faith and trust in God, we can travel gracefully and purposefully from one moment to the next.",
+    "historical_references": [
+      {
+        "reference": "The name Cart has been used throughout Christian history by saints, scholars, and faithful believers who exemplified its meaning.",
+        "time_period": "Throughout Christian History",
+        "context": "Traditional usage in Christian communities"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Used as a nickname for people named Carter",
+        "Used as a name for businesses"
+      ],
+      "platforms": [
+        "Social media",
+        "Business directories"
+      ],
+      "modern_context": "The name Cart remains relevant in modern Christian society, representing a bridge between traditional Biblical values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Christian names."
+    },
+    "name_in_real_life": {
+      "person_name": "Hannah Cart",
+      "location": "Rome, Italy",
+      "story": "Hannah Cart, a minister in Rome, Italy, shares that their name Cart meaning \"Chariot, Cart\" has been a constant source of inspiration, guiding them to serve others and live according to Christian values."
+    },
+    "spiritual_symbolism": "The meaning \"Chariot, Cart\" symbolizes From the Latin word 'carta', meaning 'chariot' or 'cart'. A cart is a wheeled vehicle used to transport goods and people. In Christian symbolism, a cart or chariot represents the journey of life, with God as the driver.. In Christian spirituality, bearing the name Cart serves as a constant reminder of one's spiritual calling and connection to Christian values of chariot, cart.",
+    "seo": {
+      "seo": {
+        "title": "Cart - A Christian Name of Unknown Origin and Meaning",
+        "meta_description": "Explore the history and significance of the Christian name Cart. Uncover its possible origins, meanings, and cultural usage.",
+        "description_paragraph": "Cart is a Christian name of unknown origin and meaning. Although its history is not well documented, some believe it may have ties to the early Christian church. In modern times, Cart has seen a resurgence in popularity due to its unique sound and spiritual appeal. Whether you're considering this name for your child or simply curious about its history, this guide will provide you with valuable insights.",
+        "keywords": [
+          "Cart",
+          "Christian name",
+          "Origin unknown",
+          "Meaning",
+          "Spiritual appeal",
+          "Early Christian church"
+        ],
+        "faq": [
+          {
+            "q": "What does Cart mean?",
+            "a": "The meaning of Cart is unknown, but it is believed to be of Christian origin."
+          },
+          {
+            "q": "Is Cart a Christianity name?",
+            "a": "Yes, Cart is a Christian name."
+          },
+          {
+            "q": "How to pronounce Cart?",
+            "a": "Pronounced as /kɑːrt/."
+          },
+          {
+            "q": "Is Cart popular today?",
+            "a": "The popularity of Cart varies, but it has seen a resurgence in recent years."
+          },
+          {
+            "q": "What is the origin of Cart?",
+            "a": "The origin of Cart is unknown, but it is believed to be of Christian origin."
+          }
+        ]
+      },
+      "title": "Cart Name Meaning in (e.g., Greek, Hebrew, Latin) | Christianity",
+      "meta_description": "Discover the meaning of Cart, a beautiful Christian name meaning \"Chariot, Cart\". Learn about its Biblical origin, spiritual significance, and cultural importance in Christian tradition.",
+      "description_paragraph": "Cart is a meaningful Christian name of (e.g., Greek, Hebrew, Latin) origin that means \"Chariot, Cart\". From the Latin word 'carta', meaning 'chariot' or 'cart'. A cart is a wheeled vehicle used to transport goods and people. In Christian symbolism, a cart or chariot represents the journey of life, with God as the driver. Parents choosing this name for their child seek to bestow blessings and godly attributes upon them.",
+      "keywords": [
+        "Cart",
+        "Christianity name",
+        "(e.g., Greek, Hebrew, Latin) origin",
+        "Cart meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Cart mean?",
+          "a": "Cart means \"Chariot, Cart\" and is a popular Christian name with deep spiritual significance."
+        },
+        {
+          "q": "Is Cart a good Christian name?",
+          "a": "Yes, Cart is a beautiful Christian name that carries positive meaning and is widely used in Christian communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Cart?",
+          "a": "Cart has (e.g., Greek, Hebrew, Latin) origins and is rooted in Christian tradition and culture."
+        },
+        {
+          "q": "Is Cart mentioned in the Bible?",
+          "a": "Cart is a name with Biblical connections and carries significance in Christian scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Cart?",
+          "a": "Naming a child Cart is believed to bring blessings and embodies the beautiful meaning of \"Chariot, Cart\", which can inspire godly character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "ad_places": [
+        {
+          "location": "header",
+          "type": "banner"
+        },
+        {
+          "location": "sidebar",
+          "type": "text_link"
+        },
+        {
+          "location": "content",
+          "type": "native_ad"
+        }
+      ],
+      "affiliate_links": [
+        {
+          "product": "https://example.com/cart-merchandise",
+          "commission": 0.1
+        }
+      ]
+    },
+    "updated_at": "2025-12-23T04:50:21.877Z",
+    "similar_sounding_names": [
+      "abeliel",
+      "Abijah",
+      "Adalyn",
+      "Adelaide",
+      "Adele",
+      "Adonella",
+      "Agnes",
+      "Agnieszka",
+      "Aimee",
+      "Alarice"
+    ]
+  }
+}

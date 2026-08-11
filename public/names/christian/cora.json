@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Cora",
+    "slug": "cora",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "christian",
+    "meaning": "Maiden"
+  }
+}

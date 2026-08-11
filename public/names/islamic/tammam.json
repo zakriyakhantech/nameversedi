@@ -1,0 +1,287 @@
+{
+  "success": true,
+  "data": {
+    "name": "Tammam",
+    "slug": "tammam",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Perfection, Completion",
+    "long_meaning": "The one who completes or perfects a task.",
+    "spiritual_meaning": "Symbolizes the attainment of spiritual enlightenment and the completion of one's journey towards self-realization.",
+    "emotional_traits": [
+      "Creative",
+      "Meticulous",
+      "Perfectionist"
+    ],
+    "hidden_personality_traits": [
+      "Determined",
+      "Diligent",
+      "Precise"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Silver",
+      "White"
+    ],
+    "lucky_stone": "Moonstone",
+    "life_path_number": 11,
+    "numerology_meaning": "Intuition, Illumination, Vision, and the Manifestation of the Divine.",
+    "in_arabic": {
+      "name": "تمام",
+      "meaning": "الأكمل، المكتمل، الشامل، الكامل، القريب",
+      "long_meaning": "تمام: هو اسم علم يأتي من الجذر (تمام) والذي يعني الكمال، الشمول، الكفاية، أو القرب. في اللغة العربية، يُستخدم هذا الاسم لوصف الشخص الذي يمتلك كل الصفات المثالية، والذى يمتاز بقدرته على إكمال كل مهمة، وتقديم كل ما هو أفضل. كما يُستخدم لوصف الأشياء التي تتميز باحتوائها على كل ما يحتاج إليه، أو التي تتميز بقدرتها على تقديم خدمات كافية. في الإسلام، يُعتبر هذا الاسم من أسماء النبيين، حيث يُقال أنه اسم النبي يوسف، الذي كان يسمى في قريته بتامم، بسبب كماله وشموله. في الثقافة العربية، يُعتبر اسم تمام من أسماء الشرف، ويُستخدم لوصف الأشخاص الذين يمتلكون صفات الكمال، مثل الصدق، الحنون، والصابرة. يُعتبر اسم تمام من أشهر الأسماء في اللغة العربية، وهو اسم يُستخدم بشكل واسع في جميع أنحاء العالم الإسلامي."
+    },
+    "in_urdu": {
+      "name": "تمام",
+      "meaning": "اکمل، مکمل، شامل، کامل، قریب",
+      "long_meaning": "تمام: یعطا یہ نام جذر (تمام) سے لیا گیا ہے، جس کا مطلب ہے کامل، جامع، کافی، یا قریب. اردو میں یہ نام ایسے شخص کے لیے استعمال ہوتا ہے، جو تمام خوبیوں کا مالک ہو، اور تمام کاموں میں کامیاب ہو. نیز یہ نام اسی طرح استعمال ہوتا ہے جیسے وہ شخص ہو جو اپنے کاموں میں مکمل ہو، اور تمام لوگوں کے لیے مفید ہو. اسلام میں، یہ نام نبیوں کے ناموں میں سے ایک ہے. بعض روایات میں یہ نام نبی یوسف کے لیے استعمال ہوتا ہے، جو اپنی قوم میں تمام کے نام سے مشہور تھے. اس لیے کہ وہ مکمل، جامع، اور کافی تھے. اردو میں یہ نام ایک شرف کا نام ہے، اور ایسے لوگوں کے لیے استعمال ہوتا ہے جو تمام خوبیوں کا مالک ہوں."
+    },
+    "in_hindi": {
+      "name": "तमम",
+      "meaning": "अकमल, मकमल, शमिल, कमल, करीब",
+      "long_meaning": "तमम: यह नाम अरबी जड़ (तमम) से लिया गया है, जिसका अर्थ है कामल, शामिल, काफी, या करीब. हिंदी में यह नाम उन लोगों के लिए उपयोग किया जाता है जो सभी अच्छाईयों का मालिक हों, और सभी कामों में सफल हों. इसे उन लोगों के लिए भी उपयोग किया जाता है जो अपने कामों में पूर्ण हों, और सभी के लिए उपयोगी हों. इस्लाम में भी, यह नाम नबियों के नामों में से एक है. कुछ वार्ताओं में यह नाम नबी यूसुफ के लिए उपयोग किया जाता है, जो अपनी जनसंख्या में तमम के नाम से प्रसिद्ध थे क्योंकि वे पूर्ण, शामिल, और काफी थे. हिंदी में यह नाम श्रेष्ठता का नाम है, और उन लोगों के लिए उपयोग किया जाता है जो सभी अच्छाईयों का मालिक हों."
+    },
+    "in_pashto": {
+      "name": "تمام",
+      "meaning": "اکمل، مکمل، شامل، کامل، قریب",
+      "long_meaning": "تمام: د تمام نام د عربي جړي (تمام) څخه اخیستل شوی دی چې پورې سره، مکمل، شامل، کافي، يا نږدې ته ورځي. پښتو کې دا نام د هغه شخص لپاره کارول کېږي چې هر څه پورې سره ولري، او هر څه کوي. همدارنګه دا نام د هغه لپاره کارول کېږي چې د هغه کار په کافي توګه پورې سره کوي، او هر څوک لپاره کاروي. اسلام کې دا نام نبيو لپاره کارول کېږي. دا نام د نبي يوسف لپاره کارول کېږي چې د هغه قوم په کې د تمام په نوم پېژندل کېده. ددې امله چې هغه پورې سره، مکمل، شامل، او کافي و. پښتونو کې دا نام شرف کا نام دی، او هغه لپاره کارول کېږي چې پورې سره، مکمل، شامل، او کافي وي."
+    },
+    "in_english": {
+      "name": "Tammam",
+      "meaning": "complete, perfect, comprehensive, complete, near",
+      "long_meaning": "Tammam: This name is derived from the Arabic root (t-m-m), which means complete, perfect, comprehensive, complete, or near. In the Islamic tradition, this name is associated with the qualities of completeness, perfection, and comprehensiveness. It is also associated with the idea of being near to Allah, and having a deep understanding of the divine. In Arabic, this name is used to describe someone who is complete in their character, and has a deep understanding of the world. In Islamic theology, this name is associated with the concept of tawhid, or the oneness of God. This name is also associated with the idea of being a complete and perfect human being, who has achieved a state of spiritual completion. In modern times, this name is used in many Muslim cultures, and is associated with qualities of wisdom, compassion, and justice."
+    },
+    "pronunciation": {
+      "english": "TAM-am",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/tɑmɑm/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#TammamMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Tammam"
+    ],
+    "name_variations": [],
+    "popularity_score": 49,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 72,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Tammam Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Tammam, a beautiful Islam name meaning \"Perfection, Completion\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Tammam, Islam name, baby names, Perfection, Completion, Islam baby names, name meaning",
+      "description_paragraph": "Tammam is a meaningful Islam name of Arabic origin that means \"Perfection, Completion\". The one who completes or perfects a task.",
+      "keywords": [
+        "Tammam",
+        "Islam name",
+        "baby names",
+        "Perfection, Completion",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Tammam in Islam tradition?",
+          "a": "Tammam is a beautiful Islam name meaning \"Perfection, Completion\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Tammam a good Islam name for a baby?",
+          "a": "Yes, Tammam is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Tammam?",
+          "a": "The name Tammam has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Tammam correctly?",
+          "a": "Tammam is pronounced TAM-am in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Tammam?",
+          "a": "Naming a child Tammam brings blessings. The meaning \"Perfection, Completion\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Tammam?",
+          "a": "Tammam is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 98,
+      "focus_keyword": "Tammam meaning",
+      "secondary_keywords": [
+        "Islam name Tammam",
+        "Tammam meaning",
+        "Tammam origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Tammam holds a significant cultural impact as it represents the idea of perfection, completeness, and accomplishment in the Islamic context. Muslims strive to embody this quality in their daily lives, not only in their professional endeavors but also in their personal relationships, character traits, and spiritual journeys.",
+    "spiritual_significance": "The name Tammam possesses profound spiritual significance as it symbolizes the concept of 'Tawheed' or the belief in the Unity of God. As Muslims believe that everything in the universe is a manifestation of God's will and that all things are created with perfection and completeness, the name Tammam serves as a reminder of God's omnipotence and omniscience. It encourages individuals to seek divine guidance and strive towards excellence in their spiritual pursuits. By embodying the name Tammam, Muslims aspire to perfect their faith, their character, and ultimately their relationship with Allah SWT.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Tammam carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Classic Islamic name maintaining steady popularity",
+        "Classic Islamic name maintaining steady popularity"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Tammam remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Tammam",
+      "location": "Cairo, Egypt",
+      "story": "Khadija Tammam from Cairo, Egypt embodies the meaning of Tammam - \"Perfection, Completion\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Perfection, Completion\" symbolizes The one who completes or perfects a task.. In Islamic spirituality, bearing the name Tammam serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of perfection, completion.",
+    "created_at": "2025-12-22T19:19:49.926Z",
+    "updated_at": "2025-12-22T04:53:15.466Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1016,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Tammam",
+      "description": "Perfection, Completion",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Tammam",
+          "description": "Discover the meaning of Tammam - \"Perfection, Completion\"",
+          "image": "/images/social/tammam-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Tammam - Name Meaning",
+          "description": "Learn about the beautiful name Tammam",
+          "image": "/images/social/tammam-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Tammam",
+          "description": "Name meaning: Perfection, Completion",
+          "image": "/images/social/tammam-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Tammam - Meaning: Perfection, Completion",
+        "email_subject": "Beautiful Name: Tammam"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Tammam with meaning Perfection, Completion",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

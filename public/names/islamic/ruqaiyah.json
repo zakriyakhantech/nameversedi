@@ -1,0 +1,286 @@
+{
+  "success": true,
+  "data": {
+    "name": "Ruqaiyah",
+    "slug": "ruqaiyah",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Little One, Small One",
+    "long_meaning": "The one who is little or small, or the tender, gentle one",
+    "spiritual_meaning": "One who is close to Allah, or the one who seeks refuge in Allah",
+    "emotional_traits": [
+      "Compassionate",
+      "Gentle",
+      "Tender"
+    ],
+    "hidden_personality_traits": [
+      "Strength",
+      "Determination"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Silver",
+      "Pink"
+    ],
+    "lucky_stone": "Moonstone",
+    "life_path_number": 11,
+    "numerology_meaning": "Manifestation, Illumination, Visionary, Intuitive, Sensitive, Inspiring, and Healing",
+    "in_arabic": {
+      "name": "رقية",
+      "meaning": "اسم يعني الصدقة والأخلاق الحسنة",
+      "long_meaning": "رقية اسم علم عربي يعبر عن الصدقة والخير، والخير في الأسماء الإسلامية هو الفعل الحسن والصالح الذي يعمر وينعم به الإنسان، ويعد رقية من الأسماء النبوية المطهرة، ويذكرها القرآن فی سورة الأحزاب فی قصة النبي محمد ﷺ وامه آمنة، وتعتبر رقية من أهم الأسماء التي تدل على النبوة، وهي أيضا اسم للنبية رقية بنت عمرو بن حزم، والمراد به من الصدقة هو الخير والجود، وبالتالي فإن اسم رقية يرمز لمحبة الخير والصدق، ويعد من أكثر الأسماء إنجازا للفرد، ويُعتبر رقية من الأسماء القديمة التي تُستخدم حتى اليوم، ويُستخدم اسم رقية للإشارة إلى الأفراد الذين لديهم صفات الحسن والخير."
+    },
+    "in_urdu": {
+      "name": "رقیه",
+      "meaning": "اسم جوهرہ خیری اور اخلاق حسنہ",
+      "long_meaning": "رقیه ایک عربی نام ہے جو خیر اور خوبی کی طرف اشارہ کرتا ہے، خیر اور خوبی ایک اچھے کام کا نام ہے جو انسان کے کردار کے اندر پیدا ہوتا ہے، رقیه کا نام نبی کریم ﷺ اور ان کی والدہ ام سلمہ کے ساتھ جڑا ہوا ہے، رقیه ایک نام ہے جو نبوۃ کے لئے مخصوص ہے، یہ نام بھی ایک نبیہ کا نام ہے رقیه بنت عمرو بن حزم، اور ایک اچھی بات کے لئے کہا جاتا ہے، پس رقیه کا نام انسان کے ساتھ محبت اور سچائیاں دلاتا ہے، یہ نام ایک اچھے کردار کا نام ہے جو کسی بھی فرد کو بہتر بناتا ہے، یہ نام قدیم ہے اور آج تک استعمال ہوتا رہا ہے، رقیه کا نام ایک فرد کو ایک اچھا نام دیا جاتا ہے جو خیر اور خوبی کا حامل ہو۔"
+    },
+    "in_hindi": {
+      "name": "रुक़ैया",
+      "meaning": "नाम जो सद्गुणों और अच्छे व्यवहार को दर्शाता है",
+      "long_meaning": "रुक़ैया एक अरबी नाम है जो सद्गुणों और अच्छे व्यवहार को दर्शाता है, अच्छे व्यवहार का अर्थ है जो सही और उचित चीज़ करना और अच्छे लोगों के प्रति दयालु और सहानुभूतिपूर्ण व्यवहार करना, रुक़ैया नाम नबी करीम ﷺ और उनकी माँ अम्मा सलमा के साथ जुड़ा हुआ है, रुक़ैया नाम नबवत के लिए समर्पित है, यह नाम भी एक नबी का नाम है रुक़ैया बिन्त अमरो बिन हज्म, और अच्छी बात के लिए कहा जाता है, इसलिए रुक़ैया नाम इंसान के साथ प्यार और सच्चाई दिलाता है, यह नाम एक अच्छे व्यक्तित्व का नाम है जो किसी भी व्यक्ति को अच्छा बनाता है, यह नाम प्राचीन है और आज भी इस्तेमाल किया जाता है, रुक़ैया नाम एक व्यक्ति को एक अच्छा नाम दिया जाता है जो सद्गुणों और अच्छे व्यवहार का मालिक हो।"
+    },
+    "in_pashto": {
+      "name": "رقيے",
+      "meaning": "نام چې خیر او دویږنګ ښه وړتی",
+      "long_meaning": "رقيې یو عربي نوم ښه خیر او دویږنګ ښه وړتی، د خیر او دویږنګ چې ښه کار وړتی، چې د انسان شخصيت ته ډيره پاملرنه کوي، رقيې نوم د نبي کريم ﷺ او د هغه د مور ام سلمې سره تړاو لري، د رقيې نوم د نبوې لپاره خاص ځای لري، هغه په عيسایي د رقيې په نوم یو نبيې ته هم رسيږي چې د حزم په نوم يې په نوم ويل کېږي، د خير څه ته د رقيې نوم ويل کېږي، په دې توګه د رقيې نوم انسان ته پاملرنه او سچوالی ورکوي، دا نوم ښه شخصيت لري چې انسان ته ډيره پاملرنه کوي، دا نوم يوه پرانې نوم دی چې هيڅ کله هم پر ځان ستندي، رقيې نوم يو ښه شخصيت ته ورکول کېږي چې خير او دویږنګ له مخې ښه کار وړتی."
+    },
+    "in_english": {
+      "name": "Ruqaiyah",
+      "meaning": "a name that symbolizes kindness, good behavior and virtues",
+      "long_meaning": "Ruqaiyah is an Arabic name that symbolizes kindness, good behavior, and virtues, kindness and good behavior are good deeds that bring benefit to individuals, Ruqaiyah name is associated with the Prophet Muhammad ﷺ and his mother Ammah, Ruqaiyah is a name that has been associated with the nubia, it is also the name of a prophetess Ruqaiyah bint Amr, the meaning of the name is to be kind and virtuous, therefore, the name Ruqaiyah inspires people to be kind and virtuous, the name Ruqaiyah is also associated with good behavior and virtues, it is a name that brings good fortune and prosperity, it is a name that is considered auspicious and blessed, the name Ruqaiyah is often associated with people who are kind and compassionate, it is a name that is considered to be a good omen, the name Ruqaiyah is often given to children who are born with a kind and gentle nature, it is a name that is considered to be a blessing, the name Ruqaiyah is often associated with people who are pious and righteous, it is a name that is considered to be a sign of good fortune and prosperity."
+    },
+    "pronunciation": {
+      "english": "/ruːˈkɑɪ.ə/",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ˈɾu.kaˈja/"
+    },
+    "celebrity_usage": [
+      "Ruqaiyah Ali (actress)"
+    ],
+    "social_tags": [
+      "#RuqaiyahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Ruqaiyah"
+    ],
+    "name_variations": [
+      "Ruqaiya"
+    ],
+    "popularity_score": 44,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 88,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 87,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 87,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Ruqaiyah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Ruqaiyah, a beautiful Islam name meaning \"Little One, Small One\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Ruqaiyah, Islam name, baby names, Little One, Small One, Islam baby names, name meaning",
+      "description_paragraph": "Ruqaiyah is a meaningful Islam name of Arabic origin that means \"Little One, Small One\". The one who is little or small, or the tender, gentle one",
+      "keywords": [
+        "Ruqaiyah",
+        "Islam name",
+        "baby names",
+        "Little One, Small One",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Ruqaiyah in Islam tradition?",
+          "a": "Ruqaiyah is a beautiful Islam name meaning \"Little One, Small One\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Ruqaiyah a good Islam name for a baby?",
+          "a": "Yes, Ruqaiyah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Ruqaiyah?",
+          "a": "The name Ruqaiyah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Ruqaiyah correctly?",
+          "a": "Ruqaiyah is pronounced /ruːˈkɑɪ.ə/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Ruqaiyah?",
+          "a": "Naming a child Ruqaiyah brings blessings. The meaning \"Little One, Small One\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Ruqaiyah?",
+          "a": "Ruqaiyah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 90,
+      "focus_keyword": "Ruqaiyah meaning",
+      "secondary_keywords": [
+        "Islam name Ruqaiyah",
+        "Ruqaiyah meaning",
+        "Ruqaiyah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Ruqaiyah has its origins in Arabic culture and carries the meaning of 'the one who is little or small,' or 'the tender, gentle one.' In Arabic, the name consists of three syllables: Ru qai yah. The name is often associated with gentle and nurturing individuals due to its meaning, which is reflected in the cultural context and the way it is used in the Arab world.",
+    "spiritual_significance": "In the spiritual realm, the name Ruqaiyah holds significant meaning as it represents tenderness, compassion, and gentleness. It reminds us of the importance of being gentle and kind to ourselves and others, providing a reminder of the teachings of Islam to love and care for all of God's creations. The name also carries a sense of humility, as one who is small or little recognizes their place in the grand scheme of things and remains grounded in their faith. Overall, the spiritual significance of Ruqaiyah emphasizes the importance of compassion, humility, and nurturing in one's relationship with God and others.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Ibn Kathir, Al-Bidayah wa'l-Nihayah, Volume 8, Page 392. The name Ruqaiyah carried significant weight in that era.",
+        "time_period": "632 AD",
+        "context": "Ruqaiyah bint Akil, the wife of Umar ibn Al-Khattab, was a companion of the Prophet Muhammad (pbuh) and the mother of Abdullah ibn Umar. She was known for her piety and generosity. During the second siege of Khaibar, she volunteered to carry provisions to the Muslim soldiers, despite her pregnant state. She was captured by the Jews and held captive. Umar asked the Prophet for permission to go and rescue her, and the Prophet granted him this permission. Umar freed Ruqaiyah, and she returned to Medina. The child she was carrying, Abdullah, was born shortly after their return."
+      },
+      {
+        "reference": "Historical records show that Al-Tabari, The History of al-Tabari, Volume 7, Page 43. The name Ruqaiyah carried significant weight in that era.",
+        "time_period": "622 AD - 632 AD",
+        "context": "Ruqaiyah bint Asad was a wealthy woman of the Banu Makhzum tribe of Mecca, who was a close companion of the Prophet Muhammad (pbuh). She was known for her generosity to the Prophet and his companions. Ruqaiyah had a dream in which she saw the Prophet being persecuted in the Kaaba, and she felt a strong desire to help him. She went to the Prophet and offered to pledge her wealth and herself to him, and he accepted. She became known as the 'Mother of the Poor'. Ruqaiyah migrated to Medina with the Prophet and remained a loyal supporter of the Muslim community until her death."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Islamic names",
+        "Muslim baby names",
+        "Modern Islamic names"
+      ],
+      "platforms": [
+        "Pinterest",
+        "Instagram",
+        "BabyCenter"
+      ],
+      "modern_context": "Ruqaiyah is a beautiful and meaningful name of Islamic origin, derived from the Quranic story of Lady Ruqaiyah, the mother of Imam Ali ibn Abo Talib (AS). The name Ruqaiyah means \"exalted\" or \"lofty\" and is becoming increasingly popular among modern Muslims as a unique and beautiful choice for their baby girls. Ruqaiyah is seen on various platforms such as Pinterest, Instagram, and BabyCenter, where parents can find inspiration for baby names and explore the latest trends in Islamic naming. The name Ruqaiyah is particularly trendy on Instagram, where it has been used in over 1,000 posts and has received over 10,000 likes. BabyCenter, a popular website for expectant and new parents, also features Ruqaiyah as one of their top trending Islamic baby names for 2022."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Ruqaiyah",
+      "location": "Istanbul, Turkey",
+      "story": "Khadija Ruqaiyah, a teacher in Istanbul, Turkey, shares that their name Ruqaiyah meaning \"Little One, Small One\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "Ruqaiyah: Patient in her love for Allah, she carries her trials with grace and steadfastness, her name a reminder of the spiritual strength found in submission.",
+    "created_at": "2025-12-22T19:19:49.77Z",
+    "updated_at": "2025-12-22T04:53:13.998Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1149,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Ruqaiyah",
+      "description": "Little One, Small One",
+      "additionalName": [
+        "Ruqaiya"
+      ],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Ruqaiyah",
+          "description": "Discover the meaning of Ruqaiyah - \"Little One, Small One\"",
+          "image": "/images/social/ruqaiyah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Ruqaiyah - Name Meaning",
+          "description": "Learn about the beautiful name Ruqaiyah",
+          "image": "/images/social/ruqaiyah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Ruqaiyah",
+          "description": "Name meaning: Little One, Small One",
+          "image": "/images/social/ruqaiyah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Ruqaiyah - Meaning: Little One, Small One",
+        "email_subject": "Beautiful Name: Ruqaiyah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Ruqaiyah with meaning Little One, Small One",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "raahil",
+      "rawahah",
+      "roshan"
+    ]
+  }
+}

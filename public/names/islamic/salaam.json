@@ -1,0 +1,294 @@
+{
+  "success": true,
+  "data": {
+    "name": "Salaam",
+    "slug": "salaam",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Peace, safety, security",
+    "long_meaning": "A salutation or greeting of peace and goodwill",
+    "spiritual_meaning": "A symbol of God's mercy and protection",
+    "emotional_traits": [
+      "Calm",
+      "Peaceful",
+      "Friendly",
+      "Harmonious"
+    ],
+    "hidden_personality_traits": [
+      "Compassionate",
+      "Gentle",
+      "Honorable"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 8,
+    "numerology_meaning": "Power, authority, inner strength",
+    "in_arabic": {
+      "name": "سلام",
+      "meaning": "السلام عليكم، يعني السلام والتحية والود",
+      "long_meaning": "السلام هو اسم من أسماء الله الحسنى، ويعني السلام والتحية والود. وهو أيضًا اسم علم مذكر، يطلق على الذكور في العديد من الثقافات الإسلامية، ويعبر عن معاني الهدوء والسكينة والتحية الإسلامية. ورد ذكر السلام في القرآن الكريم في عدة مواضع، منها قول الله تعالى: 'والملائكة يدخلون عليهم من كل باب * سلام عليكم بما صبرتم' (يس: 29-30)."
+    },
+    "in_urdu": {
+      "name": "سلام",
+      "meaning": "سلام کا مطلب ہے سکون، امن اور تحیت",
+      "long_meaning": "سلام (Salaam) ایک اسلامی نام ہے جو عربی زبان کے 'سلام' سے ماخوذ ہے، جس کا مطلب ہے سکون، امن اور تحیت. یہ نام اسلامی ثقافت میں اہم سمجھا جاتا ہے کیونکہ یہ اللہ تعالیٰ کے ایک نام 'السّلام' سے بھی ماخوذ ہے، جو قرآن مجید میں مذکور ہے. اس نام کا استعمال مسلم ممالک میں عام ہے اور یہ ایک ایسی تحیت کا اظہار کرتا ہے جو امن اور سکون کی طرف دعوت دیتا ہے."
+    },
+    "in_hindi": {
+      "name": "सलाम",
+      "meaning": "सलाम का अर्थ है शांति, सुकून और अभिवादन",
+      "long_meaning": "सलाम (Salaam) एक महत्वपूर्ण इस्लामी नाम है जो अरबी भाषा से लिया गया है। इसका अर्थ है शांति, सुकून और अभिवादन। यह नाम इस्लामी परंपरा में उच्च सम्मान रखता है, क्योंकि यह अल्लाह के नाम 'अस्सलाम' से भी जुड़ा है, जिसका उल्लेख कुरआन में किया गया है। भारतीय मुस्लिम समुदाय में भी इस नाम का विशेष महत्व है, और यह शांति और सौहार्द की भावना को दर्शाता है।"
+    },
+    "in_pashto": {
+      "name": "سلام",
+      "meaning": "سلام د امن، سولې او درنښت معنی لري",
+      "long_meaning": "سلام (Salaam) د اسلامي نومونو څخه يو مهم نوم دی، چې د عربي ژبې څخه اخيستل شوی دی. دا نوم د امن، سولې او درنښت معنا لري. په افغانستان او پښتونستان کې، دا نوم ډير کارول شوی دی او د اسلامي کلتور يوه برخه ګڼل کيږي. دا نوم د قرآن کريم څخه هم اخيستل شوی دی، چيرته چې يو نوم 'السّلام' د الله تعالیٰ په اړه کارول شوی دی."
+    },
+    "in_english": {
+      "name": "Salaam",
+      "meaning": "Means peace, safety, and Islamic greeting",
+      "long_meaning": "Salaam is an Arabic-originated name that means 'peace, safety, and Islamic greeting.' It is derived from the Arabic root 's-l-m,' which conveys the concepts of peace, safety, and submission to God. In Islamic tradition, Salaam is one of the names of Allah, 'As-Salam,' mentioned in the Quran. The name symbolizes serenity, harmony, and the greeting of peace 'As-salamu alaykum' commonly used among Muslims. It reflects a wish for peace and well-being upon others and signifies a calm and peaceful demeanor."
+    },
+    "pronunciation": {
+      "english": "sah-LAHM",
+      "urdu": "اردو میں تلفظ کی تفصیل: سَلام",
+      "hindi": "हिन्दी में उच्चारण विवरण: सलाम",
+      "pashto": "په پښتو کې د تلفظ تفصیل: سَلام",
+      "ipa": "/sæˈlɑːm/"
+    },
+    "celebrity_usage": [
+      "Salaam Remi (Jamaican music producer)",
+      "Salaam Gauz (Indian actor)"
+    ],
+    "social_tags": [
+      "#SalaamMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Salaam"
+    ],
+    "name_variations": [
+      "Salam"
+    ],
+    "popularity_score": 60,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 74,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 68,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 72,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Salaam Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Salaam, a beautiful Islam name meaning \"Peace, safety, security\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Salaam, Islam name, baby names, Peace, safety, security, Islam baby names, name meaning",
+      "description_paragraph": "Salaam is a meaningful Islam name of Arabic origin that means \"Peace, safety, security\". A salutation or greeting of peace and goodwill",
+      "keywords": [
+        "Salaam",
+        "Islam name",
+        "baby names",
+        "Peace, safety, security",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Salaam in Islam tradition?",
+          "a": "Salaam is a beautiful Islam name meaning \"Peace, safety, security\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Salaam a good Islam name for a baby?",
+          "a": "Yes, Salaam is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Salaam?",
+          "a": "The name Salaam has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Salaam correctly?",
+          "a": "Salaam is pronounced sah-LAHM in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Salaam?",
+          "a": "Naming a child Salaam brings blessings. The meaning \"Peace, safety, security\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Salaam?",
+          "a": "Salaam is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 99,
+      "focus_keyword": "Salaam meaning",
+      "secondary_keywords": [
+        "Islam name Salaam",
+        "Salaam meaning",
+        "Salaam origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The Islamic name \"Salaam\" reflects a rich cultural heritage of love, unity, and respect. It forms an integral part of the daily interactions among Muslims and is often used as a greeting, signifying a warm welcome and to maintain harmony and peace in communities.",
+    "spiritual_significance": "The name \"Salaam\" resonates deeply with the spiritual essence of Islam, as its profound meaning transcends mere words. As a spiritual greeting, it reflects the peace that comes from within. It signifies love, goodness, and the inward longing for a close bond with the Almighty, symbolizing the intention to be in continuous communion with God and maintaining a peaceful disposition. The name urges for the purification of heart and soul along with the outer self, for true contentment and happiness can only stem from the realization of the presence of Allah within oneself.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Salaam was the name of a famous Sufi saint from the 13th century. The name Salaam carried significant weight in that era.",
+        "time_period": "13th century",
+        "context": "Sufism is a mystical branch of Islam that emphasizes personal devotion and spiritual growth."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Salaam is a common name in the Muslim world.",
+        "It is also used as a greeting in Islam, meaning 'peace'."
+      ],
+      "platforms": [
+        "Social media",
+        "WhatsApp"
+      ],
+      "modern_context": "The name Salaam remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Salaam",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Aisha Salaam from Kuala Lumpur, Malaysia embodies the meaning of Salaam - \"Peace, safety, security\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Peace, safety, security\" symbolizes A salutation or greeting of peace and goodwill. In Islamic spirituality, bearing the name Salaam serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of peace, safety, security.",
+    "created_at": "2025-12-22T19:19:49.855Z",
+    "updated_at": "2025-12-22T04:53:14.876Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1371,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Salaam",
+      "description": "Peace, safety, security",
+      "additionalName": [
+        "Salam"
+      ],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Salaam",
+          "description": "Discover the meaning of Salaam - \"Peace, safety, security\"",
+          "image": "/images/social/salaam-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Salaam - Name Meaning",
+          "description": "Learn about the beautiful name Salaam",
+          "image": "/images/social/salaam-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Salaam",
+          "description": "Name meaning: Peace, safety, security",
+          "image": "/images/social/salaam-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Salaam - Meaning: Peace, safety, security",
+        "email_subject": "Beautiful Name: Salaam"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Salaam with meaning Peace, safety, security",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saim",
+      "sadaldin",
+      "saal"
+    ]
+  }
+}

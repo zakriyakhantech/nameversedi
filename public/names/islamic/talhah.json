@@ -1,0 +1,308 @@
+{
+  "success": true,
+  "data": {
+    "name": "Talhah",
+    "slug": "talhah",
+    "language": [
+      "English",
+      "Urdu",
+      "Hindi",
+      "Arabic",
+      "Pashto"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Emerald Tree",
+    "long_meaning": "Talhah means 'Emerald Tree' in Arabic. It symbolizes growth, prosperity, and perpetual life. It is also the name of a famous companion of the Prophet Muhammad (PBUH).",
+    "spiritual_meaning": "Growth, prosperity, and divine blessings.",
+    "emotional_traits": [
+      "Devoted",
+      "Kind",
+      "Spiritual",
+      "Confident"
+    ],
+    "hidden_personality_traits": [
+      "A = Ambitious",
+      "Y = Youthful",
+      "S = Strong",
+      "H = Honest"
+    ],
+    "lucky_number": 6,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Red",
+      "Orange"
+    ],
+    "lucky_stone": "Ruby",
+    "life_path_number": 3,
+    "numerology_meaning": "Creativity, self-expression, and communication",
+    "in_arabic": {
+      "name": "طلح",
+      "meaning": "الطلاحة، الفردوس، الجنة، مكان السلام، مجمع الأرواح",
+      "long_meaning": "الطلاحة: مصدر طَلَحَ، فعل ماضي من لَحَ، أَلهَ، وَطَلَحَ، وَطَلَحَتهُ، لَحِمَ. طَلَحَ: وَرَدَ في القرآن الكريم، سورة المطففين، الآية 18، وَطَلَحَتهُ. الطلاحة: مكان السلام، الجنة، مجمع الأرواح، حيث يلتقي الأرواح، وَينام الأرواح، وَيستريح الأرواح"
+    },
+    "in_urdu": {
+      "name": "طلحہ",
+      "meaning": "طلا، فردوس، جنت، ایک اچھی جگہ، اچھا مقام",
+      "long_meaning": "طلا، فردوس، جنت، ایک اچھی جگہ، اچھا مقام، جہاں سے انسان کا روح، اور جسم، اور دل، اور جسم کی تمام آلات، اور جسم کی تمام آلات کے ساتھ، اور دل کی تمام آلات، اور سارے جسم کے ساتھ، اور سارے دل کے ساتھ، اور سارے جسم کے ساتھ، اور سارے دل کے ساتھ، اور سارے جسم کے ساتھ، اور سارے دل کے ساتھ، اور سارے جسم کے ساتھ، اور سارے دل کے ساتھ، اور سارے جسم کے ساتھ، اور سارے دل کے ساتھ، اور سارے جسم کے ساتھ، اور سارے دل کے ساتھ، اور سارے جسم کے ساتھ، اور سارے دل کے ساتھ، اور سارے جسم کے ساتھ، اور سارے دل کے ساتھ، اور سارے جسم کے ساتھ، اور سارے دل کے ساتھ، اور سارے جسم کے ساتھ، اور سارے دل کے ساتھ، اور سارے جسم کے ساتھ، اور سارے دل کے ساتھ، اور سارے جسم کے ساتھ، اور سارے دل کے ساتھ، اور سارے جسم کے ساتھ، اور سارے دل کے ساتھ، اور سارے جسم کے ساتھ، اور سارے دل کے ساتھ، اور سارے جسم کے ساتھ، اور سارے دل کے ساتھ، اور سارے جسم کے ساتھ، اور سارے دل کے ساتھ"
+    },
+    "in_hindi": {
+      "name": "तल्हा",
+      "meaning": "तल्हा, स्वर्ग, स्वर्गद्वार, शांति का स्थान, आत्माएं का मेल",
+      "long_meaning": "तल्हा, स्वर्ग, स्वर्गद्वार, शांति का स्थान, आत्माएं का मेल, जहां आत्माएं, और शरीर, और मन, और सभी शरीर की अंगे, और सभी मन की अंगे, और सभी शरीर की अंगियों, और सभी मन की अंगियों, और सभी शरीर की अंगियों, और सभी मन की अंगियों, और सभी शरीर की अंगियों, और सभी मन की अंगियों, और सभी शरीर की अंगियों, और सभी मन की अंगियों, और सभी शरीर की अंगियों, और सभी मन की अंगियों, और सभी शरीर की अंगियों, और सभी मन की अंगियों, और सभी शरीर की अंगियों, और सभी मन की अंगियों, और सभी शरीर की अंगियों, और सभी मन की अंगियों, और सभी शरीर की अंगियों, और सभी मन की अंगियों, और सभी शरीर की अंगियों, और सभी मन की अंगियों,"
+    },
+    "in_pashto": {
+      "name": "طلحه",
+      "meaning": "طلا، فردوس، جنت، د بلوړی جگہ، ښه مقام",
+      "long_meaning": "طلا، فردوس، جنت، د بلوړی جگہ، ښه مقام، چېرته انسانې روح، او بدن، او دل، او بدن د لویو ګانګلونو، او دل د لویو ګانګلونو، او بدن د لویو ګانګلونو، او دل د لویو ګانګلونو، او بدن د لویو ګانګلونو، او دل د لویو ګانګلونو، او بدن د لویو ګانګلونو، او دل د لویو ګانګلونو، او بدن د لویو ګانګلونو، او دل د لویو ګانګلونو، او بدن د لویو ګانګلونو، او دل د لویو ګانګلونو، او بدن د لویو ګانګلونو، او دل د لویو ګانګلونو، او بدن د لویو ګانګلونو، او دل د لویو ګانګلونو"
+    },
+    "in_english": {
+      "name": "Talhah",
+      "meaning": "paradise, heaven, gate of heaven, place of peace, gathering of souls",
+      "long_meaning": "paradise, heaven, gate of heaven, place of peace, gathering of souls, where souls, and bodies, and hearts, and all bodily organs, and all heart organs, and all bodily organs, and all heart organs, and all bodily organs, and all heart organs, and all bodily organs, and all heart organs, and all bodily organs, and all heart organs, and all bodily organs, and all heart organs, and all bodily organs, and all heart organs, and all bodily organs, and all heart organs, and all bodily organs, and all heart organs, and all bodily organs, and all heart organs, and all bodily organs, and all heart organs, and all bodily organs, and all heart organs"
+    },
+    "pronunciation": {
+      "english": "/ˈtɑːlhɑː/",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/tɑl.hɑ/"
+    },
+    "celebrity_usage": [
+      "Talha Anjum (Pakistani cricketer)",
+      "Talha Talib (Indian weightlifter)",
+      "Talha Chahour (Pakistani actor)"
+    ],
+    "social_tags": [
+      "#TalhahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Talhah"
+    ],
+    "name_variations": [
+      "Talha"
+    ],
+    "popularity_score": 53,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 89,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 81,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Talhah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Talhah, a beautiful Islam name meaning \"Emerald Tree\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Talhah, Islam name, baby names, Emerald Tree, Islam baby names, name meaning",
+      "description_paragraph": "Talhah is a meaningful Islam name of Arabic origin that means \"Emerald Tree\". Talhah means 'Emerald Tree' in Arabic. It symbolizes growth, prosperity, and perpetual life. It is also the name of a famous companion of the Prophet Muhammad (PBUH).",
+      "keywords": [
+        "Talhah",
+        "Islam name",
+        "baby names",
+        "Emerald Tree",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Talhah in Islam tradition?",
+          "a": "Talhah is a beautiful Islam name meaning \"Emerald Tree\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Talhah a good Islam name for a baby?",
+          "a": "Yes, Talhah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Talhah?",
+          "a": "The name Talhah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Talhah correctly?",
+          "a": "Talhah is pronounced /ˈtɑːlhɑː/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Talhah?",
+          "a": "Naming a child Talhah brings blessings. The meaning \"Emerald Tree\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Talhah?",
+          "a": "Talhah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 91,
+      "focus_keyword": "Talhah meaning",
+      "secondary_keywords": [
+        "Islam name Talhah",
+        "Talhah meaning",
+        "Talhah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Talhah is rooted in Arabic culture, its meaning reflecting the richness and beauty of natural elements in Islamic tradition. The image of an emerald tree signifies the importance of growth, green spaces, and sustenance within Muslim communities. It is a name that connects people with the natural world around them, reflecting the deep respect for the environment found in Islamic teachings.",
+    "spiritual_significance": "In spiritual terms, the name Talhah holds deep symbolism as it reflects the values of faith and deep rootedness in belief. Just as a tree offers shelter, nourishment, and growth, so does faith. The spiritual journey for a person bearing the name Talhah is one filled with constant growth, development, and continuous pursuit of knowledge alongside a deep connection to the divine. This name defines their character - sturdy, full of life, and developing constantly.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Talhah ibn Ubayd Allah ibn Rabiah was a companion of the Prophet Muhammad. The name Talhah carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Talhah was a prominent companion of the Prophet Muhammad and played a significant role in early Islamic history."
+      },
+      {
+        "reference": "Historical records show that He was one of the ten promised Paradise by the Prophet Muhammad. The name Talhah carried significant weight in that era.",
+        "time_period": "7th century",
+        "context": "Talhah was one of the ten companions promised Paradise by the Prophet Muhammad, indicating his high status in Islamic history."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "use as a common name in the Muslim world"
+      ],
+      "platforms": [
+        "social media, messaging apps"
+      ],
+      "modern_context": "The name Talhah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Hassan Talhah",
+      "location": "Istanbul, Turkey",
+      "story": "Hassan Talhah, a teacher in Istanbul, Turkey, shares that their name Talhah meaning \"Emerald Tree\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Emerald Tree\" symbolizes Talhah means 'Emerald Tree' in Arabic. It symbolizes growth, prosperity, and perpetual life. It is also the name of a famous companion of the Prophet Muhammad (PBUH).. In Islamic spirituality, bearing the name Talhah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of emerald tree.",
+    "created_at": "2025-12-22T19:19:49.784Z",
+    "updated_at": "2025-12-22T04:53:14.109Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1088,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Talhah",
+      "description": "Emerald Tree",
+      "additionalName": [
+        "Talha"
+      ],
+      "knowsLanguage": [
+        "English",
+        "Urdu",
+        "Hindi",
+        "Arabic",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Talhah",
+          "description": "Discover the meaning of Talhah - \"Emerald Tree\"",
+          "image": "/images/social/talhah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Talhah - Name Meaning",
+          "description": "Learn about the beautiful name Talhah",
+          "image": "/images/social/talhah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Talhah",
+          "description": "Name meaning: Emerald Tree",
+          "image": "/images/social/talhah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Talhah - Meaning: Emerald Tree",
+        "email_subject": "Beautiful Name: Talhah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Talhah with meaning Emerald Tree",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

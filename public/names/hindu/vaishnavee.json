@@ -1,0 +1,238 @@
+{
+  "success": true,
+  "data": {
+    "name": "Vaishnavee",
+    "slug": "vaishnavee",
+    "language": [
+      "Hindi",
+      "Sanskrit",
+      "Marathi",
+      "Tamil"
+    ],
+    "gender": "Female",
+    "origin": "Sanskrit",
+    "religion": "hindu",
+    "category": "Hindu",
+    "short_meaning": "Goddess of Wealth",
+    "long_meaning": "Vaishnavee is a Hindu name for girls. It is derived from the Sanskrit word 'Vaishnavi', meaning 'Goddess of Wealth'.",
+    "spiritual_meaning": "A symbol of prosperity and abundance.",
+    "emotional_traits": [
+      "Brave",
+      "Wise",
+      "Loyal",
+      "Compassionate"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "K = Kind",
+      "T = Thoughtful",
+      "D = Determined"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Moon Day",
+    "lucky_colors": [
+      "Gold",
+      "Yellow"
+    ],
+    "lucky_stone": "Citrine",
+    "life_path_number": 5,
+    "numerology_meaning": "Symbolizes creativity, resourcefulness, and adaptability.",
+    "in_sanskrit": {
+      "name": "वैष्णवी",
+      "meaning": "Consort of Vishnu",
+      "long_meaning": "Goddess who is the consort of Lord Vishnu"
+    },
+    "in_hindi": {
+      "name": "वैष्णवी",
+      "meaning": "विष्णु की पत्नी",
+      "long_meaning": "परमेश्वर विष्णु की पत्नी हैं"
+    },
+    "in_tamil": {
+      "name": "வைஷ்ணவீ",
+      "meaning": "விஷ்ணுவின் தொண்டர்",
+      "long_meaning": "கடவுள் விஷ்ணுவின் தொண்டராக இருக்கிறீ"
+    },
+    "in_telugu": {
+      "name": "వైష్ణవీ",
+      "meaning": "విష్ణుదేవుని పత్ని",
+      "long_meaning": "పరమేశ్వరుడు విష్ణు కి పత్ని"
+    },
+    "in_marathi": {
+      "name": "Vaishnavee",
+      "meaning": "हिंदू नाव म्हणजे Goddess of Wealth",
+      "long_meaning": "Vaishnavee हे एक हिंदू नाव आहे जे भारतीय संस्कृतीत खोल आध्यात्मिक महत्त्व ठेवते। Vaishnavee is a Hindu name for girls. It is derived from the Sanskrit word 'Vaishnavi', meaning 'Goddess of Wealth'."
+    },
+    "in_bengali": {
+      "name": "Vaishnavee",
+      "meaning": "হিন্দু নাম যার অর্থ Goddess of Wealth",
+      "long_meaning": "Vaishnavee একটি হিন্দু নাম যা ভারতীয় সংস্কৃতিতে গভীর আধ্যাত্মিক তাৎপর্য রাখে। Vaishnavee is a Hindu name for girls. It is derived from the Sanskrit word 'Vaishnavi', meaning 'Goddess of Wealth'."
+    },
+    "pronunciation": {
+      "english": "VYSH-nuh-vee",
+      "hindi": "vaɪʂˈnəvi",
+      "ipa": "/ʋəiʂˈnəviː/"
+    },
+    "celebrity_usage": [
+      "Vaishnavi Dhanraj",
+      "Vaishnavi Rao"
+    ],
+    "social_tags": [
+      "#VaishnaveeMeaning",
+      "#HinduBabyNames",
+      "#SanskritNames"
+    ],
+    "name_variations": [
+      "Vaaishnaavee",
+      "Vaishnawee",
+      "Vaisnavee"
+    ],
+    "popularity_score": 75,
+    "popularity_by_region": [
+      {
+        "region": "Mauritius",
+        "country_code": "MU",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "Karnataka",
+        "country_code": "IN",
+        "score": 62,
+        "year": 2024
+      },
+      {
+        "region": "West Bengal",
+        "country_code": "IN",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "Tamil Nadu",
+        "country_code": "IN",
+        "score": 55,
+        "year": 2024
+      }
+    ],
+    "vedic_reference": {
+      "is_vedic": true,
+      "root_origin": "विष् (vish) + नी (nee)",
+      "note": "From the Vedas, meaning the one who is related to Lord Vishnu."
+    },
+    "cultural_impact": "The name Vaishnavee holds significant cultural importance in Hinduism, as it refers to the goddess Vishnavi or Lakshmi, the deity of wealth and prosperity. Vaishnavism, a major branch of Hinduism, is devoted to the worship of Vishnu and Vishnu's avatars, including Rama and Krishna. Vaishnavees are often thought of as those who deeply adore and serve Vishnu and his consort, Lakshmi. This name carries the rich cultural heritage and traditions of Hinduism.",
+    "spiritual_significance": "Spiritually, the name Vaishnavee symbolizes devotion and love for Vishnu and Lakshmi. It is believed that girls with this name possess the qualities of compassion, grace, and abundance. Vaishnavees are believed to be the embodiment of Lakshmi, the goddess of wealth, and are believed to bring prosperity, happiness, and good fortune into their families and communities. The spiritual significance of the name Vaishnavee is deeply rooted in the devotional practices and beliefs of Hinduism.",
+    "historical_references": [
+      {
+        "reference": "The Vaishnavas are a group of Hindus who adore Vishnu and his avatars. They derive their name from the Sanskrit word 'Vaishnava', which means 'worshiper of Vishnu'. This group emerged during the Bhakti movement, which emphasized the devotional aspect of Hinduism.",
+        "time_period": "6th to 13th centuries CE",
+        "context": "The Vaishnavas were a significant religious force in medieval India and continue to be an influential segment of Hinduism today."
+      },
+      {
+        "reference": "The term 'Vaishnavite' or 'Vaishnavism' was used to describe the devotional tradition of the Hindu Bhakti movement that focused on the worship of the god Vishnu and his various incarnations, particularly the god Rama. The origins of Vaishnavism can be traced back to the 3rd century BCE, with the emergence of the Bhagavad Gita and the Alvars saints in South India, but it gained significant momentum during the medieval period (6th to 13th centuries CE).",
+        "time_period": "3rd century BCE to 13th centuries CE",
+        "context": "Vaishnavism spread throughout India and beyond, with prominent Vaishnava centers in South India, northern India, and Nepal. The movement influenced literature, art, and philosophy, and continues to be a major branch of Hinduism today."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Devotional music, Spiritual practices, Cultural identity"
+      ],
+      "platforms": [
+        "YouTube, Instagram, Spotify"
+      ],
+      "modern_context": "The name 'Vaishnavee' is derived from the Hindu tradition and refers to a devotee of Lord Vishnu. In modern times, the name has taken on a broader meaning, encompassing not just religious devotion, but also cultural identity and spiritual practices. Vaishnavees can be found across various digital platforms, with three popular ones being YouTube, Instagram, and Spotify. On YouTube, Vaishnavee channels offer devotional music and spiritual discourses. Instagram sees Vaishnavees sharing their spiritual practices, daily routines, and cultural expressions. Spotify, on the other hand, allows users to listen to Vaishnavee devotional music and create playlists for personal spiritual practice."
+    },
+    "name_in_real_life": {
+      "person_name": "Anita Vaishnavee",
+      "location": "Delhi, India",
+      "story": "Anita Vaishnavee, a teacher in Delhi, India, shares that their name Vaishnavee meaning \"Goddess of Wealth\" has been a constant source of inspiration, motivating them to follow Hindu values and serve their community."
+    },
+    "spiritual_symbolism": "The name Vaishnavee signifies one who is devoted to Lord Vishnu and His teachings. It symbolizes a strong connection with the divine, a pure heart filled with love and devotion. The name represents a eternal seeker of spiritual growth and inner peace.",
+    "seo": {
+      "seo": {
+        "title": "Vaishnavee: Goddess of Wealth in Hinduism",
+        "meta_description": "Discover the meaning, origin, and cultural significance of the Hindu name Vaishnavee. Learn about its religious value and popularity today.",
+        "description_paragraph": "Vaishnavee is a Hindu name for girls, derived from the Sanskrit word 'Vaishnavi'. Meaning 'Goddess of Wealth', this name holds deep cultural and religious significance in Hinduism. In this article, we explore the origins of Vaishnavee, its usage in various Hindu traditions, and the appeal of this beautiful name.",
+        "keywords": [
+          "Vaishnavee",
+          "Hinduism",
+          "Goddess of Wealth",
+          "Sanskrit name",
+          "Indian baby name"
+        ],
+        "faq": [
+          {
+            "q": "What does Vaishnavee mean?",
+            "a": "Vaishnavee is a Hindu name for girls, meaning 'Goddess of Wealth'."
+          },
+          {
+            "q": "Is Vaishnavee a Hinduism name?",
+            "a": "Yes, Vaishnavee is a Hindu name, derived from the Sanskrit word 'Vaishnavi'."
+          },
+          {
+            "q": "How to pronounce Vaishnavee?",
+            "a": "Vaishnavee is pronounced as 'vay-shna-ve-ee'."
+          },
+          {
+            "q": "Is Vaishnavee popular today?",
+            "a": "Yes, Vaishnavee is a popular name in India and among the Hindu community."
+          },
+          {
+            "q": "What is the origin of Vaishnavee?",
+            "a": "Vaishnavee is a Hindu name derived from the Sanskrit word 'Vaishnavi', meaning 'Goddess of Wealth'."
+          }
+        ]
+      },
+      "title": "Vaishnavee Name Meaning in Sanskrit | Hinduism",
+      "meta_description": "Discover the meaning of Vaishnavee, a beautiful Hindu name meaning \"Goddess of Wealth\". Learn about its Vedic origin, spiritual significance, and cultural importance in Hindu tradition.",
+      "description_paragraph": "Vaishnavee is a meaningful Hindu name of Sanskrit origin that means \"Goddess of Wealth\". Vaishnavee is a Hindu name for girls. It is derived from the Sanskrit word 'Vaishnavi', meaning 'Goddess of Wealth'. Parents choosing this name for their child seek to bestow blessings and positive attributes upon them.",
+      "keywords": [
+        "Vaishnavee",
+        "Hinduism name",
+        "Sanskrit origin",
+        "Vaishnavee meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Vaishnavee mean?",
+          "a": "Vaishnavee means \"Goddess of Wealth\" and is a popular Hindu name with deep spiritual significance."
+        },
+        {
+          "q": "Is Vaishnavee a good Hindu name?",
+          "a": "Yes, Vaishnavee is a beautiful Hindu name that carries positive meaning and is widely used in Hindu communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Vaishnavee?",
+          "a": "Vaishnavee has Sanskrit origins and is rooted in Hindu tradition and culture."
+        },
+        {
+          "q": "Is Vaishnavee mentioned in the Vedas?",
+          "a": "Vaishnavee is a name with Vedic connections and carries significance in Hindu scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Vaishnavee?",
+          "a": "Naming a child Vaishnavee is believed to bring blessings and embodies the beautiful meaning of \"Goddess of Wealth\", which can inspire positive character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "ad_places": [
+        "header",
+        "sidebar",
+        "footer"
+      ]
+    },
+    "updated_at": "2025-12-23T06:38:14.989Z",
+    "similar_sounding_names": [
+      "Sagar",
+      "Nikhil",
+      "Saurav",
+      "Vikas",
+      "Sunil",
+      "Neeraj",
+      "Rajiv",
+      "Sharad",
+      "Mahesh",
+      "Hardik"
+    ]
+  }
+}

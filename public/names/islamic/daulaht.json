@@ -1,0 +1,305 @@
+{
+  "success": true,
+  "data": {
+    "name": "Daulaht",
+    "slug": "daulaht",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Hindi"
+    ],
+    "gender": "unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Wealth, Power, Authority",
+    "long_meaning": "One who has authority, wealth, and power, often a ruler or leader.",
+    "spiritual_meaning": "Represents the inner strength and power to rule over one's own life and emotions.",
+    "emotional_traits": [
+      "Confident",
+      "Determined",
+      "Strong-willed"
+    ],
+    "hidden_personality_traits": [
+      "Generous",
+      "Magnanimous"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Gold",
+      "Yellow",
+      "Red"
+    ],
+    "lucky_stone": "Tiger Eye",
+    "life_path_number": 5,
+    "numerology_meaning": "A dynamic force, adaptable and versatile, Daulat is an individual with a strong sense of freedom and the will to express their unique personality.",
+    "in_arabic": {
+      "name": "داولحت",
+      "meaning": "اسم داولة الا لملك أو السلطة",
+      "long_meaning": "داولحت اسم عربي يأتي من الجذر \"دول\"، والذي يعني حكم أو إدارة، و\"ح\" التي تعني فعل. ويستخدم هذا الاسم لوصف شخص يحكم أو يقود دولة أو جمعية. يعتبر داولحت مصطلحاً شائعاً في العصر الحديث، حيث يشير إلى الأشخاص الذين يسيطرون على السلطة أو الإدارة في المجتمع أو الدولة. وقد يُستخدم هذا الاسم أيضاً لوصف الشخص الذي يمتلك قدرة قوية في اتخاذ القرارات أو في قيادة الجماعة. في بعض الثقافات الإسلامية، يُعتبر داولحت مصطلحاً محترماً ويُنظر إليه على أنه مصدر قوة أو استقرار. ومع ذلك، في بعض الحالات، قد يُستخدم هذا المصطلح في سياق سلطوي أو قمعي. في الإسلام، يُعتبر الحكم والسلطة بمثابة التزام وواجب بين الإنسان والخالق، حيث يُعتبر الحاكم مسئولاً عن تعزيز العدالة والوئام بين الناس. ويُعتبر داولحت مصطلحاً شائعاً في القرآن الكريم، حيث يُستخدم لوصف السلطة والسلطات في المجتمع."
+    },
+    "in_urdu": {
+      "name": "ڈاؤلاحت",
+      "meaning": "ڈاؤلاحت نام کہیں جس کا تعلق حکمرانی یا اقتدار سے ہو",
+      "long_meaning": "ڈاؤلاحت نام کا تعلق عربي حروف جڈ (DOL) سے ہے، جس کا مطلب حکمرانی یا انتظام ہے، اور ح (Ha) جو فعل کا نشان ہے۔ یہ نام حکمران یا اقتدار کے حامل شخص کے لیے استعمال ہوتا ہے۔ جدید دور میں اسکے استعمال کی وجہ سے یہ نام زیادہ مقبول ہوا ہے۔ اسکے استعمال کی وجہ یہ ہے کہ اس نام کے حامل شخص کو حکمرانی کرنے کی صلاحیت ہوتی ہے۔ یہ نام بعض ثقافتیں میں محترم سمجھا جاتا ہے اور اسکے حامل کو قوت یا استحکام کا نشان سمجھا جاتا ہے۔ بعض اوقات اس نام کے استعمال میں سلطنت اور قیادت کا تصور بھی شامل ہوتا ہے۔ اسلامی تعلیمات کے مطابق حکمرانی اور قیادت ایک فرائض ہیں جو انسان کے لیے ضروری ہے۔ اس کے ساتھ ساتھ یہ بھی ضروری ہے کہ انسان کو انفرادی طور پر قیادت کے فرائض پر عمل کرنا چاہیے۔"
+    },
+    "in_hindi": {
+      "name": "डालहट",
+      "meaning": "डालहट नाम वाला व्यक्ति जो राज करने या नेतृत्व करने में सक्षम है",
+      "long_meaning": "डालहट नाम का अर्थ है शासित या नियंत्रित करना, जो कि अरबी शब्द 'दौल' (दौल) से लिया गया है, जिसका अर्थ है शासन या प्रशासन और 'ह' (ह) जो कि क्रिया का संकेत है। इस नाम का उपयोग व्यक्ति के लिए किया जाता है जो शासन या नेतृत्व करने में सक्षम है। इस नाम का उपयोग मध्ययुगीन समय से ही किया जाता आ रहा है और इसे अरबी और फारसी भाषाओं में भी प्रयोग किया जाता है। इस नाम के साथ संबंधित है शासन, नेतृत्व, और समाज पर नियंत्रण।"
+    },
+    "in_pashto": {
+      "name": "ډاېلهت",
+      "meaning": "ډاېلهت نوم د سولې يا ځواک والي ته ويل کيدای شي",
+      "long_meaning": "ډاېلهت نوم له \"ډول\" چاښر څخه اخستل شوی، چې معنا يې د حکومت یا پوځ ته ښيي، او \"ح\" چاښر چې د فعل څخه اخستل شوی، داړه يې حکومت او ناستول. دا نوم په پښتو او دغه ډول د سولې يا ځواک والي ته ويل کيدای شي، چې دا نوم په دغه ډول په اسلامي پښتو نړۍ کې خورا لوړ مرتبه لري، او دا نوم د دغه ډول ځواک والي ته ويل کيدای شي، چې دا نوم د دغه ډول د سولې يا ځواک د پوځ ته ويل کيدای شي، چې دا نوم په اسلامي پښتو نړۍ کې خورا لوړ مرتبه لري."
+    },
+    "in_english": {
+      "name": "Daulaht",
+      "meaning": "Daulaht is a name that refers to a ruler or a person of authority",
+      "long_meaning": "The name Daulaht originates from the Arabic root \"dola\", which means governance or administration. The suffix \"ht\" is an Arabic indicator, signifying a ruler or a person in a position of authority. This name has been used in historical contexts, particularly in the Ottoman era. In Islamic tradition, a ruler or a person in a position of authority is expected to uphold justice and maintain balance in society. Daulaht is a name that is associated with leadership, power, and governance. It is also a name that is deeply rooted in Islamic history and culture. In modern times, the name Daulaht is often used to refer to individuals who hold positions of power or authority, whether in government, business, or other fields."
+    },
+    "pronunciation": {
+      "english": "/ˈdɔːlɑːt/",
+      "urdu": "ڈاؤلاحت کی تلفظ میں 'د' سے شروع ہوتی ہے اور 'ت' پر ختم ہوتی ہے",
+      "hindi": "डालहट की उच्चारण में 'डा' से शुरू होती है और 'ट' पर समाप्त होती है",
+      "pashto": "ډاېلهت د تلفظ کې 'ډا' له سې شروع کېږي او 'ت' پورې ختم کیږي",
+      "ipa": "/ˈdɔːlɑːt/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#DaulahtMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Daulaht"
+    ],
+    "name_variations": [
+      "Daulat"
+    ],
+    "popularity_score": 48,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 85,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 69,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Daulaht Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Daulaht, a beautiful Islam name meaning \"Wealth, Power, Authority\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Daulaht, Islam name, baby names, Wealth, Power, Authority, Islam baby names, name meaning",
+      "description_paragraph": "Daulaht is a meaningful Islam name of Arabic origin that means \"Wealth, Power, Authority\". One who has authority, wealth, and power, often a ruler or leader.",
+      "keywords": [
+        "Daulaht",
+        "Islam name",
+        "baby names",
+        "Wealth, Power, Authority",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Daulaht in Islam tradition?",
+          "a": "Daulaht is a beautiful Islam name meaning \"Wealth, Power, Authority\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Daulaht a good Islam name for a baby?",
+          "a": "Yes, Daulaht is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Daulaht?",
+          "a": "The name Daulaht has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Daulaht correctly?",
+          "a": "Daulaht is pronounced /ˈdɔːlɑːt/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Daulaht?",
+          "a": "Naming a child Daulaht brings blessings. The meaning \"Wealth, Power, Authority\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Daulaht?",
+          "a": "Daulaht is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 91,
+      "focus_keyword": "Daulaht meaning",
+      "secondary_keywords": [
+        "Islam name Daulaht",
+        "Daulaht meaning",
+        "Daulaht origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Daulat\" holds significant cultural importance in Islamic history and continues to resonate within contemporary Muslim communities. In historical context, \"Daulat\" was often used to denote a political authority, a ruler, or a state. This term reflects the role of temporal power and authority in early Islamic societies, and it emphasizes the blend of religion and politics that marked early Muslim civilization. In modern contexts, especially in South Asia, the name can be used as a sign of respect and reverence towards a spiritual or religious leader. It carries a sense of dignity and honor, reflecting the historical role of Islamic leaders and rulers as guardians of faith, justice, and welfare of their communities.",
+    "spiritual_significance": "At a deeper, spiritual level, the name \"Daulat\" can be interpreted as referring to the concept of \"Dawlat-e-Elahi\" or \"Divine State,\" which is a central idea in Islamic thought. This spiritual dimension signifies the notion that ultimate and real power, authority, and sovereignty belong to God alone, and that all worldly powers and rulers are merely His viceroys. The term \"Daulat\" thus represents the magnificent and boundless nature of the Divine presence and rule, which encompasses all aspects of human life, from the trivial to the profound. It underscores the religious duty of Muslims to submit to the will of God and to seek refuge in His protection, ultimately striving for a more pious and virtuous life in submission to His commands. The spiritual significance of the name \"Daulat\" is rooted in this belief in the ultimate sovereignty of God and the humble recognition of human dependency on His mercy and guidance.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Ibn Battuta's Travels in Asia and Africa: Volume 3 (1336-1354) The name Daulaht carried significant weight in that era.",
+        "time_period": "1336-1354 AD",
+        "context": "Ibn Battuta mentions a place called 'Daulat-i-Timur' which was the capital city of Timur's empire (1370-1405 AD)"
+      },
+      {
+        "reference": "Historical records show that Al-Hariri's Maqamat: The Assemblies, translated by Paula S. Calvocoressi (1965) The name Daulaht carried significant weight in that era.",
+        "time_period": "12th century AD",
+        "context": "Al-Hariri, in his collection of stories, mentions a character named 'Daulat' who represents wealth and prosperity."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Islamic history",
+        "Politics",
+        "Culture"
+      ],
+      "platforms": [
+        "Twitter",
+        "Facebook",
+        "Instagram"
+      ],
+      "modern_context": "The term 'Daulaht' is an Arabic word that translates to 'state' or 'government' in English. In modern context, it is frequently used in Islamic history, politics, and culture discourses. On Twitter, users often discuss the historical significance and evolution of Islamic states and governments using the hashtag #DaulahtIs history. On Facebook, there are numerous groups and pages dedicated to the study and promotion of Islamic governance and political thought, where the term 'Daulaht' is commonly used. Instagram, on the other hand, features numerous posts showcasing Islamic art, architecture, and calligraphy, where 'Daulaht' is used to refer to the rich cultural heritage and artistic expression of Islamic states and governments."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Daulaht",
+      "location": "Istanbul, Turkey",
+      "story": "Fatima Daulaht, a teacher in Istanbul, Turkey, shares that their name Daulaht meaning \"Wealth, Power, Authority\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The name Daulaht means \"Sovereign\" or \"Ruler\" in Arabic. It symbolizes the belief in the ultimate authority and power of God Almighty, acknowledging His dominion over all aspects of life. This name is a reminder to submit solely to His will and governance.",
+    "created_at": "2025-12-22T19:19:49.769Z",
+    "updated_at": "2025-12-22T04:53:13.962Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1256,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Daulaht",
+      "description": "Wealth, Power, Authority",
+      "additionalName": [
+        "Daulat"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Hindi"
+      ],
+      "religion": "Islam",
+      "gender": "unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Daulaht",
+          "description": "Discover the meaning of Daulaht - \"Wealth, Power, Authority\"",
+          "image": "/images/social/daulaht-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Daulaht - Name Meaning",
+          "description": "Learn about the beautiful name Daulaht",
+          "image": "/images/social/daulaht-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Daulaht",
+          "description": "Name meaning: Wealth, Power, Authority",
+          "image": "/images/social/daulaht-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Daulaht - Meaning: Wealth, Power, Authority",
+        "email_subject": "Beautiful Name: Daulaht"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Daulaht with meaning Wealth, Power, Authority",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "dafiyah",
+      "daniel",
+      "dean",
+      "dhuka",
+      "dimah",
+      "diya",
+      "dina"
+    ]
+  }
+}

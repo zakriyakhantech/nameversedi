@@ -1,0 +1,291 @@
+{
+  "success": true,
+  "data": {
+    "name": "Isfahan",
+    "slug": "isfahan",
+    "language": [
+      "Persian",
+      "Arabic"
+    ],
+    "gender": "unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Living Garden",
+    "long_meaning": "Beautiful city or garden",
+    "spiritual_meaning": "A symbol of inner beauty and radiance",
+    "emotional_traits": [
+      "Beauty",
+      "Grace",
+      "Joy"
+    ],
+    "hidden_personality_traits": [
+      "Inner strength",
+      "Resilience"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "#7B68EE",
+      "#F2D6D6"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 1,
+    "numerology_meaning": "Independence, initiation, pioneering",
+    "in_arabic": {
+      "name": "إسفahan",
+      "meaning": "مدينة في إيران، مشهورة بفنونها وعمارتها الإسلامية الجميلة",
+      "long_meaning": "إسفahan هي مدينة تاريخية في إيران، تعتبر واحدة من أقدم المدن في العالم الإسلامي. تأسست المدينة في العصر الساساني، وكانت مركزًا للثقافة والفن الإسلامي في العصور الوسطى. تتميز المدينة بعمارتها الإسلامية الجميلة، بما في ذلك مسجد الجامع، وقصر گلستان، وجسر السي، وغيرها من المعالم التاريخية. يعتبر اسم إسفahan مشتقًا من الكلمة الفارسية القديمة 'إسبادانا'، والتي تعني 'مكان آمن' أو 'مكان محمي'."
+    },
+    "in_urdu": {
+      "name": "اصفہان",
+      "meaning": "ایران کا ایک تاریخی شہر، اسلامی فن اور فن تعمیر کا مرکز",
+      "long_meaning": "اصفہان ایران کا ایک قدیم شہر ہے، جو اسلامی دنیا میں اپنے تاریخی اور ثقافتی اہمیت کے لئے جانا جاتا ہے۔ یہ شہر ساسانی دور میں قائم کیا گیا تھا، اور اسلامی فن اور فن تعمیر کے مرکز کے طور پر خدمات انجام دیں۔ اصفہان اپنے مساجد، محلات، اور پل کے لئے مشہور ہے، جن میں مسجد الجامع، قصر گلستان، اور پل سی سب سے زیادہ قابل ذکر ہیں۔ اصفہان کا نام فارسی قدیم لفظ 'إسبادانا' سے نکلا ہے، جس کا مطلب ہے 'محفوظ مقام' یا 'آمنی مقام'۔"
+    },
+    "in_hindi": {
+      "name": "इस्फ़हान",
+      "meaning": "ईरान का एक ऐतिहासिक शहर, इस्लामी कला और वास्तुकला का केंद्र",
+      "long_meaning": "इस्फ़हान ईरान का एक प्राचीन शहर है, जो इस्लामी दुनिया में अपनी ऐतिहासिक और सांस्कृतिक महत्व के लिए जाना जाता है। यह शहर सासानी काल में स्थापित किया गया था, और इस्लामी कला और वास्तुकला के केंद्र के रूप में कार्य किया। इस्फ़हान अपने मस्जिदों, महलों, और पुलों के लिए प्रसिद्ध है, जिनमें जामा मस्जिद, गोलिस्तान पैलेस, और सी पुल सबसे अधिक उल्लेखनीय हैं। इस्फ़हान का नाम प्राचीन फारसी शब्द 'إسبادانا' से निकला है, जिसका अर्थ है 'सुरक्षित स्थान' या 'आश्रित स्थान'।"
+    },
+    "in_pashto": {
+      "name": "اصفهان",
+      "meaning": "د ایران یو تاریخي ښار، د اسلامي هنر او معمارۍ مرکز",
+      "long_meaning": "اصفهان د ایران یو لرغونی ښار دی، چې د اسلامي نړۍ کې د خپل تاريخي او کلتوري اهميت لپاره پېژندل شوی دی. دا ښار د ساساني دورې په وخت کې تاسیس شوی و، او د اسلامي هنر او معمارۍ د مرکز په توګه يې کار کاوه. اصفهان د خپلو مساجدو، ماڼو، او پلونو لپاره مشهور دی، چې په کې جامع مسجد، گلستان ماڼۍ، او د سي پل تر ټولو ډیر د پام وړ دي. اصفهان نوم د پخواني فارسي کلمې 'إسبادانا' څخه اخستل شوی دی، چې معنی يې 'خوندي ځای' یا 'امن ځای' دی."
+    },
+    "in_english": {
+      "name": "Isfahan",
+      "meaning": "A historic city in Iran, center of Islamic art and architecture",
+      "long_meaning": "Isfahan is an ancient city in Iran, known for its historical and cultural significance in the Islamic world. Founded during the Sassanian era, the city served as a center for Islamic art and architecture. Isfahan is renowned for its mosques, palaces, and bridges, including the Jameh Mosque, Golestan Palace, and Si Bridge. The name Isfahan is derived from the ancient Persian word 'İspadana', meaning 'safe place' or 'protected place'. Throughout history, Isfahan has been a major cultural and spiritual hub, reflecting the rich heritage of Islamic civilization."
+    },
+    "pronunciation": {
+      "english": "iz-fah-HAHN",
+      "urdu": "اسفہان: اُسْفِہان (یزفہان)",
+      "hindi": "इस्फ़हान: इस्फ़हाान",
+      "pashto": "اصفهان: اُسفِهٰن",
+      "ipa": "/ɪsfɑːˈhɑːn/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#IsfahanMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Isfahan"
+    ],
+    "name_variations": [
+      "Isfaan"
+    ],
+    "popularity_score": 54,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 71,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Isfahan Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Isfahan, a beautiful Islam name meaning \"Living Garden\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Isfahan, Islam name, baby names, Living Garden, Islam baby names, name meaning",
+      "description_paragraph": "Isfahan is a meaningful Islam name of Arabic origin that means \"Living Garden\". Beautiful city or garden",
+      "keywords": [
+        "Isfahan",
+        "Islam name",
+        "baby names",
+        "Living Garden",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Isfahan in Islam tradition?",
+          "a": "Isfahan is a beautiful Islam name meaning \"Living Garden\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Isfahan a good Islam name for a baby?",
+          "a": "Yes, Isfahan is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Isfahan?",
+          "a": "The name Isfahan has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Isfahan correctly?",
+          "a": "Isfahan is pronounced iz-fah-HAHN in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Isfahan?",
+          "a": "Naming a child Isfahan brings blessings. The meaning \"Living Garden\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Isfahan?",
+          "a": "Isfahan is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 90,
+      "focus_keyword": "Isfahan meaning",
+      "secondary_keywords": [
+        "Islam name Isfahan",
+        "Isfahan meaning",
+        "Isfahan origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Isfahan\" is synonymous with the cultural richness and historical significance of Iran. Isfahan is known as the \"City of Isfandiyar\", named after the legendry hero, in the Persian epic poetry of Shahnameh. It is noted for its magnificent architecture, grand mosques, intricate Persian gardens, and famous bridges, such as the Si-o-se Pol. The city was once the capital of the Safavid Empire and bears the impressions of diverse Persian, Islamic, and Zoroastrian cultural influences. Isfahan's vibrant artistic and intellectual history continues to inspire contemporary artists and travelers.",
+    "spiritual_significance": "Isfahan holds a significant spiritual meaning for many people, particularly the Islamic community. The name itself denotes beauty and a sense of paradise on Earth. From a religious perspective, Isfahan is home to numerous iconic sites, including the iconic Shah Mosque and Sheikh Lotfallah Mosque, which are filled with exquisite Islamic calligraphy, mosaics, and geometric patterns. These masterpieces serve as a reminder of the spiritual power and transcendence inherent in Islamic art and traditions. Moreover, the city's vibrant atmosphere and rich history serve as a testament to the enduring spirit of the Islamic faith and its people.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Isfahan carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Popular choice for newborns in Muslim communities",
+        "Gaining popularity in Western Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Isfahan remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Isfahan",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Zainab Isfahan, a teacher in Kuala Lumpur, Malaysia, shares that their name Isfahan meaning \"Living Garden\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Living Garden\" symbolizes Beautiful city or garden. In Islamic spirituality, bearing the name Isfahan serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of living garden.",
+    "created_at": "2025-12-22T19:19:49.851Z",
+    "updated_at": "2025-12-22T04:53:14.825Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1159,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Isfahan",
+      "description": "Living Garden",
+      "additionalName": [
+        "Isfaan"
+      ],
+      "knowsLanguage": [
+        "Persian",
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Isfahan",
+          "description": "Discover the meaning of Isfahan - \"Living Garden\"",
+          "image": "/images/social/isfahan-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Isfahan - Name Meaning",
+          "description": "Learn about the beautiful name Isfahan",
+          "image": "/images/social/isfahan-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Isfahan",
+          "description": "Name meaning: Living Garden",
+          "image": "/images/social/isfahan-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Isfahan - Meaning: Living Garden",
+        "email_subject": "Beautiful Name: Isfahan"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Isfahan with meaning Living Garden",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "iqrit",
+      "izzannisa",
+      "inga"
+    ]
+  }
+}

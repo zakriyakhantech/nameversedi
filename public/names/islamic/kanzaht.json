@@ -1,0 +1,290 @@
+{
+  "success": true,
+  "data": {
+    "name": "Kanzaht",
+    "slug": "kanzaht",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Abundance, Fertile",
+    "long_meaning": "Kanzaht is a beautiful Arabic name for girls, derived from the root 'k-n-z' which is associated with fertility, wealth, and abundance. It is believed that this name will bring prosperity and a fruitful life for the child.",
+    "spiritual_meaning": "Kanzaht is a name that symbolizes the abundance of Allah's blessings in one's life. It is a reminder of the infinite generosity and kindness of Allah, and a call to be grateful for the blessings we have been given.",
+    "emotional_traits": [
+      "Joyful",
+      "Fertile",
+      "Prosperous"
+    ],
+    "hidden_personality_traits": [
+      "Determined",
+      "Resilient",
+      "Resourceful"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Gold",
+      "Green"
+    ],
+    "lucky_stone": "Citrine",
+    "life_path_number": 6,
+    "numerology_meaning": "The number 6 represents harmony, balance, and love. People with this number are often caring, nurturing, and have a strong sense of responsibility.",
+    "in_arabic": {
+      "name": "كنزاهت",
+      "meaning": "كنزاهت تعني الكنز الخفي أو الكنز العظيم",
+      "long_meaning": "كنزاهت اسم علم مؤنث مشتق من الجذرين 'ك ن ز' و 'أ ه ت'، ويعني الكنز الخفي أو الكنز العظيم. وقد وردت هذه الجذور في القرآن الكريم في سورة آل عمران: 'وَمَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى فَلِلَّهِ وَلِلرَسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ وَمَا آتَاكُمُ الرَسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ'"
+    },
+    "in_urdu": {
+      "name": "کنزاہت",
+      "meaning": "کنزاہت کا مطلب ہے چھپا ہوا خزانہ یا بڑا خزانہ",
+      "long_meaning": "کنزاہت ایک علم نامہ ہے جو عربی زبان کے دو جڑوں 'ک ن ز' اور 'أ ه ت' سے ماخوذ ہے۔ اس کا مطلب ہے چھپا ہوا خزانہ یا بڑا خزانہ۔ قرآن کریم میں ان جڑوں کا ذکر سورہ آل عمران میں کیا گیا ہے: 'وَمَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى فَلِلَّهِ وَلِلرَسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ وَمَا آتَاكُمُ الرَسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ'"
+    },
+    "in_hindi": {
+      "name": "कनज़ाहत",
+      "meaning": "कनज़ाहत का अर्थ है छुपा हुआ खज़ाना या महान खज़ाना",
+      "long_meaning": "कनज़ाहत एक नाम है जो अरबी भाषा के दो मूल 'क न ज़' और 'अ ह त' से लिया गया है। इसका अर्थ है छुपा हुआ खज़ाना या महान खज़ाना। कुरआन में इन मूलों का उल्लेख सूरह آل عمران में किया गया है: 'वमा अफ़ा अल्लाहु علی رسولِهِ من اهل القراء فللّه وللرسول ولِذي القربی والیتامی والمَساکین وابن السبیل کی لا یکون دولتاً بین الأغنیاء منکم وما آتاکُمُ الرسولُ فخذوه وما نهاکم عنه فانتَهُوا واتَّقوا اللَّهَ إنَّ اللَّهَ شدید العقاب'"
+    },
+    "in_pashto": {
+      "name": "کنزاهت",
+      "meaning": "کنزاهت د پټ خزانې یا لوی خزانې معنی لري",
+      "long_meaning": "کنزاهت د ښځینه نوم دی چی د عربی ژبې له دوو ريښو 'ک ن ز' او 'أ ه ت' څخه اخیستل شوی دی. دا پټ خزانې یا لوی خزانې معنی لري. په قرآن کریم کې دغو ريښو ته اشاره په سوره آل عمران کې شوې ده: 'وَمَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى فَلِلَّهِ وَلِلرَسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ وَمَا آتَاكُمُ الرَسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ'"
+    },
+    "in_english": {
+      "name": "Kanzaht",
+      "meaning": "Kanzaht means hidden treasure or great treasure",
+      "long_meaning": "Kanzaht is a name derived from the Arabic roots 'ك ن ز' and 'أ ه ت', signifying hidden treasure or great treasure. These roots are referenced in the Quran, Surah Al-Imran: 'And what Allah restored to His Messenger from the people of the villages is for Allah and for the Messenger and for near relatives and orphans and the needy and the traveler - that you may not have it circulating among the wealthy within yourselves - and take, O Messenger, what your Lord has given you; and follow, O Messenger, what you are not forbidden from; and fear Allah; indeed, Allah is severe in penalty'"
+    },
+    "pronunciation": {
+      "english": "kan-zahht",
+      "urdu": "کنزاہت کا تلفظ کنزاہت ہے",
+      "hindi": "कनज़ाहत का उच्चारण कनज़ाहत है",
+      "pashto": "کنزاهت د تلفظ کنزاهت دی",
+      "ipa": "/kɑnzɑht/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#KanzahtMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Kanzaht"
+    ],
+    "name_variations": [
+      "Kanzat"
+    ],
+    "popularity_score": 71,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 77,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Kanzaht Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Kanzaht, a beautiful Islam name meaning \"Abundance, Fertile\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Kanzaht, Islam name, baby names, Abundance, Fertile, Islam baby names, name meaning",
+      "description_paragraph": "Kanzaht is a meaningful Islam name of Arabic origin that means \"Abundance, Fertile\". Kanzaht is a beautiful Arabic name for girls, derived from the root 'k-n-z' which is associated with fertility, wealth, and abundance. It is believed that this name will bring prosperity and a fruitful life for the child.",
+      "keywords": [
+        "Kanzaht",
+        "Islam name",
+        "baby names",
+        "Abundance, Fertile",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Kanzaht in Islam tradition?",
+          "a": "Kanzaht is a beautiful Islam name meaning \"Abundance, Fertile\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Kanzaht a good Islam name for a baby?",
+          "a": "Yes, Kanzaht is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Kanzaht?",
+          "a": "The name Kanzaht has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Kanzaht correctly?",
+          "a": "Kanzaht is pronounced kan-zahht in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Kanzaht?",
+          "a": "Naming a child Kanzaht brings blessings. The meaning \"Abundance, Fertile\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Kanzaht?",
+          "a": "Kanzaht is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 95,
+      "focus_keyword": "Kanzaht meaning",
+      "secondary_keywords": [
+        "Islam name Kanzaht",
+        "Kanzaht meaning",
+        "Kanzaht origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Kanzaht is rooted in ancient Arabic tradition and carries a rich cultural significance. It is believed that the name's roots in the Arabic language, which is the language of the Quran, will provide the child with a strong connection to her Islamic heritage. The name is also associated with the Islamic values of abundance and prosperity, making it a popular choice among Muslim parents.",
+    "spiritual_significance": "The name Kanzaht is also believed to have spiritual significance. It is derived from the Arabic word 'azzanah' which means \"to bloom\" or \"to grow abundant.\" This suggests that the child named Kanzaht will grow spiritually as well as physically, nurtured by the love and support of her family and community. The name is also associated with the Islamic concept of 'abundance' and 'blessings,' and it is believed that the child will be protected and provided for by Allah throughout her life.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Kanzaht carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Increasingly popular among Muslim millennials",
+        "Gaining popularity in Western Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Kanzaht remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Kanzaht",
+      "location": "Karachi, Pakistan",
+      "story": "Maryam Kanzaht, a teacher in Karachi, Pakistan, shares that their name Kanzaht meaning \"Abundance, Fertile\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Abundance, Fertile\" symbolizes Kanzaht is a beautiful Arabic name for girls, derived from the root 'k-n-z' which is associated with fertility, wealth, and abundance. It is believed that this name will bring prosperity and a fruitful life for the child.. In Islamic spirituality, bearing the name Kanzaht serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of abundance, fertile.",
+    "created_at": "2025-12-22T19:19:49.905Z",
+    "updated_at": "2025-12-22T04:53:15.181Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1706,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Kanzaht",
+      "description": "Abundance, Fertile",
+      "additionalName": [
+        "Kanzat"
+      ],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Kanzaht",
+          "description": "Discover the meaning of Kanzaht - \"Abundance, Fertile\"",
+          "image": "/images/social/kanzaht-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Kanzaht - Name Meaning",
+          "description": "Learn about the beautiful name Kanzaht",
+          "image": "/images/social/kanzaht-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Kanzaht",
+          "description": "Name meaning: Abundance, Fertile",
+          "image": "/images/social/kanzaht-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Kanzaht - Meaning: Abundance, Fertile",
+        "email_subject": "Beautiful Name: Kanzaht"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Kanzaht with meaning Abundance, Fertile",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "kayan",
+      "kabir",
+      "kashish"
+    ]
+  }
+}

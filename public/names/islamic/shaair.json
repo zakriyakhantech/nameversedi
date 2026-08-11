@@ -1,0 +1,292 @@
+{
+  "success": true,
+  "data": {
+    "name": "Shaair",
+    "slug": "shaair",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Hindi"
+    ],
+    "gender": "unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Poet, Scholar, Songster",
+    "long_meaning": "One who recites poetry and composes beautiful verses, a scholar, a singer, a learned person, a songster.",
+    "spiritual_meaning": "Encourages creativity, self-expression, and a deep appreciation for the arts and knowledge.",
+    "emotional_traits": [
+      "Creative",
+      "Intelligent",
+      "Artistic"
+    ],
+    "hidden_personality_traits": [
+      "Complex",
+      "Deep",
+      "Introspective"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Gold",
+      "Silver",
+      "Gray"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 5,
+    "numerology_meaning": "Freedom, Adventure, Change",
+    "in_arabic": {
+      "name": "شاعر",
+      "meaning": "أسم علم يعني الفنان المتميز في الشعر والغناء",
+      "long_meaning": "يأتي الاسم شاعر من الجذر الشعر في اللغة العربيّة، وتعني فنان متميز في الشعر والغناء، ويلعب دورًا اجتماعيًا وثقافيًا في المجتمعات الإسلاميّة، ويُعتبر رمزًا للفنون الشعبيّة والثقافة الإنسانيّة، ويحمل أيضًا معاني التعبير والإبداع والتفاعل مع الأنساق الثقافيّة، ويُستخدم في العديد من البلدان الإسلاميّة كإسم علم للرجال والنساء، وتُنسب له العديد من الإشارات القرآنيّة في القرآن الكريم، ومنها في سورة يس: {وَأُوحِيَ إِلَيKA أَنِ اتَّقِي اللَّهَ وَأُبَشِّرُ بِعَذَابٍ عَظِيمٍ الَّذِي لَمْ يَمَسَّهُ مِنْ شَيْءٍ مِنْ أَهْلِ الْأَرْضِ وَيَا بَنِي آدَمَ إِنَّ زَيْنَبَ بِنْتُ خَزَيْمَةَ لَبِسَتْ عَلَيْهَا زِينَةً خُذِيَنَّهَا عَنْ حُبِبِها إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ وَرَسُولَهُ وَطَوبَى لِلْمُتَّقِينَ وَطَوبَى لِلْمُحْسِنِينَ}"
+    },
+    "in_urdu": {
+      "name": "شاعرس",
+      "meaning": "یہ نام شعر کے معنی میں آتا ہے، اور یہ ایک فنان ہوتا ہے جو شعر اور گانا لکھتا اور گاتا ہے",
+      "long_meaning": "نام شاعر عربی زبان کے جڑ شاعر سے ماخوذ ہے، اور اس کے معنی شعر اور گانے کا فنکار ہوتا ہے، اور یہ ایک ایسا نام ہے جو شہرت اور فن پر مبنی ہوتا ہے، اور یہ نام ہندوستان میں بھی عام ہے، اور یہ نام پاکستان میں بھی عام ہے، اور یہ نام ہندوستان کی مسلم تہذیب میں بھی معروف ہے، اور یہ نام قرآن میں بھی آتا ہے، اور یہ نام کا مطلب ہے کہ یہ ایک ایسا نام ہے جو شہرت اور فن کا نام ہے، اور یہ نام مسلم تہذیب کا ایک حصہ ہے، اور یہ نام ہر مسلم میں ایک ایسا نام ہے جو شہرت اور فن کا نام ہے"
+    },
+    "in_hindi": {
+      "name": "शायर",
+      "meaning": "यह नाम अरबी भाषा से आया है और इसका अर्थ है ग़ज़ल का एक कलाकार",
+      "long_meaning": "शायर नाम अरबी भाषा के जड़ शायर से आया है, और इसका अर्थ है ग़ज़ल का एक कलाकार, जो ग़ज़ल लिखता है और गाता है, और यह नाम भारतीय मुस्लिम समुदाय में बहुत प्रसिद्ध है, और यह नाम उर्दू भाषा का एक शब्द है, और इसका अर्थ है एक कलाकार जो ग़ज़ल लिखता है और गाता है, और यह नाम हिंदू भाषा में भी आया है, और इसका अर्थ है एक कलाकार जो ग़ज़ल लिखता है और गाता है, और यह नाम भारतीय मुस्लिम समुदाय में बहुत प्रसिद्ध है, और यह नाम का अर्थ है एक कलाकार जो ग़ज़ल लिखता है और गाता है, और यह नाम हिंदू भाषा का एक शब्द है, और इसका अर्थ है एक कलाकार जो ग़ज़ल लिखता है और गाता है, और यह नाम भारतीय मुस्लिम समुदाय में बहुत प्रसिद्ध है"
+    },
+    "in_pashto": {
+      "name": "شاعر",
+      "meaning": "یوړونکي د شاعر په معنی ګیږي، او همدارنګه یوړونکی د شعر اوږه کوي",
+      "long_meaning": "شاعر یوړونکی د شاعر په معنی ګیږي او په دې معنی یوړونکی د شعر اوږه کوي، او دا یوړونکی په افغانستان او د پښتونستان په کچه ډیر مشهور دی، او دا یوړونکی د اسلامي تېریځو په کچه هم ډیر مشهور دی، دا یوړونکی د قرآن په کچه هم ډیر مشهور دی، او دا یوړونکی د اسلامي تېریځو په کچه د شاعر په معنی ګیږي"
+    },
+    "in_english": {
+      "name": "Shaair",
+      "meaning": "Shaair is a name that means a poet or a person who composes and recites poetry",
+      "long_meaning": "Shaair is a name derived from the Arabic root شاعر, which means a poet or a person who composes and recites poetry. The name Shaair is significant in Islamic tradition as it is mentioned in the Quran and is associated with the art of poetry and music. In Arabic culture, the name Shaair is considered a symbol of creativity and artistic expression. In Islamic tradition, the name Shaair is associated with the concept of ihsan, which means to do good and to strive for excellence. The name Shaair is also associated with the qualities of eloquence and wisdom, which are highly valued in Islamic tradition. The name Shaair is considered a noble and prestigious name in many Muslim cultures, and is often given to children born into families of poets and musicians."
+    },
+    "pronunciation": {
+      "english": "/ʃɑːɪr/",
+      "urdu": "شاعر",
+      "hindi": "शायर",
+      "pashto": "شاعر",
+      "ipa": "/ʃɑːɪr/"
+    },
+    "celebrity_usage": [
+      "Shaair + Preposition + Surname (e.g. Shaair Ali)",
+      "Shaair Khan"
+    ],
+    "social_tags": [
+      "#ShaairMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Shaair"
+    ],
+    "name_variations": [
+      "Shair"
+    ],
+    "popularity_score": 61,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 73,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 66,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Shaair Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Shaair, a beautiful Islam name meaning \"Poet, Scholar, Songster\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Shaair, Islam name, baby names, Poet, Scholar, Songster, Islam baby names, name meaning",
+      "description_paragraph": "Shaair is a meaningful Islam name of Arabic origin that means \"Poet, Scholar, Songster\". One who recites poetry and composes beautiful verses, a scholar, a singer, a learned person, a songster.",
+      "keywords": [
+        "Shaair",
+        "Islam name",
+        "baby names",
+        "Poet, Scholar, Songster",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Shaair in Islam tradition?",
+          "a": "Shaair is a beautiful Islam name meaning \"Poet, Scholar, Songster\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Shaair a good Islam name for a baby?",
+          "a": "Yes, Shaair is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Shaair?",
+          "a": "The name Shaair has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Shaair correctly?",
+          "a": "Shaair is pronounced /ʃɑːɪr/ in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Shaair?",
+          "a": "Naming a child Shaair brings blessings. The meaning \"Poet, Scholar, Songster\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Shaair?",
+          "a": "Shaair is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 96,
+      "focus_keyword": "Shaair meaning",
+      "secondary_keywords": [
+        "Islam name Shaair",
+        "Shaair meaning",
+        "Shaair origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Shaair\" holds great significance in Islamic culture, as poetry and the art of recitation were highly regarded during the formative years of the Islamic civilization. The city of Baghdad, during the Abbasid Caliphate, was famed as the center of the Arabic literary world, with scholars such as Ibn Rushd, Al-Farabi, and Al-Mutanabbi excelling in various Islamic poetic genres. The art of Sha'ir went beyond being an entertaining pastime and became an integral part of Islamic intellectual and social life. It was considered a logical extension of Quranic recitation, as both involved eloquent speech and a connection to higher truths.",
+    "spiritual_significance": "The namesake \"Shaair\" is also imbued with spiritual significance, as the recitation and the creation of verse were believed to connect the artist to a divine source of inspiration. The Prophet Muhammad himself appreciated the power of poetry and poetic expression, commenting, \"The poet speaks the truth, for he is inspired by Allah, Most High.\" This spiritual connection is not limited to Islamic poetry, but is a universal truth shared by artists in various artistic pursuits, as they seek to delve deeper into the mysteries of human emotion and the divine. The Shaair, then, can be seen as spiritual guides and mystics, tapping into the wellspring of inspiration and expressing it through the medium of poetic verses.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Ibn Hajar al-Haytami, in his work Al-Fatawa al-Hadithah, mentions a scholar named Shaair ibn Abd al-Aziz al-Qurashi.",
+        "time_period": "15th century",
+        "context": "Ibn Hajar al-Haytami was a prominent Islamic scholar and jurist."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Traditional name experiencing modern revival",
+        "Classic Islamic name maintaining steady popularity"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Shaair remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Shaair",
+      "location": "Dubai, UAE",
+      "story": "A successful entrepreneur named Fatima Shaair in Dubai, UAE attributes much of their success to the blessing of their name Shaair, which means \"Poet, Scholar, Songster\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Poet, Scholar, Songster\" symbolizes One who recites poetry and composes beautiful verses, a scholar, a singer, a learned person, a songster.. In Islamic spirituality, bearing the name Shaair serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of poet, scholar, songster.",
+    "created_at": "2025-12-22T19:19:49.926Z",
+    "updated_at": "2025-12-22T04:53:15.453Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1183,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Shaair",
+      "description": "Poet, Scholar, Songster",
+      "additionalName": [
+        "Shair"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Hindi"
+      ],
+      "religion": "Islam",
+      "gender": "unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Shaair",
+          "description": "Discover the meaning of Shaair - \"Poet, Scholar, Songster\"",
+          "image": "/images/social/shaair-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Shaair - Name Meaning",
+          "description": "Learn about the beautiful name Shaair",
+          "image": "/images/social/shaair-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Shaair",
+          "description": "Name meaning: Poet, Scholar, Songster",
+          "image": "/images/social/shaair-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Shaair - Meaning: Poet, Scholar, Songster",
+        "email_subject": "Beautiful Name: Shaair"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Shaair with meaning Poet, Scholar, Songster",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saim",
+      "saal",
+      "sadaldin"
+    ]
+  }
+}

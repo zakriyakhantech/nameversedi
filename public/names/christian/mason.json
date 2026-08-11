@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "name": "Mason",
+    "slug": "mason",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "christian",
+    "meaning": "Stone worker"
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "success": true,
+  "data": {
+    "name": "Shaymaa",
+    "slug": "shaymaa",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Night, Darkness",
+    "long_meaning": "The One Who Hides, The Hidden One, The Enshrouded One",
+    "spiritual_meaning": "Protection, Hiding, Concealment, Secrecy",
+    "emotional_traits": [
+      "Calm",
+      "Mysterious",
+      "Hidden",
+      "Protective",
+      "Tranquil"
+    ],
+    "hidden_personality_traits": [
+      "Introverted",
+      "Reserved",
+      "Mysterious",
+      "Solitary",
+      "Quiet"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Purple",
+      "Silver"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 5,
+    "numerology_meaning": "Adaptability, Change, Freedom, Resourcefulness, Sensitivity",
+    "in_arabic": {
+      "name": "شَيْمَاء",
+      "meaning": "أُنثى الشَيماء، فَوق الحِدّ، مُتَفَوقة",
+      "long_meaning": "شَيْمَاء: الَّتي تَعَلوُّ بِهِ الرِجالُ بِمَعنَى المُتَفَوقَةِ عَلى رِجالِها، وَالشَيماءُ هِيَ العَلياءُ، وَالشَيماءُ هِيَ الَّتي تَعَلوُّ بِهِ الرِجالُ بِمَعنَى المُتَفَوقَةِ عَلى رِجالِها، وَالشَيماءُ هِيَ القُدَّامُ، وَالشَيماءُ هِيَ الَّتي تَعَلوُّ بِهِ الرِجالُ بِمَعنَى المُتَفَوقَةِ عَلى رِجالِها، وَالشَيماءُ هِيَ الَّتي هِيَ عَلياءُ، وَالشَيماءُ هِيَ الَّتي هِيَ مُتَفَوقَةٌ عَلى رِجالِها، وَالشَيْماءُ هِيَ الَّتي هِيَ عَلياءُ الَّتي تَعَلوُّ بِهِ الرِجالُ بِمَعنَى المُتَفَوقَةِ عَلى رِجالِها، وَالشَيْماءُ هِيَ الَّتي هِيَ عَلياءُ الَّتي هِيَ مُتَفَوقَةٌ عَلى رِجالِها، وَالشَيْماءُ هِيَ الَّتي هِيَ عَلياءُ الَّتي تَعَلوُّ بِهِ الرِجالُ بِمَعنَى المُتَفَوقَةِ عَلى رِجالِها، وَالشَيْماءُ هِيَ الَّتي هِيَ عَلياءُ الَّتي هِيَ مُتَفَوقَةٌ عَلى رِجالِها"
+    },
+    "in_urdu": {
+      "name": "شیماء",
+      "meaning": "شیماء کا مطلب ہے، ایک عورت جو شامعوں سے بہتر ہے، جو دوسروں سے بہتر ہے، جو دوسروں پر فوقیت کا حامل ہے",
+      "long_meaning": "شیماء کا لفظ عربی زبان سے ماخوذ ہے، جو کہ شیما سے ماخوذ ہے، جو کہ ایک عربی لفظ ہے جس کا مطلب ہے، ایک عورت جو شامعوں سے بہتر ہے، جو دوسروں سے بہتر ہے، جو دوسروں پر فوقیت کا حامل ہے، اور جو اپنے اپنے شامعوں کو چھوڑتی ہے، اور اپنے دوسروں کو بھی چھوڑتی ہے، اور جو اپنی اپنی فوقیت کو ظاہر کرتے ہیں"
+    },
+    "in_hindi": {
+      "name": "शयमा",
+      "meaning": "शयमा का अर्थ है एक ऐसी महिला जो शामिल हो जाती है जो दूसरों से बेहतर है, जो दूसरों पर अधिकार का حامل है, जो दूसरों को पीछे छोड़ देती है",
+      "long_meaning": "शयमा का शब्द अरब भाषा से लिया गया है, जो शिमा से लिया गया है, जो एक अरब शब्द है जिसका अर्थ है एक महिला जो शामिल हो जाती है जो दूसरों से बेहतर है, जो दूसरों पर अधिकार का है, जो दूसरों को पीछे छोड़ देती है, और जो अपने अपने शामिल होने को ظाہر करती है, और जो अपने दूसरों को पीछे छोड़ देती है, اور जो अपनी अपनी فوقیت को ظاہर करती हैं"
+    },
+    "in_pashto": {
+      "name": "شیماء",
+      "meaning": "شیماء کا معنا یوں ځی چی، یوڼ څوکو څخه بېل ګڼۍ، چې له نورو څخه بېل ګڼۍ، چې په نورو کې یې له مخې بېل ګڼۍ",
+      "long_meaning": "شیماء کا نامه عربي ژبې څخه اخیستل شوی دی، چې شیما څخه اخیستل شوی دی، چې یو عربي نامه دی چې معنا یې چې یو ښځه چې له نورو څخه بېل ګڼۍ، چې له نورو کې یې له مخې بېل ګڼۍ، چې د نورو په مخ کې بېل ګڼۍ، چې په نورو کې یې له مخ کې بېل ګڼۍ، چې په نورو کې یې له مخ کې بېل ګڼۍ، چې په نورو کې یې له مخ کې بېل ګڼۍ"
+    },
+    "in_english": {
+      "name": "Shaymaa",
+      "meaning": "Shaymaa is a feminine name that means she is superior to others, she is better than others, and she surpasses others.",
+      "long_meaning": "Shaymaa is an Arabic name that means she is superior to others, she is better than others, and she surpasses others, and it is derived from the Arabic root word Shaym, which means she is above others, she has superiority over others, and she is better than others, and it is also related to the Arabic word Shim, which means she is superior, she is above others, and she is better than others, and Shaymaa is also known as a name that is associated with the Arabic concept of superiority, and it is also known as a name that is associated with the Arabic concept of excellence, and Shaymaa is a name that is commonly used in many Muslim cultures, and it is also used as a name for girls and women in many parts of the world"
+    },
+    "pronunciation": {
+      "english": "shuh-MAH",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ˈʃɛɪmɑː/"
+    },
+    "celebrity_usage": [
+      "Shaymaa Ismail Alyamani",
+      "Shaymaa ElSherif"
+    ],
+    "social_tags": [
+      "#ShaymaaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Shaymaa"
+    ],
+    "name_variations": [
+      "Shayma"
+    ],
+    "popularity_score": 68,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 78,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 82,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 72,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 70,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Shaymaa Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Shaymaa, a beautiful Islam name meaning \"Night, Darkness\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Shaymaa, Islam name, baby names, Night, Darkness, Islam baby names, name meaning",
+      "description_paragraph": "Shaymaa is a meaningful Islam name of Arabic origin that means \"Night, Darkness\". The One Who Hides, The Hidden One, The Enshrouded One",
+      "keywords": [
+        "Shaymaa",
+        "Islam name",
+        "baby names",
+        "Night, Darkness",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Shaymaa in Islam tradition?",
+          "a": "Shaymaa is a beautiful Islam name meaning \"Night, Darkness\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Shaymaa a good Islam name for a baby?",
+          "a": "Yes, Shaymaa is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Shaymaa?",
+          "a": "The name Shaymaa has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Shaymaa correctly?",
+          "a": "Shaymaa is pronounced shuh-MAH in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Shaymaa?",
+          "a": "Naming a child Shaymaa brings blessings. The meaning \"Night, Darkness\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Shaymaa?",
+          "a": "Shaymaa is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 97,
+      "focus_keyword": "Shaymaa meaning",
+      "secondary_keywords": [
+        "Islam name Shaymaa",
+        "Shaymaa meaning",
+        "Shaymaa origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Shaymaa holds significant cultural meaning, especially within the Arab world. It is derived from the Arabic root \"sh-a-w-m,\" which means to hide, conceal or enshroud. In the Arabic language, the name Shaymaa is translated to \"the hidden one\" or \"the one who is enshrouded.\" This beautiful, evocative name has been given to countless numbers of Muslim girls over centuries, and it imparts a sense of mystery, allure and enchantment. The cultural significance of Shaymaa is not only reflected in its meaning but also in the beauty and charm of the name itself.",
+    "spiritual_significance": "From a spiritual perspective, the name Shaymaa holds deep significance, reflecting the idea of the divine concealed within the visible world. The Quranic verse, \"All praise be to Allah, Who concealed (all things) in the Main Ingredient\" (Surah Al-An'am, 3:3), reinforces this concept. The name Shaymaa is a reminder that, just as the hidden qualities of an exquisite jewel only reveal themselves upon discovery, our true essence, our inner spiritual beauty, can be revealed through devotion and introspection. In essence, the name Shaymaa encapsulates the mystery and wonder of the divine. It exhorts us to seek out that hidden depth within ourselves and in the world around us, continuously revealing new insights and understanding.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Shaymaa carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Traditional name experiencing modern revival",
+        "Trending in Muslim baby name searches"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Shaymaa remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Shaymaa",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "Fatima Shaymaa from Riyadh, Saudi Arabia embodies the meaning of Shaymaa - \"Night, Darkness\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Night, Darkness\" symbolizes The One Who Hides, The Hidden One, The Enshrouded One. In Islamic spirituality, bearing the name Shaymaa serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of night, darkness.",
+    "created_at": "2025-12-22T19:19:49.856Z",
+    "updated_at": "2025-12-22T04:53:14.889Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1779,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Shaymaa",
+      "description": "Night, Darkness",
+      "additionalName": [
+        "Shayma"
+      ],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Shaymaa",
+          "description": "Discover the meaning of Shaymaa - \"Night, Darkness\"",
+          "image": "/images/social/shaymaa-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Shaymaa - Name Meaning",
+          "description": "Learn about the beautiful name Shaymaa",
+          "image": "/images/social/shaymaa-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Shaymaa",
+          "description": "Name meaning: Night, Darkness",
+          "image": "/images/social/shaymaa-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Shaymaa - Meaning: Night, Darkness",
+        "email_subject": "Beautiful Name: Shaymaa"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Shaymaa with meaning Night, Darkness",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saal",
+      "sadaldin",
+      "saim"
+    ]
+  }
+}

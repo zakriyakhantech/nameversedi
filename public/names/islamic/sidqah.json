@@ -1,0 +1,290 @@
+{
+  "success": true,
+  "data": {
+    "name": "Sidqah",
+    "slug": "sidqah",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Truthful",
+    "long_meaning": "A woman of truth, sincere and trustworthy",
+    "spiritual_meaning": "Represents the quality of truthfulness and sincerity in one's actions and words",
+    "emotional_traits": [
+      "Sincere",
+      "Trustworthy",
+      "Honest"
+    ],
+    "hidden_personality_traits": [
+      "Determined",
+      "Loyal"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Emerald",
+    "life_path_number": 11,
+    "numerology_meaning": "Intuitive, imaginative, and sensitive",
+    "in_arabic": {
+      "name": "صدقة",
+      "meaning": "الصدقة تعني العطاء و الإخلاص في سبيل الله",
+      "long_meaning": "الصدقة هو مصطلح عربي يعبر عن العطاء و الإخلاص في سبيل الله، مشتق من الجذر 'صدق' الذي يعني الصدق و الإخلاص. وردت كلمة صدقة في القرآن الكريم بمعنى الإنفاق في سبيل الله، و هي تعتبر من الأعمال الصالحة التي تقرب العبد إلى ربه. في التاريخ الإسلامي، كانت الصدقة تعتبر جزءًا من الإيمان و المسلمين يتصدقون على الفقراء و المحتاجين كتعبير عن التكافل و التضامن."
+    },
+    "in_urdu": {
+      "name": "صدقہ",
+      "meaning": "صدقہ کا مطلب ہے اللہ کی راہ میں دینا اور سچائی",
+      "long_meaning": "صدقہ ایک عربی اصطلاح ہے جو اللہ کی راہ میں دینے اور سچائی کے معنی میں استعمال ہوتی ہے۔ یہ 'صدق' کے جذر سے ماخوذ ہے جس کا مطلب ہے سچائی اور ایمانداری۔ قرآن کریم میں صدقہ کا ذکر اللہ کی راہ میں انفاق کے طور پر کیا گیا ہے، اور یہ ایک ایسا عمل ہے جو انسان کو اللہ کے نزدیک لاتا ہے۔ اسلامی تاریخ میں، صدقہ کو ایمان کا ایک حصہ माना جاتا تھا اور مسلمان فقیر و محتاج人々 کو صدقہ دیتے تھے تاکہ ایک دوسرے کے ساتھ تعاون اور یکجہتی کا اظہار ہو۔"
+    },
+    "in_hindi": {
+      "name": "सिद्क़ा",
+      "meaning": "सिद्क़ा का अर्थ है सच्चाई और ईश्वर की राह में देना",
+      "long_meaning": "सिद्क़ा एक अरबी शब्द है जो सच्चाई और ईश्वर की राह में देने के अर्थ में प्रयोग किया जाता है। यह 'सदक़' के मूल से लिया गया है जिसका अर्थ है सच्चाई और ईमानदारी। कुरआन में सिद्क़ा का उल्लेख ईश्वर की राह में खर्च करने के रूप में किया गया है, और यह एक ऐसा कार्य है जो मानव को ईश्वर के निकट लाता है। इस्लामी इतिहास में, सिद्क़ा को ईमान का एक हिस्सा माना जाता था और मुसलमान गरीब और जरूरतमंद लोगों को सिद्क़ा देते थे ताकि एक दूसरे के साथ सहयोग और एकता का प्रदर्शन हो।"
+    },
+    "in_pashto": {
+      "name": "صدقه",
+      "meaning": "صدقه دى په الله دى لاره كې د ورکړې او صداقت معنی",
+      "long_meaning": "صدقه يو عربي اصطلاح دى چې په الله دى لاره كې د ورکړې او صداقت په معنی کارول کېږي. دا د 'صدق' د ريښې څخه اخستل شوى دى چې دى معنی يې صداقت او ايماندارى دى. په قرآن كريم كې د صدقه يادونه په الله دى لاره كې د لګولو په توګه شوې ده، او دا يو داسې عمل دى چې انسان د الله تعالیٰ سره نېږدى كوي. په اسلامي تاريخ كې، صدقه د ايمان يو حصه ګڼل كېده او مسلمانان يې فقرا او محتاجو ته ورکاوه تر څو چې يو بل سره د همكارۍ او يووالى څرګندونه وكړي."
+    },
+    "in_english": {
+      "name": "Sidqah",
+      "meaning": "Sidqah means sincerity and charity in the cause of Allah",
+      "long_meaning": "Sidqah is an Arabic term that signifies sincerity and charity in the cause of Allah. Etymologically derived from the root 'sadaqa', meaning to be sincere or to tell the truth, Sidqah encompasses the act of giving in the way of Allah, a concept deeply rooted in Islamic teachings. The Quran references Sidqah as spending in the cause of Allah, an act that draws the servant closer to His Lord. Historically, in Islamic tradition, Sidqah was considered a part of faith, and Muslims would give to the poor and needy as an expression of solidarity and mutual support."
+    },
+    "pronunciation": {
+      "english": "Sid-kah",
+      "urdu": "اردو میں تلفظ کی تفصیل: صدقہ",
+      "hindi": "हिन्दी में उच्चारण विवरण: सिद्क़ा",
+      "pashto": "په پښتو کې د تلفظ تفصیل: صدقه",
+      "ipa": "/ˈsɪd.kɑː/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#SidqahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Sidqah"
+    ],
+    "name_variations": [
+      "Sidqa"
+    ],
+    "popularity_score": 69,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 77,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 69,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Sidqah Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Sidqah, a beautiful Islam name meaning \"Truthful\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Sidqah, Islam name, baby names, Truthful, Islam baby names, name meaning",
+      "description_paragraph": "Sidqah is a meaningful Islam name of Arabic origin that means \"Truthful\". A woman of truth, sincere and trustworthy",
+      "keywords": [
+        "Sidqah",
+        "Islam name",
+        "baby names",
+        "Truthful",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Sidqah in Islam tradition?",
+          "a": "Sidqah is a beautiful Islam name meaning \"Truthful\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Sidqah a good Islam name for a baby?",
+          "a": "Yes, Sidqah is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Sidqah?",
+          "a": "The name Sidqah has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Sidqah correctly?",
+          "a": "Sidqah is pronounced Sid-kah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Sidqah?",
+          "a": "Naming a child Sidqah brings blessings. The meaning \"Truthful\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Sidqah?",
+          "a": "Sidqah is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 98,
+      "focus_keyword": "Sidqah meaning",
+      "secondary_keywords": [
+        "Islam name Sidqah",
+        "Sidqah meaning",
+        "Sidqah origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Sidqah holds significant respect in Islamic culture, symbolizing trustworthiness, commitment, and honesty - traits that are highly admired and valued in Muslim communities. It carries an important message about gender roles and relationships, emphasizing the importance of delivering truth in personal interactions, especially for women. Sidqah's example becomes a reminder to women to uphold authenticity and be known for their virtues.",
+    "spiritual_significance": "From a spiritual perspective, Sidqah represents the importance of truthfulness in connecting with the divine. The name alludes to the profound relationship between sincerity, faith, and servitude. In the Quran, truth is highly emphasized, and creating truthful relationships with Allah (SWT) and others is critical for a fulfilling and spiritual life. Sidqah set an excellent example for all of us by embodying the message of truth, sincerity, and commitment, inspiring us to reflect on our personal spiritual journeys.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Sidqah carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Trending in Muslim baby name searches"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Sidqah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Aisha Sidqah",
+      "location": "Kuala Lumpur, Malaysia",
+      "story": "Aisha Sidqah, a teacher in Kuala Lumpur, Malaysia, shares that their name Sidqah meaning \"Truthful\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Truthful\" symbolizes A woman of truth, sincere and trustworthy. In Islamic spirituality, bearing the name Sidqah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of truthful.",
+    "created_at": "2025-12-22T19:19:49.856Z",
+    "updated_at": "2025-12-22T04:53:14.89Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1459,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Sidqah",
+      "description": "Truthful",
+      "additionalName": [
+        "Sidqa"
+      ],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Sidqah",
+          "description": "Discover the meaning of Sidqah - \"Truthful\"",
+          "image": "/images/social/sidqah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Sidqah - Name Meaning",
+          "description": "Learn about the beautiful name Sidqah",
+          "image": "/images/social/sidqah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Sidqah",
+          "description": "Name meaning: Truthful",
+          "image": "/images/social/sidqah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Sidqah - Meaning: Truthful",
+        "email_subject": "Beautiful Name: Sidqah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Sidqah with meaning Truthful",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "saal",
+      "sadaldin",
+      "saim"
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "success": true,
+  "data": {
+    "name": "Watan",
+    "slug": "watan",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "unisex",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Homeland, country",
+    "long_meaning": "A sense of belonging to a place or community",
+    "spiritual_meaning": "A deep connection to one's roots and heritage",
+    "emotional_traits": [
+      "Loyalty",
+      "Belongingness"
+    ],
+    "hidden_personality_traits": [
+      "Patriotism",
+      "Nationalism"
+    ],
+    "lucky_number": 6,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "Green",
+      "Brown"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 3,
+    "numerology_meaning": "Creativity, Self-Expression, and Communication",
+    "in_arabic": {
+      "name": "وطن",
+      "meaning": "الوطن يعني البلد أو الأرض التي يعتبرها الشخص وطنه",
+      "long_meaning": "الوطن في اللغة العربية يعني البلد أو الأرض التي يعتبرها الشخص وطنه، وهو المكان الذي يرتبط به الشخص ارتباطًا وثيقًا، سواء كان ذلك بسبب الميلاد أو الإقامة أو العمل. وقد وردت كلمة الوطن في القرآن الكريم في عدة مواضع، منها قوله تعالى: 'وَمَن يُهَاجِرْ فِي سَبِيلِ اللَّهِ يَجِدْ فِي الْأَرْضِ مُرَاغَمًا كَثِيرًا وَسَعَةً' (النساء: 100)، حيث تشير الآية إلى الهجرة إلى وطن جديد في سبيل الله."
+    },
+    "in_urdu": {
+      "name": "وطن",
+      "meaning": "وطن کا مطلب ہے ملک یا زمین جسے کوئی شخص اپنا وطن سمجھتا ہے",
+      "long_meaning": "اردو میں وطن کا مطلب ہے ملک یا زمین جسے کوئی شخص اپنا وطن سمجھتا ہے۔ یہ لفظ عربی زبان سے ماخوذ ہے اور اس کا مطلب ہے وہ جگہ جہاں کوئی شخص پیدا ہوا ہو یا رہتا ہو۔ وطن کی اصطلاح ہندوستانی مسلمانوں کے لیے بھی اہم ہے، کیونکہ یہ ان کی قومی اور ثقافتی شناخت کا حصہ ہے۔"
+    },
+    "in_hindi": {
+      "name": "वतन",
+      "meaning": "वतन का अर्थ है देश या भूमि जिसे कोई व्यक्ति अपना वतन मानता है",
+      "long_meaning": "हिंदी में वतन का अर्थ है देश या भूमि जिसे कोई व्यक्ति अपना वतन मानता है। यह शब्द अरबी भाषा से लिया गया है और इसका अर्थ है वह स्थान जहां कोई व्यक्ति पैदा हुआ हो या रहता हो। वतन की अवधारणा भारतीय मुसलमानों के लिए भी महत्वपूर्ण है, क्योंकि यह उनकी राष्ट्रीय और सांस्कृतिक पहचान का हिस्सा है।"
+    },
+    "in_pashto": {
+      "name": "هیواد",
+      "meaning": "هیواد د یو چا د خپل هېواد یا ځمکې معنی لري",
+      "long_meaning": "پښتو کې هیواد د یو چا د خپل هېواد یا ځمکې معنی لري. دا کلمه د عربي ژبې څخه اخیستل شوې ده او د هغې معنی هغه ځای دی چیرې چې یو څوک پیدا شوی یا اوسیږي. د هیواد اصطلاح د افغانانو او پښتنو لپاره مهمه ده، ځکه چې دا د دوی ملي او کلتوري پېژندنې برخه ده."
+    },
+    "in_english": {
+      "name": "Watan",
+      "meaning": "Watan means country or homeland in Arabic and Islamic context",
+      "long_meaning": "The name Watan originates from Arabic roots, specifically 'w-t-n' (وطن), which conveys the meaning of country, homeland, or native land. In Islamic tradition, the concept of Watan refers to one's place of origin, residence, or nation. The term is mentioned in the Quran in the context of migration and seeking a new homeland for the sake of Allah. Throughout Islamic history, Watan has been an essential concept in defining one's identity, loyalty, and belonging. In modern times, the name Watan is used across various Muslim cultures, symbolizing patriotism, national pride, and spiritual connection to one's homeland."
+    },
+    "pronunciation": {
+      "english": "wuh-tahn",
+      "urdu": "اردو میں تلفظ کی تفصیل وطن (wa-tan)",
+      "hindi": "हिन्दी में उच्चारण विवरण वतन (va-tan)",
+      "pashto": "په پښتو کې د تلفظ تفصیل هیواد (hi-wad)",
+      "ipa": "/wɑːtɑːn/"
+    },
+    "celebrity_usage": [
+      "Watani Al-Hariqi (Syrian politician)"
+    ],
+    "social_tags": [
+      "#WatanMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Watan"
+    ],
+    "name_variations": [],
+    "popularity_score": 72,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 68,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 71,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Watan Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Watan, a beautiful Islam name meaning \"Homeland, country\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Watan, Islam name, baby names, Homeland, country, Islam baby names, name meaning",
+      "description_paragraph": "Watan is a meaningful Islam name of Arabic origin that means \"Homeland, country\". A sense of belonging to a place or community",
+      "keywords": [
+        "Watan",
+        "Islam name",
+        "baby names",
+        "Homeland, country",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Watan in Islam tradition?",
+          "a": "Watan is a beautiful Islam name meaning \"Homeland, country\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Watan a good Islam name for a baby?",
+          "a": "Yes, Watan is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Watan?",
+          "a": "The name Watan has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Watan correctly?",
+          "a": "Watan is pronounced wuh-tahn in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Watan?",
+          "a": "Naming a child Watan brings blessings. The meaning \"Homeland, country\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Watan?",
+          "a": "Watan is very popular in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 95,
+      "focus_keyword": "Watan meaning",
+      "secondary_keywords": [
+        "Islam name Watan",
+        "Watan meaning",
+        "Watan origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The Islamic name \"Watan\" holds a significant cultural impact in the Arab world, as it represents a sense of belonging to a place or community. It is a term that is used extensively in the Arabic language to describe one's homeland, country, or locality. The concept of Watan is deeply rooted in the Islamic tradition, where the Prophet Muhammad (peace be upon him) emphasized the importance of loyalty and attachment to one's community and homeland. The Arabic term \"watani\" is derived from the Arabic root \"w-t-n,\" which means \"foundation\" or \"localization,\" reflecting the roots and foundations of one's identity. The cultural impact of the name \"Watan\" is particularly evident in the Arab world, where it is used to evoke a sense of pride and national identity.",
+    "spiritual_significance": "The Islamic name \"Watan\" holds a deep spiritual significance in the Islamic tradition, as it is associated with the idea of being rooted in God and belonging to the larger Islamic community, or Ummah. The Prophet Muhammad (peace be upon him) is reported to have said, \"The believer's approval of his brother is a light [that goes] up for him to the heavens.\" (Muslim). This Hadith underscores the importance of community and brotherhood in Islam, and the concept of Watan is an integral part of this. The spiritual significance of the name \"Watan\" lies in the idea that it is through our connections to our communities and homelands that we can truly connect with God and fulfill our spiritual potential. By nurturing a strong sense of attachment and belonging to our communities, we can foster stronger relationships with one another and with God, leading to a more fulfilling and spiritually enriching life.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Watan was the name of a major city in the Arabian Peninsula during the pre-Islamic era. The name Watan carried significant weight in that era.",
+        "time_period": "Pre-Islamic era",
+        "context": "Watan was an important trading center and a major political power in the Arabian Peninsula before the advent of Islam."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Popular choice for newborns in Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Watan remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Zainab Watan",
+      "location": "Dubai, UAE",
+      "story": "Zainab Watan, a teacher in Dubai, UAE, shares that their name Watan meaning \"Homeland, country\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
+    },
+    "spiritual_symbolism": "The meaning \"Homeland, country\" symbolizes A sense of belonging to a place or community. In Islamic spirituality, bearing the name Watan serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of homeland, country.",
+    "created_at": "2025-12-22T19:19:49.857Z",
+    "updated_at": "2025-12-22T04:53:14.915Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1269,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Watan",
+      "description": "Homeland, country",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "unisex",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Watan",
+          "description": "Discover the meaning of Watan - \"Homeland, country\"",
+          "image": "/images/social/watan-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Watan - Name Meaning",
+          "description": "Learn about the beautiful name Watan",
+          "image": "/images/social/watan-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Watan",
+          "description": "Name meaning: Homeland, country",
+          "image": "/images/social/watan-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Watan - Meaning: Homeland, country",
+        "email_subject": "Beautiful Name: Watan"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Watan with meaning Homeland, country",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}

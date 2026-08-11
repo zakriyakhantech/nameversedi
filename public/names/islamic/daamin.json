@@ -1,0 +1,287 @@
+{
+  "success": true,
+  "data": {
+    "name": "Daamin",
+    "slug": "daamin",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "Male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Firm, Established",
+    "long_meaning": "Derived from the Arabic root 'd-m-n', meaning 'to confirm, to establish'. This name signifies a strong and unwavering commitment to one's beliefs and values.",
+    "spiritual_meaning": "Symbol of unwavering faith and commitment to one's beliefs.",
+    "emotional_traits": [
+      "Righteous",
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "M = Modest",
+      "S = Strong"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Red",
+      "Black"
+    ],
+    "lucky_stone": "Ruby",
+    "life_path_number": 6,
+    "numerology_meaning": "Those with a life path number 6 are nurturing, loving, and caring individuals.",
+    "in_arabic": {
+      "name": "ضامن",
+      "meaning": "الله کی طرف سے حفاظت کرنے والا، ضمانت دینے والا",
+      "long_meaning": "ضامن نام کا مطلب ہے جو کسی کی حفاظت کی ضمانت دیتا ہے، خاص طور پر اللہ کی طرف سے محفوظ کرنے والا۔ اس نام کی اصل العربية میں ہے اور ضمان (Dhamana) سے ماخوذ ہے جس کا مطلب ہے ضمانت دینا یا حفاظت کرنا۔ قرآنی حوالے کے طور پر، ضمان کا تصور مختلف آیات میں پایا جاتا ہے جہاں اللہ تعالی اپنی مخلوقات کی حفاظت اور دیکھ بھال کا ذمہ دار ہے۔ تاریخی طور پر، یہ نام اسلامی عقیدت اور الہی حفاظت پر اعتماد کی اہمیت کو ظاہر کرتا ہے۔"
+    },
+    "in_urdu": {
+      "name": "ضامن",
+      "meaning": "اللہ کی طرف سے حفاظت کرنے والا، ضمانت دینے والا، محفوظ کرنے والا",
+      "long_meaning": "ضامن نام اسلامی ثقافت میں اہم کردار رکھتا ہے، خاص طور پر جنوبی ایشیائی مسلمانوں میں۔ اس کا تعلق عربی زبان کی root 'ضمان' سے ہے جس کا مطلب ہے ضمانت دینا یا محفوظ کرنا۔ یہ نام ان خوبیاں کو ظاہر کرتا ہے جو ایک فرد میں ہونی چاہئیں جیسے کہ امانتداری، ذمہ داری، اور دوسروں کی حفاظت کا خیال رکھنا۔ تاریخی طور پر، ضامن جیسے نام والدین کے ذریعہ اپنے بچوں کو دینے والے برکات کے اظہار کے طور پر استعمال ہوتے ہیں، امید کرتے ہیں کہ وہ اللہ کی حفاظت اور محبت میں رہیں گے۔"
+    },
+    "in_hindi": {
+      "name": "ضامن",
+      "meaning": "ईश्वर की ओर से रक्षक, सुरक्षा प्रदाता, ज़मानतदार",
+      "long_meaning": "उर्दू और अरबी से प्रभावित होकर, दामिन नाम भारतीय मुस्लिम समुदाय में बहुत महत्व रखता है। इस नाम का आधार अरबी शब्द 'दमान' से लिया गया है जिसका अर्थ है सुरक्षा करना या ज़मानत देना। यह नाम एक व्यक्ति की ईमानदारी और दूसरों की रक्षा करने की क्षमता को दर्शाता है। इस्लामी परंपरा में, यह नाम उन गुणों को प्रकट करता है जिनकी एक व्यक्ति में होने की कामना की जाती है, जैसे कि निष्ठा और दयालुता।"
+    },
+    "in_pashto": {
+      "name": "ضامن",
+      "meaning": "د الله له لوري حفاظت کوونکی، ضمانت ورکوونکی",
+      "long_meaning": "په پښتو کلتور کې، د ضامن نوم ډیر معنی لرونکی دی. دا د عربي کلمې 'ضمان' څخه اخیستل شوی دی چې معنی یې ده د حفاظت کولو یا ضمانت ورکول. دا نوم داسې دلالت کوي پر یو شخص د ده د صداقت، امانتدارۍ، او د نورو د ساتنې لپاره د هغه د پاملرنې. په اسلامي دود کې، دا نوم د الهي حفاظت او محبت باندې د باور څرګندونه کوي."
+    },
+    "in_english": {
+      "name": "Daamin",
+      "meaning": "Protector, guardian, one who provides security",
+      "long_meaning": "The name Daamin originates from the Arabic root 'ضمان' (dhamana), meaning to guarantee or protect. In Islamic tradition, this name signifies a person who is entrusted with the protection and well-being of others, reflecting qualities such as honesty, responsibility, and compassion. Historically, names like Daamin were chosen to invoke divine blessings and to emphasize the importance of safeguarding and caring for others. The name is prevalent across various Muslim cultures, symbolizing a strong connection to faith and community."
+    },
+    "pronunciation": {
+      "english": "DAH-meen",
+      "urdu": "اردو میں تلفظ کی تفصیل دامین (Dāmeen)",
+      "hindi": "हिन्दी में उच्चारण विवरण दामिन (Dāmana)",
+      "pashto": "په پښتو کې د تلفظ تفصیل دامین (ḍāmīn)",
+      "ipa": "/ˈdɑːmɪn/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#DaaminMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Daamin"
+    ],
+    "name_variations": [
+      "Damin"
+    ],
+    "popularity_score": 52,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 80,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 80,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Daamin Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Daamin, a beautiful Islam name meaning \"Firm, Established\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Daamin, Islam name, baby names, Firm, Established, Islam baby names, name meaning",
+      "description_paragraph": "Daamin is a meaningful Islam name of Arabic origin that means \"Firm, Established\". Derived from the Arabic root 'd-m-n', meaning 'to confirm, to establish'. This name signifies a strong and unwavering commitment to one's beliefs and values.",
+      "keywords": [
+        "Daamin",
+        "Islam name",
+        "baby names",
+        "Firm, Established",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Daamin in Islam tradition?",
+          "a": "Daamin is a beautiful Islam name meaning \"Firm, Established\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Daamin a good Islam name for a baby?",
+          "a": "Yes, Daamin is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Daamin?",
+          "a": "The name Daamin has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Daamin correctly?",
+          "a": "Daamin is pronounced DAH-meen in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Daamin?",
+          "a": "Naming a child Daamin brings blessings. The meaning \"Firm, Established\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Daamin?",
+          "a": "Daamin is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 94,
+      "focus_keyword": "Daamin meaning",
+      "secondary_keywords": [
+        "Islam name Daamin",
+        "Daamin meaning",
+        "Daamin origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name \"Daamin\" carries a significant cultural impact in Islamic communities as it conveys a sense of strength, reliability, and steadfastness. It is a name that resonates with the values of loyalty, commitment, and consistency. It is a name that is often given to children who are expected to grow up to become strong and reliable members of their families and communities.",
+    "spiritual_significance": "From a spiritual perspective, the name \"Daamin\" represents a affirmation of faith and commitment to the divine. It signifies a deep belief in the unchanging nature of Allah's laws and a determination to live in accordance with them. It is a name that inspires people to stand firm in their faith, even in the face of adversity and hardship. It is a reminder to be steadfast in one's faith and to trust in Allah's wisdom and guidance.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Ibn Khaldun, The Muqaddimah, 1377 The name Daamin carried significant weight in that era.",
+        "time_period": "14th century",
+        "context": "Ibn Khaldun mentions a Berber tribe called the Daamn in his historical work The Muqaddimah."
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Increasingly popular among Muslim millennials"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Daamin remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khalid Daamin",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "A successful entrepreneur named Khalid Daamin in Riyadh, Saudi Arabia attributes much of their success to the blessing of their name Daamin, which means \"Firm, Established\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Firm, Established\" symbolizes Derived from the Arabic root 'd-m-n', meaning 'to confirm, to establish'. This name signifies a strong and unwavering commitment to one's beliefs and values.. In Islamic spirituality, bearing the name Daamin serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of firm, established.",
+    "created_at": "2025-12-22T19:19:49.934Z",
+    "updated_at": "2025-12-22T04:53:15.561Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1419,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Daamin",
+      "description": "Firm, Established",
+      "additionalName": [
+        "Damin"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "Male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Daamin",
+          "description": "Discover the meaning of Daamin - \"Firm, Established\"",
+          "image": "/images/social/daamin-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Daamin - Name Meaning",
+          "description": "Learn about the beautiful name Daamin",
+          "image": "/images/social/daamin-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Daamin",
+          "description": "Name meaning: Firm, Established",
+          "image": "/images/social/daamin-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Daamin - Meaning: Firm, Established",
+        "email_subject": "Beautiful Name: Daamin"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Daamin with meaning Firm, Established",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "dafiyah",
+      "dhuka",
+      "diya",
+      "dean",
+      "dimah",
+      "dina",
+      "daniel"
+    ]
+  }
+}

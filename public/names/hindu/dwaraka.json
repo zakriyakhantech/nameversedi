@@ -1,0 +1,231 @@
+{
+  "success": true,
+  "data": {
+    "name": "Dwaraka",
+    "slug": "dwaraka",
+    "language": [
+      "Hindi",
+      "Sanskrit",
+      "Marathi"
+    ],
+    "gender": "(Male or Female or Unisex)",
+    "origin": "Sanskrit",
+    "religion": "hindu",
+    "category": "Hindu",
+    "short_meaning": "City of Lord Krishna",
+    "long_meaning": "The divine city where Lord Krishna resided, often described as a paradise on earth.",
+    "spiritual_meaning": "A place of divine dwelling and spiritual enlightenment.",
+    "emotional_traits": [
+      "Brave",
+      "Wise",
+      "Compassionate"
+    ],
+    "hidden_personality_traits": [
+      "V = Virtuous",
+      "T = Thoughtful"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Gold",
+      "Blue"
+    ],
+    "lucky_stone": "Blue Sapphire",
+    "life_path_number": 8,
+    "numerology_meaning": "Independent, intuitive, and sensitive, you are a natural leader and problem solver.",
+    "in_sanskrit": {
+      "name": "द्वारका",
+      "meaning": "gateway, door",
+      "long_meaning": "The name Dwaraka is derived from the Sanskrit word 'Dwara' meaning 'gate' and 'Ka' meaning 'water'. It is also called 'Moksha Dwar' or the 'Gateway to Salvation'. The city is believed to have been founded by Lord Krishna himself."
+    },
+    "in_hindi": {
+      "name": "द्वारका",
+      "meaning": "प्रवास द्वार, धवाजा",
+      "long_meaning": "द्वारका नाम संस्कृत के 'द्वार' से उत्पन्न है, जिसका अर्थ 'प्रवास द्वार' या 'धवाजा' है। यह भगवान कृष्ण ने अपनी ओछी से स्थापित किया गया था।"
+    },
+    "in_tamil": {
+      "name": "துவராகம்",
+      "meaning": "உரையாளம், உள்ளவர்கள்",
+      "long_meaning": "The Tamil name for Dwaraka is 'Thuvaraagam'. The word 'Thuvara' in Tamil means 'door' and 'Agam' means 'abode'. So, Dwaraka in Tamil is interpreted as 'The Abode of the Door'."
+    },
+    "in_telugu": {
+      "name": "ద్వారక",
+      "meaning": "పేదపొయ్యెడు, ధేశ",
+      "long_meaning": "The Telugu name for Dwaraka is 'Dvaaraaka'. The word 'Dvaaraa' in Telugu means 'gate' and 'Aaka' means 'city'. So, Dwaraka in Telugu is interpreted as 'The City of the Gate'."
+    },
+    "in_marathi": {
+      "name": "Dwaraka",
+      "meaning": "हिंदू नाव म्हणजे City of Lord Krishna",
+      "long_meaning": "Dwaraka हे एक हिंदू नाव आहे जे भारतीय संस्कृतीत खोल आध्यात्मिक महत्त्व ठेवते। The divine city where Lord Krishna resided, often described as a paradise on earth."
+    },
+    "in_bengali": {
+      "name": "Dwaraka",
+      "meaning": "হিন্দু নাম যার অর্থ City of Lord Krishna",
+      "long_meaning": "Dwaraka একটি হিন্দু নাম যা ভারতীয় সংস্কৃতিতে গভীর আধ্যাত্মিক তাৎপর্য রাখে। The divine city where Lord Krishna resided, often described as a paradise on earth."
+    },
+    "pronunciation": {
+      "english": "d-wah-rah-kah",
+      "hindi": "द्वार-का",
+      "ipa": "dʋaːrəkɑ"
+    },
+    "celebrity_usage": [
+      "Dwarka Khosla (Actress)",
+      "Dwarka Jain (Entrepreneur)"
+    ],
+    "social_tags": [
+      "#DwarakaMeaning",
+      "#HinduBabyNames"
+    ],
+    "name_variations": [
+      "Dwaaraakaa",
+      "Dvaraka"
+    ],
+    "popularity_score": 60,
+    "popularity_by_region": [
+      {
+        "region": "Uttar Pradesh",
+        "country_code": "IN",
+        "score": 68,
+        "year": 2024
+      },
+      {
+        "region": "Maharashtra",
+        "country_code": "IN",
+        "score": 58,
+        "year": 2024
+      },
+      {
+        "region": "Karnataka",
+        "country_code": "IN",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "Gujarat",
+        "country_code": "IN",
+        "score": 79,
+        "year": 2024
+      }
+    ],
+    "vedic_reference": null,
+    "cultural_impact": "The name \"Dwaraka\" is synonymous with the legendary city built by King D Krishna, a shrine for Krishna devotees. This ancient city, believed to be situated on the western coast of India, holds immense cultural significance in Hindu mythology and literature. Dwaraka is depicted as the royal city, a center for learning, philosophical discussions, and spiritual growth, where Lord Krishna lived with his Yadav clan.",
+    "spiritual_significance": "In spiritual terms, Dwaraka is considered a realm of peace, righteousness, and happiness, where Lord Krishna manifested many of his divine Leelas or pastimes. It is said that by entering the realm of Dwaraka, one's mind attains purity, devotion, and fulfillment. Lord Krishna himself is considered as the embodiment of love, courage, and wisdom, and his presence in Dwaraka is symbolic of divine grace and protection. Thus, the name Dwaraka represents not only a physical place but also an emblem of peace, moral values, and spiritual growth.",
+    "historical_references": [
+      {
+        "reference": "Dwaraka is believed to be the capital city of the legendary king Krishna during the Mahabharata period. It is described as a magnificent city, built by the architect Vishwakarma and gifted to Krishna by Indra, the king of gods.",
+        "time_period": "circa 3102 BCE - 3062 BCE",
+        "context": "Mahabharata, Indian mythology"
+      },
+      {
+        "reference": "The archeological site of Dwaraka, located in the Gulf of Kutch, Gujarat, India, is believed to be the ancient city of the same name. It has yielded artifacts dating back to the Indus Valley Civilization, and is mentioned in various Jain and Hindu texts as an important center of trade and pilgrimage.",
+        "time_period": "circa 2600 BCE - 1900 BCE",
+        "context": "Ancient Indian history"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Mythology",
+        "Religion",
+        "Tourism"
+      ],
+      "platforms": [
+        "Twitter",
+        "Instagram",
+        "Google Maps"
+      ],
+      "modern_context": "Dwaraka, an ancient city mentioned in Hindu mythology and religious scriptures, continues to be a popular topic on various digital platforms. On Twitter, users frequently share stories, quotes and images related to the city and its significance in Hindu mythology. On Instagram, there is a growing community of travel bloggers sharing their experiences and photographs from the Dwaraka temples and other tourist attractions. On Google Maps, users can navigate through the Dwaraka city and explore its historical and religious sites, including the Dwarkadheesh Temple, Rukmani Temple, and Gomati Ghat."
+    },
+    "name_in_real_life": {
+      "person_name": "Radha Dwaraka",
+      "location": "Bali, Indonesia",
+      "story": "Radha Dwaraka from Bali, Indonesia embodies the meaning of Dwaraka - \"City of Lord Krishna\". Growing up in a Hindu family, they were taught to honor the spiritual significance of their name and live according to dharma."
+    },
+    "spiritual_symbolism": "Dwaraka signifies the 'threshold to the divine world'. It is believed that entering this sacred realm brings one closer to Lord Krishna and his divine teachings.",
+    "seo": {
+      "seo": {
+        "title": "Dwaraka - City of Lord Krishna in Hinduism",
+        "meta_description": "Discover the meaning, origin, and religious significance of the Sanskrit name Dwaraka, a divine city in Hinduism.",
+        "description_paragraph": "Dwaraka is a Sanskrit name originating from Hinduism, often described as the city of Lord Krishna. This name holds immense religious and cultural value, representing a paradise on earth where Lord Krishna resided. Learn about the origin, cultural and religious usage, and appeal of Dwaraka.",
+        "keywords": [
+          "Dwaraka",
+          "Hinduism",
+          "Sanskrit name",
+          "City of Lord Krishna",
+          "Divine city",
+          "Paradise on earth"
+        ],
+        "faq": [
+          {
+            "q": "What is the meaning of Dwaraka?",
+            "a": "Dwaraka is a Sanskrit name meaning 'City of Lord Krishna' in Hinduism."
+          },
+          {
+            "q": "Is Dwaraka a Hinduism name?",
+            "a": "Yes, Dwaraka is a Sanskrit name originating from Hinduism."
+          },
+          {
+            "q": "How to pronounce Dwaraka?",
+            "a": "dwa-RAH-kah"
+          },
+          {
+            "q": "Is Dwaraka popular today?",
+            "a": "Yes, Dwaraka is a well-known name in Hinduism and holds significant cultural and religious value."
+          },
+          {
+            "q": "What is the origin of Dwaraka?",
+            "a": "Dwaraka is a Sanskrit name originating from Hinduism and is often described as the city of Lord Krishna."
+          }
+        ]
+      },
+      "title": "Dwaraka Name Meaning in Sanskrit | Hinduism",
+      "meta_description": "Discover the meaning of Dwaraka, a beautiful Hindu name meaning \"City of Lord Krishna\". Learn about its Vedic origin, spiritual significance, and cultural importance in Hindu tradition.",
+      "description_paragraph": "Dwaraka is a meaningful Hindu name of Sanskrit origin that means \"City of Lord Krishna\". The divine city where Lord Krishna resided, often described as a paradise on earth. Parents choosing this name for their child seek to bestow blessings and positive attributes upon them.",
+      "keywords": [
+        "Dwaraka",
+        "Hinduism name",
+        "Sanskrit origin",
+        "Dwaraka meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Dwaraka mean?",
+          "a": "Dwaraka means \"City of Lord Krishna\" and is a popular Hindu name with deep spiritual significance."
+        },
+        {
+          "q": "Is Dwaraka a good Hindu name?",
+          "a": "Yes, Dwaraka is a beautiful Hindu name that carries positive meaning and is widely used in Hindu communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Dwaraka?",
+          "a": "Dwaraka has Sanskrit origins and is rooted in Hindu tradition and culture."
+        },
+        {
+          "q": "Is Dwaraka mentioned in the Vedas?",
+          "a": "Dwaraka is a name with Vedic connections and carries significance in Hindu scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Dwaraka?",
+          "a": "Naming a child Dwaraka is believed to bring blessings and embodies the beautiful meaning of \"City of Lord Krishna\", which can inspire positive character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "donations": true,
+      "affiliates": false,
+      "sponsored_posts": false
+    },
+    "updated_at": "2025-12-23T06:38:15.848Z",
+    "similar_sounding_names": [
+      "Sagar",
+      "Nikhil",
+      "Saurav",
+      "Vikas",
+      "Sunil",
+      "Neeraj",
+      "Rajiv",
+      "Sharad",
+      "Mahesh",
+      "Hardik"
+    ]
+  }
+}

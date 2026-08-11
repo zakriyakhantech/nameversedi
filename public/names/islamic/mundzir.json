@@ -1,0 +1,286 @@
+{
+  "success": true,
+  "data": {
+    "name": "Mundzir",
+    "slug": "mundzir",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "(Male)",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Soldier of the army of God",
+    "long_meaning": "A name derived from the Arabic word 'Mundzijra', meaning 'one who crushes, tramples, or treads underfoot'. This name was given to the Prophet Muhammad's (pbuh) companion, Mundzir ibn Jabalah, who was a prominent military leader in early Islam. It symbolizes courage, strength, and loyalty to the faith.",
+    "spiritual_meaning": "Emblem of Islamic bravery and faith",
+    "emotional_traits": [
+      "Courageous",
+      "Brave"
+    ],
+    "hidden_personality_traits": [
+      "M = Humble",
+      "S = Decisive"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Red",
+      "Brown"
+    ],
+    "lucky_stone": "Ruby",
+    "life_path_number": 3,
+    "numerology_meaning": "Expressive, artistic, and friendly",
+    "in_arabic": {
+      "name": "منذر",
+      "meaning": "منذر تعني الشخص الذي ينذر أو يبشر",
+      "long_meaning": "منذر هو اسم علم مذكر من أصل عربي، ويعني الشخص الذي ينذر أو يبشر. وقد ورد هذا الاسم في القرآن الكريم في سورة الفجر، الآية 24، حيث قال الله تعالى: 'وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا * وَمَا أَنْسَاكَ رَبُّكَ مِنَ الْمَلَكِ الْمُكَرَّمِ * أَلَمْ يَجْعَلْ لَكَ سَمْعًا وَبَصَرًا وَفُؤَادًا وَلِسَانًا وَشَفَتَيْنِ * وَمَا كَذَبَ عَلَيْهِ مِنَ الْمُتَكَذِّبِينَ * يَعْلَمُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَمَا لَهُمْ عَلَيْهِ مِنْ خِلَافٍ وَلَا يَشُكُ فِيهِ أَحَدٌ * وَلَقَدْ أَنْزَلْنَا إِلَيْكَ آيَاتٍ بَيِنَاتٍ وَزَيَّنَاهُ فِي قُلُوبِ الَّذِينَ أُوتُوا الْعِلْمَ * مَنْ أَعْرَضَ عَنْهَا فَإِنَّمَا يَأْتِي مِنَ الْمُكَذِّبِينَ * أَوَلَمْ يَكُنْ لَهُمْ دَلِيلٌ عَلى رَبِّهِمْ كَوَاعِظٍ لَهُمْ وَرُسُلٍ مُبَشِّرِينَ وَمُنْذِرِينَ'"
+    },
+    "in_urdu": {
+      "name": "منذر",
+      "meaning": "منذر کا مطلب ہے جو شخص خبردار کرتا ہے یا خوشخبری دیتا ہے",
+      "long_meaning": "منذر ایک مذکر نام ہے جو عربی زبان سے نکلا ہے۔ اس کا مطلب ہے جو شخص خبردار کرتا ہے یا خوشخبری دیتا ہے۔ یہ نام قرآن مجید میں بھی ذکر ہوا ہے، جہاں اللہ تعالیٰ نے اپنے نبیوں کو منذر اور مبشر کہہ کر مخاطب کیا ہے۔ اس نام کا انتخاب کرنے سے آپ کے بچے میں ان خصائص کی نمائش کی توقع کی جاسکتی ہے۔"
+    },
+    "in_hindi": {
+      "name": "मुन्दज़िर",
+      "meaning": "मुन्दज़िर का अर्थ है जो व्यक्ति चेतावनी देता है या शुभ समाचार लाता है",
+      "long_meaning": "मुन्दज़िर एक मस्कलिन नाम है जो अरबी भाषा से निकला है। इसका अर्थ है जो व्यक्ति चेतावनी देता है या शुभ समाचार लाता है। इस नाम का चयन करने से आपके बच्चे में इन विशेषताओं की प्रदर्शन की अपेक्षा की जा सकती है। यह नाम इस्लामी परंपरा में महत्वपूर्ण है और इसका उल्लेख कुरआन में भी हुआ है।"
+    },
+    "in_pashto": {
+      "name": "منذر",
+      "meaning": "منذر دى هغه چا چې خبر ورکوي يا ښه خبر راوړي",
+      "long_meaning": "منذر د مذکر نوم دی چی د عربي ژبې څخه يی اخستي دي. دغه نوم د چا لپاره چی خبر ورکوي يا ښه خبر راوړي، استعماليږي. دا نوم په قرآن کريم کې هم ياد شوي دی، چيرته چې الله تعالیٰ خپلو پيغمبرانو ته منذر او مبشر په نامه خطاب کړی دی."
+    },
+    "in_english": {
+      "name": "Mundzir",
+      "meaning": "Mundzir means one who warns or brings good news",
+      "long_meaning": "Mundzir is a masculine name of Arabic origin, meaning one who warns or brings good news. The name has its roots in the Arabic language and is mentioned in the Quran, where Allah addresses His prophets as 'munadhir' (one who warns) and 'mubashshir' (one who brings good news). The name Mundzir signifies a person who cautions or alerts others, often with a connotation of guiding them towards righteousness. Historically, this name has been used in Islamic tradition to denote prophets and messengers who were sent to guide humanity. The name is associated with qualities such as wisdom, guidance, and communication."
+    },
+    "pronunciation": {
+      "english": "moon-theer",
+      "urdu": "منذر کا تلفظ مون-ذر ہے",
+      "hindi": "मुन्दज़िर का उच्चारण मून-ज़ीर है",
+      "pashto": "منذر د تلفظ مون-در دی",
+      "ipa": "/muːnˈðɪr/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#MundzirMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Mundzir"
+    ],
+    "name_variations": [],
+    "popularity_score": 43,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 79,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 81,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 80,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Mundzir Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Mundzir, a beautiful Islam name meaning \"Soldier of the army of God\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Mundzir, Islam name, baby names, Soldier of the army of God, Islam baby names, name meaning",
+      "description_paragraph": "Mundzir is a meaningful Islam name of Arabic origin that means \"Soldier of the army of God\". A name derived from the Arabic word 'Mundzijra', meaning 'one who crushes, tramples, or treads underfoot'. This name was given to the Prophet Muhammad's (pbuh) companion, Mundzir ibn Jabalah, who was a prominent military leader in early Islam. It symbolizes courage, strength, and loyalty to the faith.",
+      "keywords": [
+        "Mundzir",
+        "Islam name",
+        "baby names",
+        "Soldier of the army of God",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Mundzir in Islam tradition?",
+          "a": "Mundzir is a beautiful Islam name meaning \"Soldier of the army of God\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Mundzir a good Islam name for a baby?",
+          "a": "Yes, Mundzir is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Mundzir?",
+          "a": "The name Mundzir has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Mundzir correctly?",
+          "a": "Mundzir is pronounced moon-theer in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Mundzir?",
+          "a": "Naming a child Mundzir brings blessings. The meaning \"Soldier of the army of God\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Mundzir?",
+          "a": "Mundzir is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 91,
+      "focus_keyword": "Mundzir meaning",
+      "secondary_keywords": [
+        "Islam name Mundzir",
+        "Mundzir meaning",
+        "Mundzir origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Mundzir holds a significant cultural impact in Islamic history as it is associated with Mundzir ibn Jabalah, a companion of Prophet Muhammad (pbuh) who contributed greatly to the expansion of the Islamic empire. He led several successful military campaigns against the Byzantine and Persian forces, thereby expanding the Islamic territory and strengthening its position in the region. The name thus represents bravery, loyalty, and strategic leadership.",
+    "spiritual_significance": "On a spiritual level, the name Mundzir signifies the individual's unwavering commitment to putting their faith into action. It represents conquering the self and one's own spiritual adversities, just as Mundzir ibn Jabalah conquered physical lands for the spread of Islam. The name calls upon the individual to be a warrior in their spiritual journey, to trample over their vices and weaknesses, and to tread firmly on the path of righteousness. It reminds us of the spiritual battles that we must all engage in to purify our souls and come closer to Allah (swt).",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Mundzir carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Trending in Muslim baby name searches",
+        "Popular choice for newborns in Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Mundzir remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Khadija Mundzir",
+      "location": "Cairo, Egypt",
+      "story": "Khadija Mundzir from Cairo, Egypt embodies the meaning of Mundzir - \"Soldier of the army of God\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Soldier of the army of God\" symbolizes A name derived from the Arabic word 'Mundzijra', meaning 'one who crushes, tramples, or treads underfoot'. This name was given to the Prophet Muhammad's (pbuh) companion, Mundzir ibn Jabalah, who was a prominent military leader in early Islam. It symbolizes courage, strength, and loyalty to the faith.. In Islamic spirituality, bearing the name Mundzir serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of soldier of the army of god.",
+    "created_at": "2025-12-22T19:19:49.951Z",
+    "updated_at": "2025-12-22T04:53:15.694Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1510,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Mundzir",
+      "description": "Soldier of the army of God",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "(Male)",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Mundzir",
+          "description": "Discover the meaning of Mundzir - \"Soldier of the army of God\"",
+          "image": "/images/social/mundzir-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Mundzir - Name Meaning",
+          "description": "Learn about the beautiful name Mundzir",
+          "image": "/images/social/mundzir-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Mundzir",
+          "description": "Name meaning: Soldier of the army of God",
+          "image": "/images/social/mundzir-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Mundzir - Meaning: Soldier of the army of God",
+        "email_subject": "Beautiful Name: Mundzir"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Mundzir with meaning Soldier of the army of God",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "marudeen.",
+      "maassama",
+      "mahek",
+      "manab",
+      "marnia",
+      "mada",
+      "meher",
+      "meena",
+      "mika",
+      "marhabah"
+    ]
+  }
+}

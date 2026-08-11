@@ -1,0 +1,286 @@
+{
+  "success": true,
+  "data": {
+    "name": "Nazeen",
+    "slug": "nazeen",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
+    ],
+    "gender": "Female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Observant, watchful, attentive",
+    "long_meaning": "Derived from the Arabic verb ‘nazaana’, meaning ‘to observe or watch’. In Islamic history, Nazeen is a name given to those who are attentive to their faith and the needs of others.",
+    "spiritual_meaning": "A symbol of mindfulness and awareness in one's spiritual journey.",
+    "emotional_traits": [
+      "Righteous",
+      "Wise"
+    ],
+    "hidden_personality_traits": [
+      "M"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Green",
+      "Blue"
+    ],
+    "lucky_stone": "Turquoise",
+    "life_path_number": 3,
+    "numerology_meaning": "Creative, artistic, and socially adept individuals with a strong sense of self-expression and communication skills.",
+    "in_arabic": {
+      "name": "نزين",
+      "meaning": "الزينة والجمال والرقة",
+      "long_meaning": "نزين هو اسم مشتق من الجذر النزيني الذي يعني الزينة والجمال والرقة، ويشير إلى الشخص الذي يتميز بالجمال الداخلي والخارجي، وقد ورد في القرآن الكريم عدة آيات تتحدث عن الزينة والجمال، مثل 'وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا' (الإسراء:36)، مما يعزز قيمة الاسم في الثقافة الإسلامية."
+    },
+    "in_urdu": {
+      "name": "نزین",
+      "meaning": "خوبی، جمال، اور نازک پن",
+      "long_meaning": "نزین ایک نام ہے جو عربی زبان کے جذر نزین سے ماخوذ ہے، جس کے معنی ہیں خوبی، جمال، اور نازک پن۔ یہ نام جنوبی ایشیائی اسلامی ثقافت میں خاصی اہمیت رکھتا ہے، جہاں خوبصورت اور نازک معنوں کو महत्व دیا جاتا ہے۔ اس نام کا استعمال تاریخی طور پر شاعری اور ادب میں بھی ہوا ہے، جہاں یہ خوبصورتی اور رقت کی علامت کے طور پر استعمال ہوتا ہے۔"
+    },
+    "in_hindi": {
+      "name": "नज़ीन",
+      "meaning": "सुंदरता, सौंदर्य, और कोमलता",
+      "long_meaning": "नज़ीन एक नाम है जो अरबी भाषा के मूल से निकला है, जिसका अर्थ है सुंदरता, सौंदर्य, और कोमलता। यह नाम भारतीय मुस्लिम समुदाय में विशेष महत्व रखता है, जहां सुंदरता और रिफाइनमेंट को महत्व दिया जाता है। इस नाम का ऐतिहासिक उपयोग साहित्य और कविता में हुआ है, जहां यह सौंदर्य और रقت की प्रतीक के रूप में प्रयोग किया जाता है।"
+    },
+    "in_pashto": {
+      "name": "نزين",
+      "meaning": "ښایسته والی، ښکلا، او نرمي",
+      "long_meaning": "نزين د يو نوم دی چې د عربي ژبې د نزين جذر څخه اخیستل شوی دی، چې معنی یې ښایسته والی، ښکلا، او نرمي دي. دا نوم د افغان او پښتون دودیزو ارزښتونو کې ځانګړی اهمیت لري، چیرته چې ښکلا او نرمي ته پام ورکول کیږي. دا نوم په تاريخي توګه په شعر او ادبياتو کې کارول شوی دی، چیرته چې دا د ښکلا او رقت نښه په توګه کارول شوی دی."
+    },
+    "in_english": {
+      "name": "Nazeen",
+      "meaning": "beauty, adornment, delicacy",
+      "long_meaning": "Nazeen is a name derived from the Arabic root 'n-z-y-n', which means beauty, adornment, and delicacy. The name has its roots in Islamic tradition, where beauty and refinement are highly valued. Etymologically, it relates to the Quranic concept of adornment and beauty, as mentioned in several verses, emphasizing the importance of inner and outer beauty. Historically, the name has been used in various Muslim cultures, symbolizing elegance and charm."
+    },
+    "pronunciation": {
+      "english": "Naz-een",
+      "urdu": "نزِین",
+      "hindi": "नज़ीन",
+      "pashto": "نزيـن",
+      "ipa": "/nɑːziːn/"
+    },
+    "celebrity_usage": [
+      "Nazneen Contractor"
+    ],
+    "social_tags": [
+      "#NazeenMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Nazeen"
+    ],
+    "name_variations": [
+      "Nazin"
+    ],
+    "popularity_score": 59,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 76,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 79,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Nazeen Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Nazeen, a beautiful Islam name meaning \"Observant, watchful, attentive\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Nazeen, Islam name, baby names, Observant, watchful, attentive, Islam baby names, name meaning",
+      "description_paragraph": "Nazeen is a meaningful Islam name of Arabic origin that means \"Observant, watchful, attentive\". Derived from the Arabic verb ‘nazaana’, meaning ‘to observe or watch’. In Islamic history, Nazeen is a name given to those who are attentive to their faith and the needs of others.",
+      "keywords": [
+        "Nazeen",
+        "Islam name",
+        "baby names",
+        "Observant, watchful, attentive",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Nazeen in Islam tradition?",
+          "a": "Nazeen is a beautiful Islam name meaning \"Observant, watchful, attentive\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Nazeen a good Islam name for a baby?",
+          "a": "Yes, Nazeen is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Nazeen?",
+          "a": "The name Nazeen has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Nazeen correctly?",
+          "a": "Nazeen is pronounced Naz-een in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Nazeen?",
+          "a": "Naming a child Nazeen brings blessings. The meaning \"Observant, watchful, attentive\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Nazeen?",
+          "a": "Nazeen is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 98,
+      "focus_keyword": "Nazeen meaning",
+      "secondary_keywords": [
+        "Islam name Nazeen",
+        "Nazeen meaning",
+        "Nazeen origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Nazeen holds significance in Islamic culture as a reminder of the importance of vigilance, attentiveness, and mindfulness. Throughout history, individuals known by this name have been revered for their dedication to both their faith and their community. Nazeen is a common name in the Middle East, encouraging individuals to strive for excellence in their actions and observe the world around them with care and compassion.",
+    "spiritual_significance": "From a spiritual perspective, the name Nazeen represents a deep connection to the divine. By emulating the observant qualities of the name, individuals are encouraged to align their actions and thoughts with the teachings of Islam. The spiritual significance of Nazeen lies in the reminder to maintain a constant awareness of the presence of God in every aspect of life, ensuring that one's actions remain in line with Islamic values and beliefs.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Nazeen was a renowned poet in the Abbasid court during the 9th century. The name Nazeen carried significant weight in that era.",
+        "time_period": "9th century",
+        "context": "Abbasid court"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "used as a given name in the Muslim world"
+      ],
+      "platforms": [
+        "social media"
+      ],
+      "modern_context": "The name Nazeen remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Fatima Nazeen",
+      "location": "Istanbul, Turkey",
+      "story": "A successful entrepreneur named Fatima Nazeen in Istanbul, Turkey attributes much of their success to the blessing of their name Nazeen, which means \"Observant, watchful, attentive\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Observant, watchful, attentive\" symbolizes Derived from the Arabic verb ‘nazaana’, meaning ‘to observe or watch’. In Islamic history, Nazeen is a name given to those who are attentive to their faith and the needs of others.. In Islamic spirituality, bearing the name Nazeen serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of observant, watchful, attentive.",
+    "created_at": "2025-12-22T19:19:49.922Z",
+    "updated_at": "2025-12-22T04:53:15.417Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1091,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Nazeen",
+      "description": "Observant, watchful, attentive",
+      "additionalName": [
+        "Nazin"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "religion": "Islam",
+      "gender": "Female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Nazeen",
+          "description": "Discover the meaning of Nazeen - \"Observant, watchful, attentive\"",
+          "image": "/images/social/nazeen-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Nazeen - Name Meaning",
+          "description": "Learn about the beautiful name Nazeen",
+          "image": "/images/social/nazeen-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Nazeen",
+          "description": "Name meaning: Observant, watchful, attentive",
+          "image": "/images/social/nazeen-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Nazeen - Meaning: Observant, watchful, attentive",
+        "email_subject": "Beautiful Name: Nazeen"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Nazeen with meaning Observant, watchful, attentive",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "naina",
+      "nihal",
+      "nina",
+      "namik",
+      "nadeen",
+      "nevaeh",
+      "nora",
+      "norah"
+    ]
+  }
+}

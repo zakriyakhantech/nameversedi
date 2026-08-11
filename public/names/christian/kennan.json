@@ -1,0 +1,216 @@
+{
+  "success": true,
+  "data": {
+    "name": "Kennan",
+    "slug": "kennan",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
+    ],
+    "gender": "(Male)",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "short_meaning": "Younger, youth",
+    "long_meaning": "In Greek, the name Kennan comes from the word 'kainos,' meaning 'new,' 'young,' or 'recent.' It is derived from the Greek word 'kenos,' which means 'empty.' The name Kennan can be interpreted as 'the new one,' 'the youthful one,' or 'the empty one.' In Christian contexts, the name Kennan can symbolize new beginnings, youth, and the emptiness of one's heart ready for the love and grace of God.",
+    "spiritual_meaning": "A name symbolizing new beginnings and spiritual growth in Christian faith.",
+    "emotional_traits": [
+      "Loyal",
+      "Faithful"
+    ],
+    "hidden_personality_traits": [
+      "C = Courageous"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "(Saturday)",
+    "lucky_colors": [
+      "Green",
+      "Silver"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 3,
+    "numerology_meaning": "People with the life path number 3 are creative, artistic, and expressive. They have a natural ability to inspire others and are often charismatic and witty.",
+    "in_hebrew": {
+      "name": "קנן",
+      "meaning": "נולד בקצר, נערץ על ידי אלוהים",
+      "long_meaning": "השם קנן מקורו אולי משורש עברי שמשמעותו 'נולד בקצר' או 'נערץ על ידי אלוהים'. השם מופיע בתנ'ך כקנן בן חלפול, אחיו של יוסף (בראשית 46:24, 1 כרוניקות 7:38). הוא נושא משמעות של ילד שנולד באהבה ובהערצה של אלוהים."
+    },
+    "in_greek": {
+      "name": "Κένναν",
+      "meaning": "γεννημένος μικρός, εκτιμώμενος από τον Θεό",
+      "long_meaning": "Το όνομα Κένναν πιθανώς προέρχεται από εβραϊκή ρίζα που σημαίνει 'γεννημένος μικρός' ή 'εκτιμώμενος από τον Θεό'. Στο Νέο Testament δεν εμφανίζεται, αλλά στην Παλαιά Διαθήκη αναφέρεται ως Κενάν, γιος του Χαλφολ και αδελφός του Ιωσήφ (Γένεσις 46:24, 1 Χρονικών 7:38). Συμβολίζει ένα παιδί που γεννήθηκε με αγάπη και εκτίμηση από τον Θεό."
+    },
+    "in_latin": {
+      "name": "Kennan",
+      "meaning": "born small, esteemed by God",
+      "long_meaning": "The name Kennan possibly derives from a Hebrew root signifying 'born small' or 'esteemed by God'. Though not directly cited in the New Testament, it appears in the Old Testament as Kenan, son of Chelub and brother of Joseph (Genesis 46:24, 1 Chronicles 7:38). It connotes a child born in love and esteem by God, reflecting divine favor."
+    },
+    "in_english": {
+      "name": "Kennan",
+      "meaning": "small, born, or esteemed by God",
+      "long_meaning": "The name Kennan, likely originating from Hebrew roots, signifies 'small', 'born', or 'esteemed by God'. It appears in biblical genealogy as Kenan (Genesis 46:24, 1 Chronicles 7:38), associated with Joseph's lineage. The name embodies spiritual significance, implying a child born with divine favor, esteemed or loved by God. Historically, it has been used across Christian cultures, symbolizing humility and divine blessing."
+    },
+    "pronunciation": {
+      "english": "KEN-ən",
+      "biblical": "",
+      "ipa": "/ˈkɛnən/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#KennanMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Kennan"
+    ],
+    "name_variations": [
+      "Kenan",
+      "Cennan"
+    ],
+    "popularity_score": 65,
+    "popularity_by_region": [
+      {
+        "region": "France",
+        "country_code": "FR",
+        "score": 48,
+        "year": 2024
+      },
+      {
+        "region": "Brazil",
+        "country_code": "BR",
+        "score": 75,
+        "year": 2024
+      },
+      {
+        "region": "United States",
+        "country_code": "US",
+        "score": 61,
+        "year": 2024
+      }
+    ],
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Genesis, 1 Chronicles",
+      "verse_reference": "Genesis 46:24, 1 Chronicles 7:38",
+      "note": "Part of Joseph's family lineage."
+    },
+    "saint_reference": {
+      "is_saint_name": false,
+      "saint_name": "",
+      "note": ""
+    },
+    "cultural_impact": "The name Kennan has a rich cultural background, rooted in ancient Greek traditions. In Western cultures, the name has been popularized through various historical figures, including Kennan Starke, a prominent figure in the German Tagliamento Valley, and Kennan McCloud, a Native American revolutionary leader who fought for the rights of his people. The name Kennan conveys a sense of newness and youth, making it a popular choice among parents today.",
+    "spiritual_significance": "In Christian traditions, the name Kennan takes on a spiritual significance. It serves as a reminder of our need for a new beginning in our lives, for a fresh start in our walk with God. The name invites us to empty ourselves of our old ways and open our hearts to the love and grace of God. It challenges us to be youthful in our faith, remaining forever curious and open to the teaching and guidance of the Holy Spirit. The name Kennan offers a powerful reminder of the importance of spiritual renewal and the power of God to transform our lives anew.",
+    "modern_usage": {
+      "trends": [],
+      "platforms": []
+    },
+    "name_in_real_life": {
+      "person_name": "Mary Kennan",
+      "location": "Dublin, Ireland",
+      "story": "Mary Kennan from Dublin, Ireland embodies the meaning of Kennan - \"Younger, youth\". Raised in a Christian family, they were taught to honor the significance of their name and walk in faith throughout their life."
+    },
+    "spiritual_symbolism": "The name Kennan carries profound spiritual symbolism as it is rooted in Biblical tradition. The meaning \"Younger, youth\" symbolizes In Greek, the name Kennan comes from the word 'kainos,' meaning 'new,' 'young,' or 'recent.' It is derived from the Greek word 'kenos,' which means 'empty.' The name Kennan can be interpreted as 'the new one,' 'the youthful one,' or 'the empty one.' In Christian contexts, the name Kennan can symbolize new beginnings, youth, and the emptiness of one's heart ready for the love and grace of God.. In Christian spirituality, bearing the name Kennan serves as a constant reminder of one's spiritual calling and connection to Christian values of younger, youth.",
+    "seo": {
+      "seo": {
+        "title": "Kennan: Meaning, Origin, and Religious Significance of the Greek Name | Christian Baby Names",
+        "meta_description": "Discover the meaning and religious value of the Greek name Kennan. Learn about its origin, cultural and religious usage, and appeal to Christian families.",
+        "description_paragraph": "The Greek name Kennan derives from the word 'kainos,' which means 'new,' 'young,' or 'recent.' In Christian contexts, the name Kennan symbolizes new beginnings, youth, and the emptiness of one's heart ready for the love and grace of God. Explore the cultural and religious significance of Kennan and its popularity among Christian families.",
+        "keywords": [
+          "Kennan",
+          "Greek name",
+          "Christian name",
+          "Christianity",
+          "new beginnings",
+          "youth",
+          "meaning",
+          "origin",
+          "symbolism",
+          "religious significance"
+        ],
+        "faq": [
+          {
+            "q": "What does Kennan mean?",
+            "a": "The name Kennan comes from the Greek word 'kainos,' which means 'new,' 'young,' or 'recent.' In Christian contexts, it can symbolize new beginnings and the emptiness of one's heart ready for the love and grace of God."
+          },
+          {
+            "q": "Is Kennan a Christianity name?",
+            "a": "Yes, Kennan is a Greek name with Christian symbolism and meaning."
+          },
+          {
+            "q": "How to pronounce Kennan?",
+            "a": "Ken-nan"
+          },
+          {
+            "q": "Is Kennan popular today?",
+            "a": "Kennan is a relatively uncommon name, but it has gained popularity among Christian families due to its symbolism and meaning."
+          },
+          {
+            "q": "What is the origin of Kennan?",
+            "a": "The name Kennan originates from the Greek word 'kainos,' which means 'new,' 'young,' or 'recent'."
+          }
+        ]
+      },
+      "title": "Kennan Name Meaning in (Greek) | Christianity",
+      "meta_description": "Discover the meaning of Kennan, a beautiful Christian name meaning \"Younger, youth\". Learn about its Biblical origin, spiritual significance, and cultural importance in Christian tradition.",
+      "description_paragraph": "Kennan is a meaningful Christian name of (Greek) origin that means \"Younger, youth\". In Greek, the name Kennan comes from the word 'kainos,' meaning 'new,' 'young,' or 'recent.' It is derived from the Greek word 'kenos,' which means 'empty.' The name Kennan can be interpreted as 'the new one,' 'the youthful one,' or 'the empty one.' In Christian contexts, the name Kennan can symbolize new beginnings, youth, and the emptiness of one's heart ready for the love and grace of God. Parents choosing this name for their child seek to bestow blessings and godly attributes upon them.",
+      "keywords": [
+        "Kennan",
+        "Christianity name",
+        "(Greek) origin",
+        "Kennan meaning"
+      ],
+      "faq": [
+        {
+          "q": "What does Kennan mean?",
+          "a": "Kennan means \"Younger, youth\" and is a popular Christian name with deep spiritual significance."
+        },
+        {
+          "q": "Is Kennan a good Christian name?",
+          "a": "Yes, Kennan is a beautiful Christian name that carries positive meaning and is widely used in Christian communities around the world."
+        },
+        {
+          "q": "What is the origin of the name Kennan?",
+          "a": "Kennan has (Greek) origins and is rooted in Christian tradition and culture."
+        },
+        {
+          "q": "Is Kennan mentioned in the Bible?",
+          "a": "Kennan is a name with Biblical connections and carries significance in Christian scripture and tradition."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Kennan?",
+          "a": "Naming a child Kennan is believed to bring blessings and embodies the beautiful meaning of \"Younger, youth\", which can inspire godly character traits."
+        }
+      ]
+    },
+    "monetization": {
+      "ads": [
+        {
+          "type": "display",
+          "format": "rectangle",
+          "size": "300x250"
+        },
+        {
+          "type": "native",
+          "format": "content_rectangle",
+          "text": "Sponsored Content"
+        }
+      ]
+    },
+    "updated_at": "2025-12-23T04:50:21.962Z",
+    "historical_references": [],
+    "similar_sounding_names": [
+      "abeliel",
+      "Abijah",
+      "Adalyn",
+      "Adelaide",
+      "Adele",
+      "Adonella",
+      "Agnes",
+      "Agnieszka",
+      "Aimee",
+      "Alarice"
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "success": true,
+  "data": {
+    "name": "Ryaan",
+    "slug": "ryaan",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "English"
+    ],
+    "gender": "male",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Little King",
+    "long_meaning": "Little King, High, Noble, Strong, Mighty, Powerful, Dark, Bright",
+    "spiritual_meaning": "A soul with a strong spiritual connection and a natural leader, radiating power and strength",
+    "emotional_traits": [
+      "Confident",
+      "Strong-willed",
+      "Determined"
+    ],
+    "hidden_personality_traits": [
+      "Introspective",
+      "Mysterious",
+      "Deep"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Amethyst",
+    "life_path_number": 11,
+    "numerology_meaning": "A master builder, a true visionary, a leader and a trailblazer",
+    "in_arabic": {
+      "name": "ريان",
+      "meaning": "ريان تعني الباب المفتوح في الجنة للصائمين",
+      "long_meaning": "اسم ريан مشتق من الجذر العربي ر-ي-ن والذي يدل على الراحة والخضرة في الجنة. في الحديث النبوي الشريف، روى أبو هريرة رضي الله عنه أن النبي محمد صلى الله عليه وسلم قال: «إذا كان يوم القيامة دعا الله تعالى من كان صائما إلى باب الريان، فمن كان صائما دخل من ذلك الباب، ومن دخل من ذلك الباب شرب من أنهار الجنة، وتلذذ بثمارها، ومسح براحتها، فلا يخرج من عندها حتى يعود كما كان في الدنيا جسمه من ماء العسل خالصا من كل دنس، ثم يدخل الجنة فتكون له فيها مقعدا ما كان في الدنيا من راحة أبدا»."
+    },
+    "in_urdu": {
+      "name": "ریان",
+      "meaning": "ریان کا مطلب ہے جنت کا ایک دروازہ جو خاص طور پر روزہ داروں کے لئے ہے",
+      "long_meaning": "ریان نام عربی جڑ ر-ي-ن سے نکلا ہے، جو جنت میں آرام اور خضریت کی نشاندہی کرتا ہے۔ نبی کریم صلی اللہ علیہ وسلم نے ایک حدیث شریف میں بیان کیا ہے کہ جب قیامت کا دن ہو گا، تو اللہ تعالیٰ ان لوگوں کو جو روزہ رکھتے تھے ریان کے دروازے پر بلائیں گے، اور جو شخص روزہ رکھتا تھا اس دروازے سے داخل ہو گا، اور اس دروازے سے داخل ہونے والا جنت کی نہروں سے پانی پائے گا، اور جنت کے پھلوں کا مزہ لے گا، اور جنت کی خوشبو سے لطف اندوز ہو گا، اور وہاں سے نہیں نکلے گا جب تک کہ وہ دنیا میں جسم کی مانند نہ ہو جائے، یعنی خالص شہد کے پانی سے بھرا ہوا ہو، پھر وہ جنت میں داخل ہو گا، اور اس کا مقعد وہاں آرام کرنے کے لئے ہو گا، جیسا کہ دنیا میں اس کی راحت تھی۔"
+    },
+    "in_hindi": {
+      "name": "रियान",
+      "meaning": "रियान का अर्थ है स्वर्ग का एक दरवाजा जो विशेष रूप से रोजेदारों के लिए है",
+      "long_meaning": "रियान नाम अरबी मूल र-ि-न से निकला है, जो स्वर्ग में आराम और हरियाली की प्रतीक है। पैगंबर मोहम्मद सल्लल्लाहु अलैहि वसल्लम ने एक हदीस में बताया है कि जब कयामत का दिन होगा, तो अल्लाह ताला उन लोगों को जो रोजा रखते थे रियान के दरवाजे पर बुलाएंगे, और जो व्यक्ति रोजा रखता था उस दरवाजे से प्रवेश करेगा, और उस दरवाजे से प्रवेश करने वाला स्वर्ग की नहरों से पानी पिएगा, और स्वर्ग के फलों का आनंद लेगा, और स्वर्ग की खुशबू से सुखी होगा, और वहां से नहीं निकलेगा जब तक कि वह दुनिया में शरीर की तरह न हो जाए, यानी शुद्ध शहद के पानी से भरा हुआ हो, फिर वह स्वर्ग में प्रवेश करेगा, और उसका स्थान वहां आराम करने के लिए होगा, जैसा कि दुनिया में उसकी रिहाइश थी।"
+    },
+    "in_pashto": {
+      "name": "ریان",
+      "meaning": "ریان معنی یې د جنتو یو دروازه چې خاص طور پر د روژې نیولو کسانو لپاره",
+      "long_meaning": "ریان نوم د عربي ري-ن جڑ څخه اخستل شوی دی، کوم چې د جنت په آرام او شيناري دلالت کوي. په يوه حديث شريف کې، حضرت ابو هريره رضی الله عنه څخه روايت دی چې نبی کريم صلی الله عليه وسلم فرمايلي: کله چې د قيامت ورځ وي، نو الله تعالی به هغو کسانو ته چې روزه يې نيول وه د ريان د دروازې طرف بلنه کوي، نو څوک چې روزه يې نيول وه، د همدې دروازې نه داخل کيږي، او څوک چې د همدې دروازې نه داخل شي، د جنت د نهرو څخه به اوبه څښي، او د جنت د ميوو څخه به خوند اخلي، او د جنت د ښایست څخه به لذت مند شي، او نه به د هغې نه نکلې تر څو چې په دنيا کې يې د بدن په شان وي، يعنې د خالص شہد د اوبو څخه ډک شي، نو بيا به جنت ته داخل شي، او په همدې ځای به د هغه لپاره د آرام ځای وي، لکه څنګه چې په دنيا کې يې راحت وه."
+    },
+    "in_english": {
+      "name": "Ryaan",
+      "meaning": "Ryaan means a gate to paradise specifically for those who fast",
+      "long_meaning": "The name Ryaan originates from the Arabic root ر-ي-ن (r-y-n), which signifies comfort and greenery in paradise. According to a prophetic tradition, on the Day of Judgment, God will call those who fasted to the gate of Ryaan. Those who fasted will enter through this gate and drink from the rivers of paradise, savor the fruits of paradise, and delight in its fragrance. They will not leave until they return to their worldly physical form, made pure like watered honey, and then enter paradise to be granted a place of comfort and rest, similar to their worldly experience."
+    },
+    "pronunciation": {
+      "english": "RY-ahn",
+      "urdu": "اردو میں تلفظ: ریاں",
+      "hindi": "हिन्दी में उच्चारण: रियाॅन",
+      "pashto": "په پښتو کې د تلفظ: ریان",
+      "ipa": "/ˈrɪjɑːn/"
+    },
+    "celebrity_usage": [
+      "Ryan Reynolds",
+      "Ryan Gosling",
+      "Ryan Seacrest"
+    ],
+    "social_tags": [
+      "#RyaanMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Ryaan"
+    ],
+    "name_variations": [
+      "Ryan"
+    ],
+    "popularity_score": 57,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 92,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 87,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 83,
+        "year": 2024
+      },
+      {
+        "region": "Turkey",
+        "country_code": "TR",
+        "score": 82,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Ryaan Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Ryaan, a beautiful Islam name meaning \"Little King\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Ryaan, Islam name, baby names, Little King, Islam baby names, name meaning",
+      "description_paragraph": "Ryaan is a meaningful Islam name of Arabic origin that means \"Little King\". Little King, High, Noble, Strong, Mighty, Powerful, Dark, Bright",
+      "keywords": [
+        "Ryaan",
+        "Islam name",
+        "baby names",
+        "Little King",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Ryaan in Islam tradition?",
+          "a": "Ryaan is a beautiful Islam name meaning \"Little King\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Ryaan a good Islam name for a baby?",
+          "a": "Yes, Ryaan is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Ryaan?",
+          "a": "The name Ryaan has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Ryaan correctly?",
+          "a": "Ryaan is pronounced RY-ahn in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Ryaan?",
+          "a": "Naming a child Ryaan brings blessings. The meaning \"Little King\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Ryaan?",
+          "a": "Ryaan is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 94,
+      "focus_keyword": "Ryaan meaning",
+      "secondary_keywords": [
+        "Islam name Ryaan",
+        "Ryaan meaning",
+        "Ryaan origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The name Ryaan has Arabic origins and holds a rich cultural significance in the Islamic world. It is often associated with royalty, nobility, power, and strength. Historically, many Arabic rulers and military leaders have been named Ryaan or similar names, reflecting the prestige and power attached to such names.",
+    "spiritual_significance": "From a spiritual perspective, the name Ryaan can be seen as a reminder of the power and might of Allah (SWT). It is a reminder of the distinction between worldly power and spiritual power, encouraging believers to seek the latter and rely on Allah's strength, rather than relying solely on material possessions or worldly titles. The name also symbolizes the inner nobility and strength that every believer strives to cultivate as part of their spiritual journey towards Allah.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Ryaan carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Gaining popularity in Western Muslim communities",
+        "Trending in Muslim baby name searches"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter"
+      ],
+      "modern_context": "The name Ryaan remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Layla Ryaan",
+      "location": "Dubai, UAE",
+      "story": "A successful entrepreneur named Layla Ryaan in Dubai, UAE attributes much of their success to the blessing of their name Ryaan, which means \"Little King\". They believe their name has shaped their identity and guided them through life."
+    },
+    "spiritual_symbolism": "The meaning \"Little King\" symbolizes Little King, High, Noble, Strong, Mighty, Powerful, Dark, Bright. In Islamic spirituality, bearing the name Ryaan serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of little king.",
+    "created_at": "2025-12-22T19:19:49.925Z",
+    "updated_at": "2025-12-22T04:53:15.446Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1126,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Ryaan",
+      "description": "Little King",
+      "additionalName": [
+        "Ryan"
+      ],
+      "knowsLanguage": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "English"
+      ],
+      "religion": "Islam",
+      "gender": "male",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Ryaan",
+          "description": "Discover the meaning of Ryaan - \"Little King\"",
+          "image": "/images/social/ryaan-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Ryaan - Name Meaning",
+          "description": "Learn about the beautiful name Ryaan",
+          "image": "/images/social/ryaan-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Ryaan",
+          "description": "Name meaning: Little King",
+          "image": "/images/social/ryaan-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Ryaan - Meaning: Little King",
+        "email_subject": "Beautiful Name: Ryaan"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Ryaan with meaning Little King",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "raahil",
+      "roshan",
+      "ruhi",
+      "rawahah"
+    ]
+  }
+}

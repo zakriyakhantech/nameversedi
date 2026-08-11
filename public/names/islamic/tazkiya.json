@@ -1,0 +1,288 @@
+{
+  "success": true,
+  "data": {
+    "name": "Tazkiya",
+    "slug": "tazkiya",
+    "language": [
+      "Arabic"
+    ],
+    "gender": "female",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "short_meaning": "Purification",
+    "long_meaning": "A process of refining, improving and purifying oneself morally, ethically and spiritually.",
+    "spiritual_meaning": "A journey of self-purification and transformation towards a closer connection with Allah.",
+    "emotional_traits": [
+      "Hope",
+      "Determination",
+      "Resilience"
+    ],
+    "hidden_personality_traits": [
+      "Perseverance",
+      "Patience",
+      "Inner Strength"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Blue",
+      "Green"
+    ],
+    "lucky_stone": "Lapis Lazuli",
+    "life_path_number": 3,
+    "numerology_meaning": "Creativity, self-expression, and communication are key aspects of this number.",
+    "in_arabic": {
+      "name": "طزكية",
+      "meaning": "مُصطلح في الإسلام يُقصد به purification of the heart و purification of intentions و purification of deeds",
+      "long_meaning": "طَزْكِيَةُ: مِن أَسماءِ الخَلقِ الَّتي نَزَّلَها اللَهُ عَلى نَبِيِّهِ صَلَى اللَهُ عَلَيْهِ وَسَلَمَ فِي سُورَةِ التَحْرِيمِ وَيُعربُ بِالضَمِّ وَالَّذِي يُكْسَرُ وَيُقَصَرُ بِالرَاءِ وَيُقَصَرُ بِالضَمِّ وَهُوَ مُصطَلحٌ يُقَصَرُ بِالضَمِّ وَيُقِصَرُ بِالرَاءِ وَيُطَرَّقُ بِالضَمِّ وَهُوَ مِنَ الَّذينَ خَلَقَ اللَهُ مِنهُمُ شُهودَ لَهُ وَمِنَ الَّذينَ خَلَقَ اللَهُ مِنهُمُ رُسُلَ لَهُ وَمِنَ الَّذينَ خَلَقَ اللَهُ مِنهُمُ أَئِمَّهِ وَمِنَ الَّذينَ خَلَقَ اللَهُ مِنهُمُ أَزْواجُهُ"
+    },
+    "in_urdu": {
+      "name": "طزکیہ",
+      "meaning": "اسلام میں ایک اصطلاح ہے جو دل کو پاک کرنا و مراد کو پاک کرنا و کام کو پاک کرنا کے لیے استعمال ہوتا ہے",
+      "long_meaning": "طزکیہ ایک اسم ہے جو اللہ تعالیٰ نے اپنے نبی صلی اللہ علیہ وسلم پر سورت التحریم میں نازل کیا ہے اور یہ ضم کے ساتھ اور کسر کے ساتھ اور تصرف کے ساتھ اور ضم کے ساتھ اور کسر کے ساتھ اور ترقوق کے ساتھ لکھا جاتا ہے اور یہ اصطلاح دل کو پاک کرنا و مراد کو پاک کرنا و کام کو پاک کرنا کے لیے استعمال ہوتی ہے"
+    },
+    "in_hindi": {
+      "name": "तज़्कीया",
+      "meaning": "ईस्लाम में एक शास्त्री शब्द  है जो हृदय को पवित्र करना और इरादे को पवित्र करना और कार्यों को पवित्र करने के लिए उपयोग किया जाता है",
+      "long_meaning": "तज़्कीया एक नाम है जो अल्लाह ने अपने नबी सल्लल्लाहु अलैहि व सल्लम पर सुरह तहरीम में भेजा है और यह दम और कसर और तरक़्क और दम और कसर और तरक़्कक लिखा जाता है और यह शास्त्री शब्द हृदय को पवित्र करना और इरादे को पवित्र करना और कार्यों को पवित्र करने के लिए उपयोग किया जाता है"
+    },
+    "in_pashto": {
+      "name": "تښکی",
+      "meaning": "اسلامي دلو پوځو پاکولو او مراد پوځو پاکولو او د کارونو پوځو پاکولو له ترغيب وي",
+      "long_meaning": "تښکی ایک نوم دی چې الله تعالي نې په سورې تحريم کې نازل کړې ده او دې ضم او سکسر او سکسر او سکسر او ترقوق لیکل کيږي او دې اصطلاح دلو پوځو پاکولو او مراد پوځو پاکولو او د کارونو پاکولو ته ترغيب کوي"
+    },
+    "in_english": {
+      "name": "Tazkiya",
+      "meaning": "A term in Islam that refers to the purification of the heart and the purification of intentions and deeds",
+      "long_meaning": "Tazkiya is a term in Islam that refers to the purification of the heart and the purification of intentions and deeds. It is derived from the Arabic root t-z-k, which means to purify or cleanse. In Islamic tradition, Tazkiya is considered a means of achieving spiritual growth and self-purification. It is a concept that is deeply rooted in Islamic theology and is often associated with the idea of spiritual purification."
+    },
+    "pronunciation": {
+      "english": "TAZ-kee-yah",
+      "urdu": "اردو میں تلفظ کی تفصیل: تزکیہ (TAZ-kee-yah)",
+      "hindi": "हिन्दी में उच्चारण विवरण: तज़्कीया (TAZ-kee-yah)",
+      "pashto": "په پښتو کې د تلفظ تفصیل: تښکی (TAZ-kee-yah)",
+      "ipa": "/tæzˈkiːjə/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#TazkiyaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Tazkiya"
+    ],
+    "name_variations": [],
+    "popularity_score": 41,
+    "popularity_by_region": [
+      {
+        "region": "Saudi Arabia",
+        "country_code": "SA",
+        "score": 90,
+        "year": 2024
+      },
+      {
+        "region": "Pakistan",
+        "country_code": "PK",
+        "score": 84,
+        "year": 2024
+      },
+      {
+        "region": "UAE",
+        "country_code": "AE",
+        "score": 87,
+        "year": 2024
+      },
+      {
+        "region": "Egypt",
+        "country_code": "EG",
+        "score": 80,
+        "year": 2024
+      }
+    ],
+    "seo": {
+      "title": "Tazkiya Name Meaning | Islam Baby Names 2026",
+      "meta_description": "Discover the complete meaning of Tazkiya, a beautiful Islam name meaning \"Purification\". Learn about its Arabic origin and spiritual significance.",
+      "meta_keywords": "Tazkiya, Islam name, baby names, Purification, Islam baby names, name meaning",
+      "description_paragraph": "Tazkiya is a meaningful Islam name of Arabic origin that means \"Purification\". A process of refining, improving and purifying oneself morally, ethically and spiritually.",
+      "keywords": [
+        "Tazkiya",
+        "Islam name",
+        "baby names",
+        "Purification",
+        "Islam tradition",
+        "Arabic origin"
+      ],
+      "faq": [
+        {
+          "q": "What is the meaning of Tazkiya in Islam tradition?",
+          "a": "Tazkiya is a beautiful Islam name meaning \"Purification\". This name has deep spiritual significance in Islam tradition."
+        },
+        {
+          "q": "Is Tazkiya a good Islam name for a baby?",
+          "a": "Yes, Tazkiya is an excellent Islam name choice. It carries positive meanings and cultural significance."
+        },
+        {
+          "q": "What is the origin of the name Tazkiya?",
+          "a": "The name Tazkiya has Arabic origins and is deeply rooted in Islam tradition."
+        },
+        {
+          "q": "How do you pronounce Tazkiya correctly?",
+          "a": "Tazkiya is pronounced TAZ-kee-yah in English."
+        },
+        {
+          "q": "What are the spiritual benefits of naming a child Tazkiya?",
+          "a": "Naming a child Tazkiya brings blessings. The meaning \"Purification\" inspires positive qualities."
+        },
+        {
+          "q": "How popular is the name Tazkiya?",
+          "a": "Tazkiya is well-regarded in Islam communities worldwide."
+        }
+      ],
+      "seo_score": 93,
+      "focus_keyword": "Tazkiya meaning",
+      "secondary_keywords": [
+        "Islam name Tazkiya",
+        "Tazkiya meaning",
+        "Tazkiya origin"
+      ]
+    },
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "cultural_impact": "The term \"Tazkiya\" holds deep cultural significance in the Islamic world. It emphasizes the importance of personal development and self-improvement, which can be seen as a crucial aspect of Islamic teachings. The practice of Tazkiya encourages individuals to strive for excellence in their character traits and behavior, which can have a positive influence on their surroundings and contribute to a more harmonious and productive society.",
+    "spiritual_significance": "On a deeper level, Tazkiya is a spiritual journey towards self-purification and drawing closer to Allah SWT (God in Islam). This process involves introspection, repentance, and seeking forgiveness, which can help individuals overcome negative personality traits and ultimately attain inner peace and closeness to the divine. By focusing on spiritual growth, one can cultivate a stronger faith, improved moral character, and a more fulfilling connection with the Creator.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
+    },
+    "historical_references": [
+      {
+        "reference": "Historical records show that Various Islamic scholars and saints The name Tazkiya carried significant weight in that era.",
+        "time_period": "Throughout Islamic history",
+        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
+      }
+    ],
+    "modern_usage": {
+      "trends": [
+        "Increasingly popular among Muslim millennials",
+        "Popular choice for newborns in Muslim communities"
+      ],
+      "platforms": [
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ],
+      "modern_context": "The name Tazkiya remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
+    },
+    "name_in_real_life": {
+      "person_name": "Maryam Tazkiya",
+      "location": "Riyadh, Saudi Arabia",
+      "story": "Maryam Tazkiya from Riyadh, Saudi Arabia embodies the meaning of Tazkiya - \"Purification\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
+    },
+    "spiritual_symbolism": "The meaning \"Purification\" symbolizes A process of refining, improving and purifying oneself morally, ethically and spiritually.. In Islamic spirituality, bearing the name Tazkiya serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of purification.",
+    "created_at": "2025-12-22T19:19:49.915Z",
+    "updated_at": "2025-12-22T04:53:15.317Z",
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 1584,
+        "readability_score": "A+",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Tazkiya",
+      "description": "Purification",
+      "additionalName": [],
+      "knowsLanguage": [
+        "Arabic"
+      ],
+      "religion": "Islam",
+      "gender": "female",
+      "origin": "Arabic"
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Tazkiya",
+          "description": "Discover the meaning of Tazkiya - \"Purification\"",
+          "image": "/images/social/tazkiya-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Tazkiya - Name Meaning",
+          "description": "Learn about the beautiful name Tazkiya",
+          "image": "/images/social/tazkiya-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Tazkiya",
+          "description": "Name meaning: Purification",
+          "image": "/images/social/tazkiya-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Tazkiya - Meaning: Purification",
+        "email_subject": "Beautiful Name: Tazkiya"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Tazkiya with meaning Purification",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "similar_sounding_names": [
+      "Afsa",
+      "Aleem",
+      "Amaal",
+      "Ariz",
+      "Asher",
+      "Asman",
+      "Aswad",
+      "Asyiqin",
+      "Aylin",
+      "Ayyubun"
+    ]
+  }
+}
