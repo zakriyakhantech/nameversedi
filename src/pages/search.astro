@@ -1,120 +1,170 @@
 ---
-import Layout from "../layouts/Layout.astro";
+import Layout from '../layouts/Layout.astro';
 
 const { q } = Astro.url.searchParams;
-const query = (q || '').trim().toLowerCase();
+const query = (q || '').trim();
+const queryLower = query.toLowerCase();
+const pageTitle = query
+  ? `"${query}" — Baby Name Search Results | NameVerse`
+  : 'Search 42,000+ Baby Names by Meaning, Origin or Religion | NameVerse';
 ---
 
-<Layout title={query ? `Search results for "${query}" | NameVerse` : "Search names | NameVerse"} description="Search baby names by meaning, origin, religion or keyword.">
-  <main class="nv-page min-h-screen">
-    <div class="nv-container nv-section">
-      <div class="mx-auto max-w-4xl">
-        <h1 class="nv-display text-3xl font-bold text-nv-text sm:text-4xl">Search Names</h1>
-        <p class="mt-2 text-nv-text-secondary">Search 65,000+ Islamic, Hindu, Christian and global names.</p>
+<Layout
+  title={pageTitle}
+  description={query
+    ? `Baby name search results for "${query}" across Islamic, Hindu, Christian and Italian traditions.`
+    : 'Search 42,000+ baby names by meaning, origin, religion or keyword. Instant results across Islamic, Hindu, Christian and Italian traditions.'}
+>
+  <div class="container-page py-10 sm:py-14">
+    <div class="mx-auto max-w-3xl">
+      <header class="mb-8 text-center">
+        <span class="eyebrow">Instant search</span>
+        <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-4xl">Search Names</h1>
+        <p class="mt-3 text-nv-text-secondary">
+          Search 42,000+ Islamic, Hindu, Christian and Italian names by meaning, origin or keyword.
+        </p>
+      </header>
 
-        <form action="/search" method="get" class="mt-6 flex gap-2">
-          <input
-            type="search"
-            name="q"
-            value={query}
-            placeholder="Search names, meanings, origins..."
-            autocomplete="off"
-            class="flex-1 rounded-2xl border border-nv-border bg-white px-4 py-3 text-sm text-nv-text placeholder:text-nv-text-muted focus:outline-none focus:ring-2 focus:ring-[color:var(--nv-accent-2)]"
-          />
-          <button
-            type="submit"
-            class="rounded-2xl bg-[color:var(--nv-ink)] px-6 py-3 text-sm font-bold text-white transition hover:bg-slate-800"
-          >
-            Search
-          </button>
-        </form>
+      <form action="/search" method="get" class="flex gap-2">
+        <input
+          type="search"
+          id="search-input"
+          name="q"
+          value={query}
+          placeholder="Try a name, meaning or origin…"
+          autocomplete="off"
+          class="input flex-1"
+        />
+        <button type="submit" class="btn-primary shrink-0">Search</button>
+      </form>
 
-        {query && (
-          <div class="mt-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted">Results for "{query}"</h2>
-            <div id="search-results" class="mt-4 space-y-3">
-              <p class="text-sm text-nv-text-muted">Loading results...</p>
-            </div>
-          </div>
-        )}
+      <p class="mt-3 text-xs text-nv-text-muted">
+        Try:
+        <a href="/search?q=light" class="font-semibold text-nv-accent hover:underline">light</a>,
+        <a href="/search?q=love" class="ml-1 font-semibold text-nv-accent hover:underline">love</a>,
+        <a href="/search?q=wisdom" class="ml-1 font-semibold text-nv-accent hover:underline">wisdom</a>,
+        <a href="/search?q=arabic" class="ml-1 font-semibold text-nv-accent hover:underline">arabic</a>
+      </p>
+
+      <div class="mt-8">
+        <div id="search-status" class="mb-4 text-sm font-semibold text-nv-text-secondary" data-query={queryLower} aria-live="polite"></div>
+        <div id="search-results" class="space-y-3"></div>
       </div>
     </div>
-  </main>
+  </div>
 
-  {query && (
-    <script>
-      (function() {
-        const query = `${query}`;
-        const resultsContainer = document.getElementById('search-results');
-        if (!resultsContainer) return;
+  <script>
+    (function () {
+      const input = document.getElementById('search-input');
+      const statusEl = document.getElementById('search-status');
+      const resultsEl = document.getElementById('search-results');
+      if (!input || !resultsEl) return;
 
-        const religionLabels = {
-          christian: 'Christian',
-          hindu: 'Hindu',
-          islamic: 'Islamic',
-          italian: 'Italian'
-        };
+      const religions = ['islamic', 'christian', 'hindu', 'italian'];
+      const religionLabels = { christian: 'Christian', hindu: 'Hindu', islamic: 'Islamic', italian: 'Italian' };
+      const religionBadge = {
+        christian: 'bg-christian-soft text-christian',
+        hindu: 'bg-hindu-soft text-hindu',
+        islamic: 'bg-islamic-soft text-islamic',
+        italian: 'bg-italian-soft text-italian',
+      };
 
-        const religionColors = {
-          christian: 'bg-blue-50 text-blue-700',
-          hindu: 'bg-orange-50 text-orange-700',
-          islamic: 'bg-emerald-50 text-emerald-700',
-          italian: 'bg-green-50 text-green-700'
-        };
+      let indexes = null;
+      let loading = null;
+      let lastQuery = '';
 
-        async function search() {
-          try {
-            const [christian, hindu, islamic, italian] = await Promise.all([
-              fetch('/names/christian/_search-index.json').then(r => r.json()),
-              fetch('/names/hindu/_search-index.json').then(r => r.json()),
-              fetch('/names/islamic/_search-index.json').then(r => r.json()),
-              fetch('/names/italian/_search-index.json').then(r => r.json())
-            ]);
+      function escapeHtml(s) {
+        return String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+      }
 
-            const indexes = [
-              ...christian.map(item => ({ ...item, religion: 'christian' })),
-              ...hindu.map(item => ({ ...item, religion: 'hindu' })),
-              ...islamic.map(item => ({ ...item, religion: 'islamic' })),
-              ...italian.map(item => ({ ...item, religion: 'italian' }))
-            ];
+      function loadIndexes() {
+        if (loading) return loading;
+        loading = Promise.all(
+          religions.map((r) =>
+            fetch(`/names/${r}/_search-index.json`)
+              .then((res) => res.json())
+              .then((items) => items.map((item) => ({ ...item, religion: r })))
+          )
+        )
+          .then((arrays) => {
+            indexes = arrays.flat();
+            return indexes;
+          })
+          .catch(() => {
+            indexes = [];
+            return indexes;
+          });
+        return loading;
+      }
 
-            const filtered = indexes.filter(item =>
-              item.name.toLowerCase().includes(query) ||
-              item.slug.toLowerCase().includes(query) ||
-              (item.meaning && item.meaning.toLowerCase().includes(query))
-            );
-
-            if (!filtered.length) {
-              resultsContainer.innerHTML = '<p class="text-sm text-nv-text-muted">No matching names found.</p>';
-              return;
-            }
-
-            resultsContainer.innerHTML = filtered.slice(0, 50).map(item => {
-              const href = `/names/${item.religion}/${item.slug}`;
-              return `
-                <a href="${href}" class="flex items-center justify-between gap-3 rounded-xl border border-nv-border bg-white p-4 transition hover:bg-nv-surface-subtle">
-                  <div class="min-w-0">
-                    <div class="text-sm font-bold text-nv-text">${item.name}</div>
-                    <div class="mt-0.5 text-xs text-nv-text-muted">${item.meaning || 'Meaning not available'}</div>
-                  </div>
-                  <span class="shrink-0 rounded-full px-2.5 py-1 text-xs font-bold ${religionColors[item.religion] || 'bg-gray-100 text-gray-700'}">${religionLabels[item.religion] || item.religion}</span>
-                </a>
-              `;
-            }).join('');
-
-            if (filtered.length > 50) {
-              const more = document.createElement('p');
-              more.className = 'text-xs text-nv-text-muted mt-3';
-              more.textContent = `Showing 50 of ${filtered.length} results.`;
-              resultsContainer.appendChild(more);
-            }
-          } catch (e) {
-            resultsContainer.innerHTML = '<p class="text-sm text-red-600">Failed to load search results. Please try again.</p>';
-          }
+      function render(query) {
+        if (!indexes) return;
+        const q = query.trim().toLowerCase();
+        lastQuery = q;
+        if (!q) {
+          statusEl.textContent = '';
+          resultsEl.innerHTML = '';
+          return;
         }
 
-        search();
-      })();
-    </script>
-  )}
+        // Rank: name prefix match first, then name substring, then meaning.
+        const prefix = [];
+        const nameMatch = [];
+        const meaningMatch = [];
+        for (const item of indexes) {
+          const name = item.name.toLowerCase();
+          const meaning = (item.meaning || '').toLowerCase();
+          if (name.startsWith(q)) prefix.push(item);
+          else if (name.includes(q)) nameMatch.push(item);
+          else if (meaning.includes(q)) meaningMatch.push(item);
+          if (prefix.length + nameMatch.length + meaningMatch.length >= 300) break;
+        }
+        const filtered = [...prefix, ...nameMatch, ...meaningMatch];
+
+        statusEl.textContent = filtered.length
+          ? `${filtered.length} result${filtered.length === 1 ? '' : 's'} for "${query.trim()}"`
+          : `No results for "${query.trim()}" — try a shorter keyword or a meaning like "light".`;
+
+        resultsEl.innerHTML = filtered
+          .slice(0, 50)
+          .map(
+            (item) => `
+              <a href="/names/${item.religion}/${item.slug}" class="card card-hover flex items-center justify-between gap-3 p-4">
+                <span class="min-w-0">
+                  <span class="block truncate text-sm font-bold text-nv-text">${escapeHtml(item.name)}</span>
+                  <span class="mt-0.5 block truncate text-xs text-nv-text-muted">${escapeHtml(item.meaning || 'Meaning not available')}</span>
+                </span>
+                <span class="badge shrink-0 ${religionBadge[item.religion] || 'bg-nv-subtle text-nv-text-secondary'}">${religionLabels[item.religion] || item.religion}</span>
+              </a>`
+          )
+          .join('');
+
+        if (filtered.length > 50) {
+          const more = document.createElement('p');
+          more.className = 'pt-2 text-center text-xs text-nv-text-muted';
+          more.textContent = `Showing 50 of ${filtered.length} results — refine your search to see fewer, better matches.`;
+          resultsEl.appendChild(more);
+        }
+      }
+
+      async function runSearch(query) {
+        if (!indexes) {
+          statusEl.textContent = 'Loading name database…';
+          await loadIndexes();
+        }
+        render(query);
+      }
+
+      // Debounced live search as the user types
+      let timer;
+      input.addEventListener('input', () => {
+        clearTimeout(timer);
+        timer = setTimeout(() => runSearch(input.value), 200);
+      });
+
+      // Initial run when arriving with ?q=
+      const initial = (statusEl.dataset.query || '').trim();
+      if (initial) runSearch(input.value);
+    })();
+  </script>
 </Layout>

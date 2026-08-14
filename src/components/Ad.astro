@@ -1,0 +1,55 @@
+---
+// NameVerse — Reusable Ad Component (Revolthem)
+// Use this component instead of duplicating ad scripts everywhere.
+// Usage: <Ad placement="inline" /> or <Ad placement="bottom" />
+
+export interface Props {
+  placement?: "inline" | "bottom" | "sidebar";
+}
+
+const { placement = "inline" } = Astro.props;
+
+// Unique container ID per placement to allow multiple ad slots on a page.
+// Revolthem's invoke.js targets the id in its container divs.
+// Each placement variant gets a unique ID to avoid duplicate DOM ids.
+const adContainerId = placement === "inline"
+  ? "container-c90e1cf06dc7451f1fd3d33c703af951"
+  : `container-${placement}-c90e1cf06dc7451f1fd3d33c703af951`;
+
+---
+
+<div class="nv-ad-wrapper" data-ad-placement={placement}>
+  <div id={adContainerId} class="nv-ad-container"></div>
+</div>
+
+<style>
+  .nv-ad-wrapper {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* Reserved min-height prevents CLS */
+    min-height: 90px;
+    overflow: hidden;
+    margin: 1.5rem 0;
+  }
+
+  @media (min-width: 768px) {
+    .nv-ad-wrapper {
+      min-height: 100px;
+    }
+  }
+
+  .nv-ad-container {
+    width: 100%;
+    max-width: 300px;
+    text-align: center;
+  }
+
+  @media (min-width: 728px) {
+    .nv-ad-container {
+      max-width: 728px;
+    }
+  }
+</style>

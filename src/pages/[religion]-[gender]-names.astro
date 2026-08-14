@@ -1,6 +1,7 @@
 ---
-import Layout from "../layouts/Layout.astro";
-import { getManifest } from "../lib/data/astro-data.mjs";
+import Layout from '../layouts/Layout.astro';
+import NameCard from '../components/NameCard.astro';
+import { getManifest } from '../lib/data/astro-data.mjs';
 
 export async function getStaticPaths() {
   const religions = ['islamic', 'christian', 'hindu', 'italian'];
@@ -29,29 +30,36 @@ const items = (manifest[religion] || [])
   .slice(0, 200);
 
 const religionLabel = religion.charAt(0).toUpperCase() + religion.slice(1);
+const genderLabel = gender.charAt(0).toUpperCase() + gender.slice(1);
 ---
 
-<Layout title={`${religionLabel} ${gender.charAt(0).toUpperCase() + gender.slice(1)} Names | NameVerse`} description={`Browse ${gender} ${religion} names with meanings and origins.`}>
-  <main class="nv-page min-h-screen">
-    <div class="nv-container nv-section">
-      <div class="mx-auto max-w-5xl">
-        <h1 class="nv-display text-3xl font-bold text-nv-text sm:text-4xl">{religionLabel} {gender.charAt(0).toUpperCase() + gender.slice(1)} Names</h1>
-        <p class="mt-2 text-nv-text-secondary">Browse {gender} {religion} names with meanings and origins.</p>
+<Layout
+  title={`${genderLabel}s' ${religionLabel} Baby Names & Meanings | NameVerse`}
+  description={`Browse ${items.length}+ ${religionLabel.toLowerCase()} ${gender} baby names with verified meanings, origins and lucky numbers. Free, updated for 2026.`}
+>
+  <div class="container-page py-10 sm:py-14">
+    <div class="mx-auto max-w-6xl">
+      <header class="mb-8">
+        <span class="eyebrow">{religionLabel} &bull; {genderLabel} names</span>
+        <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-4xl">
+          {religionLabel} {genderLabel} Names
+        </h1>
+        <p class="mt-3 max-w-2xl text-nv-text-secondary">
+          Hand-picked {gender} names from the {religionLabel.toLowerCase()} tradition, each with a
+          verified meaning and origin.
+        </p>
+      </header>
 
-        <div class="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {
-            items.map((item) => (
-              <a
-                href={`/names/${religion}/${item.slug}`}
-                class="rounded-xl border border-nv-border bg-white p-4 transition hover:bg-nv-surface-subtle"
-              >
-                <div class="text-sm font-bold text-nv-text">{item.name}</div>
-                <div class="mt-1 text-xs text-nv-text-muted">{item.meaning || item.origin || ''}</div>
-              </a>
-            ))
-          }
-        </div>
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        {items.map((item) => <NameCard item={item} />)}
       </div>
+
+      <p class="mt-10 text-center text-sm text-nv-text-muted">
+        Looking for more?
+        <a href={`/names/${religion}/letter/a`} class="font-semibold text-nv-accent hover:underline">
+          Browse all {religionLabel.toLowerCase()} names A–Z
+        </a>
+      </p>
     </div>
-  </main>
+  </div>
 </Layout>

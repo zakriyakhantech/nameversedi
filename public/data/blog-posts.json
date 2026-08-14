@@ -1,150 +1,300 @@
 [
   {
-    "id": "top-islamic-baby-names-2026",
-    "title": "Top Islamic Baby Names for 2026",
-    "subtitle": "Quranic and modern Muslim names trending this year",
-    "excerpt": "Explore the most searched Muslim baby names this year with meanings and origins. From classic Quranic names to modern Arabic choices, find the perfect Islamic name for your child.",
-    "category": "Islamic Names",
-    "author": "NameVerse Editorial Team",
-    "authorCredentials": "Baby Name Research Specialist",
-    "publishDate": "2026-01-15",
-    "lastUpdated": "2026-01-15",
-    "readTime": "8 min read",
-    "featured": true,
-    "featuredImage": "/og-trending-names.png",
-    "tags": ["islamic names", "muslim baby names", "quranic names", "baby names 2026", "arabic names"],
-    "seoKeywords": "top islamic baby names 2026, muslim baby names, quranic names, arabic baby names, modern islamic names",
-    "content": {
-      "introduction": "Choosing an Islamic baby name is a deeply meaningful decision for Muslim parents. Names carry spiritual weight, cultural identity, and family heritage. In 2026, parents are gravitating toward names that balance traditional Quranic roots with modern, easy-to-pronounce forms.",
-      "sections": [
-        {
-          "title": "Classic Quranic Names",
-          "content": "Quranic names remain the most popular choice for Muslim families. These names are directly mentioned in the Holy Quran and carry profound spiritual significance. Names like Muhammad, Ali, Yusuf, Aisha, Fatima, and Khadijah continue to top the charts across Muslim communities worldwide.",
-          "featuredNames": ["Muhammad", "Ali", "Yusuf", "Aisha", "Fatima"]
-        },
-        {
-          "title": "Modern Arabic Names",
-          "content": "Modern Arabic names blend classical roots with contemporary appeal. Parents in 2026 are choosing names like Rayan, Zain, Amira, and Omar that sound fresh while maintaining deep Arabic linguistic roots. These names work well across multiple cultures and are easy to pronounce internationally.",
-          "featuredNames": ["Rayan", "Zain", "Amira", "Omar", "Layla"]
-        },
-        {
-          "title": "Names with Beautiful Meanings",
-          "content": "The meaning behind a name is paramount in Islamic tradition. Names like Noor (light), Iman (faith), and Salam (peace) reflect the values parents want to instill in their children. Each name tells a story and carries a dua (prayer) for the child's future.",
-          "featuredNames": ["Noor", "Iman", "Salam", "Jannah", "Rahma"]
-        }
-      ],
-      "faqs": [
-        {
-          "q": "What are the most popular Islamic baby names in 2026?",
-          "a": "The most popular Islamic baby names in 2026 include Muhammad, Ali, Yusuf, Aisha, Fatima, Rayan, Zain, Amira, Noor, and Omar. These names balance Quranic tradition with modern appeal."
-        },
-        {
-          "q": "Are Islamic names only for Muslim families?",
-          "a": "While Islamic names have religious significance, many names with Arabic and Quranic origins are used across different cultures and faiths due to their beautiful meanings and sounds."
-        },
-        {
-          "q": "How do I choose a Quranic name for my baby?",
-          "a": "Choose a Quranic name by researching its meaning, pronunciation in your family's language, and how it pairs with your surname. Consider names mentioned in the Quran that have positive meanings and are easy to call daily."
-        }
-      ]
-    }
-  },
-  {
-    "id": "hindu-baby-names-meanings",
-    "title": "Hindu Baby Names with Deep Meanings",
-    "subtitle": "Sanskrit and Vedic names that carry spiritual significance",
-    "excerpt": "Sanskrit and Vedic names that carry spiritual significance and cultural heritage. Discover the meanings behind popular Hindu baby names and find one that resonates with your family's values.",
-    "category": "Hindu Names",
+    "id": "jewish-baby-names-torah",
+    "title": "Jewish Baby Names Rooted in the Torah",
+    "subtitle": "Hebrew names carrying centuries of tradition and meaning",
+    "excerpt": "Discover Hebrew baby names drawn from the Torah, Talmud, and modern Israeli culture. From patriarchal names to nature-inspired Hebrew words, find a name that connects your child to Jewish heritage.",
+    "category": "Jewish Names",
     "author": "NameVerse Editorial Team",
     "authorCredentials": "Cultural Names Researcher",
-    "publishDate": "2026-01-10",
-    "lastUpdated": "2026-01-10",
+    "publishDate": "2026-02-05",
+    "lastUpdated": "2026-02-05",
     "readTime": "7 min read",
     "featured": true,
     "featuredImage": "/og-trending-names.png",
-    "tags": ["hindu names", "sanskrit names", "vedic names", "baby names 2026", "indian baby names"],
-    "seoKeywords": "hindu baby names, sanskrit names, vedic baby names, indian baby names, hindu name meanings",
+    "tags": ["jewish names", "hebrew names", "torah names", "baby names 2026", "israeli names"],
+    "seoKeywords": "jewish baby names, hebrew baby names, torah names, israeli baby names, jewish name meanings",
     "content": {
-      "introduction": "Hindu baby names are rooted in thousands of years of Sanskrit literature, Vedic traditions, and mythological stories. Each name carries a vibration, a deity connection, and a meaning that parents hope will guide their child's life path.",
+      "introduction": "Jewish baby names draw on thousands of years of Hebrew scripture, rabbinic tradition, and the living culture of modern Israel. Many families choose names to honor a deceased relative, mark a Torah portion, or simply carry forward a name with deep linguistic roots.",
       "sections": [
         {
-          "title": "Vedic and Sanskrit Roots",
-          "content": "Vedic names originate from ancient Sanskrit texts including the Vedas, Upanishads, and Puranas. Names like Aarav, Vihaan, and Diya connect children to India's spiritual heritage. Sanskrit is considered a divine language, and names from this tradition are believed to carry positive energy.",
-          "featuredNames": ["Aarav", "Vihaan", "Diya", "Advait", "Saanvi"]
+          "title": "Patriarchal and Matriarchal Names",
+          "content": "Names of the biblical patriarchs and matriarchs remain foundational choices for Jewish families. Names like Avraham, Yitzchak, Yaakov, Sarah, Rivka, and Rachel connect a child directly to the founding stories of the Jewish people and are still given generation after generation.",
+          "featuredNames": ["Avraham", "Yitzchak", "Yaakov", "Sarah", "Rivka"]
         },
         {
-          "title": "Deity-Inspired Names",
-          "content": "Many Hindu parents choose names inspired by deities such as Krishna, Shiva, Lakshmi, and Ganesha. These names carry devotional significance and remind families of divine qualities they hope to nurture in their children.",
-          "featuredNames": ["Krishna", "Shiva", "Lakshmi", "Ganesh", "Radha"]
+          "title": "Modern Israeli Names",
+          "content": "Contemporary Israeli culture has produced a wave of Hebrew names that feel fresh while staying linguistically rooted. Names such as Eitan, Noa, Omer, and Shira are common both in Israel and among diaspora families who want a modern Hebrew sound.",
+          "featuredNames": ["Eitan", "Noa", "Omer", "Shira", "Liora"]
         },
         {
-          "title": "Nature and Virtue Names",
-          "content": "Hindu names often draw from nature (Prithvi, Vayu, Surya) and virtues (Dharma, Satya, Prema). These names reflect the Hindu worldview that sees the divine in all aspects of creation and values moral character above all.",
-          "featuredNames": ["Surya", "Vayu", "Dharma", "Prema", "Satya"]
+          "title": "Names of Nature and Blessing",
+          "content": "Many Hebrew names describe natural elements or express a hope or blessing. Ilan (tree), Tal (dew), Ariel (lion of God), and Yael (mountain goat) are examples of names that tie a child's identity to the land and language of Israel.",
+          "featuredNames": ["Ilan", "Tal", "Ariel", "Yael", "Nili"]
         }
       ],
       "faqs": [
         {
-          "q": "What are the best Hindu baby names for 2026?",
-          "a": "Popular Hindu baby names for 2026 include Aarav, Vihaan, Diya, Advait, Saanvi, Krishna, and Lakshmi. These names blend tradition with modern appeal."
+          "q": "What are popular Jewish baby names in 2026?",
+          "a": "Popular Jewish baby names in 2026 include Eitan, Noa, Avraham, Sarah, Omer, Shira, and Yael, blending biblical roots with modern Israeli style."
         },
         {
-          "q": "Do Hindu names have specific meanings?",
-          "a": "Yes, most Hindu names have specific Sanskrit meanings related to virtues, deities, nature, or spiritual concepts. For example, Aarav means 'peaceful' and Diya means 'lamp' or 'light'."
+          "q": "Why do many Jewish families name babies after relatives?",
+          "a": "In Ashkenazi tradition, babies are often named after a deceased relative as a way of honoring their memory, while some Sephardic families name children after living relatives to pass on a blessing."
         },
         {
-          "q": "Can I choose a Hindu name if I am not Hindu?",
-          "a": "While Hindu names have cultural and religious significance, many are appreciated globally for their beautiful meanings and sounds. However, it's respectful to understand the cultural context before choosing one."
+          "q": "Do Hebrew names need to match a Torah portion?",
+          "a": "It's not required, but some families choose a name connected to the Torah portion read around the baby's birth or naming ceremony as an added layer of meaning."
         }
       ]
     }
   },
   {
-    "id": "christian-baby-names-bible",
-    "title": "Christian Baby Names from the Bible",
-    "subtitle": "Timeless biblical names with Hebrew and Greek roots",
-    "excerpt": "Timeless biblical names with Hebrew and Greek roots explained. Discover the history and meaning behind classic Christian names that have endured for millennia.",
-    "category": "Christian Names",
+    "id": "sikh-baby-names-gurbani",
+    "title": "Sikh Baby Names Inspired by Gurbani",
+    "subtitle": "Punjabi and Gurmukhi names rooted in Sikh scripture and values",
+    "excerpt": "Explore Sikh baby names inspired by the Guru Granth Sahib and Punjabi tradition. Learn the meanings behind gender-neutral Sikh names and the significance of the Guru's blessing in naming ceremonies.",
+    "category": "Sikh Names",
     "author": "NameVerse Editorial Team",
-    "authorCredentials": "Biblical Studies Consultant",
-    "publishDate": "2025-12-20",
-    "lastUpdated": "2025-12-20",
+    "authorCredentials": "Cultural Names Researcher",
+    "publishDate": "2026-02-08",
+    "lastUpdated": "2026-02-08",
     "readTime": "6 min read",
-    "featured": true,
+    "featured": false,
     "featuredImage": "/og-trending-names.png",
-    "tags": ["christian names", "biblical names", "bible names", "hebrew names", "greek names"],
-    "seoKeywords": "christian baby names, biblical names, bible names, hebrew names, greek baby names",
+    "tags": ["sikh names", "punjabi names", "gurmukhi names", "baby names 2026", "gurbani names"],
+    "seoKeywords": "sikh baby names, punjabi baby names, gurmukhi names, sikh name meanings, gender neutral sikh names",
     "content": {
-      "introduction": "Christian baby names have a rich heritage spanning Hebrew, Greek, and Latin traditions. Many of the most enduring names come directly from the Bible, carrying stories of faith, courage, and divine purpose.",
+      "introduction": "Sikh baby names are traditionally chosen through the Guru Granth Sahib, where the scripture is opened at random and the child's name begins with the first letter of the first hymn on the page. Many Sikh names are deliberately gender-neutral, reflecting the faith's emphasis on equality.",
       "sections": [
         {
-          "title": "Old Testament Names",
-          "content": "Old Testament names like David, Sarah, Jacob, and Rebecca have been staples of Christian naming for centuries. These Hebrew names carry narratives of covenant, promise, and faithfulness that continue to inspire parents today.",
-          "featuredNames": ["David", "Sarah", "Jacob", "Rebecca", "Daniel"]
+          "title": "Names from the Guru Granth Sahib",
+          "content": "The tradition of naming through the Guru Granth Sahib produces names like Gurpreet, Harjot, Simran, and Amrit, which are rooted directly in scripture. These names often carry meanings tied to divine love, light, or connection to the Guru.",
+          "featuredNames": ["Gurpreet", "Harjot", "Simran", "Amrit", "Jaspreet"]
         },
         {
-          "title": "New Testament Names",
-          "content": "New Testament names such as John, Mary, Peter, and James reflect the apostolic era. These Greek and Hebrew names represent the early church and the spread of the gospel message throughout the ancient world.",
-          "featuredNames": ["John", "Mary", "Peter", "James", "Andrew"]
+          "title": "Gender-Neutral Punjabi Names",
+          "content": "Because Sikhism teaches the equality of all people, many traditional names such as Manpreet, Ravneet, and Gurleen are used for both boys and girls, often distinguished later by the suffix Singh (lion) for males or Kaur (princess) for females.",
+          "featuredNames": ["Manpreet", "Ravneet", "Gurleen", "Jaspal", "Amanpreet"]
         },
         {
-          "title": "Virtue and Saint Names",
-          "content": "Christian tradition also includes virtue names like Faith, Hope, and Charity, as well as saint names that honor revered figures in church history. These names express aspirations for the child's character and spiritual journey.",
-          "featuredNames": ["Faith", "Hope", "Grace", "Paul", "Stephan"]
+          "title": "Names Meaning Light and Devotion",
+          "content": "Many Sikh names express spiritual concepts like light, devotion, and grace. Names such as Noor-inspired Punjabi variants, Simar (remembrance of God), and Harleen (absorbed in God) reflect the community's focus on devotion in daily life.",
+          "featuredNames": ["Simar", "Harleen", "Devinder", "Jasleen", "Kirat"]
         }
       ],
       "faqs": [
         {
-          "q": "What are popular Christian baby names from the Bible?",
-          "a": "Popular Christian baby names from the Bible include John, Mary, James, David, Sarah, Daniel, and Rebecca. These timeless names continue to be favorites among Christian families."
+          "q": "How are Sikh babies traditionally named?",
+          "a": "In the Sikh tradition, the Guru Granth Sahib is opened at random during a naming ceremony, and the baby's name begins with the first letter of the first hymn on that page."
         },
         {
-          "q": "Do biblical names have meanings?",
-          "a": "Yes, most biblical names have Hebrew or Greek meanings. For example, John means 'God is gracious,' Mary means 'beloved,' and David means 'beloved' or 'friend.'"
+          "q": "What do Singh and Kaur mean in Sikh names?",
+          "a": "Singh, meaning 'lion,' is traditionally added to male names, and Kaur, meaning 'princess,' is added to female names, symbolizing equality and removing caste distinctions from surnames."
         },
         {
-          "q": "Are Christian names only from the Bible?",
-          "a": "While many Christian names come from the Bible, Christians also use names from other traditions that have been sanctified by use in the church, as well as virtue names and saint names."
+          "q": "Are most Sikh names unisex?",
+          "a": "Many Sikh first names are unisex, reflecting the faith's emphasis on gender equality, with Singh or Kaur often used to indicate gender."
+        }
+      ]
+    }
+  },
+  {
+    "id": "buddhist-baby-names-dharma",
+    "title": "Buddhist Baby Names Reflecting Peace and Wisdom",
+    "subtitle": "Pali and Sanskrit names inspired by Buddhist teachings",
+    "excerpt": "Discover Buddhist baby names inspired by Pali scripture, Buddhist virtues, and Southeast Asian tradition. Learn how names reflecting mindfulness, compassion, and enlightenment are chosen for children.",
+    "category": "Buddhist Names",
+    "author": "NameVerse Editorial Team",
+    "authorCredentials": "Cultural Names Researcher",
+    "publishDate": "2026-02-12",
+    "lastUpdated": "2026-02-12",
+    "readTime": "6 min read",
+    "featured": false,
+    "featuredImage": "/og-trending-names.png",
+    "tags": ["buddhist names", "pali names", "dharma names", "baby names 2026", "asian baby names"],
+    "seoKeywords": "buddhist baby names, pali baby names, dharma names, buddhist name meanings, mindful baby names",
+    "content": {
+      "introduction": "Buddhist baby names often draw from Pali and Sanskrit, the classical languages of Buddhist scripture, as well as from Thai, Tibetan, and other traditions shaped by Buddhist practice. Parents frequently choose names that reflect core values like compassion, peace, and wisdom.",
+      "sections": [
+        {
+          "title": "Names Meaning Peace and Enlightenment",
+          "content": "Names like Ananda (bliss), Shanti (peace), and Bodhi (awakening) are drawn directly from Buddhist concepts. These names express the spiritual goals of the tradition and are popular across many Buddhist communities in Asia and the West.",
+          "featuredNames": ["Ananda", "Shanti", "Bodhi", "Nirvana", "Sukha"]
+        },
+        {
+          "title": "Tibetan and Himalayan Names",
+          "content": "Tibetan Buddhist tradition offers names like Tenzin, Pema, and Dawa, often given by a lama or chosen to reflect a auspicious quality. These names are widely used across Tibet, Bhutan, and Himalayan Buddhist communities.",
+          "featuredNames": ["Tenzin", "Pema", "Dawa", "Karma", "Dolma"]
+        },
+        {
+          "title": "Thai and Southeast Asian Buddhist Names",
+          "content": "In Thailand, Myanmar, and other Theravada Buddhist countries, names often combine Pali roots with local pronunciation. Names such as Somchai, Ratana (jewel), and Mettā (loving-kindness) reflect both linguistic heritage and Buddhist virtue.",
+          "featuredNames": ["Ratana", "Mettā", "Somchai", "Kamala", "Nanda"]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "What are common Buddhist baby names?",
+          "a": "Common Buddhist baby names include Bodhi, Ananda, Shanti, Tenzin, Pema, and Karma, many of which reflect concepts like awakening, peace, and compassion."
+        },
+        {
+          "q": "Do Buddhist names always have religious meaning?",
+          "a": "Not always. Some Buddhist-heritage names are simply traditional given names in Buddhist-majority countries, while others are explicitly tied to spiritual concepts like enlightenment or loving-kindness."
+        },
+        {
+          "q": "Is Bodhi a good name for a non-Buddhist family?",
+          "a": "Bodhi has become popular globally as a short, meaningful name, though families should be mindful that it carries a specific spiritual meaning of 'awakening' in Buddhist tradition."
+        }
+      ]
+    }
+  },
+  {
+    "id": "gender-neutral-baby-names-2026",
+    "title": "Gender-Neutral Baby Names Parents Love in 2026",
+    "subtitle": "Modern unisex names that work beautifully for any child",
+    "excerpt": "Gender-neutral baby names continue to rise in popularity. Explore modern unisex names that sound fresh, work across cultures, and give your child a name that isn't boxed in by gender expectations.",
+    "category": "Modern Names",
+    "author": "NameVerse Editorial Team",
+    "authorCredentials": "Baby Name Research Specialist",
+    "publishDate": "2026-02-16",
+    "lastUpdated": "2026-02-16",
+    "readTime": "7 min read",
+    "featured": true,
+    "featuredImage": "/og-trending-names.png",
+    "tags": ["gender neutral names", "unisex names", "modern baby names", "baby names 2026", "trending names"],
+    "seoKeywords": "gender neutral baby names, unisex baby names 2026, modern unisex names, trending gender neutral names",
+    "content": {
+      "introduction": "Gender-neutral names have moved from niche choice to mainstream trend. Parents in 2026 are drawn to names that sound modern, work well as adults, and don't lock a child into narrow expectations from birth.",
+      "sections": [
+        {
+          "title": "Nature-Rooted Unisex Names",
+          "content": "Names borrowed from nature tend to feel effortlessly gender-neutral. River, Sage, Wren, and Skyler all evoke the natural world while sounding equally fitting for a boy, girl, or nonbinary child.",
+          "featuredNames": ["River", "Sage", "Wren", "Skyler", "Rowan"]
+        },
+        {
+          "title": "Surname-Style Names",
+          "content": "Many popular unisex names started as surnames before becoming first names. Avery, Emerson, Quinn, and Harper have a polished, professional sound that works from the nursery to the boardroom.",
+          "featuredNames": ["Avery", "Emerson", "Quinn", "Harper", "Reese"]
+        },
+        {
+          "title": "Short and Punchy Modern Choices",
+          "content": "Short, one-syllable names are especially popular for their versatility. Names like Charlie, Jordan, Kai, and Rory are easy to say, easy to spell, and carry no strong gender association.",
+          "featuredNames": ["Charlie", "Jordan", "Kai", "Rory", "Frankie"]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "What are the most popular gender-neutral baby names in 2026?",
+          "a": "Popular gender-neutral names in 2026 include River, Avery, Kai, Quinn, Sage, and Charlie, favored for their modern sound and versatility."
+        },
+        {
+          "q": "Why are gender-neutral names becoming more popular?",
+          "a": "Many parents want names that give their child flexibility, avoid rigid gender assumptions, and sound equally strong in professional and casual settings later in life."
+        },
+        {
+          "q": "Do gender-neutral names need a gendered middle name?",
+          "a": "It's entirely a personal choice. Some parents pair a unisex first name with a more traditionally gendered middle name, while others keep the whole name gender-neutral."
+        }
+      ]
+    }
+  },
+  {
+    "id": "nature-inspired-baby-names",
+    "title": "Nature-Inspired Baby Names for a New Generation",
+    "subtitle": "Names drawn from the earth, sky, and sea",
+    "excerpt": "From forest and flower names to names inspired by the stars, nature-themed baby names are having a major moment. Discover earthy, elemental names that connect your child to the natural world.",
+    "category": "Modern Names",
+    "author": "NameVerse Editorial Team",
+    "authorCredentials": "Baby Name Research Specialist",
+    "publishDate": "2026-02-20",
+    "lastUpdated": "2026-02-20",
+    "readTime": "6 min read",
+    "featured": false,
+    "featuredImage": "/og-trending-names.png",
+    "tags": ["nature names", "flower names", "earthy baby names", "baby names 2026", "elemental names"],
+    "seoKeywords": "nature inspired baby names, flower baby names, earthy baby names 2026, elemental baby names",
+    "content": {
+      "introduction": "As more parents look to move away from conventional name lists, nature has become one of the richest sources of inspiration. Nature names carry built-in imagery and warmth, evoking forests, oceans, and open skies.",
+      "sections": [
+        {
+          "title": "Flower and Plant Names",
+          "content": "Floral names have long been popular for girls but are increasingly used across genders. Names like Lily, Iris, Fern, and Basil bring softness and organic charm, each tied to a specific plant with its own symbolism.",
+          "featuredNames": ["Lily", "Iris", "Fern", "Basil", "Hazel"]
+        },
+        {
+          "title": "Sky and Celestial Names",
+          "content": "Names inspired by the sky and stars, such as Luna, Nova, Orion, and Stella, give children a name with a sense of wonder and scale. These names have surged in popularity as parents look for something evocative but not overused.",
+          "featuredNames": ["Luna", "Nova", "Orion", "Stella", "Sky"]
+        },
+        {
+          "title": "Earth and Landscape Names",
+          "content": "Landscape-inspired names like Canyon, Dune, Vale, and Brooke connect a child to a specific place or geographic feature, often carrying a sense of adventure and rootedness at the same time.",
+          "featuredNames": ["Canyon", "Dune", "Vale", "Brooke", "Cliff"]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "What are trending nature baby names in 2026?",
+          "a": "Trending nature names in 2026 include Luna, Nova, River, Fern, and Sage, reflecting a broader move toward names tied to the natural world."
+        },
+        {
+          "q": "Are nature names only for girls?",
+          "a": "No, many nature names such as River, Sage, and Orion are used across genders, and the category has become increasingly unisex in recent years."
+        },
+        {
+          "q": "Do nature names sound too unusual for everyday use?",
+          "a": "Most popular nature names are now common enough to sound familiar rather than unusual, though parents wanting something more distinctive can choose less common options like Vale or Dune."
+        }
+      ]
+    }
+  },
+  {
+    "id": "short-simple-modern-baby-names-2026",
+    "title": "Short and Simple Baby Names Trending in 2026",
+    "subtitle": "One and two syllable names parents can't get enough of",
+    "excerpt": "Short baby names are dominating trend charts in 2026. Discover crisp, easy-to-spell one and two syllable names that are simple to say, quick to write, and full of modern charm.",
+    "category": "Modern Names",
+    "author": "NameVerse Editorial Team",
+    "authorCredentials": "Baby Name Research Specialist",
+    "publishDate": "2026-02-24",
+    "lastUpdated": "2026-02-24",
+    "readTime": "5 min read",
+    "featured": false,
+    "featuredImage": "/og-trending-names.png",
+    "tags": ["short baby names", "simple baby names", "trending names 2026", "modern baby names"],
+    "seoKeywords": "short baby names 2026, simple baby names, one syllable baby names, trending short names",
+    "content": {
+      "introduction": "After years of longer, elaborate names dominating birth announcements, 2026 is seeing a swing back toward short, simple names. Parents are prioritizing names that are easy to spell, easy to say, and easy to pair with any surname.",
+      "sections": [
+        {
+          "title": "One-Syllable Classics",
+          "content": "Short, punchy names like Max, Finn, Bea, and Rae have a timeless quality while still feeling current. These names are easy for young children to learn to write and rarely get mispronounced.",
+          "featuredNames": ["Max", "Finn", "Bea", "Rae", "Jax"]
+        },
+        {
+          "title": "Two-Syllable Favorites",
+          "content": "Names like Milo, Nora, Leo, and Ada strike a balance between simplicity and warmth. They're common enough to feel familiar but distinct enough to stand out on a school roster.",
+          "featuredNames": ["Milo", "Nora", "Leo", "Ada", "Remy"]
+        },
+        {
+          "title": "Vintage Nicknames as Full Names",
+          "content": "Many parents are now using classic nicknames as complete, standalone names. Charlie, Frankie, Josie, and Teddy no longer need a longer formal version behind them—they work perfectly on their own.",
+          "featuredNames": ["Charlie", "Frankie", "Josie", "Teddy", "Ollie"]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Why are short baby names trending in 2026?",
+          "a": "Short names are trending because parents value simplicity, easy spelling, and names that pair cleanly with a variety of surnames without feeling old-fashioned."
+        },
+        {
+          "q": "What are the most popular short baby names right now?",
+          "a": "Popular short names in 2026 include Milo, Leo, Nora, Ada, Finn, and Rae, blending vintage charm with modern minimalism."
+        },
+        {
+          "q": "Can a nickname work as an official birth name?",
+          "a": "Yes, many parents are officially naming children with what used to be considered nicknames, such as Charlie or Teddy, rather than a longer formal name."
         }
       ]
     }

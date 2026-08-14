@@ -1,0 +1,154 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import AlphabetNav from '../../../../components/AlphabetNav.astro';
+import NameCard from '../../../../components/NameCard.astro';
+import { getManifest, normalizeReligion } from '../../../../lib/data/astro-data.mjs';
+import { ALL_RELIGIONS, ALL_LETTERS, lettersFor } from '../../../../lib/data/letter-browser.mjs';
+
+export async function getStaticPaths() {
+  const manifest = getManifest();
+  const paths = [];
+  for (const religion of ALL_RELIGIONS) {
+    const available = lettersFor(religion, manifest);
+    for (const letter of ALL_LETTERS) {
+      if (available.has(letter)) paths.push({ params: { religion, letter } });
+    }
+  }
+  return paths;
+}
+
+export const prerender = true;
+
+const { religion, letter } = Astro.params;
+const finalReligion = normalizeReligion(religion) || 'islamic';
+const siteUrl = 'https://nameverse.site';
+
+const manifest = getManifest();
+const availableLetters = lettersFor(finalReligion, manifest);
+
+const names = (manifest[finalReligion] || [])
+  .filter((item) => {
+    if (!item.name) return false;
+    const firstChar = item.name.trim().charAt(0).toLowerCase();
+    return letter === '#' ? !/^[a-z]$/.test(firstChar) : firstChar === letter;
+  })
+  .sort((a, b) => a.name.localeCompare(b.name));
+
+const religionLabel = finalReligion.charAt(0).toUpperCase() + finalReligion.slice(1);
+const letterDisplay = letter.toUpperCase();
+const letterUrlSegment = letter === '#' ? '%23' : letter;
+const canonicalUrl = `${siteUrl}/names/${finalReligion}/letter/${letterUrlSegment}`;
+
+// Religions that also have names for this letter (for the switcher)
+const switcherReligions = ALL_RELIGIONS.filter((r) => lettersFor(r, manifest).has(letter));
+
+const faqs = [
+  {
+    q: `What are the most popular ${religionLabel} baby names starting with "${letterDisplay}"?`,
+    a: `NameVerse lists ${names.length} ${religionLabel} baby names beginning with "${letterDisplay}", each with an authentic meaning, cultural origin, gender classification and lucky number.`,
+  },
+  {
+    q: `Are ${religionLabel} names starting with "${letterDisplay}" suitable for boys or girls?`,
+    a: `The "${letterDisplay}" collection includes boy names, girl names and some unisex options. Every name card shows its gender classification so you can filter quickly.`,
+  },
+  {
+    q: `How do I find the origin of a ${religionLabel} name starting with "${letterDisplay}"?`,
+    a: `Every name on NameVerse includes its origin — Arabic, Persian, Urdu, Sanskrit, Hebrew, Latin, Greek and more. Click any name to open its full profile.`,
+  },
+];
+
+const faqJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+});
+---
+
+<Layout
+  title={`"${letterDisplay}" ${religionLabel} Baby Names & Meanings (${names.length}) | NameVerse`}
+  description={`Browse ${names.length} ${religionLabel} baby names starting with "${letterDisplay}" — verified meanings, origins, gender and lucky numbers. Free A–Z browsing.`}
+  canonical={canonicalUrl}
+>
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: `${religionLabel} Baby Names Starting with "${letterDisplay}"`,
+    description: `${names.length} ${religionLabel} baby names beginning with "${letterDisplay}", each with meaning, origin and cultural context.`,
+    url: canonicalUrl,
+  })} />
+  <script type="application/ld+json" set:html={faqJsonLd} />
+
+  <div class="container-page py-8 sm:py-12">
+    <div class="mx-auto max-w-6xl">
+      <!-- Breadcrumb -->
+      <nav class="mb-6 flex items-center gap-2 text-sm text-nv-text-muted" aria-label="Breadcrumb">
+        <a href="/" class="font-medium transition hover:text-nv-accent">Home</a>
+        <span>/</span>
+        <a href={`/names/${finalReligion}/letter/a`} class="font-medium transition hover:text-nv-accent">{religionLabel} Names</a>
+        <span>/</span>
+        <span class="font-medium text-nv-text">Letter {letterDisplay}</span>
+      </nav>
+
+      <!-- Hero -->
+      <header class="mb-8 text-center">
+        <span class="badge bg-nv-accent-subtle text-nv-accent">{names.length} names found</span>
+        <h1 class="mt-3 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">
+          {religionLabel} Names Starting with &ldquo;{letterDisplay}&rdquo;
+        </h1>
+        <p class="mx-auto mt-3 max-w-2xl text-nv-text-secondary">
+          Authentic {religionLabel} baby names beginning with <strong>{letterDisplay}</strong> —
+          with meanings, origins and lucky numbers.
+        </p>
+      </header>
+
+      <!-- Alphabet nav -->
+      <div class="mb-6">
+        <AlphabetNav religion={finalReligion} currentLetter={letter} availableLetters={availableLetters} />
+      </div>
+
+      <!-- Religion switcher -->
+      <div class="mb-10 flex flex-wrap justify-center gap-2">
+        {switcherReligions.map((r) => (
+          <a
+            href={`/names/${r}/letter/${letterUrlSegment}`}
+            class:list={[
+              'rounded-full px-4 py-2 text-sm font-semibold transition',
+              r === finalReligion
+                ? 'bg-nv-primary text-white'
+                : 'border border-nv-border bg-nv-surface text-nv-text-secondary hover:border-nv-accent/50 hover:text-nv-accent',
+            ]}
+          >
+            {r.charAt(0).toUpperCase() + r.slice(1)}
+          </a>
+        ))}
+      </div>
+
+      <!-- Names grid -->
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        {names.map((item) => <NameCard item={item} />)}
+      </div>
+
+      <!-- FAQ -->
+      <section class="mx-auto mt-14 max-w-3xl" aria-labelledby="letter-faq">
+        <h2 id="letter-faq" class="mb-6 text-center font-display text-2xl font-semibold tracking-tight text-nv-text">
+          About {religionLabel} names starting with &ldquo;{letterDisplay}&rdquo;
+        </h2>
+        <div class="space-y-3">
+          {faqs.map((f) => (
+            <details class="faq-item card p-5">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
+                {f.q}
+                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+              </summary>
+              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+    </div>
+  </div>
+</Layout>

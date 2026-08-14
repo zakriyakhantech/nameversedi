@@ -1,0 +1,79 @@
+---
+const year = new Date().getFullYear();
+
+const categories = [
+  { name: 'Islamic Names', href: '/names/islamic/letter/a' },
+  { name: 'Christian Names', href: '/names/christian/letter/a' },
+  { name: 'Hindu Names', href: '/names/hindu/letter/a' },
+  { name: 'All Names', href: '/names' },
+];
+
+const resources = [
+  { name: 'Blog', href: '/blog' },
+  { name: 'Search Names', href: '/search' },
+  { name: 'Naming Guide', href: '/guides/expert-naming-guide' },
+  { name: 'Popular Names', href: '/names' },
+];
+
+const company = [
+  { name: 'About', href: '/about' },
+  { name: 'Contact', href: '/contact' },
+  { name: 'Privacy', href: '/privacy' },
+  { name: 'Terms', href: '/terms' },
+];
+---
+
+<footer class="mt-16 border-t border-nv-border bg-nv-surface">
+  <div class="container-page flex flex-col gap-10 py-12">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
+      <div class="flex flex-col gap-3">
+        <a href="/" class="flex items-center gap-2.5" aria-label="NameVerse home">
+          <div class="grid h-9 w-9 place-items-center rounded-lg bg-nv-primary text-white">
+            <span class="text-lg font-black leading-none">N</span>
+          </div>
+          <span class="font-display text-lg font-bold text-nv-text">NameVerse</span>
+        </a>
+        <p class="text-sm leading-relaxed text-nv-text-muted">
+          42,000+ baby names with verified meanings, origins, lucky numbers & cultural context.
+        </p>
+      </div>
+
+      <nav aria-label="Name categories">
+        <h4 class="mb-3 text-xs font-bold uppercase tracking-[0.12em] text-nv-text">Name Categories</h4>
+        <ul class="space-y-2.5">
+          {categories.map((l) => (
+            <li>
+              <a href={l.href} class="text-sm font-medium text-nv-text-secondary transition hover:text-nv-accent">{l.name}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+
+      <nav aria-label="Resources">
+        <h4 class="mb-3 text-xs font-bold uppercase tracking-[0.12em] text-nv-text">Resources</h4>
+        <ul class="space-y-2.5">
+          {resources.map((l) => (
+            <li>
+              <a href={l.href} class="text-sm font-medium text-nv-text-secondary transition hover:text-nv-accent">{l.name}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+
+      <nav aria-label="Company">
+        <h4 class="mb-3 text-xs font-bold uppercase tracking-[0.12em] text-nv-text">Company</h4>
+        <ul class="space-y-2.5">
+          {company.map((l) => (
+            <li>
+              <a href={l.href} class="text-sm font-medium text-nv-text-secondary transition hover:text-nv-accent">{l.name}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    </div>
+
+    <p class="border-t border-nv-border pt-6 text-xs text-nv-text-muted">
+      &copy; {year} NameVerse. All rights reserved.
+    </p>
+  </div>
+</footer>

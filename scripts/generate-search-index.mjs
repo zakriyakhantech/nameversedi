@@ -1,6 +1,13 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
+// Get command line arguments
+const args = process.argv.slice(2);
+const limitArg = args.find(arg => arg.startsWith('--limit='));
+const limit = limitArg ? parseInt(limitArg.split('=')[1]) : 100;
+
+console.log(`Processing with limit: ${limit}`);
+
 const ROOT = path.resolve(process.cwd());
 const PUBLIC_DIR = path.join(ROOT, 'public');
 const MANIFEST_PATH = path.join(ROOT, 'src', 'lib', 'data', 'names-manifest.json');
@@ -19,7 +26,9 @@ function loadManifest() {
 for (const rel of VALID_RELIGIONS) {
   const manifest = loadManifest();
   const items = manifest[rel] || [];
-  const index = items
+  // Apply limit to the items
+  const limitedItems = items.slice(0, limit);
+  const index = limitedItems
     .filter((item) => item.slug && item.name)
     .map((item) => ({
       name: item.name,

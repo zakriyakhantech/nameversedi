@@ -5,11 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "node scripts/generate-manifest.mjs && node scripts/generate-search-index.mjs && npx astro build",
+    "build": "node scripts/generate-manifest.mjs && node scripts/generate-search-index.mjs && node scripts/build-sitemap.js && npx astro build",
+    "build:test": "node scripts/generate-manifest.mjs --limit=100 && node scripts/generate-search-index.mjs --limit=100 && node scripts/build-sitemap.js && npx astro build",
     "preview": "astro preview"
   },
   "dependencies": {
-    "@astrojs/node": "^9.5.5",
+    "@bonsai-ai/cli": "^0.4.19",
     "astro": "^5.1.0",
     "clsx": "^2.1.1",
     "tailwind-merge": "^3.6.0"
@@ -17,6 +18,8 @@
   "devDependencies": {
     "@astrojs/sitemap": "^3.2.0",
     "@astrojs/tailwind": "^6.0.0",
+    "@fontsource-variable/fraunces": "^5.3.0",
+    "@fontsource-variable/inter": "^5.3.0",
     "gh-pages": "^6.3.0",
     "rimraf": "^6.1.3",
     "tailwindcss": "^3.4.0"

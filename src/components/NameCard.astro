@@ -1,0 +1,52 @@
+---
+// Shared name card used across listing pages.
+// item: { name, slug, meaning|short_meaning, origin, gender, religion }
+const { item, showReligion = false } = Astro.props;
+
+const meaning = item.short_meaning || item.meaning || '';
+const genderRaw = (item.gender || '').toLowerCase();
+const isMale = genderRaw.includes('male') && !genderRaw.includes('female');
+const isFemale = genderRaw.includes('female') || genderRaw.includes('girl');
+const genderLabel = isMale ? 'Boy' : isFemale ? 'Girl' : 'Unisex';
+const religion = item.religion || '';
+
+const religionStyles = {
+  islamic: 'bg-islamic-soft text-islamic',
+  christian: 'bg-christian-soft text-christian',
+  hindu: 'bg-hindu-soft text-hindu',
+  italian: 'bg-italian-soft text-italian',
+};
+const religionClass = religionStyles[religion] || 'bg-nv-accent-subtle text-nv-accent';
+---
+
+<a
+  href={`/names/${item.religion}/${item.slug}`}
+  class="card card-hover group flex flex-col gap-2.5 p-5"
+>
+  <div class="flex items-start justify-between gap-2">
+    <h3 class="font-display text-lg font-semibold leading-snug text-nv-text group-hover:text-nv-accent">
+      {item.name}
+    </h3>
+    <span
+      class:list={[
+        'badge shrink-0',
+        isMale ? 'bg-nv-accent-subtle text-nv-accent' : isFemale ? 'bg-hindu-soft text-hindu' : 'bg-nv-subtle text-nv-text-secondary',
+      ]}
+    >
+      {genderLabel}
+    </span>
+  </div>
+
+  {meaning && (
+    <p class="line-clamp-2 text-sm leading-relaxed text-nv-text-secondary">{meaning}</p>
+  )}
+
+  <div class="mt-auto flex flex-wrap items-center gap-1.5 pt-1">
+    {showReligion && religion && (
+      <span class:list={['badge', religionClass]}>{religion}</span>
+    )}
+    {item.origin && (
+      <span class="badge bg-nv-subtle text-nv-text-secondary">{item.origin}</span>
+    )}
+  </div>
+</a>

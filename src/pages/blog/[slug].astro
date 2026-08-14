@@ -148,6 +148,7 @@ const jsonLdFaq = content?.faqs
 <Layout
   title={pageTitle}
   description={pageDescription}
+  canonical={`${siteUrl}/blog/${slug}`}
 >
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   {
@@ -156,23 +157,7 @@ const jsonLdFaq = content?.faqs
     )
   }
 
-  <style>
-    .line-clamp-2 {
-      display: -webkit-box;
-      -webkit-line-clamp: 2;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-    }
-    .line-clamp-3 {
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-    }
-  </style>
-
-  <main class="nv-page min-h-screen">
-    <div class="nv-container nv-section">
+  <div class="container-page py-8 sm:py-12">
       <!-- Breadcrumb Navigation -->
       <nav aria-label="Breadcrumb" class="flex items-center gap-2 text-sm text-nv-text-muted">
         <a href="/" class="flex items-center gap-1 hover:text-nv-accent transition">
@@ -201,7 +186,7 @@ const jsonLdFaq = content?.faqs
           </span>
         </div>
 
-        <h1 class="nv-display mt-4 text-3xl font-bold text-nv-text sm:text-4xl lg:text-5xl leading-tight tracking-tight">
+        <h1 class="font-display mt-4 text-3xl font-bold text-nv-text sm:text-4xl lg:text-5xl leading-tight tracking-tight">
           {title}
         </h1>
         {
@@ -225,7 +210,7 @@ const jsonLdFaq = content?.faqs
       <!-- Featured Image -->
       {
         featuredImage && (
-          <div class="mt-8 overflow-hidden rounded-2xl border border-nv-border bg-white">
+          <div class="mt-8 overflow-hidden rounded-2xl border border-nv-border bg-nv-surface">
             <img
               src={featuredImage}
               alt={title}
@@ -248,7 +233,7 @@ const jsonLdFaq = content?.faqs
             {
               content.sections.map((section, index) => (
                 <section id={`section-${index + 1}`} class="scroll-mt-24">
-                  <h2 class="nv-display text-2xl font-bold text-nv-text sm:text-3xl tracking-tight">
+                  <h2 class="font-display text-2xl font-bold text-nv-text sm:text-3xl tracking-tight">
                     {section.title}
                   </h2>
                   <p class="mt-4 text-base leading-relaxed text-nv-text-secondary">{section.content}</p>
@@ -262,7 +247,7 @@ const jsonLdFaq = content?.faqs
                             section.featuredNames.map((name) => (
                               <a
                                 href={`/search?q=${encodeURIComponent(name)}`}
-                                class="inline-flex items-center gap-1.5 rounded-xl border border-nv-border bg-white px-4 py-2.5 text-sm font-semibold text-nv-text transition hover:border-nv-accent hover:bg-nv-accent-subtle hover:text-nv-accent"
+                                class="inline-flex items-center gap-1.5 rounded-xl border border-nv-border bg-nv-surface px-4 py-2.5 text-sm font-semibold text-nv-text transition hover:border-nv-accent hover:bg-nv-accent-subtle hover:text-nv-accent"
                               >
                                 <span set:html={icons.star} class="h-3.5 w-3.5 text-[color:var(--nv-accent)]" />
                                 {name}
@@ -282,16 +267,16 @@ const jsonLdFaq = content?.faqs
           {
             content.faqs && content.faqs.length > 0 && (
               <section class="mt-16 border-t border-nv-border pt-12">
-                <h2 class="nv-display text-2xl font-bold text-nv-text sm:text-3xl tracking-tight mb-8">
+                <h2 class="font-display text-2xl font-bold text-nv-text sm:text-3xl tracking-tight mb-8">
                   Frequently Asked Questions
                 </h2>
                 <div class="space-y-3">
                   {
                     content.faqs.map((faq, i) => (
-                      <details class="nv-faq-item rounded-xl border border-nv-border bg-white p-0 group">
+                      <details class="faq-item card p-0 group">
                         <summary class="flex cursor-pointer items-center justify-between gap-4 p-5 text-left font-semibold text-nv-text transition hover:bg-nv-surface-subtle">
                           <span class="pr-4">{faq.q}</span>
-                          <span class="nv-faq-chevron shrink-0 text-nv-text-muted">
+                          <span class="faq-chevron shrink-0 text-nv-text-muted">
                             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
                           </span>
                         </summary>
@@ -308,7 +293,7 @@ const jsonLdFaq = content?.faqs
 
           <!-- Author Bio -->
           <section class="mt-16 border-t border-nv-border pt-12">
-            <div class="rounded-2xl border border-nv-border bg-white p-6 sm:p-8">
+            <div class="rounded-2xl border border-nv-border bg-nv-surface p-6 sm:p-8">
               <div class="flex items-start gap-5">
                 <div class="grid h-14 w-14 shrink-0 place-items-center rounded-full bg-nv-surface-subtle text-nv-text-muted">
                   <span set:html={icons.user} class="h-6 w-6" />
@@ -330,7 +315,7 @@ const jsonLdFaq = content?.faqs
               <div class="mt-8 flex flex-wrap gap-2">
                 {
                   tags.map((tag) => (
-                    <span class="rounded-lg border border-nv-border bg-white px-3 py-1.5 text-xs font-medium text-nv-text-muted">
+                    <span class="rounded-lg border border-nv-border bg-nv-surface px-3 py-1.5 text-xs font-medium text-nv-text-muted">
                       #{tag}
                     </span>
                   ))
@@ -343,7 +328,7 @@ const jsonLdFaq = content?.faqs
         <!-- Table of Contents Sidebar -->
         <aside class="hidden lg:block">
           <div class="sticky top-24">
-            <div class="rounded-2xl border border-nv-border bg-white p-5 shadow-sm">
+            <div class="rounded-2xl border border-nv-border bg-nv-surface p-5 shadow-sm">
               <div class="flex items-center gap-2 text-sm font-bold text-nv-text mb-4">
                 <span set:html={icons.list} class="h-4 w-4 text-nv-accent" />
                 Table of Contents
@@ -384,7 +369,7 @@ const jsonLdFaq = content?.faqs
       {
         relatedPosts.length > 0 && (
           <section class="mt-20 border-t border-nv-border pt-12">
-            <h2 class="nv-display text-2xl font-bold text-nv-text sm:text-3xl tracking-tight mb-8">
+            <h2 class="font-display text-2xl font-bold text-nv-text sm:text-3xl tracking-tight mb-8">
               Related Articles
             </h2>
             <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
@@ -392,7 +377,7 @@ const jsonLdFaq = content?.faqs
                 relatedPosts.map((related) => (
                   <a
                     href={`/blog/${related.id}`}
-                    class="group rounded-2xl border border-nv-border bg-white p-5 transition hover:border-nv-accent hover:shadow-md"
+                    class="group rounded-2xl border border-nv-border bg-nv-surface p-5 transition hover:border-nv-accent hover:shadow-md"
                   >
                     <span class="text-xs font-bold uppercase tracking-wider text-nv-accent">{related.category}</span>
                     <h3 class="mt-3 text-base font-bold text-nv-text group-hover:text-nv-accent transition line-clamp-2">
@@ -419,7 +404,7 @@ const jsonLdFaq = content?.faqs
           <div class="mx-auto mb-6 grid h-14 w-14 place-items-center rounded-2xl bg-white/10 text-white">
             <span set:html={icons.search} class="h-7 w-7" />
           </div>
-          <h2 class="nv-display text-2xl font-bold sm:text-3xl tracking-tight">
+          <h2 class="font-display text-2xl font-bold sm:text-3xl tracking-tight">
             Discover the Perfect Name
           </h2>
           <p class="mt-3 text-base text-white/80 leading-relaxed">
@@ -447,12 +432,11 @@ const jsonLdFaq = content?.faqs
       <div class="mt-12 flex justify-center">
         <a
           href="/blog"
-          class="inline-flex items-center gap-2 rounded-xl border border-nv-border bg-white px-5 py-2.5 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent hover:text-nv-accent"
+          class="inline-flex items-center gap-2 rounded-xl border border-nv-border bg-nv-surface px-5 py-2.5 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent hover:text-nv-accent"
         >
           <span set:html={icons.chevronRight} class="h-4 w-4 rotate-180" />
           Back to Blog
         </a>
       </div>
-    </div>
-  </main>
+  </div>
 </Layout>

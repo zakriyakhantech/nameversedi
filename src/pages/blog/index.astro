@@ -1,328 +1,135 @@
 ---
-import Layout from "../../layouts/Layout.astro";
+import Layout from '../../layouts/Layout.astro';
 
-const siteUrl = "https://nameverse.site";
-
-const blogPosts = (await import("../../../public/data/blog-posts.json")).default;
+const siteUrl = 'https://nameverse.site';
+const blogPosts = (await import('../../../public/data/blog-posts.json')).default;
 
 const faqItems = [
   {
-    question: "How do I choose the right baby name for my child?",
+    question: 'How do I choose the right baby name for my child?',
     answer:
-      "Start by considering your family's cultural and religious background, the meaning you want the name to carry, and how it sounds with your surname. Our NameVerse guides break down naming traditions across Islamic, Hindu, and Christian contexts to help you make a confident choice."
+      "Start with your family's cultural and religious background, the meaning you want the name to carry, and how it sounds with your surname. Our guides break down naming traditions across Islamic, Hindu and Christian contexts to help you choose with confidence.",
   },
   {
-    question: "Are NameVerse naming guides culturally respectful?",
+    question: 'Are NameVerse naming guides culturally respectful?',
     answer:
-      "Yes. Each guide is researched with respect for the traditions it covers. We work with cultural naming specialists and community reviewers to ensure meanings, origins, and contexts are presented accurately and sensitively."
+      'Yes. Each guide is researched with respect for the traditions it covers, with meanings, origins and contexts presented accurately and sensitively.',
   },
   {
-    question: "How often are NameVerse blog articles updated?",
+    question: 'How often are NameVerse articles updated?',
     answer:
-      "Our editorial team updates trending name lists and guides regularly. Each article shows its publish and last-updated dates so you know you are reading current, verified information."
+      'Trending name lists and guides are updated regularly. Each article shows its publish and last-updated dates so you always know how current the information is.',
   },
-  {
-    question: "Can I suggest a topic for a future NameVerse article?",
-    answer:
-      "Absolutely. We welcome topic suggestions from parents and naming enthusiasts. Visit our Contact page or reach out to the NameVerse Editorial Team with your ideas, and we will consider them for upcoming guides."
-  }
 ];
+
+const faqJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqItems.map((f) => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer },
+  })),
+});
 ---
 
 <Layout
-  title="Blog | NameVerse"
-  description="Expert naming guides, baby name trends and cultural insights from the NameVerse editorial team."
+  title="Baby Name Guides & Trends 2026 | NameVerse Blog"
+  description="Expert baby naming guides, curated name lists and cultural insights — Islamic, Hindu and Christian naming traditions explained by the NameVerse editorial team."
 >
   <script type="application/ld+json" set:html={JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "Blog",
-    "name": "NameVerse Blog",
-    "description": "Expert naming guides, baby name trends and cultural insights from the NameVerse editorial team.",
-    "url": `${siteUrl}/blog`,
-    "publisher": {
-      "@type": "Organization",
-      "name": "NameVerse",
-      "url": siteUrl
-    },
-    "blogPost": blogPosts.map((post: any) => ({
-      "@type": "BlogPosting",
-      "headline": post.title,
-      "url": `${siteUrl}/blog/${post.id}`,
-      "datePublished": post.publishDate,
-      "dateModified": post.lastUpdated,
-      "author": {
-        "@type": "Organization",
-        "name": post.author
-      }
-    }))
+    '@context': 'https://schema.org',
+    '@type': 'Blog',
+    name: 'NameVerse Blog',
+    description: 'Expert naming guides, baby name trends and cultural insights from the NameVerse editorial team.',
+    url: `${siteUrl}/blog`,
+    publisher: { '@type': 'Organization', name: 'NameVerse', url: siteUrl },
+    blogPost: blogPosts.map((post: any) => ({
+      '@type': 'BlogPosting',
+      headline: post.title,
+      url: `${siteUrl}/blog/${post.id}`,
+      datePublished: post.publishDate,
+      dateModified: post.lastUpdated,
+      author: { '@type': 'Organization', name: post.author },
+    })),
   })} />
+  <script type="application/ld+json" set:html={faqJsonLd} />
 
-  <main class="nv-page min-h-screen">
-    <div class="nv-container nv-section">
-      <div class="mx-auto max-w-7xl">
-        <!-- Hero Section -->
-        <section class="relative overflow-hidden rounded-3xl bg-gradient-to-br from-[#1E3A5F] via-[#2563EB] to-[#1E3A5F] px-6 py-12 sm:px-10 sm:py-16 lg:px-16 lg:py-20">
-          <div class="absolute inset-0 opacity-10" aria-hidden="true">
-            <svg class="h-full w-full" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <circle cx="100" cy="100" r="120" stroke="white" stroke-width="1.5" />
-              <circle cx="700" cy="500" r="180" stroke="white" stroke-width="1.5" />
-              <circle cx="600" cy="80" r="80" stroke="white" stroke-width="1.5" />
-              <circle cx="50" cy="400" r="100" stroke="white" stroke-width="1.5" />
-              <line x1="0" y1="0" x2="800" y2="600" stroke="white" stroke-width="0.5" />
-              <line x1="800" y1="0" x2="0" y2="600" stroke="white" stroke-width="0.5" />
-            </svg>
-          </div>
+  <div class="container-page py-10 sm:py-14">
+    <div class="mx-auto max-w-6xl">
+      <header class="mb-10 text-center">
+        <span class="eyebrow">NameVerse editorial</span>
+        <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">
+          Baby Name Guides &amp; Trends
+        </h1>
+        <p class="mx-auto mt-3 max-w-2xl text-nv-text-secondary">
+          Expert naming guides, curated lists and cultural insights for parents in every tradition.
+        </p>
+      </header>
 
-          <div class="relative z-10 flex flex-col gap-8 lg:flex-row lg:items-center lg:justify-between">
-            <div class="max-w-2xl">
-              <span class="inline-flex items-center rounded-full bg-white/10 px-3 py-1 text-xs font-semibold uppercase tracking-wider text-white/90 backdrop-blur-sm">
-                NameVerse Editorial
+      <!-- Articles -->
+      <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {blogPosts.map((post: any) => (
+          <a href={`/blog/${post.id}`} class="card card-hover group flex flex-col gap-3 p-6">
+            <div class="flex items-center justify-between gap-2">
+              <span class="badge bg-nv-accent-subtle text-nv-accent">{post.category}</span>
+              <span class="text-xs text-nv-text-muted">{post.readTime}</span>
+            </div>
+            <h2 class="font-display text-xl font-semibold leading-snug text-nv-text group-hover:text-nv-accent">
+              {post.title}
+            </h2>
+            <p class="line-clamp-3 text-sm leading-relaxed text-nv-text-secondary">{post.excerpt}</p>
+            <div class="mt-auto flex items-center justify-between pt-3">
+              <span class="text-xs text-nv-text-muted">
+                {new Date(post.publishDate).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}
               </span>
-              <h1 class="nv-display mt-4 text-3xl font-bold text-white sm:text-4xl lg:text-5xl">
-                The NameVerse Blog
-              </h1>
-              <p class="mt-4 text-base leading-relaxed text-white/80 sm:text-lg">
-                Expert naming guides, cultural insights, and baby name trends curated for parents worldwide.
-              </p>
+              <span class="inline-flex items-center gap-1.5 text-sm font-semibold text-nv-accent">
+                Read article
+                <svg class="h-4 w-4 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 7l5 5m0 0l-5 5m5-5H6"/></svg>
+              </span>
             </div>
-
-            <div class="flex flex-wrap gap-4 lg:flex-col lg:items-end">
-              <div class="flex items-center gap-3 rounded-2xl bg-white/10 px-4 py-3 backdrop-blur-sm">
-                <div class="flex h-10 w-10 items-center justify-center rounded-full bg-white/20">
-                  <svg class="h-5 w-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 4.168 6.253v13C4.168 19.223 5.754 19 7.5 19s3.332.223 4.168 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 3.332 1.253v13C19.832 19.223 18.247 19 16.5 19c-1.746 0-3.332.223-4.168 1.253" />
-                  </svg>
-                </div>
-                <div>
-                  <p class="text-xl font-bold text-white">3+</p>
-                  <p class="text-xs text-white/70">In-Depth Guides</p>
-                </div>
-              </div>
-
-              <div class="flex items-center gap-3 rounded-2xl bg-white/10 px-4 py-3 backdrop-blur-sm">
-                <div class="flex h-10 w-10 items-center justify-center rounded-full bg-white/20">
-                  <svg class="h-5 w-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <path d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0z" />
-                  </svg>
-                </div>
-                <div>
-                  <p class="text-xl font-bold text-white">100K+</p>
-                  <p class="text-xs text-white/70">Monthly Readers</p>
-                </div>
-              </div>
-
-              <div class="flex items-center gap-3 rounded-2xl bg-white/10 px-4 py-3 backdrop-blur-sm">
-                <div class="flex h-10 w-10 items-center justify-center rounded-full bg-white/20">
-                  <svg class="h-5 w-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <path d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
-                  </svg>
-                </div>
-                <div>
-                  <p class="text-xl font-bold text-white">Verified</p>
-                  <p class="text-xs text-white/70">Research-Backed</p>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Trust Indicators -->
-          <div class="relative z-10 mt-8 flex flex-wrap items-center gap-6 border-t border-white/10 pt-6 lg:mt-10">
-            <div class="flex items-center gap-2">
-              <svg class="h-4 w-4 text-emerald-300" fill="currentColor" viewBox="0 0 20 20">
-                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
-              </svg>
-              <span class="text-xs font-medium text-white/80">Research-backed content</span>
-            </div>
-            <div class="flex items-center gap-2">
-              <svg class="h-4 w-4 text-emerald-300" fill="currentColor" viewBox="0 0 20 20">
-                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
-              </svg>
-              <span class="text-xs font-medium text-white/80">Culturally reviewed</span>
-            </div>
-            <div class="flex items-center gap-2">
-              <svg class="h-4 w-4 text-emerald-300" fill="currentColor" viewBox="0 0 20 20">
-                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
-              </svg>
-              <span class="text-xs font-medium text-white/80">Updated for 2026</span>
-            </div>
-          </div>
-        </section>
-
-        <!-- Featured Articles Grid -->
-        <section class="mt-12">
-          <div class="mb-6 flex items-center justify-between">
-            <h2 class="nv-display text-2xl font-bold text-nv-text sm:text-3xl">Featured Articles</h2>
-            <span class="text-sm text-nv-text-muted">Editor's picks</span>
-          </div>
-          <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
-            {blogPosts.filter((post: any) => post.featured).map((post: any, index: number) => (
-              <a
-                href={`/blog/${post.id}`}
-                class={`group relative overflow-hidden rounded-3xl border border-nv-border bg-white transition hover:shadow-lg ${index === 0 ? "md:col-span-2 md:row-span-2" : ""}`}
-              >
-                <div class="flex h-full flex-col">
-                  <div class="relative h-48 overflow-hidden sm:h-64 md:h-full md:min-h-[280px]">
-                    <div class="absolute inset-0 bg-gradient-to-br from-[#1E3A5F]/80 to-[#2563EB]/80" />
-                    <div class="absolute inset-0 flex items-center justify-center">
-                      <svg class="h-16 w-16 text-white/20" fill="currentColor" viewBox="0 0 24 24">
-                        <path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 4.168 6.253v13C4.168 19.223 5.754 19 7.5 19s3.332.223 4.168 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 3.332 1.253v13C19.832 19.223 18.247 19 16.5 19c-1.746 0-3.332.223-4.168 1.253" />
-                      </svg>
-                    </div>
-                    <div class="absolute bottom-4 left-4">
-                      <span class="inline-flex items-center rounded-full bg-white/20 px-3 py-1 text-xs font-semibold text-white backdrop-blur-sm">
-                        {post.category}
-                      </span>
-                    </div>
-                  </div>
-                  <div class="flex flex-1 flex-col p-5 sm:p-6">
-                    <span class="text-xs font-bold uppercase tracking-[0.16em] text-[color:var(--nv-accent-2)]">
-                      {new Date(post.publishDate).toLocaleDateString("en-US", { month: "short", year: "numeric" })}
-                    </span>
-                    <h3 class="mt-2 text-lg font-bold text-nv-text group-hover:text-[color:var(--nv-accent)] sm:text-xl">
-                      {post.title}
-                    </h3>
-                    <p class="mt-2 line-clamp-3 text-sm text-nv-text-secondary">
-                      {post.excerpt}
-                    </p>
-                    <div class="mt-auto flex items-center gap-2 pt-4 text-sm font-semibold text-[color:var(--nv-accent)]">
-                      Read article
-                      <svg class="h-4 w-4 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                        <path d="M13 7l5 5m0 0l-5 5m5-5H6" />
-                      </svg>
-                    </div>
-                  </div>
-                </div>
-              </a>
-            ))}
-          </div>
-        </section>
-
-        <!-- Category Navigation -->
-        <section class="mt-16">
-          <div class="mb-6">
-            <h2 class="nv-display text-2xl font-bold text-nv-text sm:text-3xl">Browse by Tradition</h2>
-            <p class="mt-2 text-nv-text-secondary">Explore naming guides organized by faith and gender</p>
-          </div>
-          <div class="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-6">
-            {[
-              { label: "Islamic Boy Names", href: "/names/islamic/boy", color: "from-cyan-500 to-teal-600", icon: "M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 4.168 6.253v13C4.168 19.223 5.754 19 7.5 19s3.332.223 4.168 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 3.332 1.253v13C19.832 19.223 18.247 19 16.5 19c-1.746 0-3.332.223-4.168 1.253" },
-              { label: "Islamic Girl Names", href: "/names/islamic/girl", color: "from-teal-500 to-emerald-600", icon: "M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 4.168 6.253v13C4.168 19.223 5.754 19 7.5 19s3.332.223 4.168 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 3.332 1.253v13C19.832 19.223 18.247 19 16.5 19c-1.746 0-3.332.223-4.168 1.253" },
-              { label: "Christian Boy Names", href: "/names/christian/boy", color: "from-amber-500 to-orange-600", icon: "M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 4.168 6.253v13C4.168 19.223 5.754 19 7.5 19s3.332.223 4.168 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 3.332 1.253v13C19.832 19.223 18.247 19 16.5 19c-1.746 0-3.332.223-4.168 1.253" },
-              { label: "Christian Girl Names", href: "/names/christian/girl", color: "from-orange-500 to-rose-600", icon: "M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 4.168 6.253v13C4.168 19.223 5.754 19 7.5 19s3.332.223 4.168 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 3.332 1.253v13C19.832 19.223 18.247 19 16.5 19c-1.746 0-3.332.223-4.168 1.253" },
-              { label: "Hindu Boy Names", href: "/names/hindu/boy", color: "from-red-500 to-rose-600", icon: "M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 4.168 6.253v13C4.168 19.223 5.754 19 7.5 19s3.332.223 4.168 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 3.332 1.253v13C19.832 19.223 18.247 19 16.5 19c-1.746 0-3.332.223-4.168 1.253" },
-              { label: "Hindu Girl Names", href: "/names/hindu/girl", color: "from-rose-500 to-pink-600", icon: "M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 4.168 6.253v13C4.168 19.223 5.754 19 7.5 19s3.332.223 4.168 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 3.332 1.253v13C19.832 19.223 18.247 19 16.5 19c-1.746 0-3.332.223-4.168 1.253" }
-            ].map((cat) => (
-              <a
-                href={cat.href}
-                class="group flex flex-col items-center justify-center gap-3 rounded-2xl border border-nv-border bg-white p-5 text-center transition hover:border-[color:var(--nv-accent)] hover:shadow-md"
-              >
-                <div class={`flex h-12 w-12 items-center justify-center rounded-full bg-gradient-to-br ${cat.color} shadow-md transition-transform group-hover:scale-110`}>
-                  <svg class="h-6 w-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <path d={cat.icon} />
-                  </svg>
-                </div>
-                <span class="text-sm font-semibold text-nv-text">{cat.label}</span>
-              </a>
-            ))}
-          </div>
-        </section>
-
-        <!-- All Articles Grid -->
-        <section class="mt-16">
-          <div class="mb-6 flex items-center justify-between">
-            <h2 class="nv-display text-2xl font-bold text-nv-text sm:text-3xl">All Articles</h2>
-            <span class="text-sm text-nv-text-muted">{blogPosts.length} articles</span>
-          </div>
-          <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {blogPosts.map((post: any) => (
-              <a
-                href={`/blog/${post.id}`}
-                class="group flex flex-col rounded-2xl border border-nv-border bg-white p-5 transition hover:border-[color:var(--nv-accent)] hover:shadow-md"
-              >
-                <div class="flex items-center justify-between">
-                  <span class="text-xs font-bold uppercase tracking-[0.16em] text-[color:var(--nv-accent-2)]">
-                    {post.category}
-                  </span>
-                  <span class="text-xs text-nv-text-muted">{post.readTime}</span>
-                </div>
-                <h3 class="mt-3 text-base font-bold text-nv-text group-hover:text-[color:var(--nv-accent)]">
-                  {post.title}
-                </h3>
-                <p class="mt-2 line-clamp-2 text-sm text-nv-text-secondary">
-                  {post.excerpt}
-                </p>
-                <div class="mt-4 flex items-center gap-2 text-sm font-semibold text-[color:var(--nv-accent)]">
-                  Read more
-                  <svg class="h-4 w-4 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <path d="M13 7l5 5m0 0l-5 5m5-5H6" />
-                  </svg>
-                </div>
-              </a>
-            ))}
-          </div>
-        </section>
-
-        <!-- FAQ Section -->
-        <section class="mt-16">
-          <div class="mb-6">
-            <h2 class="nv-display text-2xl font-bold text-nv-text sm:text-3xl">Frequently Asked Questions</h2>
-            <p class="mt-2 text-nv-text-secondary">Everything you need to know about naming your child</p>
-          </div>
-          <div class="mx-auto max-w-3xl space-y-3">
-            {faqItems.map((faq) => (
-              <details class="nv-faq-item rounded-2xl border border-nv-border bg-white">
-                <summary class="flex cursor-pointer items-center justify-between p-5 text-left font-semibold text-nv-text">
-                  {faq.question}
-                  <svg class="nv-faq-chevron h-5 w-5 flex-shrink-0 text-nv-text-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <path d="M19 9l-7 7-7-7" />
-                  </svg>
-                </summary>
-                <div class="px-5 pb-5 text-sm leading-relaxed text-nv-text-secondary">
-                  {faq.answer}
-                </div>
-              </details>
-            ))}
-          </div>
-        </section>
-
-        <!-- CTA Section -->
-        <section class="mt-16">
-          <div class="relative overflow-hidden rounded-3xl bg-gradient-to-br from-[#1E3A5F] to-[#2563EB] px-6 py-12 text-center sm:px-10 sm:py-16 lg:px-16">
-            <div class="absolute inset-0 opacity-10" aria-hidden="true">
-              <svg class="h-full w-full" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="400" cy="300" r="200" stroke="white" stroke-width="1.5" />
-                <circle cx="400" cy="300" r="280" stroke="white" stroke-width="0.5" />
-                <circle cx="400" cy="300" r="360" stroke="white" stroke-width="0.25" />
-              </svg>
-            </div>
-            <div class="relative z-10 mx-auto max-w-2xl">
-              <h2 class="nv-display text-2xl font-bold text-white sm:text-3xl lg:text-4xl">
-                Find the Perfect Name with NameVerse
-              </h2>
-              <p class="mt-4 text-base text-white/80 sm:text-lg">
-                Explore thousands of baby names with verified meanings, origins, and lucky numbers. Trusted by parents across every tradition.
-              </p>
-              <div class="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row">
-                <a
-                  href="/names"
-                  class="inline-flex items-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-semibold text-[#1E3A5F] shadow-lg transition hover:bg-gray-100"
-                >
-                  Explore Baby Names
-                  <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <path d="M13 7l5 5m0 0l-5 5m5-5H6" />
-                  </svg>
-                </a>
-                <a
-                  href="/contact"
-                  class="inline-flex items-center gap-2 rounded-full border border-white/30 px-6 py-3 text-sm font-semibold text-white backdrop-blur-sm transition hover:bg-white/10"
-                >
-                  Contact Us
-                </a>
-              </div>
-            </div>
-          </div>
-        </section>
+          </a>
+        ))}
       </div>
+
+      <!-- Browse by tradition -->
+      <section class="mt-14" aria-labelledby="tradition-heading">
+        <h2 id="tradition-heading" class="mb-5 font-display text-2xl font-semibold tracking-tight text-nv-text">
+          Browse names by tradition
+        </h2>
+        <div class="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-6">
+          {[
+            { label: 'Islamic Boy Names', href: '/islamic-boy-names' },
+            { label: 'Islamic Girl Names', href: '/islamic-girl-names' },
+            { label: 'Christian Boy Names', href: '/christian-boy-names' },
+            { label: 'Christian Girl Names', href: '/christian-girl-names' },
+            { label: 'Hindu Boy Names', href: '/hindu-boy-names' },
+            { label: 'Hindu Girl Names', href: '/hindu-girl-names' },
+          ].map((cat) => (
+            <a href={cat.href} class="card card-hover p-4 text-center text-sm font-semibold text-nv-text">
+              {cat.label}
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <!-- FAQ -->
+      <section class="mx-auto mt-14 max-w-3xl" aria-labelledby="blog-faq">
+        <h2 id="blog-faq" class="mb-6 text-center font-display text-2xl font-semibold tracking-tight text-nv-text">
+          Frequently asked questions
+        </h2>
+        <div class="space-y-3">
+          {faqItems.map((faq) => (
+            <details class="faq-item card p-5">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
+                {faq.question}
+                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+              </summary>
+              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
     </div>
-  </main>
+  </div>
 </Layout>

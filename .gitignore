@@ -1,5 +1,6 @@
 dist/
 dist.rar
+git-files.txt
 .astro/
 node_modules/
 

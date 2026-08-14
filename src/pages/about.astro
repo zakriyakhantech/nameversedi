@@ -1,8 +1,77 @@
 ---
-import Layout from "../layouts/Layout.astro";
+import Layout from '../layouts/Layout.astro';
 ---
 
-<Layout title="About | NameVerse">
-  <h1>About NameVerse</h1>
-  <p>Learn more about NameVerse and our mission to help parents find the perfect name.</p>
+<Layout
+  title="About NameVerse — Our Mission & Editorial Standards"
+  description="NameVerse helps parents find meaningful baby names across Islamic, Hindu, Christian and global traditions. Learn about our mission, data and editorial standards."
+>
+  <div class="container-page py-10 sm:py-14">
+    <div class="mx-auto max-w-3xl">
+      <header class="mb-8">
+        <span class="eyebrow">About us</span>
+        <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-4xl">
+          About NameVerse
+        </h1>
+        <p class="mt-4 text-lg leading-relaxed text-nv-text-secondary">
+          NameVerse exists to make one of life's most personal decisions — naming a child — easier,
+          more informed and more respectful of culture and faith.
+        </p>
+      </header>
+
+      <div class="space-y-5">
+        <section class="card p-6 sm:p-8">
+          <h2 class="font-display text-xl font-semibold text-nv-text">Our mission</h2>
+          <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">
+            A name carries meaning, heritage and identity. We built NameVerse so parents can search
+            42,000+ names across Islamic, Hindu, Christian and Italian traditions with verified
+            meanings, origins, pronunciation guidance and cultural context — all in one fast,
+            free, mobile-friendly place.
+          </p>
+        </section>
+
+        <section class="card p-6 sm:p-8">
+          <h2 class="font-display text-xl font-semibold text-nv-text">What makes us different</h2>
+          <ul class="mt-3 space-y-2.5 text-sm leading-relaxed text-nv-text-secondary">
+            <li class="flex gap-2.5">
+              <span class="mt-0.5 text-nv-success">&#10003;</span>
+              Verified meanings with linguistic and cultural context, not one-line glosses.
+            </li>
+            <li class="flex gap-2.5">
+              <span class="mt-0.5 text-nv-success">&#10003;</span>
+              Multi-tradition coverage: Arabic, Urdu, Persian, Sanskrit, Hebrew, Greek, Latin and more.
+            </li>
+            <li class="flex gap-2.5">
+              <span class="mt-0.5 text-nv-success">&#10003;</span>
+              Rich name profiles: lucky numbers, numerology, pronunciation, variations and related names.
+            </li>
+            <li class="flex gap-2.5">
+              <span class="mt-0.5 text-nv-success">&#10003;</span>
+              No accounts, no paywalls — search and browsing are free for every family.
+            </li>
+          </ul>
+        </section>
+
+        <section class="card p-6 sm:p-8">
+          <h2 class="font-display text-xl font-semibold text-nv-text">Editorial standards</h2>
+          <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">
+            Entries are reviewed for linguistic origin, common usage and faith-aware interpretation
+            before they appear in search results and curated lists. When traditions differ on a
+            meaning or pronunciation, we note the variation rather than picking a side. If you spot
+            an error, tell us via the <a href="/contact" class="font-semibold text-nv-accent hover:underline">contact page</a> —
+            corrections are prioritized.
+          </p>
+        </section>
+
+        <section class="card p-6 sm:p-8">
+          <h2 class="font-display text-xl font-semibold text-nv-text">Where to start</h2>
+          <div class="mt-4 flex flex-wrap gap-3">
+            <a href="/names" class="btn-primary">Browse all names</a>
+            <a href="/search" class="btn-ghost">Search by meaning</a>
+            <a href="/blog" class="btn-ghost">Read our guides</a>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
 </Layout>

@@ -1,61 +1,62 @@
 ---
-import Layout from "../../layouts/Layout.astro";
-import { getManifest, getPopularSlugs } from "../../lib/data/astro-data.mjs";
+import Layout from '../../layouts/Layout.astro';
+import NameCard from '../../components/NameCard.astro';
+import { getManifest, getPopularSlugs } from '../../lib/data/astro-data.mjs';
 
 const manifest = getManifest();
 const religions = [
-  { key: 'islamic', label: 'Islamic Names', count: manifest.islamic?.length || 0 },
-  { key: 'christian', label: 'Christian Names', count: manifest.christian?.length || 0 },
-  { key: 'hindu', label: 'Hindu Names', count: manifest.hindu?.length || 0 },
-  { key: 'italian', label: 'Italian Names', count: manifest.italian?.length || 0 },
-];
+  { key: 'islamic', label: 'Islamic Names', description: 'Quranic, Arabic & Urdu names', badgeClass: 'bg-islamic-soft text-islamic' },
+  { key: 'christian', label: 'Christian Names', description: 'Biblical & modern names', badgeClass: 'bg-christian-soft text-christian' },
+  { key: 'hindu', label: 'Hindu Names', description: 'Sanskrit & Vedic names', badgeClass: 'bg-hindu-soft text-hindu' },
+  { key: 'italian', label: 'Italian Names', description: 'Classical Italian names', badgeClass: 'bg-italian-soft text-italian' },
+].map((r) => ({ ...r, count: manifest[r.key]?.length || 0 }));
 
-const topNames = getPopularSlugs(20);
+const bySlug = {};
+for (const key of ['islamic', 'christian', 'hindu', 'italian']) {
+  for (const item of manifest[key] || []) bySlug[item.slug] = item;
+}
+const topNames = getPopularSlugs(24)
+  .map(({ slug }) => bySlug[slug])
+  .filter(Boolean);
 ---
 
-<Layout title="All Baby Names by Religion | NameVerse" description="Browse all baby names organized by religion: Islamic, Christian, Hindu, and Italian names with meanings and origins.">
-  <main class="nv-page min-h-screen">
-    <div class="nv-container nv-section">
-      <div class="mx-auto max-w-5xl">
-        <h1 class="nv-display text-3xl font-bold text-nv-text sm:text-4xl">All Baby Names</h1>
-        <p class="mt-2 text-nv-text-secondary">Browse names by religion and tradition.</p>
+<Layout
+  title="All Baby Names by Religion — 42,000+ Names & Meanings | NameVerse"
+  description="Browse 42,000+ baby names by religion: Islamic, Christian, Hindu & Italian names with verified meanings, origins and lucky numbers. Free A–Z browsing."
+>
+  <div class="container-page py-10 sm:py-14">
+    <div class="mx-auto max-w-5xl">
+      <header class="mb-10 text-center">
+        <span class="eyebrow">Name directory</span>
+        <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">All Baby Names</h1>
+        <p class="mx-auto mt-3 max-w-2xl text-nv-text-secondary">
+          Every name in NameVerse, organized by tradition. Pick a religion to browse A–Z, or start
+          with the most popular names below.
+        </p>
+      </header>
 
-        <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {
-            religions.map((rel) => (
-              <a
-                href={`/names/${rel.key}/a/1`}
-                class="rounded-[2rem] border border-nv-border bg-white/62 p-6 backdrop-blur transition hover:-translate-y-1 hover:bg-white"
-              >
-                <div class="text-2xl font-bold text-nv-text">{rel.count.toLocaleString()}</div>
-                <div class="mt-1 text-sm font-semibold text-nv-text-muted">{rel.label}</div>
-              </a>
-            ))
-          }
-        </div>
-
-        <div class="mt-12">
-          <h2 class="nv-display text-2xl font-bold text-nv-text">Popular Names</h2>
-          <div class="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-            {
-              topNames.map(({ religion, slug }) => {
-                const items = manifest[religion] || [];
-                const item = items.find((i) => i.slug === slug);
-                if (!item) return null;
-                return (
-                  <a
-                    href={`/names/${religion}/${slug}`}
-                    class="rounded-xl border border-nv-border bg-white p-4 transition hover:bg-nv-surface-subtle"
-                  >
-                    <div class="text-sm font-bold text-nv-text">{item.name}</div>
-                    <div class="mt-1 text-xs text-nv-text-muted">{item.meaning || item.origin || religion}</div>
-                  </a>
-                );
-              })
-            }
-          </div>
-        </div>
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        {religions.map((rel) => (
+          <a href={`/names/${rel.key}/letter/a`} class="card card-hover group flex flex-col gap-2 p-6">
+            <span class:list={['badge w-fit', rel.badgeClass]}>{rel.count.toLocaleString()} names</span>
+            <h2 class="font-display text-lg font-semibold text-nv-text group-hover:text-nv-accent">{rel.label}</h2>
+            <p class="text-sm text-nv-text-secondary">{rel.description}</p>
+            <span class="mt-auto pt-2 text-sm font-semibold text-nv-accent">Browse A–Z &rarr;</span>
+          </a>
+        ))}
       </div>
+
+      <section class="mt-14" aria-labelledby="popular-heading">
+        <div class="mb-6 flex flex-wrap items-end justify-between gap-3">
+          <h2 id="popular-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text">
+            Most popular names
+          </h2>
+          <a href="/search" class="btn-ghost">Search all names</a>
+        </div>
+        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {topNames.map((item) => <NameCard item={item} />)}
+        </div>
+      </section>
     </div>
-  </main>
+  </div>
 </Layout>

@@ -1,0 +1,10 @@
+---
+// Section heading with optional eyebrow + description.
+const { eyebrow, title, description = '', center = false } = Astro.props;
+---
+
+<header class:list={['mb-6 flex flex-col gap-2', center && 'items-center text-center']}>
+  {eyebrow && <span class="eyebrow">{eyebrow}</span>}
+  <h2 class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">{title}</h2>
+  {description && <p class:list={['max-w-2xl text-sm leading-relaxed text-nv-text-secondary sm:text-base']}>{description}</p>}
+</header>

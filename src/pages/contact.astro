@@ -1,17 +1,70 @@
 ---
-import Layout from "../layouts/Layout.astro";
+import Layout from '../layouts/Layout.astro';
 ---
 
-<Layout title="Contact | NameVerse" description="Get in touch with the NameVerse team.">
-  <main class="nv-page min-h-screen">
-    <div class="nv-container nv-section">
-      <div class="mx-auto max-w-3xl">
-        <h1 class="nv-display text-3xl font-bold text-nv-text sm:text-4xl">Contact Us</h1>
-        <p class="mt-4 text-nv-text-secondary">Get in touch with the NameVerse team. Coming soon.</p>
-        <div class="mt-6 rounded-2xl border border-nv-border bg-white p-6">
-          <p class="text-sm text-nv-text-muted">Contact form coming soon. In the meantime, browse <a href="/names" class="text-[color:var(--nv-accent)] underline">baby names</a> or <a href="/about" class="text-[color:var(--nv-accent)] underline">learn more about NameVerse</a>.</p>
-        </div>
+<Layout
+  title="Contact NameVerse — Feedback, Corrections & Suggestions"
+  description="Contact the NameVerse team: report a name meaning correction, suggest a topic, or share feedback. We read every message."
+>
+  <div class="container-page py-10 sm:py-14">
+    <div class="mx-auto max-w-3xl">
+      <header class="mb-8">
+        <span class="eyebrow">Contact</span>
+        <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-4xl">
+          Get in touch
+        </h1>
+        <p class="mt-4 text-lg leading-relaxed text-nv-text-secondary">
+          Spotted an error in a meaning or origin? Want to suggest a name or a guide topic?
+          We read every message.
+        </p>
+      </header>
+
+      <div class="grid gap-5 sm:grid-cols-2">
+        <section class="card p-6">
+          <h2 class="font-display text-lg font-semibold text-nv-text">Corrections</h2>
+          <p class="mt-2 text-sm leading-relaxed text-nv-text-secondary">
+            Meaning, origin or pronunciation errors are our top priority. Include the name and
+            what looks wrong.
+          </p>
+          <a href="mailto:corrections@nameverse.site" class="mt-3 inline-block text-sm font-semibold text-nv-accent hover:underline">
+            corrections@nameverse.site
+          </a>
+        </section>
+
+        <section class="card p-6">
+          <h2 class="font-display text-lg font-semibold text-nv-text">General feedback</h2>
+          <p class="mt-2 text-sm leading-relaxed text-nv-text-secondary">
+            Ideas, feature requests and guide topic suggestions help shape what we build next.
+          </p>
+          <a href="mailto:hello@nameverse.site" class="mt-3 inline-block text-sm font-semibold text-nv-accent hover:underline">
+            hello@nameverse.site
+          </a>
+        </section>
+
+        <section class="card p-6">
+          <h2 class="font-display text-lg font-semibold text-nv-text">Privacy</h2>
+          <p class="mt-2 text-sm leading-relaxed text-nv-text-secondary">
+            Questions about how we handle data — see our privacy policy or write to us.
+          </p>
+          <a href="mailto:privacy@nameverse.site" class="mt-3 inline-block text-sm font-semibold text-nv-accent hover:underline">
+            privacy@nameverse.site
+          </a>
+        </section>
+
+        <section class="card p-6">
+          <h2 class="font-display text-lg font-semibold text-nv-text">Legal</h2>
+          <p class="mt-2 text-sm leading-relaxed text-nv-text-secondary">
+            Licensing, takedowns and other legal matters.
+          </p>
+          <a href="mailto:legal@nameverse.site" class="mt-3 inline-block text-sm font-semibold text-nv-accent hover:underline">
+            legal@nameverse.site
+          </a>
+        </section>
       </div>
+
+      <p class="mt-8 text-center text-sm text-nv-text-muted">
+        We typically respond within 2–3 business days.
+      </p>
     </div>
-  </main>
+  </div>
 </Layout>

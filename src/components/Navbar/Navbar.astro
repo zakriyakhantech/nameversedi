@@ -1,52 +1,37 @@
 ---
-// NameVerse Navbar — Astro conversion
-// React state converted to vanilla JS in <script> at bottom.
+// NameVerse Navbar — Astro
+// All links verified against actual routes.
 
 const categoryLinks = [
   { name: 'All Baby Names', href: '/names', icon: 'list', description: 'Browse the full name directory' },
-  { name: 'Islamic Names', href: '/islamic/boy-names', icon: 'book', description: 'Quranic, Arabic and Urdu names', badge: 'Popular' },
-  { name: 'Islamic Boy Names', href: '/islamic/boy-names', icon: 'book', description: 'Male Islamic names' },
-  { name: 'Islamic Girl Names', href: '/islamic/girl-names', icon: 'book', description: 'Female Islamic names' },
-  { name: 'Christian Names', href: '/christian/boy-names', icon: 'book', description: 'Biblical and modern names', badge: 'Popular' },
-  { name: 'Christian Boy Names', href: '/christian/boy-names', icon: 'book', description: 'Male Christian names' },
-  { name: 'Christian Girl Names', href: '/christian/girl-names', icon: 'book', description: 'Female Christian names' },
-  { name: 'Hindu Names', href: '/hindu/boy-names', icon: 'sparkles', description: 'Sanskrit and Vedic names', badge: 'Popular' },
-  { name: 'Hindu Boy Names', href: '/hindu/boy-names', icon: 'sparkles', description: 'Male Hindu names' },
-  { name: 'Hindu Girl Names', href: '/hindu/girl-names', icon: 'sparkles', description: 'Female Hindu names' },
-  { name: 'Biblical Names', href: '/names/christian/categories/biblical/1', icon: 'book', description: 'Names from the Bible' },
-  { name: 'Quranic Names', href: '/names/islamic/categories/quranic/1', icon: 'book', description: 'Names from the Quran' },
+  { name: 'Islamic Names', href: '/names/islamic/letter/a', icon: 'book', description: 'Quranic, Arabic and Urdu names', badge: 'Popular' },
+  { name: 'Islamic Boy Names', href: '/islamic-boy-names', icon: 'book', description: 'Male Islamic names' },
+  { name: 'Islamic Girl Names', href: '/islamic-girl-names', icon: 'book', description: 'Female Islamic names' },
+  { name: 'Christian Names', href: '/names/christian/letter/a', icon: 'book', description: 'Biblical and modern names', badge: 'Popular' },
+  { name: 'Christian Boy Names', href: '/christian-boy-names', icon: 'book', description: 'Male Christian names' },
+  { name: 'Christian Girl Names', href: '/christian-girl-names', icon: 'book', description: 'Female Christian names' },
+  { name: 'Hindu Names', href: '/names/hindu/letter/a', icon: 'sparkles', description: 'Sanskrit and Vedic names', badge: 'Popular' },
+  { name: 'Hindu Boy Names', href: '/hindu-boy-names', icon: 'sparkles', description: 'Male Hindu names' },
+  { name: 'Hindu Girl Names', href: '/hindu-girl-names', icon: 'sparkles', description: 'Female Hindu names' },
 ];
 
 const exploreLinks = [
-  { name: 'By Meaning', href: '/names-by-meaning', icon: 'heart', description: 'Browse names by their meanings' },
-  { name: 'By Origin', href: '/names-by-origin', icon: 'globe', description: 'Names by linguistic origin' },
-  { name: 'By Letter', href: '/names/islamic/letter/a/1', icon: 'hash', description: 'A–Z name browsing' },
-  { name: 'Trending Names', href: '/trending-names', icon: 'trending', description: 'Names gaining search interest', badge: 'Hot' },
-  { name: 'Unique Names', href: '/unique-names', icon: 'sparkles', description: 'Distinctive naming ideas' },
-  { name: 'Popular Names', href: '/popularity', icon: 'heart', description: 'Popularity and discovery tools' },
-  { name: 'Name Meanings', href: '/name-meanings', icon: 'book', description: 'Meaning-led research' },
-  { name: 'Advanced Search', href: '/advanced-search', icon: 'search', description: 'Filter by meaning and origin' },
-  { name: 'Knowledge Graph', href: '/names-by-meaning', icon: 'sparkles', description: 'Entity relationships and connections' },
-];
-
-const resourceLinks = [
-  { name: 'Blog', href: '/blog', icon: 'book', description: 'Expert naming guides' },
-  { name: 'Expert Naming Guide', href: '/guides/expert-naming-guide', icon: 'sparkles', description: 'Decision framework' },
-  { name: 'Popular by State', href: '/popular-by-state', icon: 'globe', description: 'US state popularity' },
-  { name: 'Saved Names', href: '/my-names', icon: 'heart', description: 'Your personal shortlist' },
-  { name: 'About NameVerse', href: '/about', icon: 'book', description: 'Our mission and team' },
+  { name: 'Browse by Letter', href: '/names/islamic/letter/a', icon: 'hash', description: 'A–Z name browsing' },
+  { name: 'Search Names', href: '/search', icon: 'search', description: 'Search 42,000+ names by meaning' },
+  { name: 'All Baby Names', href: '/names', icon: 'list', description: 'The full name directory' },
+  { name: 'Expert Naming Guide', href: '/guides/expert-naming-guide', icon: 'sparkles', description: 'Decision framework for parents' },
 ];
 
 const navItems = [
   { name: 'Home', href: '/', icon: 'home' },
   { name: 'Names', href: '/names', dropdown: categoryLinks, icon: 'list' },
-  { name: 'Categories', href: '/names', dropdown: exploreLinks, icon: 'sparkles' },
+  { name: 'Explore', href: '/names', dropdown: exploreLinks, icon: 'sparkles' },
   { name: 'Blog', href: '/blog', icon: 'book' },
   { name: 'About', href: '/about', icon: 'book' },
 ];
 
 const directLinks = [
-  { name: 'Home', href: '/', icon: 'home' },
+  { name: 'Blog', href: '/blog', icon: 'book' },
   { name: 'About', href: '/about', icon: 'book' },
 ];
 
@@ -87,7 +72,7 @@ function getIcon(name) {
     </a>
 
     <!-- Desktop nav -->
-    <div class="hidden items-center gap-1 xl:flex">
+    <div class="hidden items-center gap-1 lg:flex">
       {
         navItems.map((item) => {
           const iconName = item.icon;
@@ -152,7 +137,7 @@ function getIcon(name) {
     </div>
 
     <!-- Desktop actions -->
-    <div class="hidden items-center gap-2 xl:flex">
+    <div class="hidden items-center gap-2 lg:flex">
       <button
         type="button"
         data-theme-toggle
@@ -284,10 +269,6 @@ function getIcon(name) {
 </nav>
 
 <style>
-  .nv-navbar-sticky {
-    font-family: var(--font-body), ui-sans-serif, system-ui, sans-serif;
-  }
-
   .nv-dropdown {
     transition: opacity 0.15s ease, visibility 0.15s ease;
   }

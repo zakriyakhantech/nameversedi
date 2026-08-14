@@ -1,0 +1,14 @@
+---
+// Ad container with reserved height (zero CLS). Scripts are injected lazily
+// by the global ad loader in Layout.astro — nothing runs until this slot
+// is near the viewport.
+const { placement = '', minHeight = 100 } = Astro.props;
+---
+
+<div
+  class="nv-ad-slot mx-auto w-full max-w-3xl overflow-hidden"
+  style={`min-height: ${minHeight}px`}
+  data-ad-placement={placement}
+  data-ad-loaded="false"
+  aria-hidden="true"
+></div>

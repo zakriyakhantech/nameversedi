@@ -32,7 +32,12 @@ function readJsonFile(filePath) {
   }
 }
 
+const args = process.argv.slice(2);
+const limitArg = args.find(arg => arg.startsWith('--limit='));
+const limit = limitArg ? parseInt(limitArg.split('=')[1]) : Infinity;
+
 const manifest = { islamic: [], christian: [], hindu: [], italian: [] };
+let count = 0;
 
 for (const rel of VALID_RELIGIONS) {
   const dir = path.join(NAMES_DIR, rel);
@@ -58,7 +63,11 @@ for (const rel of VALID_RELIGIONS) {
       category: data.category || '',
       popularity_score: Number(data.popularity_score) || Number(data.popularity) || 0,
     });
+
+    count++;
+    if (count >= limit) break;
   }
+  if (count >= limit) break;
 }
 
 fs.mkdirSync(path.dirname(MANIFEST_PATH), { recursive: true });
