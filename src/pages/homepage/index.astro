@@ -22,28 +22,28 @@ const hubs = [
     religion: 'islamic',
     label: 'Islamic Names',
     description: 'Quranic, Arabic and Urdu names with meanings and lucky numbers.',
-    href: '/names/islamic/letter/a',
+    href: '/names/islamic',
     badgeClass: 'bg-islamic-soft text-islamic',
   },
   {
     religion: 'christian',
     label: 'Christian Names',
     description: 'Biblical, Hebrew, Greek and modern Christian names.',
-    href: '/names/christian/letter/a',
+    href: '/names/christian',
     badgeClass: 'bg-christian-soft text-christian',
   },
   {
     religion: 'hindu',
     label: 'Hindu Names',
     description: 'Sanskrit, Vedic and regional names with spiritual roots.',
-    href: '/names/hindu/letter/a',
+    href: '/names/hindu',
     badgeClass: 'bg-hindu-soft text-hindu',
   },
   {
     religion: 'italian',
     label: 'Italian Names',
     description: 'Classical Italian names with cultural heritage.',
-    href: '/names/italian/letter/a',
+    href: '/names/italian',
     badgeClass: 'bg-italian-soft text-italian',
   },
 ];
@@ -297,7 +297,7 @@ const faqJsonLd = JSON.stringify({
           <h3 class="text-base font-bold">Smart search</h3>
           <p class="mt-2 text-sm leading-relaxed text-white/70">Search names, meanings, origins and gender across 42K+ records.</p>
         </a>
-        <a href="/names/islamic/letter/a" class="rounded-card bg-white/10 p-5 transition hover:bg-white/15">
+        <a href="/names" class="rounded-card bg-white/10 p-5 transition hover:bg-white/15">
           <h3 class="text-base font-bold">A–Z browsing</h3>
           <p class="mt-2 text-sm leading-relaxed text-white/70">Browse every tradition alphabetically, letter by letter.</p>
         </a>
@@ -373,7 +373,7 @@ const faqJsonLd = JSON.stringify({
     </p>
     <div class="mt-6 flex flex-col justify-center gap-3 sm:flex-row">
       <a href="/search" class="btn-primary">Search names</a>
-      <a href="/names/islamic/letter/a" class="btn-ghost">Browse Islamic names</a>
+      <a href="/names" class="btn-ghost">Browse all names</a>
     </div>
   </div>
 </section>
@@ -424,10 +424,10 @@ const faqJsonLd = JSON.stringify({
         .slice(0, 8)
         .map(
           (item) => `
-            <a href="/names/${item.religion}/${item.slug}" class="flex items-center justify-between gap-3 border-b border-nv-border px-4 py-3 text-sm last:border-b-0 hover:bg-nv-subtle">
+            <a href="/names/${item.religion}/${item.s}" class="flex items-center justify-between gap-3 border-b border-nv-border px-4 py-3 text-sm last:border-b-0 hover:bg-nv-subtle">
               <span class="min-w-0">
-                <span class="block truncate font-semibold text-nv-text">${escapeHtml(item.name)}</span>
-                <span class="block truncate text-xs text-nv-text-muted">${escapeHtml(item.meaning || '')}</span>
+                <span class="block truncate font-semibold text-nv-text">${escapeHtml(item.n)}</span>
+                <span class="block truncate text-xs text-nv-text-muted">${escapeHtml(item.m || '')}</span>
               </span>
               <span class="badge shrink-0 bg-nv-accent-subtle text-nv-accent">${religionLabels[item.religion] || item.religion}</span>
             </a>`
@@ -447,11 +447,11 @@ const faqJsonLd = JSON.stringify({
         return;
       }
       const data = indexes || (await loadIndexes());
-      const filtered = data.filter(
-        (item) =>
-          item.name.toLowerCase().includes(query) ||
-          (item.meaning && item.meaning.toLowerCase().includes(query))
-      );
+        const filtered = data.filter(
+          (item) =>
+            item.n.toLowerCase().includes(query) ||
+            (item.m && item.m.toLowerCase().includes(query))
+        );
       render(filtered);
     }
 

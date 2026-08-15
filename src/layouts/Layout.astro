@@ -9,29 +9,43 @@ import Ad from '../components/Ad.astro';
 import SocialShare from '../components/SocialShare.astro';
 
 const siteUrl = 'https://nameverse.site';
+const siteName = 'NameVerse';
+const siteLogo = `${siteUrl}/nameverse_logo_emblem.png`;
 
-const { title, description, canonical, ogImage, noindex = false } = Astro.props;
+const { title, description, canonical, ogImage, noindex = false, type = 'website' } = Astro.props;
 
 const pageTitle = title || 'Baby Names, Meanings, Origins & Lucky Numbers | NameVerse';
 const pageDescription =
   description ||
   'Discover 42,000+ baby names with verified meanings, origins, lucky numbers, pronunciation guides, and cultural context across Islamic, Hindu, Christian and global traditions.';
 const pageCanonical = canonical || new URL(Astro.url.pathname, siteUrl).href;
-const pageOgImage = ogImage || `${siteUrl}/og-home.png`;
+const pageOgImage = ogImage || siteLogo;
 
 const orgJsonLd = JSON.stringify({
   '@context': 'https://schema.org',
   '@graph': [
     {
       '@type': 'Organization',
-      name: 'NameVerse',
+      name: siteName,
       url: siteUrl,
-      logo: `${siteUrl}/logo.svg`,
+      logo: {
+        '@type': 'ImageObject',
+        url: siteLogo,
+        width: 512,
+        height: 512,
+      },
+      contactPoint: {
+        '@type': 'ContactPoint',
+        email: 'hello@nameverse.site',
+        contactType: 'customer support',
+      },
     },
     {
       '@type': 'WebSite',
-      name: 'NameVerse',
+      '@id': `${siteUrl}/#website`,
+      name: siteName,
       url: siteUrl,
+      publisher: { '@id': `${siteUrl}/#organization` },
       potentialAction: {
         '@type': 'SearchAction',
         target: `${siteUrl}/search?q={search_term_string}`,
@@ -58,9 +72,10 @@ const orgJsonLd = JSON.stringify({
     <meta name="color-scheme" content="light dark" />
     <meta name="application-name" content="NameVerse" />
     <meta name="theme-color" content="#1E3A5F" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="format-detection" content="telephone=no" />
     <meta name="google-site-verification" content="iPU1wdP26kg58gDN3U4H39YuS20alsLvjfXRM-QtKLw" />
     <meta name="google-site-verification" content="YpyQkTA9hX2f0MgD5oN8mVvssqJOD4L96gJn2yRzc3k" />
-    <meta name="apple-mobile-web-app-title" content="NameVerse" />
     <meta name="msapplication-TileColor" content="#1E3A5F" />
     <meta name="ahrefs-site-verification" content="650afaf6635223ff618a281883a22b69b937a121e933b19907debeca67754cd4" />
     <meta name="p:domain_verify" content="2182ce49319a6b4ede3da073a469ce4a" />
@@ -71,24 +86,31 @@ const orgJsonLd = JSON.stringify({
     <meta property="og:description" content={pageDescription} />
     <meta property="og:url" content={pageCanonical} />
     <meta property="og:image" content={pageOgImage} />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
+    <meta property="og:image:width" content="1600" />
+    <meta property="og:image:height" content="1600" />
     <meta property="og:image:type" content="image/png" />
     <meta property="og:image:alt" content="NameVerse — Baby Names with Meanings, Origins & Lucky Numbers" />
     <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={type} />
 
     <!-- Twitter -->
-    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@nameverse" />
     <meta name="twitter:title" content={pageTitle} />
     <meta name="twitter:description" content={pageDescription} />
     <meta name="twitter:image" content={pageOgImage} />
 
     <!-- Icons -->
     <link rel="icon" type="image/svg+xml" href="/logo.svg" />
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-    <link rel="manifest" href="/manifest.json" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/nameverse_logo_emblem.png" />
+    <link rel="apple-touch-icon" sizes="1600x1600" href="/nameverse_logo_emblem.png" />
+    <link rel="mask-icon" href="/logo.svg" color="#1E3A5F" />
+
+    <!-- Performance: preconnect to ad + asset hosts so lazy-loaded tags resolve fast -->
+    <link rel="preconnect" href="https://revolthem.com" crossorigin />
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin />
+    <link rel="preconnect" href="https://nameverse.site" />
+    <link rel="dns-prefetch" href="https://revolthem.com" />
 
     <!-- Theme: apply before first paint to prevent flash -->
     <script is:inline>

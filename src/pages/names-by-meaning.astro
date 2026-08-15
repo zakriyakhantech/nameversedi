@@ -3,45 +3,132 @@ import Layout from "../layouts/Layout.astro";
 import { getManifest } from "../lib/data/astro-data.mjs";
 
 const manifest = getManifest();
+
+const STOPWORDS = new Set([
+  'a', 'an', 'the', 'and', 'or', 'of', 'to', 'in', 'on', 'for', 'with', 'who', 'that', 'this',
+  'is', 'are', 'was', 'be', 'as', 'by', 'from', 'one', 'two', 'means', 'name', 'names',
+  'meaning', 'someone', 'whoever', 'onewho', 'also', 'very', 'those',
+]);
+
 const meanings = new Map();
 for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
   for (const item of manifest[rel] || []) {
     if (item.meaning) {
-      const words = item.meaning.toLowerCase().split(/[^a-z]+/).filter(Boolean);
+      const words = item.meaning.toLowerCase().split(/[^a-z]+/).filter((w) => w.length > 3 && !STOPWORDS.has(w));
       for (const word of words) {
-        if (word.length > 3) {
-          meanings.set(word, (meanings.get(word) || 0) + 1);
-        }
+        meanings.set(word, (meanings.get(word) || 0) + 1);
       }
     }
   }
 }
 const topMeanings = Array.from(meanings.entries())
   .sort((a, b) => b[1] - a[1])
-  .slice(0, 30)
-  .map(([word]) => word);
+  .slice(0, 60)
+  .map(([word, count]) => ({ word, count }));
+
+const featured = [
+  { meaning: 'light', words: 'radiance, brightness, illumination, glow' },
+  { meaning: 'love', words: 'affection, beloved, devotion, affection' },
+  { meaning: 'strength', words: 'power, might, courage, bravery' },
+  { meaning: 'peace', words: 'tranquility, calm, serenity, harmony' },
+  { meaning: 'gift', words: 'present, blessing, boon, reward' },
+  { meaning: 'beautiful', words: 'handsome, pretty, lovely, graceful' },
+];
+
+const faqs = [
+  {
+    q: 'How do I find a name that means "light", "love" or "strength"?',
+    a: 'Tap any meaning chip below — it runs a search across all 42,000+ names and shows every name whose meaning contains that keyword, ranked by relevance then popularity.',
+  },
+  {
+    q: 'Can I search a meaning for a specific religion or gender?',
+    a: 'Yes. The search tool combines a meaning keyword with religion, gender, origin and category filters, so you can find, for example, Islamic girl names that mean light.',
+  },
+  {
+    q: 'Are the meanings on NameVerse verified?',
+    a: 'Meanings are reviewed for linguistic accuracy and cultural context. Where traditions differ, the name profile presents the variation rather than choosing one side.',
+  },
+];
+
+const faqJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
 ---
 
-<Layout title="Names by Meaning | NameVerse" description="Browse baby names grouped by meaning: light, love, strength, peace and more.">
-  <main class="nv-page min-h-screen">
-    <div class="nv-container nv-section">
-      <div class="mx-auto max-w-4xl">
-        <h1 class="nv-display text-3xl font-bold text-nv-text sm:text-4xl">Names by Meaning</h1>
-        <p class="mt-2 text-nv-text-secondary">Explore names grouped by meaning and theme.</p>
+<Layout
+  title="Baby Names by Meaning — Light, Love, Strength, Peace & More | NameVerse"
+  description="Browse 42,000+ baby names by meaning: light, love, strength, peace, gift, beautiful and more. Find the perfect meaningful name for your baby."
+  canonical="https://nameverse.site/names-by-meaning"
+>
+  <script type="application/ld+json" set:html={faqJsonLd} />
 
-        <div class="mt-8 flex flex-wrap gap-2">
-          {
-            topMeanings.map((meaning) => (
-              <a
-                href={`/search?q=${encodeURIComponent(meaning)}`}
-                class="rounded-full border border-nv-border bg-white/70 px-4 py-2 text-sm font-bold text-nv-text transition hover:border-[color:var(--nv-accent-2)] hover:bg-[color:var(--nv-accent-2)] hover:text-white"
-              >
-                {meaning}
-              </a>
-            ))
-          }
+  <div class="container-page py-10 sm:py-14">
+    <div class="mx-auto max-w-5xl">
+      <header class="mb-10 text-center">
+        <span class="eyebrow">Search by what it means</span>
+        <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">Baby Names by Meaning</h1>
+        <p class="mx-auto mt-3 max-w-2xl text-nv-text-secondary">
+          Start from the feeling you want a name to carry — light, love, strength, peace — and let
+          NameVerse find every matching name. Below are the 60 most popular meaning keywords.
+        </p>
+      </header>
+
+      <section aria-labelledby="featured-heading">
+        <h2 id="featured-heading" class="sr-only">Featured meaning themes</h2>
+        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {featured.map((f) => (
+            <a href={`/search?q=${encodeURIComponent(f.meaning)}`} class="card card-hover group flex flex-col gap-2 p-6">
+              <h2 class="font-display text-xl font-semibold capitalize text-nv-text group-hover:text-nv-accent">{f.meaning}</h2>
+              <p class="text-sm text-nv-text-secondary">Names meaning {f.meaning}: {f.words}</p>
+              <span class="mt-auto pt-2 text-sm font-semibold text-nv-accent">Find names &rarr;</span>
+            </a>
+          ))}
         </div>
-      </div>
+      </section>
+
+      <section class="mt-12" aria-labelledby="chips-heading">
+        <h2 id="chips-heading" class="font-display text-xl font-semibold text-nv-text">Popular meaning keywords</h2>
+        <div class="mt-4 flex flex-wrap gap-2">
+          {topMeanings.map(({ word, count }) => (
+            <a href={`/search?q=${encodeURIComponent(word)}`} class="rounded-full border border-nv-border bg-nv-surface px-4 py-2 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent/50 hover:bg-nv-accent-subtle hover:text-nv-accent">
+              {word} <span class="text-xs text-nv-text-muted">({count.toLocaleString()})</span>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="mx-auto mt-16 max-w-3xl" aria-labelledby="seo-heading">
+        <h2 id="seo-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+          Choosing a name by its meaning
+        </h2>
+        <div class="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
+          <p>
+            For many families the meaning is the whole point of a name — it is a wish parents put
+            into their child's first word. Searching by meaning is also the fastest way to discover
+            names you would never find browsing alphabetically.
+          </p>
+          <p>
+            Tap a keyword to see real matches from every tradition, then combine the search with
+            gender and religion filters to narrow it down. Open a name profile for the full story:
+            pronunciation, numerology, lucky numbers and the cultural context behind the meaning.
+          </p>
+        </div>
+
+        <h3 class="mt-8 font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
+        <div class="mt-4 space-y-3">
+          {faqs.map((f) => (
+            <details class="faq-item card p-5">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
+                {f.q}
+                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+              </summary>
+              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
     </div>
-  </main>
+  </div>
 </Layout>

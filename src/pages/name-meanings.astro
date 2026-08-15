@@ -1,41 +1,95 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import NameCard from "../components/NameCard.astro";
 import { getManifest } from "../lib/data/astro-data.mjs";
 
 const manifest = getManifest();
 const all = [];
 for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
   for (const item of manifest[rel] || []) {
-    if (item.meaning) {
-      all.push({ ...item, religion: rel });
-    }
+    if (item.meaning && item.slug && item.name) all.push({ ...item, religion: rel });
   }
 }
 all.sort((a, b) => a.name.localeCompare(b.name));
 const top = all.slice(0, 100);
+
+const faqs = [
+  {
+    q: 'Where do the meanings on NameVerse come from?',
+    a: 'Each meaning is researched from the name\'s linguistic origin and cultural tradition, then reviewed for accuracy. Where interpretations differ across cultures, the profile shows both.',
+  },
+  {
+    q: 'How do I find the meaning of a specific name?',
+    a: 'Search for the name and open its profile — you will find the meaning, origin, pronunciation, lucky numbers, numerology and the story behind it.',
+  },
+  {
+    q: 'Can I browse names alphabetically to read their meanings?',
+    a: 'Yes. Start at the names directory, choose a tradition, and browse the A–Z letter pages — every card shows the name and its meaning at a glance.',
+  },
+];
+
+const faqJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
 ---
 
-<Layout title="Name Meanings | NameVerse" description="Browse baby names with verified meanings, origins and cultural context.">
-  <main class="nv-page min-h-screen">
-    <div class="nv-container nv-section">
-      <div class="mx-auto max-w-5xl">
-        <h1 class="nv-display text-3xl font-bold text-nv-text sm:text-4xl">Name Meanings</h1>
-        <p class="mt-2 text-nv-text-secondary">Browse baby names with verified meanings and origins.</p>
+<Layout
+  title="Baby Name Meanings — 100 Beautiful Names & What They Mean | NameVerse"
+  description="Discover 100 beautiful baby names and their verified meanings, origins and lucky numbers — hand-picked from 42,000+ names across four traditions."
+  canonical="https://nameverse.site/name-meanings"
+>
+  <script type="application/ld+json" set:html={faqJsonLd} />
 
-        <div class="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {
-            top.map((item) => (
-              <a
-                href={`/names/${item.religion}/${item.slug}`}
-                class="rounded-xl border border-nv-border bg-white p-4 transition hover:bg-nv-surface-subtle"
-              >
-                <div class="text-sm font-bold text-nv-text">{item.name}</div>
-                <div class="mt-1 text-xs text-nv-text-muted">{item.meaning}</div>
-              </a>
-            ))
-          }
+  <div class="container-page py-10 sm:py-14">
+    <div class="mx-auto max-w-6xl">
+      <header class="mb-10 text-center">
+        <span class="eyebrow">Names &amp; their stories</span>
+        <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">Baby Name Meanings</h1>
+        <p class="mx-auto mt-4 max-w-2xl text-nv-text-secondary">
+          100 beautiful names from Islamic, Christian, Hindu and Italian traditions — with the
+          verified meaning of every one. Browse the full 42,000+ collection with the search tool.
+        </p>
+        <div class="mt-5 flex flex-wrap justify-center gap-2">
+          <a href="/names-by-meaning" class="btn-ghost">Search names by meaning</a>
+          <a href="/search" class="btn-primary">Search all names</a>
         </div>
+      </header>
+
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        {top.map((item) => <NameCard item={item} showReligion />)}
       </div>
+
+      <section class="mx-auto mt-16 max-w-3xl" aria-labelledby="seo-heading">
+        <h2 id="seo-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+          The meaning behind the name
+        </h2>
+        <div class="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
+          <p>
+            A name is a sentence your child will carry forever — the meaning is its first word.
+            Understanding what a name truly means, in its own language and tradition, helps you choose
+            with confidence rather than by sound alone.
+          </p>
+          <p>
+            The names above are just the start. Use the search tool to explore any meaning keyword, or
+            browse the tradition hubs for the complete alphabetical collections.
+          </p>
+        </div>
+
+        <h3 class="mt-8 font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
+        <div class="mt-4 space-y-3">
+          {faqs.map((f) => (
+            <details class="faq-item card p-5">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
+                {f.q}
+                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+              </summary>
+              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
     </div>
-  </main>
+  </div>
 </Layout>

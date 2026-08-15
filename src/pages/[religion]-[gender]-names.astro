@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import NameCard from '../components/NameCard.astro';
 import { getManifest } from '../lib/data/astro-data.mjs';
+import { normalizeGender, genderLabel, religionLabel } from '../lib/data/name-utils.mjs';
 
 export async function getStaticPaths() {
   const religions = ['islamic', 'christian', 'hindu', 'italian'];
@@ -25,41 +26,126 @@ if (!validReligions.includes(religion) || !validGenders.includes(gender)) {
 }
 
 const manifest = getManifest();
-const items = (manifest[religion] || [])
-  .filter((item) => item.gender && item.gender.toLowerCase().includes(gender))
-  .slice(0, 200);
+const allItems = manifest[religion] || [];
+const items = allItems
+  .filter((item) => normalizeGender(item.gender) === gender)
+  .sort((a, b) => (b.popularity_score || 0) - (a.popularity_score || 0));
 
-const religionLabel = religion.charAt(0).toUpperCase() + religion.slice(1);
-const genderLabel = gender.charAt(0).toUpperCase() + gender.slice(1);
+const topNames = items.slice(0, 300);
+const relLabel = religionLabel(religion);
+const genLabel = genderLabel(gender);
+
+const canonicalUrl = `https://nameverse.site/${religion}-${gender}-names`;
+
+const faqs = [
+  {
+    q: `How many ${relLabel.toLowerCase()} ${gender} names does NameVerse list?`,
+    a: `NameVerse currently lists ${items.length.toLocaleString()} ${relLabel.toLowerCase()} ${gender} names, ranked here by popularity. Every entry includes a verified meaning, origin and lucky number.`,
+  },
+  {
+    q: `What is the most popular ${relLabel.toLowerCase()} ${gender} name?`,
+    a: `The names at the top of this page are ranked by NameVerse's popularity score, which blends search interest, cultural relevance and regional usage. Open any name to see its exact score and regional trends.`,
+  },
+  {
+    q: `How do I find ${relLabel.toLowerCase()} ${gender} names by meaning?`,
+    a: `Use the search tool and filter by religion (${relLabel}) and gender (${genLabel}), then type a meaning keyword like "light", "strength" or "peace" to find matching names instantly.`,
+  },
+  {
+    q: `Are these ${relLabel.toLowerCase()} ${gender} names religiously accurate?`,
+    a: `Yes. Each name is reviewed for linguistic origin and faith-aware interpretation, and many entries include references from sacred texts and cultural traditions.`,
+  },
+];
+
+const faqJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
 ---
 
 <Layout
-  title={`${genderLabel}s' ${religionLabel} Baby Names & Meanings | NameVerse`}
-  description={`Browse ${items.length}+ ${religionLabel.toLowerCase()} ${gender} baby names with verified meanings, origins and lucky numbers. Free, updated for 2026.`}
+  title={`${genLabel} ${relLabel} Baby Names & Meanings (${items.length.toLocaleString()}) | NameVerse`}
+  description={`Browse ${items.length.toLocaleString()} ${relLabel.toLowerCase()} ${gender} baby names with verified meanings, origins and lucky numbers — ranked by popularity and updated for 2026.`}
+  canonical={canonicalUrl}
 >
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: `${genLabel} ${relLabel} Baby Names`,
+    description: `${items.length.toLocaleString()} ${relLabel.toLowerCase()} ${gender} names with meanings and origins.`,
+    url: canonicalUrl,
+  })} />
+  <script type="application/ld+json" set:html={faqJsonLd} />
+
   <div class="container-page py-10 sm:py-14">
     <div class="mx-auto max-w-6xl">
-      <header class="mb-8">
-        <span class="eyebrow">{religionLabel} &bull; {genderLabel} names</span>
-        <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-4xl">
-          {religionLabel} {genderLabel} Names
+      <nav class="mb-6 flex items-center gap-2 text-sm text-nv-text-muted" aria-label="Breadcrumb">
+        <a href="/" class="font-medium transition hover:text-nv-accent">Home</a>
+        <span>/</span>
+        <a href={`/names/${religion}`} class="font-medium transition hover:text-nv-accent">{relLabel} Names</a>
+        <span>/</span>
+        <span class="font-medium text-nv-text">{genLabel} names</span>
+      </nav>
+
+      <header class="mb-8 text-center">
+        <span class="badge bg-nv-accent-subtle text-nv-accent">{items.length.toLocaleString()} {gender} names</span>
+        <h1 class="mt-3 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">
+          {genLabel} {relLabel} Names &amp; Meanings
         </h1>
-        <p class="mt-3 max-w-2xl text-nv-text-secondary">
-          Hand-picked {gender} names from the {religionLabel.toLowerCase()} tradition, each with a
-          verified meaning and origin.
+        <p class="mx-auto mt-4 max-w-2xl text-nv-text-secondary">
+          {items.length.toLocaleString()} {relLabel.toLowerCase()} {gender} names, ranked by
+          popularity and each with a verified meaning, cultural origin and lucky number. Below are
+          the 300 most popular; use the search tool to explore the full collection.
         </p>
+        <div class="mt-5 flex flex-wrap justify-center gap-2">
+          <a href={`/search?religion=${religion}&gender=${gender}&sort=popularity`} class="btn-primary">See all ranked by popularity</a>
+          <a href={`/names/${religion}`} class="btn-ghost">Browse all {relLabel.toLowerCase()} names</a>
+          <a href={`/${religion}-${gender === 'boy' ? 'girl' : 'boy'}-names`} class="btn-ghost">{genLabel === 'Boy' ? 'Girl' : 'Boy'} names</a>
+        </div>
       </header>
 
       <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-        {items.map((item) => <NameCard item={item} />)}
+        {topNames.map((item) => <NameCard item={item} />)}
       </div>
 
       <p class="mt-10 text-center text-sm text-nv-text-muted">
-        Looking for more?
-        <a href={`/names/${religion}/letter/a`} class="font-semibold text-nv-accent hover:underline">
-          Browse all {religionLabel.toLowerCase()} names A–Z
+        Showing the {topNames.length.toLocaleString()} most popular of {items.length.toLocaleString()}.
+        <a href={`/search?religion=${religion}&gender=${gender}&sort=popularity`} class="font-semibold text-nv-accent hover:underline">
+          Search the full list &rarr;
         </a>
       </p>
+
+      <section class="mx-auto mt-16 max-w-3xl" aria-labelledby="seo-heading">
+        <h2 id="seo-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+          Choosing a {relLabel.toLowerCase()} {gender} name
+        </h2>
+        <div class="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
+          <p>
+            A {relLabel.toLowerCase()} {gender} name should feel meaningful to your family, sound
+            natural with your surname, and carry the qualities you hope your child will grow into.
+            This ranked list is a great starting point because it shows which {relLabel.toLowerCase()}{' '}
+            {gender} names parents across the world are choosing right now.
+          </p>
+          <p>
+            Once you shortlist a few, open each name to compare pronunciation, lucky numbers,
+            numerology and spelling variations, then use the popularity comparison tool to weigh your
+            finalists side by side.
+          </p>
+        </div>
+
+        <h3 class="mt-8 font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
+        <div class="mt-4 space-y-3">
+          {faqs.map((f) => (
+            <details class="faq-item card p-5">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
+                {f.q}
+                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+              </summary>
+              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
     </div>
   </div>
 </Layout>

@@ -1,0 +1,155 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import NameCard from '../../components/NameCard.astro';
+import { getManifest, normalizeReligion } from '../../lib/data/astro-data.mjs';
+import { CATEGORY_SLUGS, CATEGORY_LABELS, categorySlugFor, religionLabel } from '../../lib/data/name-utils.mjs';
+
+export async function getStaticPaths() {
+  return CATEGORY_SLUGS.map((category) => ({ params: { category } }));
+}
+
+export const prerender = true;
+
+const { category } = Astro.params;
+const label = CATEGORY_LABELS[category] || category.charAt(0).toUpperCase() + category.slice(1);
+const siteUrl = 'https://nameverse.site';
+const canonicalUrl = `${siteUrl}/categories/${category}`;
+
+const manifest = getManifest();
+const all = [];
+const religionCounts = new Map();
+for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
+  for (const item of manifest[rel] || []) {
+    if (categorySlugFor(item.category) === category) {
+      all.push({ ...item, religion: rel });
+      religionCounts.set(rel, (religionCounts.get(rel) || 0) + 1);
+    }
+  }
+}
+all.sort((a, b) => (b.popularity_score || 0) - (a.popularity_score || 0));
+const topNames = all.slice(0, 300);
+
+const religionsWithNames = [...religionCounts.entries()].sort((a, b) => b[1] - a[1]);
+
+const introByCat = {
+  islamic: `These names are rooted in the Islamic naming tradition — many drawn from the Quran, the Prophet's family and companions, and classical Arabic culture. Each name is reviewed for faith-aware interpretation.`,
+  hindu: `These names come from the rich Hindu tradition — inspired by Sanskrit scriptures, deities, virtues and the natural world. Many carry profound meanings that parents hope will shape their child's character.`,
+  biblical: `These names appear in the Bible and carry the weight of scripture, faith and centuries of tradition. Perfect for families who want their child's name to echo sacred stories.`,
+  saint: `These are the names of venerated saints — classic, timeless choices that honor spiritual figures and inspire virtue in everyday life.`,
+  virtue: `These names express noble qualities — love, wisdom, patience, strength and hope. A virtue name hands your child an aspiration to live up to.`,
+  italian: `These names celebrate Italian heritage — melodic, classic and full of warmth, many derived from Latin and the saints.`,
+};
+
+const faqs = [
+  {
+    q: `What are ${label.toLowerCase()} baby names on NameVerse?`,
+    a: `${label} baby names are grouped by their cultural and spiritual tradition. On NameVerse, this category contains ${all.length.toLocaleString()} names, each with a verified meaning, gender and origin.`,
+  },
+  {
+    q: `What is the most popular ${label.toLowerCase()} baby name?`,
+    a: `The top of this page shows the highest-ranked ${label.toLowerCase()} names by popularity score — a blend of search interest, cultural relevance and regional usage. Open any name for its exact score.`,
+  },
+  {
+    q: `Are ${label.toLowerCase()} names suitable for both boys and girls?`,
+    a: `Yes. Every name card shows its gender — boy, girl or unisex — and you can filter by gender, religion or meaning with the search tool.`,
+  },
+  {
+    q: `Do ${label.toLowerCase()} names have lucky numbers and numerology?`,
+    a: `Most do. Each full name profile includes lucky number, lucky day, lucky colors, lucky stone and life path number where the data is available.`,
+  },
+];
+
+const faqJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
+---
+
+<Layout
+  title={`${label} Baby Names with Meanings (${all.length.toLocaleString()}) | NameVerse`}
+  description={`Browse ${all.length.toLocaleString()} ${label.toLowerCase()} baby names with verified meanings, origins, gender and lucky numbers — ranked by popularity for 2026.`}
+  canonical={canonicalUrl}
+>
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: `${label} Baby Names`,
+    description: `${all.length.toLocaleString()} ${label.toLowerCase()} baby names with meanings and origins.`,
+    url: canonicalUrl,
+  })} />
+  <script type="application/ld+json" set:html={faqJsonLd} />
+
+  <div class="container-page py-10 sm:py-14">
+    <div class="mx-auto max-w-6xl">
+      <nav class="mb-6 flex items-center gap-2 text-sm text-nv-text-muted" aria-label="Breadcrumb">
+        <a href="/" class="font-medium transition hover:text-nv-accent">Home</a>
+        <span>/</span>
+        <a href="/categories" class="font-medium transition hover:text-nv-accent">Categories</a>
+        <span>/</span>
+        <span class="font-medium text-nv-text">{label} names</span>
+      </nav>
+
+      <header class="mb-8 text-center">
+        <span class="badge bg-nv-accent-subtle text-nv-accent">{all.length.toLocaleString()} {label.toLowerCase()} names</span>
+        <h1 class="mt-3 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">
+          {label} Baby Names with Meanings
+        </h1>
+        <p class="mx-auto mt-4 max-w-2xl text-nv-text-secondary">{introByCat[category] || `Browse ${all.length.toLocaleString()} ${label.toLowerCase()} baby names, ranked by popularity.`}</p>
+      </header>
+
+      {religionsWithNames.length > 0 && (
+        <div class="mb-10 flex flex-wrap justify-center gap-2">
+          {religionsWithNames.map(([rel, n]) => (
+            <a href={`/search?category=${category}&religion=${rel}&sort=popularity`} class="rounded-full border border-nv-border bg-nv-surface px-4 py-2 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent/50 hover:text-nv-accent">
+              {religionLabel(rel)} ({n.toLocaleString()})
+            </a>
+          ))}
+          <a href={`/search?category=${category}&sort=popularity`} class="btn-primary">Search all {label.toLowerCase()} names</a>
+        </div>
+      )}
+
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        {topNames.map((item) => <NameCard item={item} showReligion />)}
+      </div>
+
+      <p class="mt-10 text-center text-sm text-nv-text-muted">
+        Showing the {topNames.length.toLocaleString()} most popular of {all.length.toLocaleString()}.
+        <a href={`/search?category=${category}&sort=popularity`} class="font-semibold text-nv-accent hover:underline">
+          Search the full list &rarr;
+        </a>
+      </p>
+
+      <section class="mx-auto mt-16 max-w-3xl" aria-labelledby="seo-heading">
+        <h2 id="seo-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+          Choosing a {label.toLowerCase()} name
+        </h2>
+        <div class="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
+          <p>
+            {introByCat[category]} The names on this page are ranked by popularity so you can
+            quickly see what other families love, but the right choice always comes down to meaning
+            and sound — so open the profiles that catch your eye.
+          </p>
+          <p>
+            Every full profile on NameVerse adds pronunciation, spelling variations, numerology,
+            lucky numbers and cultural context. Shortlist a few favorites, then compare them in the
+            popularity tool before you decide.
+          </p>
+        </div>
+
+        <h3 class="mt-8 font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
+        <div class="mt-4 space-y-3">
+          {faqs.map((f) => (
+            <details class="faq-item card p-5">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
+                {f.q}
+                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+              </summary>
+              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+    </div>
+  </div>
+</Layout>

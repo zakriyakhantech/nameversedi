@@ -1,0 +1,240 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import AlphabetNav from '../../../components/AlphabetNav.astro';
+import NameCard from '../../../components/NameCard.astro';
+import { getManifest, normalizeReligion } from '../../../lib/data/astro-data.mjs';
+import { ALL_RELIGIONS, lettersFor } from '../../../lib/data/letter-browser.mjs';
+import {
+  religionLabel,
+  ORIGIN_SLUGS,
+  ORIGIN_LABELS,
+  originSlugFor,
+  categorySlugFor,
+  CATEGORY_LABELS,
+} from '../../../lib/data/name-utils.mjs';
+
+export async function getStaticPaths() {
+  return ALL_RELIGIONS.map((religion) => ({ params: { religion } }));
+}
+
+export const prerender = true;
+
+const { religion } = Astro.params;
+const finalReligion = normalizeReligion(religion) || 'islamic';
+const siteUrl = 'https://nameverse.site';
+const canonicalUrl = `${siteUrl}/names/${finalReligion}`;
+
+const manifest = getManifest();
+const allNames = manifest[finalReligion] || [];
+const label = religionLabel(finalReligion);
+const availableLetters = lettersFor(finalReligion, manifest);
+
+// Popular names in this tradition
+const popular = allNames
+  .slice()
+  .sort((a, b) => (b.popularity_score || 0) - (a.popularity_score || 0))
+  .slice(0, 12);
+
+// Gender counts
+const boyCount = allNames.filter((i) => {
+  const g = (i.gender || '').toLowerCase();
+  const m = g.includes('male') || g.includes('boy') || g.includes('masculin');
+  const f = g.includes('female') || g.includes('girl');
+  return m && !f;
+}).length;
+const girlCount = allNames.filter((i) => {
+  const g = (i.gender || '').toLowerCase();
+  const f = g.includes('female') || g.includes('girl');
+  const m = g.includes('male') || g.includes('boy');
+  return f && !m;
+}).length;
+
+// Origins present
+const originSet = new Map();
+for (const item of allNames) {
+  const slug = originSlugFor(item.origin);
+  if (slug) originSet.set(slug, (originSet.get(slug) || 0) + 1);
+}
+const origins = [...originSet.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8);
+
+// Categories present
+const catSet = new Map();
+for (const item of allNames) {
+  const slug = categorySlugFor(item.category);
+  if (slug) catSet.set(slug, (catSet.get(slug) || 0) + 1);
+}
+const categories = [...catSet.entries()].sort((a, b) => b[1] - a[1]);
+
+const faqs = [
+  {
+    q: `What are the most popular ${label.toLowerCase()} baby names?`,
+    a: `The most popular ${label.toLowerCase()} names on NameVerse are ranked by their popularity score, which blends search interest, cultural relevance and regional usage. You can see them at the top of this page, or browse every name A–Z.`,
+  },
+  {
+    q: `How many ${label.toLowerCase()} baby names does NameVerse list?`,
+    a: `NameVerse currently lists ${allNames.length.toLocaleString()} ${label.toLowerCase()} names, each with a verified meaning, origin, gender classification and lucky number where available.`,
+  },
+  {
+    q: `Can I filter ${label.toLowerCase()} names by gender?`,
+    a: `Yes. Visit the ${label.toLowerCase()} boy names or ${label.toLowerCase()} girl names pages to browse by gender, or use the letter browser to explore the full collection alphabetically.`,
+  },
+  {
+    q: `What origins do ${label.toLowerCase()} names come from?`,
+    a: `${origins.length ? origins.map(([slug, n]) => `${ORIGIN_LABELS[slug]} (${n.toLocaleString()} names)`).join(', ') : 'Arabic, Persian and many others'} — every name profile shows its exact linguistic origin.`,
+  },
+  {
+    q: `Are the meanings on NameVerse verified?`,
+    a: `Meanings are reviewed for linguistic accuracy and cultural context before publication. Where traditions differ on a meaning or pronunciation we present the variation rather than choosing one side.`,
+  },
+];
+
+const faqJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
+---
+
+<Layout
+  title={`${label} Baby Names with Meanings, Origins & Lucky Numbers | NameVerse`}
+  description={`Browse ${allNames.length.toLocaleString()} ${label.toLowerCase()} baby names with verified meanings, origins, gender and lucky numbers. Explore popular ${label.toLowerCase()} names A–Z or by meaning.`}
+  canonical={canonicalUrl}
+>
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: `${label} Baby Names`,
+    description: `${allNames.length.toLocaleString()} ${label.toLowerCase()} baby names with meanings, origins and cultural context.`,
+    url: canonicalUrl,
+    about: `${label} baby names`,
+  })} />
+  <script type="application/ld+json" set:html={faqJsonLd} />
+
+  <div class="container-page py-8 sm:py-12">
+    <div class="mx-auto max-w-6xl">
+      <nav class="mb-6 flex items-center gap-2 text-sm text-nv-text-muted" aria-label="Breadcrumb">
+        <a href="/" class="font-medium transition hover:text-nv-accent">Home</a>
+        <span>/</span>
+        <a href="/names" class="font-medium transition hover:text-nv-accent">Names</a>
+        <span>/</span>
+        <span class="font-medium text-nv-text">{label} Names</span>
+      </nav>
+
+      <header class="mb-8 text-center">
+        <span class="badge bg-nv-accent-subtle text-nv-accent">{allNames.length.toLocaleString()} names &bull; {boyCount.toLocaleString()} boys &bull; {girlCount.toLocaleString()} girls</span>
+        <h1 class="mt-3 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">
+          {label} Baby Names with Meanings
+        </h1>
+        <p class="mx-auto mt-4 max-w-3xl text-base leading-relaxed text-nv-text-secondary sm:text-lg">
+          {label} baby names carry rich linguistic heritage and spiritual meaning. Browse the complete
+          NameVerse {label.toLowerCase()} collection — every entry includes a verified meaning, cultural
+          origin, gender classification, lucky number and pronunciation guide. Start with the most
+          popular {label.toLowerCase()} names below, jump to a letter, or filter by gender and origin.
+        </p>
+      </header>
+
+      <div class="mb-10">
+        <AlphabetNav religion={finalReligion} currentLetter="" availableLetters={availableLetters} />
+      </div>
+
+      <!-- Gender links -->
+      <div class="mb-10 flex flex-wrap justify-center gap-2">
+        <a href={`/${finalReligion}-boy-names`} class="btn-ghost">{label} Boy Names ({boyCount.toLocaleString()})</a>
+        <a href={`/${finalReligion}-girl-names`} class="btn-ghost">{label} Girl Names ({girlCount.toLocaleString()})</a>
+        {categories.map(([slug, n]) => (
+          <a href={`/categories/${slug}`} class="rounded-full border border-nv-border bg-nv-surface px-4 py-2 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent/50 hover:text-nv-accent">
+            {CATEGORY_LABELS[slug] || slug} ({n.toLocaleString()})
+          </a>
+        ))}
+      </div>
+
+      <!-- Popular names -->
+      <section aria-labelledby="popular-heading">
+        <div class="mb-6 flex flex-wrap items-end justify-between gap-3">
+          <div>
+            <span class="eyebrow">Trending now</span>
+            <h2 id="popular-heading" class="mt-2 font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+              Most popular {label.toLowerCase()} baby names
+            </h2>
+          </div>
+          <a href={`/search?religion=${finalReligion}&sort=popularity`} class="btn-ghost">Rank all by popularity</a>
+        </div>
+        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+          {popular.map((item) => <NameCard item={item} showReligion={false} />)}
+        </div>
+      </section>
+
+      <!-- Browse by letter -->
+      <section class="mt-14" aria-labelledby="letter-heading">
+        <h2 id="letter-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+          Browse {label.toLowerCase()} names A–Z
+        </h2>
+        <p class="mt-2 max-w-2xl text-sm leading-relaxed text-nv-text-secondary">
+          Jump into any letter to see every {label.toLowerCase()} name that starts with it — with
+          meanings, origins and lucky numbers on every card.
+        </p>
+        <div class="mt-5 flex flex-wrap gap-2">
+          {[...'abcdefghijklmnopqrstuvwxyz', '#'].filter((l) => availableLetters.has(l)).map((l) => (
+            <a href={`/names/${finalReligion}/letter/${l === '#' ? '%23' : l}`} class="grid h-11 w-11 place-items-center rounded-xl border border-nv-border bg-nv-surface text-sm font-bold uppercase text-nv-text-secondary transition hover:border-nv-accent hover:bg-nv-accent-subtle hover:text-nv-accent">
+              {l}
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <!-- Origins -->
+      {origins.length > 0 && (
+        <section class="mt-14" aria-labelledby="origin-heading">
+          <h2 id="origin-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+            {label.toLowerCase()} names by origin
+          </h2>
+          <p class="mt-2 max-w-2xl text-sm leading-relaxed text-nv-text-secondary">
+            {label.toLowerCase()} naming traditions draw from several languages and cultures. Explore
+            the most common origins in this collection:
+          </p>
+          <div class="mt-5 flex flex-wrap gap-2">
+            {origins.map(([slug, n]) => (
+              <a href={`/origins/${slug}`} class="rounded-full border border-nv-border bg-nv-surface px-4 py-2 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent/50 hover:text-nv-accent">
+                {ORIGIN_LABELS[slug] || slug} <span class="text-nv-text-muted">({n.toLocaleString()})</span>
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- SEO copy -->
+      <section class="mx-auto mt-16 max-w-3xl" aria-labelledby="seo-heading">
+        <h2 id="seo-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+          About {label.toLowerCase()} baby names
+        </h2>
+        <div class="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
+          <p>
+            {label} names are chosen by millions of families every year, and a great name usually
+            carries three things: a meaning parents love, an origin they connect with, and a sound
+            that feels right. NameVerse gives you all three at a glance — then goes deeper with
+            pronunciation, numerology, lucky numbers and cultural context on every name page.
+          </p>
+          <p>
+            Whether you are looking for a traditional favorite, a modern spelling, or a name that
+            expresses a quality like love, strength or peace, this {label.toLowerCase()} collection
+            covers the full spectrum. Use the popularity ranking to see what parents are choosing
+            right now, or start with a letter that means something to your family.
+          </p>
+        </div>
+
+        <h3 class="mt-8 font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
+        <div class="mt-4 space-y-3">
+          {faqs.map((f) => (
+            <details class="faq-item card p-5">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
+                {f.q}
+                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+              </summary>
+              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+    </div>
+  </div>
+</Layout>

@@ -1,0 +1,150 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import NameCard from '../../components/NameCard.astro';
+import { getManifest, normalizeReligion } from '../../lib/data/astro-data.mjs';
+import { ORIGIN_SLUGS, ORIGIN_LABELS, originSlugFor, religionLabel } from '../../lib/data/name-utils.mjs';
+
+export async function getStaticPaths() {
+  return ORIGIN_SLUGS.map((origin) => ({ params: { origin } }));
+}
+
+export const prerender = true;
+
+const { origin } = Astro.params;
+const label = ORIGIN_LABELS[origin] || origin.charAt(0).toUpperCase() + origin.slice(1);
+const siteUrl = 'https://nameverse.site';
+const canonicalUrl = `${siteUrl}/origins/${origin}`;
+
+const manifest = getManifest();
+const all = [];
+const religionCounts = new Map();
+for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
+  for (const item of manifest[rel] || []) {
+    if (originSlugFor(item.origin) === origin) {
+      all.push({ ...item, religion: rel });
+      religionCounts.set(rel, (religionCounts.get(rel) || 0) + 1);
+    }
+  }
+}
+all.sort((a, b) => (b.popularity_score || 0) - (a.popularity_score || 0));
+const topNames = all.slice(0, 300);
+
+const religionsWithNames = [...religionCounts.entries()].sort((a, b) => b[1] - a[1]);
+
+const faqs = [
+  {
+    q: `How many ${label} baby names does NameVerse list?`,
+    a: `NameVerse lists ${all.length.toLocaleString()} ${label} baby names, ranked here by popularity. Each entry includes its meaning, gender and lucky number, with full profiles on every name page.`,
+  },
+  {
+    q: `What is the most popular ${label} baby name?`,
+    a: `The names at the top of this page have the highest NameVerse popularity scores — a blend of search interest, cultural relevance and regional usage. Open any name to see the exact score and region data.`,
+  },
+  {
+    q: `Can I find ${label} names for boys and girls?`,
+    a: `Yes. Every name card shows its gender, and you can filter by gender, religion or meaning using the search tool.`,
+  },
+  {
+    q: `Do ${label} names work outside their home culture?`,
+    a: `Many do. ${label} names travel beautifully and are chosen by families worldwide. Every profile lists pronunciations and spelling variations so you can see how the name is used across languages.`,
+  },
+];
+
+const faqJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
+---
+
+<Layout
+  title={`${label} Baby Names with Meanings (${all.length.toLocaleString()}) | NameVerse`}
+  description={`Browse ${all.length.toLocaleString()} ${label} baby names with verified meanings, origins, gender and lucky numbers — ranked by popularity and updated for 2026.`}
+  canonical={canonicalUrl}
+>
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: `${label} Baby Names`,
+    description: `${all.length.toLocaleString()} ${label} baby names with meanings and origins.`,
+    url: canonicalUrl,
+  })} />
+  <script type="application/ld+json" set:html={faqJsonLd} />
+
+  <div class="container-page py-10 sm:py-14">
+    <div class="mx-auto max-w-6xl">
+      <nav class="mb-6 flex items-center gap-2 text-sm text-nv-text-muted" aria-label="Breadcrumb">
+        <a href="/" class="font-medium transition hover:text-nv-accent">Home</a>
+        <span>/</span>
+        <a href="/origins" class="font-medium transition hover:text-nv-accent">Origins</a>
+        <span>/</span>
+        <span class="font-medium text-nv-text">{label} names</span>
+      </nav>
+
+      <header class="mb-8 text-center">
+        <span class="badge bg-nv-accent-subtle text-nv-accent">{all.length.toLocaleString()} {label} names</span>
+        <h1 class="mt-3 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">
+          {label} Baby Names with Meanings
+        </h1>
+        <p class="mx-auto mt-4 max-w-2xl text-nv-text-secondary">
+          {all.length.toLocaleString()} {label} baby names, ranked by popularity. Each name carries a
+          verified meaning, gender classification and lucky number. Below are the 300 most popular;
+          search the full collection with the tools on this page.
+        </p>
+      </header>
+
+      {religionsWithNames.length > 0 && (
+        <div class="mb-10 flex flex-wrap justify-center gap-2">
+          {religionsWithNames.map(([rel, n]) => (
+            <a href={`/search?origin=${origin}&religion=${rel}&sort=popularity`} class="rounded-full border border-nv-border bg-nv-surface px-4 py-2 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent/50 hover:text-nv-accent">
+              {religionLabel(rel)} {label} names ({n.toLocaleString()})
+            </a>
+          ))}
+          <a href={`/search?origin=${origin}&sort=popularity`} class="btn-primary">Search all {label} names</a>
+        </div>
+      )}
+
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        {topNames.map((item) => <NameCard item={item} showReligion />)}
+      </div>
+
+      <p class="mt-10 text-center text-sm text-nv-text-muted">
+        Showing the {topNames.length.toLocaleString()} most popular of {all.length.toLocaleString()}.
+        <a href={`/search?origin=${origin}&sort=popularity`} class="font-semibold text-nv-accent hover:underline">
+          Search the full list &rarr;
+        </a>
+      </p>
+
+      <section class="mx-auto mt-16 max-w-3xl" aria-labelledby="seo-heading">
+        <h2 id="seo-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+          The beauty of {label} names
+        </h2>
+        <div class="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
+          <p>
+            {label} names have traveled across centuries and continents, carried by traders,
+            scholars, travelers and families. Choosing one connects your child to that rich
+            linguistic heritage — while still feeling fresh and modern in today's global culture.
+          </p>
+          <p>
+            Browse this ranked list to feel the range of {label} names, from classic favorites to
+            rare finds. Open any name for pronunciation, numerology, spelling variations and cultural
+            context, then use the search filters to narrow by religion, gender or meaning.
+          </p>
+        </div>
+
+        <h3 class="mt-8 font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
+        <div class="mt-4 space-y-3">
+          {faqs.map((f) => (
+            <details class="faq-item card p-5">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
+                {f.q}
+                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+              </summary>
+              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+    </div>
+  </div>
+</Layout>

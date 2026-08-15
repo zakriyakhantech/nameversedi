@@ -1,6 +1,7 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
-import { readNameData, getAllSlugs, normalizeReligion } from '../../../lib/data/astro-data.mjs';
+import { readNameData, getAllSlugs, normalizeReligion, getManifest } from '../../../lib/data/astro-data.mjs';
+import { religionLabel, normalizeGender, genderLabel } from '../../../lib/data/name-utils.mjs';
 
 export async function getStaticPaths() {
   const slugs = getAllSlugs();
@@ -22,427 +23,548 @@ if (!normalizedSlug) return Astro.redirect('/');
 const nameData = await readNameData(finalReligion, normalizedSlug);
 if (!nameData) return Astro.redirect('/');
 
-const seo = nameData.seo?.seo || {};
-const pageTitle = seo.title || `${nameData.name} — ${finalReligion.charAt(0).toUpperCase() + finalReligion.slice(1)} Name Meaning | NameVerse`;
-const pageDescription = seo.meta_description || nameData.short_meaning || nameData.meaning || `Meaning of the name ${nameData.name}`;
+const seo = nameData.seo?.seo || nameData.seo || {};
+const seoOuter = nameData.seo || {};
+const pageTitle = seo.title || seoOuter.title || `${nameData.name} — ${religionLabel(finalReligion)} Name Meaning | NameVerse`;
+const pageDescription = seo.meta_description || seoOuter.meta_description || nameData.short_meaning || nameData.meaning || `Meaning of the name ${nameData.name}`;
+const introParagraph = seo.description_paragraph || seoOuter.description_paragraph || '';
+const keywords = Array.isArray(seo.keywords) ? seo.keywords : Array.isArray(seoOuter.keywords) ? seoOuter.keywords : [];
+const faqData = Array.isArray(seo.faq) ? seo.faq : Array.isArray(seoOuter.faq) ? seoOuter.faq : [];
 const canonicalUrl = `https://nameverse.site/names/${finalReligion}/${normalizedSlug}`;
-const siteUrl = "https://nameverse.site";
+const siteUrl = 'https://nameverse.site';
 
-const religionLabel = finalReligion.charAt(0).toUpperCase() + finalReligion.slice(1);
-const genderLabel = nameData.gender || 'Baby';
-const origin = nameData.origin || 'Multiple traditions';
-const meaning = nameData.short_meaning || nameData.meaning || 'Meaningful cultural name';
+const relLabel = religionLabel(finalReligion);
+const genderKey = normalizeGender(nameData.gender);
+const genLabel = genderKey ? genderLabel(nameData.gender) : '';
+const origin = nameData.origin || '';
+const meaning = nameData.short_meaning || nameData.meaning || '';
+const longMeaning = nameData.long_meaning || '';
 const pronunciation = nameData.pronunciation?.english || nameData.pronunciation?.ipa || '';
-const luckyNumber = nameData.lucky_number || nameData.luckyNumber;
-const luckyDay = nameData.lucky_day;
+const luckyNumber = nameData.lucky_number ?? nameData.luckyNumber;
+const luckyDay = nameData.lucky_day || '';
 const luckyColors = Array.isArray(nameData.lucky_colors) ? nameData.lucky_colors : [];
-const luckyStone = nameData.lucky_stone;
-const lifePath = nameData.life_path_number;
-const numerology = nameData.numerology_meaning;
+const luckyStone = nameData.lucky_stone || '';
+const lifePath = nameData.life_path_number ?? '';
+const numerology = nameData.numerology_meaning || '';
+const popularityScore = nameData.popularity_score ?? '';
 const traits = [
   ...(Array.isArray(nameData.emotional_traits) ? nameData.emotional_traits : []),
-  ...(Array.isArray(nameData.hidden_personality_traits) ? nameData.hidden_personality_traits : [])
-].slice(0, 6);
-const languages = nameData.language || [];
+  ...(Array.isArray(nameData.hidden_personality_traits) ? nameData.hidden_personality_traits : []),
+];
+const languages = Array.isArray(nameData.language) ? nameData.language : [];
 const similarNames = Array.isArray(nameData.similar_sounding_names) ? nameData.similar_sounding_names : [];
 const variations = Array.isArray(nameData.name_variations) ? nameData.name_variations : [];
 const relatedNames = Array.isArray(nameData.related_names) ? nameData.related_names : [];
-const faqData = Array.isArray(seo?.faq) ? seo.faq : [];
+const socialTags = Array.isArray(nameData.social_tags) ? nameData.social_tags : [];
+const celebrityUsage = Array.isArray(nameData.celebrity_usage) ? nameData.celebrity_usage : [];
+const historicalRefs = Array.isArray(nameData.historical_references) ? nameData.historical_references : [];
+const regionData = Array.isArray(nameData.popularity_by_region) ? nameData.popularity_by_region : [];
+
+// Name in other languages — only show name (long meanings for Arabic/Urdu/Hindi/Pashto are unreliable)
+const otherLangs = [
+  { key: 'in_arabic', label: 'Arabic', rtl: true },
+  { key: 'in_urdu', label: 'Urdu', rtl: true },
+  { key: 'in_hindi', label: 'Hindi', rtl: false },
+  { key: 'in_pashto', label: 'Pashto', rtl: true },
+  { key: 'in_hebrew', label: 'Hebrew', rtl: true },
+  { key: 'in_greek', label: 'Greek', rtl: false },
+  { key: 'in_latin', label: 'Latin', rtl: false },
+  { key: 'in_english', label: 'English', rtl: false },
+]
+  .map((lang) => ({ ...lang, data: nameData[lang.key] }))
+  .filter((lang) => lang.data && lang.data.name);
+
+function cleanText(s) {
+  const t = String(s || '').replace(/[?]{2,}/g, ' ').trim();
+  return t.includes('\uFFFD') ? '' : t;
+}
+
+function headingStyle() {
+  return 'font-display text-xl font-semibold tracking-tight text-nv-text sm:text-2xl';
+}
+
+// Person JSON-LD when we have real-life data
+const personJsonLd =
+  nameData.name_in_real_life && nameData.name_in_real_life.person_name
+    ? JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'Person',
+        name: nameData.name_in_real_life.person_name,
+        ...(nameData.name_in_real_life.location ? { address: nameData.name_in_real_life.location } : {}),
+        description: nameData.name_in_real_life.story || undefined,
+      })
+    : null;
 ---
 
 <Layout title={pageTitle} description={pageDescription} canonical={canonicalUrl}>
   <script type="application/ld+json" set:html={JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "WebPage",
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
     name: pageTitle,
     description: pageDescription,
     url: canonicalUrl,
     mainEntity: {
-      "@type": "Thing",
+      '@type': 'Thing',
       name: nameData.name,
-      description: meaning
-    }
+      description: meaning,
+      additionalType: origin,
+    },
   })} />
 
   <script type="application/ld+json" set:html={JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: "https://nameverse.site/" },
-      { "@type": "ListItem", position: 2, name: `${religionLabel} Names`, item: `https://nameverse.site/names/${finalReligion}/letter/a` },
-      { "@type": "ListItem", position: 3, name: nameData.name }
-    ]
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${siteUrl}/` },
+      { '@type': 'ListItem', position: 2, name: 'All Names', item: `${siteUrl}/names` },
+      { '@type': 'ListItem', position: 3, name: `${relLabel} Names`, item: `${siteUrl}/names/${finalReligion}` },
+      { '@type': 'ListItem', position: 4, name: nameData.name },
+    ],
   })} />
 
   {faqData.length > 0 && (
     <script type="application/ld+json" set:html={JSON.stringify({
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
       mainEntity: faqData.map((item) => ({
-        "@type": "Question",
+        '@type': 'Question',
         name: item.q,
-        acceptedAnswer: { "@type": "Answer", text: item.a }
-      }))
+        acceptedAnswer: { '@type': 'Answer', text: item.a },
+      })),
     })} />
   )}
 
+  {personJsonLd && <script type="application/ld+json" set:html={personJsonLd} />}
+
   <div class="container-page py-8 sm:py-12">
-      <div class="mx-auto max-w-5xl space-y-6">
+    <div class="mx-auto max-w-5xl space-y-6">
+      <!-- Breadcrumb -->
+      <nav class="flex flex-wrap items-center gap-2 text-sm text-nv-text-muted" aria-label="Breadcrumb">
+        <a href="/" class="font-medium transition hover:text-nv-accent">Home</a>
+        <span>/</span>
+        <a href="/names" class="font-medium transition hover:text-nv-accent">All Names</a>
+        <span>/</span>
+        <a href={`/names/${finalReligion}`} class="font-medium transition hover:text-nv-accent">{relLabel} Names</a>
+        <span>/</span>
+        <span class="font-medium text-nv-text">{nameData.name}</span>
+      </nav>
 
-        <!-- Breadcrumb -->
-        <nav class="flex items-center gap-2 text-sm text-nv-text-muted" aria-label="Breadcrumb">
-          <a href="/" class="font-medium transition hover:text-nv-accent">Home</a>
-          <span>/</span>
-          <a href={`/names/${finalReligion}/letter/a`} class="font-medium transition hover:text-nv-accent">{religionLabel} Names</a>
-          <span>/</span>
-          <span class="font-medium text-nv-text">{nameData.name}</span>
-        </nav>
-
-        <!-- Hero Card -->
-        <div class="card p-6 sm:p-8 lg:p-10">
-          <div class="flex flex-col gap-6 lg:flex-row lg:items-start lg:justify-between">
-            <div class="flex-1">
-              <div class="inline-flex items-center gap-2 rounded-full bg-nv-accent-subtle px-3 py-1 text-xs font-semibold text-nv-accent mb-4">
-                <svg class="h-3.5 w-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/></svg>
-                {religionLabel} Name Meaning & Origin Guide
-              </div>
-              <h1 class="font-display text-4xl sm:text-5xl lg:text-6xl font-bold text-nv-text tracking-tight">{nameData.name}</h1>
-              <p class="mt-3 text-base sm:text-lg text-nv-text-secondary">{meaning}</p>
-              {pronunciation && (
-                <p class="mt-3 flex items-center gap-2 text-sm text-nv-text-muted">
-                  <svg class="h-4 w-4 text-nv-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z"/></svg>
-                  <span class="font-semibold text-nv-text">Pronunciation:</span> {pronunciation}
-                </p>
-              )}
+      <!-- Hero Card -->
+      <div class="card p-6 sm:p-8 lg:p-10">
+        <div class="flex flex-col gap-6 lg:flex-row lg:items-start lg:justify-between">
+          <div class="flex-1">
+            <div class="mb-4 inline-flex items-center gap-2 rounded-full bg-nv-accent-subtle px-3 py-1 text-xs font-semibold text-nv-accent">
+              <svg class="h-3.5 w-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/></svg>
+              {relLabel} Name Meaning &amp; Origin Guide
             </div>
-            <div class="flex flex-wrap gap-2">
-              {nameData.gender && <span class="rounded-full border border-nv-border bg-nv-surface-subtle px-3 py-1 text-xs font-semibold text-nv-text-secondary">{nameData.gender}</span>}
-              {nameData.religion && <span class="rounded-full border border-nv-border bg-nv-surface-subtle px-3 py-1 text-xs font-semibold text-nv-text-secondary capitalize">{nameData.religion}</span>}
-              {nameData.category && <span class="rounded-full border border-nv-border bg-nv-surface-subtle px-3 py-1 text-xs font-semibold text-nv-text-secondary">{nameData.category}</span>}
-              {nameData.origin && <span class="rounded-full border border-nv-border bg-nv-surface-subtle px-3 py-1 text-xs font-semibold text-nv-text-secondary">{nameData.origin}</span>}
-            </div>
-          </div>
-
-          <!-- Stats Grid -->
-          <div class="mt-8 grid grid-cols-2 gap-3 md:grid-cols-3 lg:grid-cols-4">
-            {meaning && (
-              <div class="rounded-2xl border border-nv-border bg-nv-surface-subtle p-4">
-                <div class="text-[10px] font-bold uppercase tracking-[0.2em] text-nv-text-muted">Meaning</div>
-                <div class="mt-1.5 text-sm font-semibold text-nv-text line-clamp-2">{meaning}</div>
-              </div>
-            )}
-            {origin && (
-              <div class="rounded-2xl border border-nv-border bg-nv-surface-subtle p-4">
-                <div class="text-[10px] font-bold uppercase tracking-[0.2em] text-nv-text-muted">Origin</div>
-                <div class="mt-1.5 text-sm font-semibold text-nv-text">{origin}</div>
-              </div>
-            )}
-            {luckyNumber && (
-              <div class="rounded-2xl border border-nv-border bg-nv-surface-subtle p-4">
-                <div class="text-[10px] font-bold uppercase tracking-[0.2em] text-nv-text-muted">Lucky Number</div>
-                <div class="mt-1.5 text-2xl font-bold text-nv-text">{luckyNumber}</div>
-              </div>
-            )}
-            {luckyDay && (
-              <div class="rounded-2xl border border-nv-border bg-nv-surface-subtle p-4">
-                <div class="text-[10px] font-bold uppercase tracking-[0.2em] text-nv-text-muted">Lucky Day</div>
-                <div class="mt-1.5 text-sm font-semibold text-nv-text">{luckyDay}</div>
-              </div>
-            )}
-            {luckyStone && (
-              <div class="rounded-2xl border border-nv-border bg-nv-surface-subtle p-4">
-                <div class="text-[10px] font-bold uppercase tracking-[0.2em] text-nv-text-muted">Lucky Stone</div>
-                <div class="mt-1.5 text-sm font-semibold text-nv-text">{luckyStone}</div>
-              </div>
-            )}
-            {lifePath && (
-              <div class="rounded-2xl border border-nv-border bg-nv-surface-subtle p-4">
-                <div class="text-[10px] font-bold uppercase tracking-[0.2em] text-nv-text-muted">Life Path</div>
-                <div class="mt-1.5 text-2xl font-bold text-nv-text">{lifePath}</div>
-              </div>
+            <h1 class="font-display text-4xl font-bold tracking-tight text-nv-text sm:text-5xl lg:text-6xl">{nameData.name}</h1>
+            {meaning && <p class="mt-3 text-base text-nv-text-secondary sm:text-lg">{meaning}</p>}
+            {pronunciation && (
+              <p class="mt-3 flex items-center gap-2 text-sm text-nv-text-muted">
+                <svg class="h-4 w-4 text-nv-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z"/></svg>
+                <span class="font-semibold text-nv-text">Pronunciation:</span> {pronunciation}
+                {nameData.pronunciation?.ipa && <span class="text-nv-text-muted">({nameData.pronunciation.ipa})</span>}
+              </p>
             )}
           </div>
+          <div class="flex flex-wrap gap-2">
+            {genLabel && <span class="rounded-full border border-nv-border bg-nv-surface-subtle px-3 py-1 text-xs font-semibold text-nv-text-secondary">{genLabel} name</span>}
+            {nameData.gender && !genLabel && <span class="rounded-full border border-nv-border bg-nv-surface-subtle px-3 py-1 text-xs font-semibold text-nv-text-secondary">{nameData.gender}</span>}
+            {nameData.religion && <span class="rounded-full border border-nv-border bg-nv-surface-subtle px-3 py-1 text-xs font-semibold capitalize text-nv-text-secondary">{nameData.religion}</span>}
+            {nameData.category && <span class="rounded-full border border-nv-border bg-nv-surface-subtle px-3 py-1 text-xs font-semibold text-nv-text-secondary">{nameData.category}</span>}
+            {origin && <span class="rounded-full border border-nv-border bg-nv-surface-subtle px-3 py-1 text-xs font-semibold text-nv-text-secondary">{origin} origin</span>}
+            {popularityScore !== '' && <span class="rounded-full border border-nv-border bg-nv-surface-subtle px-3 py-1 text-xs font-semibold text-nv-text-secondary">Popularity {popularityScore}</span>}
+          </div>
+        </div>
 
-          <!-- Lucky Colors -->
-          {luckyColors.length > 0 && (
-            <div class="mt-4 flex flex-wrap gap-2">
-              <span class="text-xs font-bold uppercase tracking-wide text-nv-text-muted mr-2">Lucky Colors:</span>
-              {luckyColors.map((color) => (
-                <span key={color} class="rounded-full border border-nv-border bg-nv-surface px-3 py-1 text-xs font-semibold text-nv-text">{color}</span>
-              ))}
+        <!-- Stats Grid -->
+        <div class="mt-8 grid grid-cols-2 gap-3 md:grid-cols-3 lg:grid-cols-4">
+          {meaning && (
+            <div class="rounded-2xl border border-nv-border bg-nv-surface-subtle p-4">
+              <div class="text-[10px] font-bold uppercase tracking-[0.2em] text-nv-text-muted">Meaning</div>
+              <div class="mt-1.5 text-sm font-semibold text-nv-text line-clamp-2">{meaning}</div>
+            </div>
+          )}
+          {origin && (
+            <div class="rounded-2xl border border-nv-border bg-nv-surface-subtle p-4">
+              <div class="text-[10px] font-bold uppercase tracking-[0.2em] text-nv-text-muted">Origin</div>
+              <div class="mt-1.5 text-sm font-semibold text-nv-text">{origin}</div>
+            </div>
+          )}
+          {luckyNumber !== '' && (
+            <div class="rounded-2xl border border-nv-border bg-nv-surface-subtle p-4">
+              <div class="text-[10px] font-bold uppercase tracking-[0.2em] text-nv-text-muted">Lucky Number</div>
+              <div class="mt-1.5 text-2xl font-bold text-nv-text">{luckyNumber}</div>
+            </div>
+          )}
+          {luckyDay && (
+            <div class="rounded-2xl border border-nv-border bg-nv-surface-subtle p-4">
+              <div class="text-[10px] font-bold uppercase tracking-[0.2em] text-nv-text-muted">Lucky Day</div>
+              <div class="mt-1.5 text-sm font-semibold text-nv-text">{luckyDay}</div>
+            </div>
+          )}
+          {luckyStone && (
+            <div class="rounded-2xl border border-nv-border bg-nv-surface-subtle p-4">
+              <div class="text-[10px] font-bold uppercase tracking-[0.2em] text-nv-text-muted">Lucky Stone</div>
+              <div class="mt-1.5 text-sm font-semibold text-nv-text">{luckyStone}</div>
+            </div>
+          )}
+          {lifePath !== '' && (
+            <div class="rounded-2xl border border-nv-border bg-nv-surface-subtle p-4">
+              <div class="text-[10px] font-bold uppercase tracking-[0.2em] text-nv-text-muted">Life Path</div>
+              <div class="mt-1.5 text-2xl font-bold text-nv-text">{lifePath}</div>
+            </div>
+          )}
+          {popularityScore !== '' && (
+            <div class="rounded-2xl border border-nv-border bg-nv-surface-subtle p-4">
+              <div class="text-[10px] font-bold uppercase tracking-[0.2em] text-nv-text-muted">Popularity Score</div>
+              <div class="mt-1.5 text-2xl font-bold text-nv-text">{popularityScore}</div>
+            </div>
+          )}
+          {languages.length > 0 && (
+            <div class="rounded-2xl border border-nv-border bg-nv-surface-subtle p-4">
+              <div class="text-[10px] font-bold uppercase tracking-[0.2em] text-nv-text-muted">Language</div>
+              <div class="mt-1.5 text-sm font-semibold text-nv-text line-clamp-2">{languages.join(', ')}</div>
             </div>
           )}
         </div>
 
-        <!-- Meaning Summary -->
-        {nameData.long_meaning && (
-          <div class="card p-6 sm:p-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted mb-3">Full Meaning</h2>
-            <p class="text-sm leading-relaxed text-nv-text-secondary">{nameData.long_meaning}</p>
+        <!-- Lucky Colors -->
+        {luckyColors.length > 0 && (
+          <div class="mt-4 flex flex-wrap items-center gap-2">
+            <span class="mr-1 text-xs font-bold uppercase tracking-wide text-nv-text-muted">Lucky Colors:</span>
+            {luckyColors.map((color) => (
+              <span key={color} class="rounded-full border border-nv-border bg-nv-surface px-3 py-1 text-xs font-semibold text-nv-text">{color}</span>
+            ))}
           </div>
         )}
 
-        <!-- Spiritual Meaning -->
-        {nameData.spiritual_meaning && (
-          <div class="card p-6 sm:p-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted mb-3">Spiritual Meaning</h2>
-            <p class="text-sm leading-relaxed text-nv-text-secondary">{nameData.spiritual_meaning}</p>
+        <!-- Keyword chips -->
+        {keywords.length > 0 && (
+          <div class="mt-4 flex flex-wrap items-center gap-2">
+            <span class="mr-1 text-xs font-bold uppercase tracking-wide text-nv-text-muted">Related topics:</span>
+            {keywords.map((k) => (
+              <span key={k} class="rounded-full border border-nv-border bg-nv-surface px-3 py-1 text-xs font-semibold text-nv-text-secondary">{k}</span>
+            ))}
           </div>
         )}
-
-        <!-- Languages Grid -->
-        {languages.length > 0 && (
-          <div class="card p-6 sm:p-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted mb-4">Languages</h2>
-            <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-              {languages.map((lang) => (
-                <div key={lang} class="rounded-xl border border-nv-border bg-nv-surface p-4">
-                  <div class="text-xs font-bold uppercase tracking-wide text-nv-text-muted">{lang}</div>
-                </div>
-              ))}
-            </div>
-          </div>
-        )}
-
-        <!-- Numerology -->
-        {numerology && (
-          <div class="card p-6 sm:p-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted mb-3">Numerology Meaning</h2>
-            <p class="text-sm leading-relaxed text-nv-text-secondary">{numerology}</p>
-          </div>
-        )}
-
-        <!-- Personality Traits -->
-        {traits.length > 0 && (
-          <div class="card p-6 sm:p-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted mb-4">Personality Traits</h2>
-            <div class="flex flex-wrap gap-2">
-              {traits.map((trait) => (
-                <span key={trait} class="rounded-full border border-nv-border bg-nv-surface px-4 py-2 text-sm font-medium text-nv-text">{trait}</span>
-              ))}
-            </div>
-          </div>
-        )}
-
-        <!-- Pronunciation -->
-        {nameData.pronunciation && (
-          <div class="card p-6 sm:p-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted mb-4">Pronunciation</h2>
-            <div class="grid gap-4 sm:grid-cols-3">
-              {nameData.pronunciation.english && (
-                <div class="rounded-xl border border-nv-border bg-nv-surface p-4">
-                  <div class="text-xs text-nv-text-muted">English</div>
-                  <div class="mt-2 text-lg font-semibold text-nv-text">{nameData.pronunciation.english}</div>
-                </div>
-              )}
-              {nameData.pronunciation.biblical && (
-                <div class="rounded-xl border border-nv-border bg-nv-surface p-4">
-                  <div class="text-xs text-nv-text-muted">Biblical</div>
-                  <div class="mt-2 text-lg font-semibold text-nv-text">{nameData.pronunciation.biblical}</div>
-                </div>
-              )}
-              {nameData.pronunciation.ipa && (
-                <div class="rounded-xl border border-nv-border bg-nv-surface p-4">
-                  <div class="text-xs text-nv-text-muted">IPA</div>
-                  <div class="mt-2 text-lg font-semibold text-nv-text">{nameData.pronunciation.ipa}</div>
-                </div>
-              )}
-            </div>
-          </div>
-        )}
-
-        <!-- Name Variations -->
-        {variations.length > 0 && (
-          <div class="card p-6 sm:p-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted mb-4">Name Variations</h2>
-            <div class="flex flex-wrap gap-2">
-              {variations.map((v) => (
-                <span key={v} class="rounded-full border border-nv-border bg-nv-surface px-4 py-2 text-sm font-semibold text-nv-text">{v}</span>
-              ))}
-            </div>
-          </div>
-        )}
-
-        <!-- Celebrity Usage -->
-        {nameData.celebrity_usage && nameData.celebrity_usage.length > 0 && (
-          <div class="card p-6 sm:p-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted mb-4">Celebrity Usage</h2>
-            <ul class="space-y-2 list-disc pl-5 text-sm text-nv-text-secondary">
-              {nameData.celebrity_usage.map((c) => (
-                <li key={c}>{c}</li>
-              ))}
-            </ul>
-          </div>
-        )}
-
-        <!-- Biblical Reference -->
-        {nameData.biblical_reference && nameData.biblical_reference.is_biblical && (
-          <div class="card p-6 sm:p-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted mb-4">Biblical Reference</h2>
-            <div class="space-y-2 text-sm text-nv-text-secondary">
-              {nameData.biblical_reference.origin_scripture && <p><span class="font-semibold text-nv-text">Scripture:</span> {nameData.biblical_reference.origin_scripture}</p>}
-              {nameData.biblical_reference.verse_reference && <p><span class="font-semibold text-nv-text">Verse:</span> {nameData.biblical_reference.verse_reference}</p>}
-              {nameData.biblical_reference.note && <p>{nameData.biblical_reference.note}</p>}
-            </div>
-          </div>
-        )}
-
-        <!-- Saint Reference -->
-        {nameData.saint_reference && nameData.saint_reference.is_saint_name && (
-          <div class="card p-6 sm:p-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted mb-4">Saint Reference</h2>
-            <div class="space-y-2 text-sm text-nv-text-secondary">
-              {nameData.saint_reference.saint_name && <p><span class="font-semibold text-nv-text">Saint:</span> {nameData.saint_reference.saint_name}</p>}
-              {nameData.saint_reference.note && <p>{nameData.saint_reference.note}</p>}
-            </div>
-          </div>
-        )}
-
-        <!-- Name in Other Languages -->
-        {(nameData.in_hebrew || nameData.in_greek || nameData.in_latin || nameData.in_english) && (
-          <div class="card p-6 sm:p-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted mb-4">Name in Other Languages</h2>
-            <div class="grid gap-4 sm:grid-cols-2">
-              {nameData.in_hebrew && (
-                <div class="rounded-xl border border-nv-border bg-nv-surface p-4">
-                  <div class="text-xs font-bold uppercase tracking-wide text-nv-text-muted">Hebrew</div>
-                  <div class="mt-2 text-lg font-semibold text-nv-text" dir="rtl">{nameData.in_hebrew.name}</div>
-                  {nameData.in_hebrew.meaning && <div class="mt-1 text-sm text-nv-text-secondary">{nameData.in_hebrew.meaning}</div>}
-                </div>
-              )}
-              {nameData.in_greek && (
-                <div class="rounded-xl border border-nv-border bg-nv-surface p-4">
-                  <div class="text-xs font-bold uppercase tracking-wide text-nv-text-muted">Greek</div>
-                  <div class="mt-2 text-lg font-semibold text-nv-text" dir="rtl">{nameData.in_greek.name}</div>
-                  {nameData.in_greek.meaning && <div class="mt-1 text-sm text-nv-text-secondary">{nameData.in_greek.meaning}</div>}
-                </div>
-              )}
-              {nameData.in_latin && (
-                <div class="rounded-xl border border-nv-border bg-nv-surface p-4">
-                  <div class="text-xs font-bold uppercase tracking-wide text-nv-text-muted">Latin</div>
-                  <div class="mt-2 text-lg font-semibold text-nv-text">{nameData.in_latin.name}</div>
-                  {nameData.in_latin.meaning && <div class="mt-1 text-sm text-nv-text-secondary">{nameData.in_latin.meaning}</div>}
-                </div>
-              )}
-              {nameData.in_english && (
-                <div class="rounded-xl border border-nv-border bg-nv-surface p-4">
-                  <div class="text-xs font-bold uppercase tracking-wide text-nv-text-muted">English</div>
-                  <div class="mt-2 text-lg font-semibold text-nv-text">{nameData.in_english.name}</div>
-                  {nameData.in_english.meaning && <div class="mt-1 text-sm text-nv-text-secondary">{nameData.in_english.meaning}</div>}
-                </div>
-              )}
-            </div>
-          </div>
-        )}
-
-        <!-- Popularity by Region -->
-        {nameData.popularity_by_region && nameData.popularity_by_region.length > 0 && (
-          <div class="card p-6 sm:p-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted mb-4">Popularity by Region</h2>
-            <div class="overflow-x-auto">
-              <table class="w-full text-left text-sm">
-                <thead>
-                  <tr class="border-b border-nv-border text-nv-text-muted">
-                    <th class="pb-2 font-semibold">Region</th>
-                    <th class="pb-2 font-semibold">Score</th>
-                    <th class="pb-2 font-semibold">Year</th>
-                  </tr>
-                </thead>
-                <tbody class="text-nv-text-secondary">
-                  {nameData.popularity_by_region.map((item) => (
-                    <tr key={item.region + item.year} class="border-b border-nv-border/60">
-                      <td class="py-2 font-medium text-nv-text">{item.region}</td>
-                      <td class="py-2">{item.score}</td>
-                      <td class="py-2">{item.year}</td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
-          </div>
-        )}
-
-        <!-- Related Names -->
-        {(similarNames.length > 0 || variations.length > 0 || relatedNames.length > 0) && (
-          <div class="card p-6 sm:p-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted mb-4">Related Names</h2>
-            <div class="space-y-4">
-              {similarNames.length > 0 && (
-                <div>
-                  <h3 class="text-xs font-bold uppercase tracking-wide text-nv-text-muted mb-2">Similar Sounding Names</h3>
-                  <div class="flex flex-wrap gap-2">
-                    {similarNames.slice(0, 10).map((s) => (
-                      <a key={s} href={`/names/${finalReligion}/${s.toLowerCase().replace(/\s+/g, '-')}`} class="rounded-full border border-nv-border bg-nv-surface px-3 py-1.5 text-sm font-semibold text-nv-accent transition hover:bg-nv-accent-subtle">{s}</a>
-                    ))}
-                  </div>
-                </div>
-              )}
-              {relatedNames.length > 0 && (
-                <div>
-                  <h3 class="text-xs font-bold uppercase tracking-wide text-nv-text-muted mb-2">Related Names</h3>
-                  <div class="flex flex-wrap gap-2">
-                    {relatedNames.slice(0, 10).map((s) => (
-                      <a key={s} href={`/names/${finalReligion}/${s.toLowerCase().replace(/\s+/g, '-')}`} class="rounded-full border border-nv-border bg-nv-surface px-3 py-1.5 text-sm font-semibold text-nv-accent transition hover:bg-nv-accent-subtle">{s}</a>
-                    ))}
-                  </div>
-                </div>
-              )}
-              {variations.length > 0 && (
-                <div>
-                  <h3 class="text-xs font-bold uppercase tracking-wide text-nv-text-muted mb-2">Spelling Variations</h3>
-                  <div class="flex flex-wrap gap-2">
-                    {variations.slice(0, 10).map((v) => (
-                      <span key={v} class="rounded-full border border-nv-border bg-nv-surface px-3 py-1.5 text-sm font-semibold text-nv-text">{v}</span>
-                    ))}
-                  </div>
-                </div>
-              )}
-            </div>
-          </div>
-        )}
-
-        <!-- Social Tags -->
-        {nameData.social_tags && nameData.social_tags.length > 0 && (
-          <div class="card p-6 sm:p-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted mb-4">Social Tags</h2>
-            <div class="flex flex-wrap gap-2">
-              {nameData.social_tags.map((tag) => (
-                <span key={tag} class="rounded-full border border-nv-border bg-nv-surface-subtle px-3 py-1 text-xs font-semibold text-nv-text-secondary">{tag}</span>
-              ))}
-            </div>
-          </div>
-        )}
-
-        <!-- Name in Real Life -->
-        {nameData.name_in_real_life && (
-          <div class="card p-6 sm:p-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted mb-4">Name in Real Life</h2>
-            <div class="space-y-2 text-sm text-nv-text-secondary">
-              {nameData.name_in_real_life.person_name && <p><span class="font-semibold text-nv-text">Person:</span> {nameData.name_in_real_life.person_name}</p>}
-              {nameData.name_in_real_life.location && <p><span class="font-semibold text-nv-text">Location:</span> {nameData.name_in_real_life.location}</p>}
-              {nameData.name_in_real_life.story && <p class="leading-relaxed">{nameData.name_in_real_life.story}</p>}
-            </div>
-          </div>
-        )}
-
-        <!-- FAQ -->
-        {faqData.length > 0 && (
-          <div class="card p-6 sm:p-8">
-            <h2 class="text-sm font-bold uppercase tracking-wide text-nv-text-muted mb-4">Frequently Asked Questions</h2>
-            <div class="space-y-3">
-              {faqData.map((item, idx) => (
-                <details key={idx} class="group rounded-2xl border border-nv-border bg-nv-surface transition hover:border-nv-accent/50">
-                  <summary class="flex cursor-pointer list-none items-start justify-between gap-4 p-5 text-base font-semibold text-nv-text transition-colors hover:text-nv-accent">
-                    <span class="flex-1">{item.q}</span>
-                    <svg class="h-5 w-5 shrink-0 text-nv-text-muted transition-transform duration-200 group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
-                  </summary>
-                  <div class="px-5 pb-5 text-sm leading-relaxed text-nv-text-muted">{item.a}</div>
-                </details>
-              ))}
-            </div>
-          </div>
-        )}
-
       </div>
+
+      <!-- Intro paragraph -->
+      {cleanText(introParagraph) && (
+        <div class="card p-6 sm:p-8">
+          <p class="text-sm leading-relaxed text-nv-text-secondary sm:text-base">{cleanText(introParagraph)}</p>
+        </div>
+      )}
+
+      <!-- Full Meaning -->
+      {longMeaning && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>What does {nameData.name} mean?</h2>
+          <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary sm:text-base">{longMeaning}</p>
+        </section>
+      )}
+
+      <!-- Spiritual Meaning -->
+      {nameData.spiritual_meaning && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>Spiritual meaning of {nameData.name}</h2>
+          <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary sm:text-base">{nameData.spiritual_meaning}</p>
+        </section>
+      )}
+
+      <!-- Spiritual Significance -->
+      {nameData.spiritual_significance && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>Spiritual significance</h2>
+          <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary sm:text-base">{cleanText(nameData.spiritual_significance)}</p>
+        </section>
+      )}
+
+      <!-- Spiritual Symbolism -->
+      {nameData.spiritual_symbolism && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>Symbolism of {nameData.name}</h2>
+          <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary sm:text-base">{cleanText(nameData.spiritual_symbolism)}</p>
+        </section>
+      )}
+
+      <!-- Cultural Impact -->
+      {nameData.cultural_impact && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>Cultural impact of {nameData.name}</h2>
+          <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary sm:text-base">{cleanText(nameData.cultural_impact)}</p>
+        </section>
+      )}
+
+      <!-- Numerology -->
+      {numerology && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>Numerology meaning of {nameData.name}</h2>
+          <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary sm:text-base">{numerology}</p>
+          {lifePath !== '' && (
+            <p class="mt-3 text-sm text-nv-text-secondary">
+              <span class="font-semibold text-nv-text">Life Path Number:</span> {lifePath}
+            </p>
+          )}
+        </section>
+      )}
+
+      <!-- Personality Traits -->
+      {traits.length > 0 && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>Personality traits of {nameData.name}</h2>
+          <div class="mt-4 flex flex-wrap gap-2">
+            {traits.map((trait) => (
+              <span key={trait} class="rounded-full border border-nv-border bg-nv-surface px-4 py-2 text-sm font-medium text-nv-text">{trait}</span>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Pronunciation -->
+      {nameData.pronunciation && (nameData.pronunciation.english || nameData.pronunciation.biblical || nameData.pronunciation.ipa) && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>How to pronounce {nameData.name}</h2>
+          <div class="mt-4 grid gap-4 sm:grid-cols-3">
+            {nameData.pronunciation.english && (
+              <div class="rounded-xl border border-nv-border bg-nv-surface p-4">
+                <div class="text-xs text-nv-text-muted">English</div>
+                <div class="mt-2 text-lg font-semibold text-nv-text">{nameData.pronunciation.english}</div>
+              </div>
+            )}
+            {nameData.pronunciation.biblical && (
+              <div class="rounded-xl border border-nv-border bg-nv-surface p-4">
+                <div class="text-xs text-nv-text-muted">Biblical</div>
+                <div class="mt-2 text-lg font-semibold text-nv-text">{nameData.pronunciation.biblical}</div>
+              </div>
+            )}
+            {nameData.pronunciation.ipa && (
+              <div class="rounded-xl border border-nv-border bg-nv-surface p-4">
+                <div class="text-xs text-nv-text-muted">IPA</div>
+                <div class="mt-2 text-lg font-semibold text-nv-text">{nameData.pronunciation.ipa}</div>
+              </div>
+            )}
+          </div>
+        </section>
+      )}
+
+      <!-- Historical References -->
+      {historicalRefs.length > 0 && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>{nameData.name} in history</h2>
+          <div class="mt-4 space-y-4">
+            {historicalRefs.map((h, idx) => (
+              <div key={idx} class="rounded-xl border border-nv-border bg-nv-surface p-4">
+                <p class="text-sm leading-relaxed text-nv-text-secondary">{h.reference}</p>
+                {(h.time_period || h.context) && (
+                  <p class="mt-2 text-xs font-semibold text-nv-text-muted">
+                    {[h.time_period, h.context].filter(Boolean).join(' &middot; ')}
+                  </p>
+                )}
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Modern Usage -->
+      {nameData.modern_usage && (nameData.modern_usage.modern_context || (nameData.modern_usage.trends && nameData.modern_usage.trends.length)) && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>{nameData.name} in modern times</h2>
+          <div class="mt-4 space-y-3 text-sm leading-relaxed text-nv-text-secondary">
+            {nameData.modern_usage.modern_context && <p>{nameData.modern_usage.modern_context}</p>}
+            {nameData.modern_usage.trends && nameData.modern_usage.trends.length > 0 && (
+              <p><span class="font-semibold text-nv-text">Trends:</span> {nameData.modern_usage.trends.join(', ')}</p>
+            )}
+            {nameData.modern_usage.platforms && nameData.modern_usage.platforms.length > 0 && (
+              <p><span class="font-semibold text-nv-text">Discussed on:</span> {nameData.modern_usage.platforms.join(', ')}</p>
+            )}
+          </div>
+        </section>
+      )}
+
+      <!-- Biblical Reference -->
+      {nameData.biblical_reference && nameData.biblical_reference.is_biblical && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>{nameData.name} in the Bible</h2>
+          <div class="mt-3 space-y-2 text-sm leading-relaxed text-nv-text-secondary">
+            {nameData.biblical_reference.origin_scripture && <p><span class="font-semibold text-nv-text">Scripture:</span> {nameData.biblical_reference.origin_scripture}</p>}
+            {nameData.biblical_reference.verse_reference && <p><span class="font-semibold text-nv-text">Verse:</span> {nameData.biblical_reference.verse_reference}</p>}
+            {nameData.biblical_reference.note && <p>{nameData.biblical_reference.note}</p>}
+          </div>
+        </section>
+      )}
+
+      <!-- Saint Reference -->
+      {nameData.saint_reference && nameData.saint_reference.is_saint_name && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>{nameData.name} and the saints</h2>
+          <div class="mt-3 space-y-2 text-sm leading-relaxed text-nv-text-secondary">
+            {nameData.saint_reference.saint_name && <p><span class="font-semibold text-nv-text">Saint:</span> {nameData.saint_reference.saint_name}</p>}
+            {nameData.saint_reference.note && <p>{nameData.saint_reference.note}</p>}
+          </div>
+        </section>
+      )}
+
+      <!-- Islamic Reference -->
+      {nameData.islamic_reference && nameData.islamic_reference.is_quranic && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>{nameData.name} in the Islamic tradition</h2>
+          <div class="mt-3 space-y-2 text-sm leading-relaxed text-nv-text-secondary">
+            {nameData.islamic_reference.surah && <p><span class="font-semibold text-nv-text">Surah:</span> {nameData.islamic_reference.surah}</p>}
+            {nameData.islamic_reference.ayah && <p><span class="font-semibold text-nv-text">Ayah:</span> {nameData.islamic_reference.ayah}</p>}
+            {nameData.islamic_reference.note && <p>{nameData.islamic_reference.note}</p>}
+          </div>
+        </section>
+      )}
+
+      <!-- Name in Other Languages -->
+      {otherLangs.length > 0 && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>{nameData.name} in other languages</h2>
+          <div class="mt-4 grid gap-4 sm:grid-cols-2">
+            {otherLangs.map((lang) => (
+              <div key={lang.key} class="rounded-xl border border-nv-border bg-nv-surface p-4">
+                <div class="text-xs font-bold uppercase tracking-wide text-nv-text-muted">{lang.label}</div>
+                <div class="mt-2 text-lg font-semibold text-nv-text" dir={lang.rtl ? 'rtl' : 'ltr'}>{lang.data.name}</div>
+                {cleanText(lang.data.meaning) && <div class="mt-1 text-sm text-nv-text-secondary">{cleanText(lang.data.meaning)}</div>}
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Popularity by Region -->
+      {regionData.length > 0 && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>Popularity of {nameData.name} by region</h2>
+          <div class="mt-4 overflow-x-auto">
+            <table class="w-full text-left text-sm">
+              <thead>
+                <tr class="border-b border-nv-border text-nv-text-muted">
+                  <th class="pb-2 font-semibold">Region</th>
+                  <th class="pb-2 font-semibold">Country</th>
+                  <th class="pb-2 font-semibold">Score</th>
+                  <th class="pb-2 font-semibold">Year</th>
+                </tr>
+              </thead>
+              <tbody class="text-nv-text-secondary">
+                {regionData.map((item) => (
+                  <tr key={item.region + (item.year || '')} class="border-b border-nv-border/60">
+                    <td class="py-2 font-medium text-nv-text">{item.region}</td>
+                    <td class="py-2">{item.country_code || '—'}</td>
+                    <td class="py-2">{item.score ?? '—'}</td>
+                    <td class="py-2">{item.year ?? '—'}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      )}
+
+      <!-- Name in Real Life -->
+      {nameData.name_in_real_life && (nameData.name_in_real_life.person_name || nameData.name_in_real_life.story) && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>{nameData.name} in real life</h2>
+          <div class="mt-3 space-y-2 text-sm leading-relaxed text-nv-text-secondary">
+            {nameData.name_in_real_life.person_name && <p><span class="font-semibold text-nv-text">Person:</span> {nameData.name_in_real_life.person_name}</p>}
+            {nameData.name_in_real_life.location && <p><span class="font-semibold text-nv-text">Location:</span> {nameData.name_in_real_life.location}</p>}
+            {nameData.name_in_real_life.story && <p>{nameData.name_in_real_life.story}</p>}
+          </div>
+        </section>
+      )}
+
+      <!-- Celebrity Usage -->
+      {celebrityUsage.length > 0 && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>Famous people named {nameData.name}</h2>
+          <ul class="mt-3 list-disc space-y-2 pl-5 text-sm text-nv-text-secondary">
+            {celebrityUsage.map((c) => (
+              <li key={c}>{c}</li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      <!-- Name Variations -->
+      {variations.length > 0 && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>Spelling variations of {nameData.name}</h2>
+          <div class="mt-4 flex flex-wrap gap-2">
+            {variations.map((v) => (
+              <span key={v} class="rounded-full border border-nv-border bg-nv-surface px-4 py-2 text-sm font-semibold text-nv-text">{v}</span>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Related Names -->
+      {(similarNames.length > 0 || relatedNames.length > 0) && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>Names similar to {nameData.name}</h2>
+          <div class="mt-4 space-y-4">
+            {similarNames.length > 0 && (
+              <div>
+                <h3 class="text-xs font-bold uppercase tracking-wide text-nv-text-muted">Similar sounding names</h3>
+                <div class="mt-2 flex flex-wrap gap-2">
+                  {similarNames.slice(0, 12).map((s) => (
+                    <a key={s} href={`/names/${finalReligion}/${s.toLowerCase().replace(/\s+/g, '-')}`} class="rounded-full border border-nv-border bg-nv-surface px-3 py-1.5 text-sm font-semibold text-nv-accent transition hover:bg-nv-accent-subtle">{s}</a>
+                  ))}
+                </div>
+              </div>
+            )}
+            {relatedNames.length > 0 && (
+              <div>
+                <h3 class="text-xs font-bold uppercase tracking-wide text-nv-text-muted">Related names</h3>
+                <div class="mt-2 flex flex-wrap gap-2">
+                  {relatedNames.slice(0, 12).map((s) => (
+                    <a key={s} href={`/names/${finalReligion}/${s.toLowerCase().replace(/\s+/g, '-')}`} class="rounded-full border border-nv-border bg-nv-surface px-3 py-1.5 text-sm font-semibold text-nv-accent transition hover:bg-nv-accent-subtle">{s}</a>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        </section>
+      )}
+
+      <!-- Social Tags -->
+      {socialTags.length > 0 && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>Related topics</h2>
+          <div class="mt-4 flex flex-wrap gap-2">
+            {socialTags.map((tag) => (
+              <span key={tag} class="rounded-full border border-nv-border bg-nv-surface-subtle px-3 py-1 text-xs font-semibold text-nv-text-secondary">{tag}</span>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- FAQ -->
+      {faqData.length > 0 && (
+        <section class="card p-6 sm:p-8">
+          <h2 class={headingStyle()}>Frequently asked questions about {nameData.name}</h2>
+          <div class="mt-4 space-y-3">
+            {faqData.map((item, idx) => (
+              <details key={idx} class="group rounded-2xl border border-nv-border bg-nv-surface transition hover:border-nv-accent/50">
+                <summary class="flex cursor-pointer list-none items-start justify-between gap-4 p-5 text-base font-semibold text-nv-text transition-colors hover:text-nv-accent">
+                  <span class="flex-1">{item.q}</span>
+                  <svg class="h-5 w-5 shrink-0 text-nv-text-muted transition-transform duration-200 group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                </summary>
+                <div class="px-5 pb-5 text-sm leading-relaxed text-nv-text-muted">{item.a}</div>
+              </details>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Cross-links -->
+      <div class="flex flex-wrap justify-center gap-2 pt-2">
+        <a href={`/names/${finalReligion}`} class="btn-ghost">More {relLabel.toLowerCase()} names</a>
+        <a href="/names-by-meaning" class="btn-ghost">Browse names by meaning</a>
+        <a href="/popularity" class="btn-ghost">Compare popularity</a>
+      </div>
+    </div>
   </div>
 </Layout>

@@ -42,18 +42,42 @@ const canonicalUrl = `${siteUrl}/names/${finalReligion}/letter/${letterUrlSegmen
 // Religions that also have names for this letter (for the switcher)
 const switcherReligions = ALL_RELIGIONS.filter((r) => lettersFor(r, manifest).has(letter));
 
+const boyCount = names.filter((i) => {
+  const g = (i.gender || '').toLowerCase();
+  const m = g.includes('male') || g.includes('boy') || g.includes('masculin');
+  const f = g.includes('female') || g.includes('girl');
+  return m && !f;
+}).length;
+const girlCount = names.filter((i) => {
+  const g = (i.gender || '').toLowerCase();
+  const f = g.includes('female') || g.includes('girl');
+  const m = g.includes('male') || g.includes('boy');
+  return f && !m;
+}).length;
+
+const nearby = [...'abcdefghijklmnopqrstuvwxyz', '#'];
+const nearbyLetters = nearby.filter((l) => l !== letter && lettersFor(finalReligion, manifest).has(l));
+
 const faqs = [
   {
     q: `What are the most popular ${religionLabel} baby names starting with "${letterDisplay}"?`,
-    a: `NameVerse lists ${names.length} ${religionLabel} baby names beginning with "${letterDisplay}", each with an authentic meaning, cultural origin, gender classification and lucky number.`,
+    a: `NameVerse lists ${names.length} ${religionLabel} baby names beginning with "${letterDisplay}", each with an authentic meaning, cultural origin, gender classification and lucky number. Open any name to see its popularity score, region trends and numerology.`,
   },
   {
     q: `Are ${religionLabel} names starting with "${letterDisplay}" suitable for boys or girls?`,
-    a: `The "${letterDisplay}" collection includes boy names, girl names and some unisex options. Every name card shows its gender classification so you can filter quickly.`,
+    a: `The "${letterDisplay}" collection includes ${boyCount.toLocaleString()} boy names, ${girlCount.toLocaleString()} girl names and some unisex options. Every name card shows its gender classification so you can filter quickly.`,
   },
   {
     q: `How do I find the origin of a ${religionLabel} name starting with "${letterDisplay}"?`,
-    a: `Every name on NameVerse includes its origin — Arabic, Persian, Urdu, Sanskrit, Hebrew, Latin, Greek and more. Click any name to open its full profile.`,
+    a: `Every name on NameVerse includes its origin — Arabic, Persian, Urdu, Sanskrit, Hebrew, Latin, Greek and more. Click any name to open its full profile with pronunciation, variations and cultural context.`,
+  },
+  {
+    q: `Do ${religionLabel} names starting with "${letterDisplay}" have lucky numbers?`,
+    a: `Yes — most entries include a lucky number, lucky day, lucky colors and lucky stone based on numerology. These appear on each individual name page.`,
+  },
+  {
+    q: `How do I compare ${religionLabel} names beginning with "${letterDisplay}"?`,
+    a: `Open the names that catch your eye, note their meanings, origins and popularity scores, then use the Popularity Comparison tool to weigh them side by side.`,
   },
 ];
 
@@ -88,20 +112,21 @@ const faqJsonLd = JSON.stringify({
       <nav class="mb-6 flex items-center gap-2 text-sm text-nv-text-muted" aria-label="Breadcrumb">
         <a href="/" class="font-medium transition hover:text-nv-accent">Home</a>
         <span>/</span>
-        <a href={`/names/${finalReligion}/letter/a`} class="font-medium transition hover:text-nv-accent">{religionLabel} Names</a>
+        <a href={`/names/${finalReligion}`} class="font-medium transition hover:text-nv-accent">{religionLabel} Names</a>
         <span>/</span>
         <span class="font-medium text-nv-text">Letter {letterDisplay}</span>
       </nav>
 
       <!-- Hero -->
       <header class="mb-8 text-center">
-        <span class="badge bg-nv-accent-subtle text-nv-accent">{names.length} names found</span>
+        <span class="badge bg-nv-accent-subtle text-nv-accent">{names.length} names &bull; {boyCount.toLocaleString()} boys &bull; {girlCount.toLocaleString()} girls</span>
         <h1 class="mt-3 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">
           {religionLabel} Names Starting with &ldquo;{letterDisplay}&rdquo;
         </h1>
         <p class="mx-auto mt-3 max-w-2xl text-nv-text-secondary">
           Authentic {religionLabel} baby names beginning with <strong>{letterDisplay}</strong> —
-          with meanings, origins and lucky numbers.
+          with meanings, origins and lucky numbers. Choose from {names.length.toLocaleString()}{' '}
+          {religionLabel.toLowerCase()} names starting with this letter, or explore another letter below.
         </p>
       </header>
 
@@ -132,12 +157,42 @@ const faqJsonLd = JSON.stringify({
         {names.map((item) => <NameCard item={item} />)}
       </div>
 
-      <!-- FAQ -->
-      <section class="mx-auto mt-14 max-w-3xl" aria-labelledby="letter-faq">
-        <h2 id="letter-faq" class="mb-6 text-center font-display text-2xl font-semibold tracking-tight text-nv-text">
-          About {religionLabel} names starting with &ldquo;{letterDisplay}&rdquo;
+      <!-- Nearby letters -->
+      {nearbyLetters.length > 0 && (
+        <nav class="mt-10 text-center" aria-label="Nearby letters">
+          <p class="mb-3 text-xs font-bold uppercase tracking-[0.16em] text-nv-text-muted">Explore other letters</p>
+          <div class="flex flex-wrap justify-center gap-2">
+            {nearbyLetters.slice(0, 10).map((l) => (
+              <a href={`/names/${finalReligion}/letter/${l === '#' ? '%23' : l}`} class="grid h-10 w-10 place-items-center rounded-lg border border-nv-border bg-nv-surface text-sm font-bold uppercase text-nv-text-secondary transition hover:border-nv-accent hover:text-nv-accent">
+                {l}
+              </a>
+            ))}
+          </div>
+        </nav>
+      )}
+
+      <!-- SEO copy -->
+      <section class="mx-auto mt-14 max-w-3xl" aria-labelledby="letter-seo">
+        <h2 id="letter-seo" class="text-center font-display text-2xl font-semibold tracking-tight text-nv-text">
+          Why choose a {religionLabel} name beginning with &ldquo;{letterDisplay}&rdquo;?
         </h2>
-        <div class="space-y-3">
+        <div class="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
+          <p>
+            Names that start with <strong>{letterDisplay}</strong> give your child a strong, clear
+            initial that is easy to spell, monogram and remember. In the {religionLabel.toLowerCase()}
+            tradition, the sound of a name has always mattered as much as its meaning — which is why
+            this letter offers {names.length.toLocaleString()} distinct choices, from classic favorites
+            to modern spellings.
+          </p>
+          <p>
+            Each name below links to a full profile with the authentic meaning, linguistic origin,
+            pronunciation, lucky number, numerology and spelling variations. Bookmark the names you
+            love, then use the popularity comparison tool to weigh your final shortlist.
+          </p>
+        </div>
+
+        <h3 class="mt-8 text-center font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
+        <div class="mt-4 space-y-3">
           {faqs.map((f) => (
             <details class="faq-item card p-5">
               <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">

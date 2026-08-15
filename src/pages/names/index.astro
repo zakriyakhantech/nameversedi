@@ -2,6 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import NameCard from '../../components/NameCard.astro';
 import { getManifest, getPopularSlugs } from '../../lib/data/astro-data.mjs';
+import { normalizeGender } from '../../lib/data/name-utils.mjs';
 
 const manifest = getManifest();
 const religions = [
@@ -9,7 +10,12 @@ const religions = [
   { key: 'christian', label: 'Christian Names', description: 'Biblical & modern names', badgeClass: 'bg-christian-soft text-christian' },
   { key: 'hindu', label: 'Hindu Names', description: 'Sanskrit & Vedic names', badgeClass: 'bg-hindu-soft text-hindu' },
   { key: 'italian', label: 'Italian Names', description: 'Classical Italian names', badgeClass: 'bg-italian-soft text-italian' },
-].map((r) => ({ ...r, count: manifest[r.key]?.length || 0 }));
+].map((r) => {
+  const items = manifest[r.key] || [];
+  const boyCount = items.filter((i) => normalizeGender(i.gender) === 'boy').length;
+  const girlCount = items.filter((i) => normalizeGender(i.gender) === 'girl').length;
+  return { ...r, count: items.length, boyCount, girlCount };
+});
 
 const bySlug = {};
 for (const key of ['islamic', 'christian', 'hindu', 'italian']) {
@@ -18,43 +24,119 @@ for (const key of ['islamic', 'christian', 'hindu', 'italian']) {
 const topNames = getPopularSlugs(24)
   .map(({ slug }) => bySlug[slug])
   .filter(Boolean);
+
+const totalCount = religions.reduce((s, r) => s + r.count, 0);
+
+const faqs = [
+  {
+    q: 'How many baby names are on NameVerse?',
+    a: `NameVerse lists ${totalCount.toLocaleString()} baby names across four traditions: Islamic, Christian, Hindu and Italian — every one with a meaning, origin, gender and popularity score.`,
+  },
+  {
+    q: 'What are the most popular baby names on NameVerse?',
+    a: 'The "Most popular names" section below ranks the highest-scoring names in the whole database. Open the popularity comparison tool to compare any shortlist side by side.',
+  },
+  {
+    q: 'How do I browse baby names alphabetically?',
+    a: 'Pick a tradition above and you will land on a hub with a full A–Z letter browser. Each letter page lists every name starting with that letter, with meanings on the cards.',
+  },
+  {
+    q: 'Can I find baby names by meaning or origin?',
+    a: 'Yes. Use the search tool to filter by religion, gender, origin or category and type a meaning keyword like "light" or "strength", or browse the dedicated origin and category collections.',
+  },
+];
+
+const faqJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
 ---
 
 <Layout
   title="All Baby Names by Religion — 42,000+ Names & Meanings | NameVerse"
-  description="Browse 42,000+ baby names by religion: Islamic, Christian, Hindu & Italian names with verified meanings, origins and lucky numbers. Free A–Z browsing."
+  description={`Browse ${totalCount.toLocaleString()} baby names by religion: Islamic, Christian, Hindu & Italian names with verified meanings, origins and lucky numbers. Free A–Z browsing.`}
+  canonical="https://nameverse.site/names"
 >
+  <script type="application/ld+json" set:html={faqJsonLd} />
+
   <div class="container-page py-10 sm:py-14">
-    <div class="mx-auto max-w-5xl">
+    <div class="mx-auto max-w-6xl">
       <header class="mb-10 text-center">
         <span class="eyebrow">Name directory</span>
         <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">All Baby Names</h1>
         <p class="mx-auto mt-3 max-w-2xl text-nv-text-secondary">
-          Every name in NameVerse, organized by tradition. Pick a religion to browse A–Z, or start
-          with the most popular names below.
+          Every name in NameVerse — {totalCount.toLocaleString()} in total — organized by tradition.
+          Pick a religion to browse its full A–Z collection, or start with the most popular names below.
         </p>
       </header>
 
       <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
         {religions.map((rel) => (
-          <a href={`/names/${rel.key}/letter/a`} class="card card-hover group flex flex-col gap-2 p-6">
+          <a href={`/names/${rel.key}`} class="card card-hover group flex flex-col gap-2 p-6">
             <span class:list={['badge w-fit', rel.badgeClass]}>{rel.count.toLocaleString()} names</span>
             <h2 class="font-display text-lg font-semibold text-nv-text group-hover:text-nv-accent">{rel.label}</h2>
             <p class="text-sm text-nv-text-secondary">{rel.description}</p>
-            <span class="mt-auto pt-2 text-sm font-semibold text-nv-accent">Browse A–Z &rarr;</span>
+            <p class="text-xs text-nv-text-muted">{rel.boyCount.toLocaleString()} boy &bull; {rel.girlCount.toLocaleString()} girl names</p>
+            <span class="mt-auto pt-2 text-sm font-semibold text-nv-accent">Browse all &rarr;</span>
           </a>
         ))}
       </div>
 
+      <div class="mt-8 flex flex-wrap items-center justify-center gap-2">
+        <a href="/names-by-origin" class="rounded-full border border-nv-border bg-nv-surface px-4 py-2 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent/50 hover:text-nv-accent">By origin</a>
+        <a href="/names-by-meaning" class="rounded-full border border-nv-border bg-nv-surface px-4 py-2 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent/50 hover:text-nv-accent">By meaning</a>
+        <a href="/categories" class="rounded-full border border-nv-border bg-nv-surface px-4 py-2 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent/50 hover:text-nv-accent">By category</a>
+        <a href="/origins" class="rounded-full border border-nv-border bg-nv-surface px-4 py-2 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent/50 hover:text-nv-accent">Origins index</a>
+        <a href="/trending-names" class="rounded-full border border-nv-border bg-nv-surface px-4 py-2 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent/50 hover:text-nv-accent">Trending</a>
+        <a href="/unique-names" class="rounded-full border border-nv-border bg-nv-surface px-4 py-2 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent/50 hover:text-nv-accent">Unique</a>
+        <a href="/popularity" class="rounded-full border border-nv-border bg-nv-surface px-4 py-2 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent/50 hover:text-nv-accent">Popularity tool</a>
+      </div>
+
       <section class="mt-14" aria-labelledby="popular-heading">
         <div class="mb-6 flex flex-wrap items-end justify-between gap-3">
-          <h2 id="popular-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text">
-            Most popular names
-          </h2>
-          <a href="/search" class="btn-ghost">Search all names</a>
+          <div>
+            <span class="eyebrow">Top picks</span>
+            <h2 id="popular-heading" class="mt-2 font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+              Most popular names
+            </h2>
+          </div>
+          <a href="/popularity" class="btn-ghost">Compare popularity</a>
         </div>
-        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {topNames.map((item) => <NameCard item={item} />)}
+        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+          {topNames.map((item) => <NameCard item={item} showReligion />)}
+        </div>
+      </section>
+
+      <section class="mx-auto mt-16 max-w-3xl" aria-labelledby="seo-heading">
+        <h2 id="seo-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+          The complete baby name directory
+        </h2>
+        <div class="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
+          <p>
+            Whether you follow a specific tradition or you are simply hunting for the perfect name,
+            the directory covers the two most useful dimensions at once: meaning and heritage. Each
+            tradition hub gives you a complete A–Z index, gender-split counts and the most popular
+            names right now.
+          </p>
+          <p>
+            Every name page goes far beyond a one-line translation — with pronunciation, lucky
+            numbers, numerology, spelling variations and the cultural story behind the meaning. Start
+            with the hubs above, then use search to mix religion, gender and meaning in one go.
+          </p>
+        </div>
+
+        <h3 class="mt-8 font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
+        <div class="mt-4 space-y-3">
+          {faqs.map((f) => (
+            <details class="faq-item card p-5">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
+                {f.q}
+                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+              </summary>
+              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
+            </details>
+          ))}
         </div>
       </section>
     </div>

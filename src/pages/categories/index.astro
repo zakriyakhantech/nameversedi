@@ -1,0 +1,117 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getManifest } from '../../lib/data/astro-data.mjs';
+import { CATEGORY_SLUGS, CATEGORY_LABELS, categorySlugFor } from '../../lib/data/name-utils.mjs';
+
+const manifest = getManifest();
+const categories = CATEGORY_SLUGS.map((slug) => {
+  let count = 0;
+  for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
+    for (const item of manifest[rel] || []) {
+      if (categorySlugFor(item.category) === slug) count++;
+    }
+  }
+  return { slug, label: CATEGORY_LABELS[slug], count };
+}).sort((a, b) => b.count - a.count);
+
+const blurb = {
+  islamic: 'Names from the Quran, Islamic tradition and classical Arabic culture.',
+  hindu: 'Names inspired by Sanskrit scriptures, deities, virtues and nature.',
+  biblical: 'Names that appear in the Bible, rich with faith and history.',
+  saint: 'Timeless names of venerated saints that inspire virtue.',
+  virtue: 'Names that express noble qualities like love, wisdom and strength.',
+  italian: 'Melodic Italian names rooted in Latin and Mediterranean tradition.',
+};
+
+const faqs = [
+  {
+    q: 'How are baby name categories defined on NameVerse?',
+    a: 'Categories group names by cultural and spiritual tradition — Islamic, Hindu, Biblical, Saint, Virtue and Italian. They help families find names that fit their faith and values quickly.',
+  },
+  {
+    q: 'Is category the same as religion on NameVerse?',
+    a: 'Not exactly. Religion refers to the collection a name is filed under (Islamic, Christian, Hindu, Italian). Category is a finer description of the tradition it belongs to, such as Biblical or Saint.',
+  },
+  {
+    q: 'Can I combine category with gender or meaning filters?',
+    a: 'Yes. The search tool lets you combine category with religion, gender, origin and a meaning keyword to find exactly the name you are looking for.',
+  },
+];
+
+const faqJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
+---
+
+<Layout
+  title="Baby Names by Category — Islamic, Hindu, Biblical, Saint, Virtue, Italian | NameVerse"
+  description="Browse 42,000+ baby names grouped by category: Islamic, Hindu, Biblical, Saint, Virtue and Italian — each with verified meanings, origins and lucky numbers."
+>
+  <script type="application/ld+json" set:html={faqJsonLd} />
+
+  <div class="container-page py-10 sm:py-14">
+    <div class="mx-auto max-w-5xl">
+      <nav class="mb-6 flex items-center gap-2 text-sm text-nv-text-muted" aria-label="Breadcrumb">
+        <a href="/" class="font-medium transition hover:text-nv-accent">Home</a>
+        <span>/</span>
+        <span class="font-medium text-nv-text">Name Categories</span>
+      </nav>
+
+      <header class="mb-10 text-center">
+        <span class="eyebrow">Browse by tradition</span>
+        <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">
+          Baby Names by Category
+        </h1>
+        <p class="mx-auto mt-3 max-w-2xl text-nv-text-secondary">
+          Categories group names by cultural and spiritual tradition. Choose one to explore names
+          that fit your faith, heritage and values — each with a verified meaning, gender and origin.
+        </p>
+      </header>
+
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {categories.map((c) => (
+          <a href={`/categories/${c.slug}`} class="card card-hover group flex flex-col gap-2 p-6">
+            <div class="flex items-center justify-between gap-2">
+              <h2 class="font-display text-xl font-semibold text-nv-text group-hover:text-nv-accent">{c.label}</h2>
+              <span class="badge bg-nv-accent-subtle text-nv-accent">{c.count.toLocaleString()}</span>
+            </div>
+            <p class="text-sm text-nv-text-secondary">{blurb[c.slug]}</p>
+            <span class="mt-auto pt-2 text-sm font-semibold text-nv-accent">Browse {c.label.toLowerCase()} names &rarr;</span>
+          </a>
+        ))}
+      </div>
+
+      <section class="mx-auto mt-16 max-w-3xl" aria-labelledby="seo-heading">
+        <h2 id="seo-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+          Finding a name that fits your family's values
+        </h2>
+        <div class="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
+          <p>
+            Many parents start their search by tradition — a name that honors faith, a name that
+            carries the meaning of a beloved virtue, or a name from the scriptures. Categories make
+            that easy, while origin pages explore the language side of the story.
+          </p>
+          <p>
+            Combine a category with the gender and meaning filters in the search tool, then open full
+            profiles for pronunciation, numerology and lucky numbers before making your final choice.
+          </p>
+        </div>
+
+        <h3 class="mt-8 font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
+        <div class="mt-4 space-y-3">
+          {faqs.map((f) => (
+            <details class="faq-item card p-5">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
+                {f.q}
+                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+              </summary>
+              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+    </div>
+  </div>
+</Layout>

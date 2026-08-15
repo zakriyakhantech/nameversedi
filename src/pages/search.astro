@@ -1,64 +1,196 @@
 ---
 import Layout from '../layouts/Layout.astro';
 
-const { q } = Astro.url.searchParams;
+const { q, religion, gender, origin, category } = Astro.url.searchParams;
 const query = (q || '').trim();
-const queryLower = query.toLowerCase();
+
+const religions = ['islamic', 'christian', 'hindu', 'italian'];
+const religionLabels = { christian: 'Christian', hindu: 'Hindu', islamic: 'Islamic', italian: 'Italian' };
+const genderLabels = { boy: 'Boy', girl: 'Girl', unisex: 'Unisex' };
+const originLabels = {
+  arabic: 'Arabic', biblical: 'Biblical', sanskrit: 'Sanskrit', hindu: 'Hindu',
+  italian: 'Italian', persian: 'Persian', english: 'English', tamil: 'Tamil',
+  hindi: 'Hindi', bengali: 'Bengali', urdu: 'Urdu',
+};
+const categoryLabels = { islamic: 'Islamic', hindu: 'Hindu', biblical: 'Biblical', saint: 'Saint', virtue: 'Virtue', italian: 'Italian' };
+
+const activeFilters = [];
+if (religion && religionLabels[religion]) activeFilters.push(`${religionLabels[religion]} names`);
+if (gender && genderLabels[gender]) activeFilters.push(`${genderLabels[gender]} names`);
+if (origin && originLabels[origin]) activeFilters.push(`${originLabels[origin]} origin`);
+if (category && categoryLabels[category]) activeFilters.push(`${categoryLabels[category]} category`);
+
 const pageTitle = query
-  ? `"${query}" — Baby Name Search Results | NameVerse`
-  : 'Search 42,000+ Baby Names by Meaning, Origin or Religion | NameVerse';
+  ? `"${query}" ${activeFilters.length ? '— ' + activeFilters.join(', ') : ''} Baby Name Results | NameVerse`
+  : activeFilters.length
+    ? `${activeFilters.join(', ')} — Baby Names & Meanings | NameVerse`
+    : 'Search 42,000+ Baby Names by Meaning, Origin, Religion & Gender | NameVerse';
+
+const pageDescription = query
+  ? `Search results for "${query}"${activeFilters.length ? ` in ${activeFilters.join(', ')}` : ''} — meanings, origins, gender and popularity across Islamic, Hindu, Christian and Italian traditions.`
+  : 'Search 42,000+ baby names by name, meaning, origin, religion, gender or category. Filter results and rank by popularity — free and instant.';
+
+const faqs = [
+  {
+    q: 'How does NameVerse search work?',
+    a: 'Search matches your keyword against every name, meaning, origin, religion and category in the database. Results are ranked with exact and prefix name matches first, followed by meaning matches, then sorted by popularity so the most common names appear at the top.',
+  },
+  {
+    q: 'Can I search baby names by religion?',
+    a: 'Yes. Use the religion filter to limit results to Islamic, Christian, Hindu or Italian names, or combine it with a keyword such as "light" to find "names that mean light" inside a specific tradition.',
+  },
+  {
+    q: 'Can I filter names by gender?',
+    a: 'Absolutely. The gender filter narrows results to Boy, Girl or Unisex names. NameVerse also shows a gender badge on every result so you can scan quickly.',
+  },
+  {
+    q: 'Can I search names by origin?',
+    a: 'Yes. Filter by origin — Arabic, Biblical, Sanskrit, Persian, Tamil, English and more — to discover names from a specific language or culture, then open any name profile for its full story.',
+  },
+  {
+    q: 'Are the search results ranked by popularity?',
+    a: 'By default relevance decides the order, but you can switch the sort to "Most popular" to rank every result by its popularity score across all traditions.',
+  },
+];
+
+const faqJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
 ---
 
-<Layout
-  title={pageTitle}
-  description={query
-    ? `Baby name search results for "${query}" across Islamic, Hindu, Christian and Italian traditions.`
-    : 'Search 42,000+ baby names by meaning, origin, religion or keyword. Instant results across Islamic, Hindu, Christian and Italian traditions.'}
->
+<Layout title={pageTitle} description={pageDescription}>
+  <script type="application/ld+json" set:html={faqJsonLd} />
+
   <div class="container-page py-10 sm:py-14">
-    <div class="mx-auto max-w-3xl">
+    <div class="mx-auto max-w-5xl">
       <header class="mb-8 text-center">
-        <span class="eyebrow">Instant search</span>
-        <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-4xl">Search Names</h1>
-        <p class="mt-3 text-nv-text-secondary">
-          Search 42,000+ Islamic, Hindu, Christian and Italian names by meaning, origin or keyword.
+        <span class="eyebrow">Instant name search</span>
+        <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-4xl">
+          {activeFilters.length ? `${activeFilters.join(' ')}` : 'Search Baby Names'}
+        </h1>
+        <p class="mx-auto mt-3 max-w-2xl text-nv-text-secondary">
+          Search {religions.length > 0 ? '42,000+' : ''} baby names by name, meaning, origin, religion, gender or category —
+          then rank results by popularity.
         </p>
       </header>
 
-      <form action="/search" method="get" class="flex gap-2">
-        <input
-          type="search"
-          id="search-input"
-          name="q"
-          value={query}
-          placeholder="Try a name, meaning or origin…"
-          autocomplete="off"
-          class="input flex-1"
-        />
-        <button type="submit" class="btn-primary shrink-0">Search</button>
+      <form action="/search" method="get" id="search-form" class="card p-4 sm:p-5">
+        <div class="flex gap-2">
+          <input
+            type="search"
+            id="search-input"
+            name="q"
+            value={query}
+            placeholder="Try a name, meaning or origin…"
+            autocomplete="off"
+            class="input flex-1"
+          />
+          <button type="submit" class="btn-primary shrink-0">Search</button>
+        </div>
+
+        <div class="mt-4 grid grid-cols-2 gap-3 md:grid-cols-4">
+          <label class="block">
+            <span class="mb-1 block text-xs font-bold uppercase tracking-wide text-nv-text-muted">Religion</span>
+            <select name="religion" class="input !py-2" id="f-religion">
+              <option value="">All traditions</option>
+              {religions.map((r) => (
+                <option value={r} selected={religion === r}>{religionLabels[r]}</option>
+              ))}
+            </select>
+          </label>
+          <label class="block">
+            <span class="mb-1 block text-xs font-bold uppercase tracking-wide text-nv-text-muted">Gender</span>
+            <select name="gender" class="input !py-2" id="f-gender">
+              <option value="">Any gender</option>
+              {['boy', 'girl', 'unisex'].map((g) => (
+                <option value={g} selected={gender === g}>{genderLabels[g]}</option>
+              ))}
+            </select>
+          </label>
+          <label class="block">
+            <span class="mb-1 block text-xs font-bold uppercase tracking-wide text-nv-text-muted">Origin</span>
+            <select name="origin" class="input !py-2" id="f-origin">
+              <option value="">Any origin</option>
+              {Object.entries(originLabels).map(([slug, label]) => (
+                <option value={slug} selected={origin === slug}>{label}</option>
+              ))}
+            </select>
+          </label>
+          <label class="block">
+            <span class="mb-1 block text-xs font-bold uppercase tracking-wide text-nv-text-muted">Sort by</span>
+            <select name="sort" class="input !py-2" id="f-sort">
+              <option value="relevance" selected>Relevance</option>
+              <option value="popularity">Most popular</option>
+              <option value="name">Name (A–Z)</option>
+            </select>
+          </label>
+        </div>
       </form>
 
       <p class="mt-3 text-xs text-nv-text-muted">
         Try:
         <a href="/search?q=light" class="font-semibold text-nv-accent hover:underline">light</a>,
         <a href="/search?q=love" class="ml-1 font-semibold text-nv-accent hover:underline">love</a>,
-        <a href="/search?q=wisdom" class="ml-1 font-semibold text-nv-accent hover:underline">wisdom</a>,
-        <a href="/search?q=arabic" class="ml-1 font-semibold text-nv-accent hover:underline">arabic</a>
+        <a href="/search?q=strength" class="ml-1 font-semibold text-nv-accent hover:underline">strength</a>,
+        <a href="/search?religion=islamic&gender=boy&sort=popularity" class="ml-1 font-semibold text-nv-accent hover:underline">popular Islamic boy names</a>
       </p>
 
       <div class="mt-8">
-        <div id="search-status" class="mb-4 text-sm font-semibold text-nv-text-secondary" data-query={queryLower} aria-live="polite"></div>
+        <div id="search-status" class="mb-4 text-sm font-semibold text-nv-text-secondary" data-query={query.toLowerCase()} aria-live="polite"></div>
         <div id="search-results" class="space-y-3"></div>
       </div>
+
+      <!-- SEO content for the search tool -->
+      <section class="mt-16" aria-labelledby="search-seo-heading">
+        <div class="mx-auto max-w-3xl">
+          <h2 id="search-seo-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+            The smartest way to find a baby name
+          </h2>
+          <div class="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
+            <p>
+              NameVerse indexes every one of its 42,000+ names so you can search the way you actually
+              think — by a name you heard, a meaning you love, a language you come from, or a faith
+              you follow. Because every record carries its religion, gender, origin, category and
+              popularity score, a single search can answer "Arabic girl names that mean light" as
+              easily as it can find a specific spelling.
+            </p>
+            <p>
+              Use the filters above to combine traditions with gender, then sort by popularity to see
+              which choices are beloved by parents right now. Every result opens into a full profile
+              with pronunciation, lucky numbers, numerology, name variations and cultural context.
+            </p>
+          </div>
+
+          <h3 class="mt-8 font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
+          <div class="mt-4 space-y-3">
+            {faqs.map((f) => (
+              <details class="faq-item card p-5">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
+                  {f.q}
+                  <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+                </summary>
+                <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
+              </details>
+            ))}
+          </div>
+        </div>
+      </section>
     </div>
   </div>
 
   <script>
     (function () {
       const input = document.getElementById('search-input');
+      const form = document.getElementById('search-form');
       const statusEl = document.getElementById('search-status');
       const resultsEl = document.getElementById('search-results');
-      if (!input || !resultsEl) return;
+      const relSel = document.getElementById('f-religion');
+      const genSel = document.getElementById('f-gender');
+      const oriSel = document.getElementById('f-origin');
+      const sortSel = document.getElementById('f-sort');
+      if (!input || !resultsEl || !form) return;
 
       const religions = ['islamic', 'christian', 'hindu', 'italian'];
       const religionLabels = { christian: 'Christian', hindu: 'Hindu', islamic: 'Islamic', italian: 'Italian' };
@@ -71,10 +203,34 @@ const pageTitle = query
 
       let indexes = null;
       let loading = null;
-      let lastQuery = '';
 
       function escapeHtml(s) {
         return String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+      }
+
+      function normGender(g) {
+        const s = String(g || '').toLowerCase();
+        const f = s.includes('female') || s.includes('girl') || s.includes('feminine');
+        const m = s.includes('male') || s.includes('boy') || s.includes('masculin');
+        if (m && f) return 'unisex';
+        if (f) return 'girl';
+        if (m) return 'boy';
+        if (s.includes('unisex') || s.includes('neutral') || s.includes('unknown')) return 'unisex';
+        return null;
+      }
+
+      const ORIGIN_ORDER = ['arabic', 'biblical', 'sanskrit', 'hindu', 'italian', 'persian', 'english', 'tamil', 'hindi', 'bengali', 'urdu'];
+      const CAT_ORDER = ['islamic', 'hindu', 'biblical', 'saint', 'virtue', 'italian'];
+
+      function originSlug(o) {
+        const s = String(o || '').toLowerCase();
+        for (const slug of ORIGIN_ORDER) if (s.includes(slug)) return slug;
+        return null;
+      }
+      function catSlug(c) {
+        const s = String(c || '').toLowerCase();
+        for (const slug of CAT_ORDER) if (s.includes(slug)) return slug;
+        return null;
       }
 
       function loadIndexes() {
@@ -97,74 +253,129 @@ const pageTitle = query
         return loading;
       }
 
-      function render(query) {
+      function matchesFilters(item) {
+        const rel = relSel.value;
+        if (rel && item.religion !== rel) return false;
+        const gen = genSel.value;
+        if (gen) {
+          const g = normGender(item.g);
+          if (g !== gen) return false;
+        }
+        const ori = oriSel.value;
+        if (ori && originSlug(item.o) !== ori) return false;
+        return true;
+      }
+
+      function rankHit(item, q) {
+        const name = item.n.toLowerCase();
+        const meaning = item.m.toLowerCase();
+        const origin = item.o.toLowerCase();
+        const cat = item.c.toLowerCase();
+        if (name === q) return 0;
+        if (name.startsWith(q)) return 1;
+        if (name.includes(q)) return 2;
+        if (meaning.includes(q)) return 3;
+        if (meaning.split(' ').some((w) => w.startsWith(q))) return 4;
+        if (origin.includes(q) || cat.includes(q)) return 5;
+        return 99;
+      }
+
+      function render(query, sort) {
         if (!indexes) return;
         const q = query.trim().toLowerCase();
-        lastQuery = q;
-        if (!q) {
-          statusEl.textContent = '';
+        const pool = indexes.filter((item) => {
+          if (!matchesFilters(item)) return false;
+          if (!q) return true;
+          const hit = rankHit(item, q);
+          return hit < 99;
+        });
+
+        let list;
+        if (sort === 'popularity') {
+          list = pool.slice().sort((a, b) => (b.p || 0) - (a.p || 0));
+        } else if (sort === 'name') {
+          list = pool.slice().sort((a, b) => a.n.localeCompare(b.n));
+        } else {
+          if (!q) {
+            list = pool.slice().sort((a, b) => (b.p || 0) - (a.p || 0));
+          } else {
+            const ranked = pool.map((item) => ({ item, r: rankHit(item, q) }));
+            ranked.sort((a, b) => a.r - b.r || (b.item.p || 0) - (a.item.p || 0));
+            list = ranked.map((x) => x.item);
+          }
+        }
+
+        const total = list.length;
+        if (total === 0) {
+          statusEl.textContent = q
+            ? `No results for "${query.trim()}" — try a shorter keyword, a meaning like "light", or clear a filter.`
+            : 'No names match those filters — try widening your search.';
           resultsEl.innerHTML = '';
           return;
         }
 
-        // Rank: name prefix match first, then name substring, then meaning.
-        const prefix = [];
-        const nameMatch = [];
-        const meaningMatch = [];
-        for (const item of indexes) {
-          const name = item.name.toLowerCase();
-          const meaning = (item.meaning || '').toLowerCase();
-          if (name.startsWith(q)) prefix.push(item);
-          else if (name.includes(q)) nameMatch.push(item);
-          else if (meaning.includes(q)) meaningMatch.push(item);
-          if (prefix.length + nameMatch.length + meaningMatch.length >= 300) break;
-        }
-        const filtered = [...prefix, ...nameMatch, ...meaningMatch];
+        statusEl.textContent = `${total.toLocaleString()} result${total === 1 ? '' : 's'}${q ? ` for "${query.trim()}"` : ''}${list.length > 60 ? ' — showing the top 60.' : ''}`;
 
-        statusEl.textContent = filtered.length
-          ? `${filtered.length} result${filtered.length === 1 ? '' : 's'} for "${query.trim()}"`
-          : `No results for "${query.trim()}" — try a shorter keyword or a meaning like "light".`;
-
-        resultsEl.innerHTML = filtered
-          .slice(0, 50)
-          .map(
-            (item) => `
-              <a href="/names/${item.religion}/${item.slug}" class="card card-hover flex items-center justify-between gap-3 p-4">
-                <span class="min-w-0">
-                  <span class="block truncate text-sm font-bold text-nv-text">${escapeHtml(item.name)}</span>
-                  <span class="mt-0.5 block truncate text-xs text-nv-text-muted">${escapeHtml(item.meaning || 'Meaning not available')}</span>
+        resultsEl.innerHTML = list
+          .slice(0, 60)
+          .map((item) => {
+            const gender = normGender(item.g);
+            const genderChip =
+              gender === 'boy'
+                ? '<span class="badge shrink-0 bg-nv-accent-subtle text-nv-accent">Boy</span>'
+                : gender === 'girl'
+                  ? '<span class="badge shrink-0 bg-hindu-soft text-hindu">Girl</span>'
+                  : gender === 'unisex'
+                    ? '<span class="badge shrink-0 bg-nv-subtle text-nv-text-secondary">Unisex</span>'
+                    : '';
+            const score = Number(item.p) || 0;
+            return `
+              <a href="/names/${item.religion}/${item.s}" class="card card-hover flex flex-col gap-2 p-4 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
+                <span class="min-w-0 flex-1">
+                  <span class="flex flex-wrap items-center gap-2">
+                    <span class="truncate text-base font-bold text-nv-text">${escapeHtml(item.n)}</span>
+                    ${genderChip}
+                    ${score ? `<span class="badge bg-nv-surface-subtle text-nv-text-secondary">Popularity ${score}</span>` : ''}
+                  </span>
+                  <span class="mt-1 block truncate text-xs text-nv-text-muted">${escapeHtml(item.m || 'Meaning not available')}</span>
                 </span>
-                <span class="badge shrink-0 ${religionBadge[item.religion] || 'bg-nv-subtle text-nv-text-secondary'}">${religionLabels[item.religion] || item.religion}</span>
-              </a>`
-          )
+                <span class="flex shrink-0 items-center gap-2">
+                  <span class="badge ${religionBadge[item.religion] || 'bg-nv-subtle text-nv-text-secondary'}">${religionLabels[item.religion] || item.religion}</span>
+                </span>
+              </a>`;
+          })
           .join('');
-
-        if (filtered.length > 50) {
-          const more = document.createElement('p');
-          more.className = 'pt-2 text-center text-xs text-nv-text-muted';
-          more.textContent = `Showing 50 of ${filtered.length} results — refine your search to see fewer, better matches.`;
-          resultsEl.appendChild(more);
-        }
       }
 
-      async function runSearch(query) {
+      async function runSearch() {
         if (!indexes) {
-          statusEl.textContent = 'Loading name database…';
+          statusEl.textContent = 'Loading 42,000+ names…';
           await loadIndexes();
         }
-        render(query);
+        const params = new URLSearchParams(location.search);
+        render(input.value, sortSel.value);
+        // Update the URL without a full reload so filters are shareable
+        params.set('q', input.value.trim());
+        if (relSel.value) params.set('religion', relSel.value); else params.delete('religion');
+        if (genSel.value) params.set('gender', genSel.value); else params.delete('gender');
+        if (oriSel.value) params.set('origin', oriSel.value); else params.delete('origin');
+        params.set('sort', sortSel.value || 'relevance');
+        history.replaceState(null, '', `/search?${params.toString()}`);
       }
 
-      // Debounced live search as the user types
       let timer;
       input.addEventListener('input', () => {
         clearTimeout(timer);
-        timer = setTimeout(() => runSearch(input.value), 200);
+        timer = setTimeout(runSearch, 180);
       });
+      [relSel, genSel, oriSel, sortSel].forEach((sel) => sel.addEventListener('change', runSearch));
 
-      // Initial run when arriving with ?q=
       const initial = (statusEl.dataset.query || '').trim();
-      if (initial) runSearch(input.value);
+      if (initial || relSel.value || genSel.value || oriSel.value) {
+        runSearch();
+      } else {
+        statusEl.textContent = 'Type a name, meaning or origin to begin — or browse the popular searches above.';
+      }
     })();
   </script>
 </Layout>

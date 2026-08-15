@@ -1,42 +1,117 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import { getManifest } from "../lib/data/astro-data.mjs";
+import { ORIGIN_SLUGS, ORIGIN_LABELS, originSlugFor } from "../lib/data/name-utils.mjs";
 
 const manifest = getManifest();
-const origins = new Map();
-for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
-  for (const item of manifest[rel] || []) {
-    if (item.origin) {
-      origins.set(item.origin, (origins.get(item.origin) || 0) + 1);
+const origins = ORIGIN_SLUGS.map((slug) => {
+  let count = 0;
+  for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
+    for (const item of manifest[rel] || []) {
+      if (originSlugFor(item.origin) === slug) count++;
     }
   }
-}
-const topOrigins = Array.from(origins.entries())
-  .sort((a, b) => b[1] - a[1])
-  .slice(0, 30)
-  .map(([origin]) => origin);
+  return { slug, label: ORIGIN_LABELS[slug], count };
+}).sort((a, b) => b.count - a.count);
+
+const blurb = {
+  arabic: 'Quranic, classical and modern names from the Arab world.',
+  biblical: 'Names from the Bible across Hebrew, Greek and Latin forms.',
+  sanskrit: 'Names from ancient India\'s language of scripture and philosophy.',
+  hindu: 'Names rooted in Hindu mythology, deities and traditions.',
+  italian: 'Melodic names from Italy, many derived from Latin.',
+  persian: 'Names from Iran and the Persian-speaking world.',
+  english: 'Names shaped by English language and culture.',
+  tamil: 'Names from the Tamil-speaking regions of South Asia.',
+  hindi: 'Names from Hindi-speaking North India.',
+  bengali: 'Names from Bengali-speaking Bangladesh and Bengal.',
+  urdu: 'Names from the Urdu-speaking communities of South Asia.',
+};
+
+const faqs = [
+  {
+    q: 'How are names grouped by origin on NameVerse?',
+    a: 'Every name records its linguistic origin, and this index groups them into curated collections — Arabic, Biblical, Sanskrit, Persian, Tamil and more — so you can browse by language and culture.',
+  },
+  {
+    q: 'Can a name belong to more than one origin?',
+    a: 'Yes. Names often travel across cultures — an Arabic name used widely in South Asia, or a Biblical name with Hebrew, Greek and Latin forms. Name profiles note these connections.',
+  },
+  {
+    q: 'What is the most common origin on NameVerse?',
+    a: `Arabic is the largest origin collection with ${origins[0]?.count.toLocaleString()} names, followed by Biblical and Sanskrit. Browse any collection below.`,
+  },
+];
+
+const faqJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
 ---
 
-<Layout title="Names by Origin | NameVerse" description="Browse baby names by linguistic and cultural origin: Arabic, Sanskrit, Hebrew, Latin and more.">
-  <main class="nv-page min-h-screen">
-    <div class="nv-container nv-section">
-      <div class="mx-auto max-w-4xl">
-        <h1 class="nv-display text-3xl font-bold text-nv-text sm:text-4xl">Names by Origin</h1>
-        <p class="mt-2 text-nv-text-secondary">Explore names grouped by linguistic and cultural origin.</p>
+<Layout
+  title="Baby Names by Origin — Arabic, Biblical, Sanskrit & More | NameVerse"
+  description="Browse baby names by linguistic and cultural origin: Arabic, Biblical, Sanskrit, Persian, Tamil, Hindi and more — with verified meanings on every name."
+  canonical="https://nameverse.site/names-by-origin"
+>
+  <script type="application/ld+json" set:html={faqJsonLd} />
 
-        <div class="mt-8 flex flex-wrap gap-2">
-          {
-            topOrigins.map((origin) => (
-              <a
-                href={`/search?q=${encodeURIComponent(origin + ' names')}`}
-                class="rounded-full border border-nv-border bg-white/70 px-4 py-2 text-sm font-bold text-nv-text transition hover:border-[color:var(--nv-accent-2)] hover:bg-[color:var(--nv-accent-2)] hover:text-white"
-              >
-                {origin}
-              </a>
-            ))
-          }
-        </div>
+  <div class="container-page py-10 sm:py-14">
+    <div class="mx-auto max-w-5xl">
+      <header class="mb-10 text-center">
+        <span class="eyebrow">Browse by language</span>
+        <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">Baby Names by Origin</h1>
+        <p class="mx-auto mt-3 max-w-2xl text-nv-text-secondary">
+          Every name has a birthplace — a language and culture that shaped its sound and meaning.
+          Choose an origin below to explore its full collection.
+        </p>
+      </header>
+
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {origins.map((o) => (
+          <a href={`/origins/${o.slug}`} class="card card-hover group flex flex-col gap-2 p-6">
+            <div class="flex items-center justify-between gap-2">
+              <h2 class="font-display text-xl font-semibold text-nv-text group-hover:text-nv-accent">{o.label}</h2>
+              <span class="badge bg-nv-accent-subtle text-nv-accent">{o.count.toLocaleString()}</span>
+            </div>
+            <p class="text-sm text-nv-text-secondary">{blurb[o.slug] || `Browse ${o.label.toLowerCase()} names.`}</p>
+            <span class="mt-auto pt-2 text-sm font-semibold text-nv-accent">Browse {o.label.toLowerCase()} names &rarr;</span>
+          </a>
+        ))}
       </div>
+
+      <section class="mx-auto mt-16 max-w-3xl" aria-labelledby="seo-heading">
+        <h2 id="seo-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+          Why origin is a great place to start
+        </h2>
+        <div class="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
+          <p>
+            Choosing a name by origin can honor your heritage, celebrate a culture you love, or simply
+            guide you toward the sounds that appeal to you. Arabic names flow melodically, Sanskrit
+            names carry deep philosophy, Italian names feel warm and musical — each origin has its own
+            character.
+          </p>
+          <p>
+            Every origin collection on NameVerse is ranked by popularity and linked to full profiles
+            with pronunciation, numerology and the story behind each meaning. Once you find an origin
+            you love, combine it with gender and religion filters in search to narrow the field.
+          </p>
+        </div>
+
+        <h3 class="mt-8 font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
+        <div class="mt-4 space-y-3">
+          {faqs.map((f) => (
+            <details class="faq-item card p-5">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
+                {f.q}
+                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+              </summary>
+              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
     </div>
-  </main>
+  </div>
 </Layout>

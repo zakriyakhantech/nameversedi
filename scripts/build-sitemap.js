@@ -3,135 +3,134 @@ import path from 'node:path';
 
 const ROOT = path.resolve(process.cwd());
 const PUBLIC_DIR = path.join(ROOT, 'public');
-const NAMES_DIR = path.join(PUBLIC_DIR, 'names');
 const MANIFEST_PATH = path.join(ROOT, 'src', 'lib', 'data', 'names-manifest.json');
 
 const VALID_RELIGIONS = ['islamic', 'christian', 'hindu', 'italian'];
 const MAX_URLS_PER_SITEMAP = 3000;
-
-function normalizeReligion(religion) {
-  if (!religion || typeof religion !== 'string') return null;
-  const normalized = religion.toLowerCase().trim();
-  if (normalized === 'islam' || normalized === 'muslim') return 'islamic';
-  if (normalized === 'christianity') return 'christian';
-  if (normalized === 'hinduism') return 'hindu';
-  return VALID_RELIGIONS.includes(normalized) ? normalized : null;
-}
-
-function normalizeSlug(slug) {
-  return String(slug || '').trim().toLowerCase().replace(/\.json$/i, '');
-}
-
-function readJsonFile(filePath) {
-  try {
-    const raw = fs.readFileSync(filePath, 'utf8');
-    const parsed = JSON.parse(raw);
-    if (parsed && typeof parsed === 'object' && 'data' in parsed) return parsed.data;
-    return parsed;
-  } catch {
-    return null;
-  }
-}
+const SITE_URL = 'https://nameverse.site';
+const LAST_MOD = '2026-08-15';
 
 function loadManifest() {
   try {
-    const raw = fs.readFileSync(MANIFEST_PATH, 'utf8');
-    return JSON.parse(raw);
+    return JSON.parse(fs.readFileSync(MANIFEST_PATH, 'utf8'));
   } catch {
     return { islamic: [], christian: [], hindu: [], italian: [] };
   }
 }
 
 function getSlugs(religion) {
-  const normalizedReligion = normalizeReligion(religion);
-  if (!normalizedReligion) return [];
   const manifest = loadManifest();
-  const items = manifest[normalizedReligion] || [];
-  return items.map((item) => item.slug).sort((a, b) => a.localeCompare(b));
+  return (manifest[religion] || [])
+    .map((item) => String(item.slug || '').trim().toLowerCase().replace(/\.json$/i, ''))
+    .filter(Boolean)
+    .sort((a, b) => a.localeCompare(b));
 }
 
-function generateSitemapFile(religion, slugs, outputPath) {
-  const sitemapPath = outputPath || path.join(PUBLIC_DIR, 'sitemaps', `${religion}.xml`);
-  const dir = path.dirname(sitemapPath);
-  
-  fs.mkdirSync(dir, { recursive: true });
-  
-  const urls = [];
-  const totalNames = slugs.length;
-  
-  // Split into chunks of MAX_URLS_PER_SITEMAP
-  const chunks = [];
-  for (let i = 0; i < totalNames; i += MAX_URLS_PER_SITEMAP) {
-    chunks.push(slugs.slice(i, i + MAX_URLS_PER_SITEMAP));
-  }
-  
-  if (chunks.length === 1) {
-    // Single sitemap - write directly
-    let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
-    xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
-    
-    for (const slug of slugs) {
-      const url = `https://nameverse.site/names/${religion}/${slug}`;
-      xml += `  <url>\n    <loc>${url}</loc>\n    <lastmod>2026-08-06</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
-    }
-    
-    xml += '</urlset>';
-    fs.writeFileSync(sitemapPath, xml, 'utf8');
-    console.log(`Generated ${sitemapPath} with ${slugs.length} URLs`);
-    return [sitemapPath];
-  } else {
-    // Multiple sitemaps - create child sitemaps and index
-    const childSitemaps = [];
-    
-    for (let i = 0; i < chunks.length; i++) {
-      const chunk = chunks[i];
-      const childName = `${religion}-${i + 1}`;
-      const childPath = path.join(dir, `${childName}.xml`);
-      
-      let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
-      xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
-      
-      for (const slug of chunk) {
-        const url = `https://nameverse.site/names/${religion}/${slug}`;
-        xml += `  <url>\n    <loc>${url}</loc>\n    <lastmod>2026-08-06</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
-      }
-      
-      xml += '</urlset>';
-      fs.writeFileSync(childPath, xml, 'utf8');
-      childSitemaps.push(childPath);
-      console.log(`Generated ${childPath} with ${chunk.length} URLs`);
-    }
-    
-    // Generate sitemap index
-    const indexPath = path.join(dir, 'sitemap.xml');
-    let indexXml = '<?xml version="1.0" encoding="UTF-8"?>\n';
-    indexXml += '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
-    
-    for (const childPath of childSitemaps) {
-      const childRelPath = path.relative(PUBLIC_DIR, childPath);
-      const lastmod = '2026-08-06';
-      indexXml += `  <sitemap>\n    <loc>${`https://nameverse.site/${childRelPath}`}</loc>\n    <lastmod>${lastmod}</lastmod>\n  </sitemap>\n`;
-    }
-    
-    indexXml += '</sitemapindex>';
-    fs.writeFileSync(indexPath, indexXml, 'utf8');
-    console.log(`Generated ${indexPath} referencing ${childSitemaps.length} child sitemaps`);
-    
-    return childSitemaps;
-  }
+// Always forward slashes in URLs regardless of OS path separator.
+function toUrlPath(relPath) {
+  return relPath.split(path.sep).join('/');
 }
 
-// Main execution
+function writeUrlsFile(filePath, urlPaths, priority) {
+  let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
+  xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
+  for (const p of urlPaths) {
+    xml += `  <url>\n    <loc>${SITE_URL}/${p}</loc>\n    <lastmod>${LAST_MOD}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>${priority}</priority>\n  </url>\n`;
+  }
+  xml += '</urlset>';
+  fs.writeFileSync(filePath, xml, 'utf8');
+  console.log(`Generated ${filePath} with ${urlPaths.length} URLs`);
+}
+
 function main() {
   console.log('Generating sitemaps for NameVerse...\n');
-  
+  const manifest = loadManifest();
+  const sitemapDir = path.join(PUBLIC_DIR, 'sitemaps');
+  fs.mkdirSync(sitemapDir, { recursive: true });
+  const allChild = [];
+
+  // ─── Static / hub / letter / gender / origin / category pages ───
+  const staticPaths = [
+    '',
+    'names',
+    'search',
+    'advanced-search',
+    'names-by-meaning',
+    'names-by-origin',
+    'name-meanings',
+    'popularity',
+    'trending-names',
+    'unique-names',
+    'blog',
+    'about',
+    'contact',
+    'privacy',
+    'terms',
+    'guides/expert-naming-guide',
+    'origins',
+    'categories',
+    ...['arabic', 'biblical', 'sanskrit', 'hindu', 'italian', 'persian', 'english', 'tamil', 'hindi', 'bengali', 'urdu'].map((o) => `origins/${o}`),
+    ...['islamic', 'hindu', 'biblical', 'saint', 'virtue', 'italian'].map((c) => `categories/${c}`),
+  ];
+
+  for (const religion of VALID_RELIGIONS) {
+    staticPaths.push(`names/${religion}`);
+    for (const gender of ['boy', 'girl']) {
+      staticPaths.push(`${religion}-${gender}-names`);
+    }
+    const available = new Set();
+    for (const item of manifest[religion] || []) {
+      if (!item.name) continue;
+      const fc = item.name.trim().charAt(0).toLowerCase();
+      available.add(/^[a-z]$/.test(fc) ? fc : '#');
+    }
+    for (const letter of [...'abcdefghijklmnopqrstuvwxyz', '#']) {
+      if (available.has(letter)) {
+        staticPaths.push(`names/${religion}/letter/${letter === '#' ? '%23' : letter}`);
+      }
+    }
+  }
+
+  const staticSitemapPath = path.join(sitemapDir, 'pages.xml');
+  writeUrlsFile(staticSitemapPath, staticPaths, '0.8');
+  allChild.push(staticSitemapPath);
+
+  // ─── Per-religion name sitemaps (split at MAX_URLS_PER_SITEMAP) ───
   for (const religion of VALID_RELIGIONS) {
     const slugs = getSlugs(religion);
     console.log(`Processing ${religion}: ${slugs.length} names`);
-    generateSitemapFile(religion, slugs);
+    const chunks = [];
+    for (let i = 0; i < slugs.length; i += MAX_URLS_PER_SITEMAP) {
+      chunks.push(slugs.slice(i, i + MAX_URLS_PER_SITEMAP));
+    }
+    if (chunks.length === 1) {
+      const childPath = path.join(sitemapDir, `${religion}.xml`);
+      writeUrlsFile(childPath, chunks[0].map((s) => `names/${religion}/${s}`), '0.8');
+      allChild.push(childPath);
+    } else {
+      chunks.forEach((chunk, i) => {
+        const childPath = path.join(sitemapDir, `${religion}-${i + 1}.xml`);
+        writeUrlsFile(childPath, chunk.map((s) => `names/${religion}/${s}`), '0.8');
+        allChild.push(childPath);
+      });
+    }
   }
-  
-  console.log('\nSitemap generation complete!');
+
+  // ─── Master index at /sitemap.xml and /sitemaps/sitemap.xml ───
+  const indexXml =
+    '<?xml version="1.0" encoding="UTF-8"?>\n' +
+    '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
+    allChild
+      .map((childPath) => {
+        const loc = `${SITE_URL}/${toUrlPath(path.relative(PUBLIC_DIR, childPath))}`;
+        return `  <sitemap>\n    <loc>${loc}</loc>\n    <lastmod>${LAST_MOD}</lastmod>\n  </sitemap>`;
+      })
+      .join('\n') +
+    '\n</sitemapindex>';
+
+  fs.writeFileSync(path.join(sitemapDir, 'sitemap.xml'), indexXml, 'utf8');
+  fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap.xml'), indexXml, 'utf8');
+  console.log(`Master sitemap index written with ${allChild.length} child sitemaps`);
 }
 
 main();

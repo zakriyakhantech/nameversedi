@@ -1,37 +1,391 @@
 ---
-import Layout from "../layouts/Layout.astro";
-import { getPopularSlugs, getManifest } from "../lib/data/astro-data.mjs";
+import Layout from '../layouts/Layout.astro';
+import { getManifest } from '../lib/data/astro-data.mjs';
 
-const popular = getPopularSlugs(100);
 const manifest = getManifest();
+
+const popular = [];
+for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
+  for (const item of manifest[rel] || []) {
+    popular.push({ ...item, religion: rel });
+  }
+}
+popular.sort((a, b) => (b.popularity_score || 0) - (a.popularity_score || 0));
+const top50 = popular.slice(0, 50);
+
+const topByReligion = Object.fromEntries(
+  ['islamic', 'christian', 'hindu', 'italian'].map((rel) => {
+    const items = (manifest[rel] || [])
+      .slice()
+      .sort((a, b) => (b.popularity_score || 0) - (a.popularity_score || 0))
+      .slice(0, 12);
+    return [rel, items];
+  })
+);
+
+const maxScore = Math.max(...top50.map((i) => i.popularity_score || 0), 1);
+
+const faqs = [
+  {
+    q: 'How does the NameVerse popularity comparison work?',
+    a: 'Search for names, tap to add them to the comparison list, and each name gets a bar scaled against the highest popularity score in the database. This lets you see two or more favorites side by side.',
+  },
+  {
+    q: 'What is a popularity score?',
+    a: 'The popularity score blends search interest, cultural relevance and regional usage on a single scale. The highest-scoring name in the database sets the full bar; every other name is shown relative to it.',
+  },
+  {
+    q: 'Is a higher popularity score always better?',
+    a: 'Not necessarily. A higher score means more parents choose the name today. Many families deliberately pick a less popular name for uniqueness — use the tool to find the balance you want.',
+  },
+  {
+    q: 'Can I share my comparison list?',
+    a: 'Yes. Every comparison is saved in the page URL, so copy the address bar and send it to your partner or family to review the same shortlist.',
+  },
+];
+
+const faqJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
 ---
 
-<Layout title="Popular Baby Names | NameVerse" description="Explore popular baby names ranked by search interest and cultural relevance across major traditions.">
-  <main class="nv-page min-h-screen">
-    <div class="nv-container nv-section">
-      <div class="mx-auto max-w-5xl">
-        <h1 class="nv-display text-3xl font-bold text-nv-text sm:text-4xl">Popular Baby Names</h1>
-        <p class="mt-2 text-nv-text-secondary">Popularity and discovery tools for parents.</p>
+<Layout
+  title="Popularity Comparison — Compare Baby Names Side by Side | NameVerse"
+  description="Compare any two baby names side by side with the NameVerse popularity score. Plus the 50 most popular names of 2026 across Islamic, Christian, Hindu and Italian traditions."
+  canonical="https://nameverse.site/popularity"
+>
+  <script type="application/ld+json" set:html={faqJsonLd} />
 
-        <div class="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {
-            popular.map(({ religion, slug }) => {
-              const items = manifest[religion] || [];
-              const item = items.find((i) => i.slug === slug);
-              if (!item) return null;
-              return (
-                <a
-                  href={`/names/${religion}/${slug}`}
-                  class="rounded-xl border border-nv-border bg-white p-4 transition hover:bg-nv-surface-subtle"
-                >
-                  <div class="text-sm font-bold text-nv-text">{item.name}</div>
-                  <div class="mt-1 text-xs text-nv-text-muted">{item.meaning || item.origin || religion}</div>
-                </a>
-              );
-            })
-          }
-        </div>
+  <div class="container-page py-10 sm:py-14">
+    <div class="mx-auto max-w-6xl">
+      <header class="mb-8 text-center">
+        <span class="eyebrow">Rank &amp; compare</span>
+        <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">
+          Compare Baby Name Popularity
+        </h1>
+        <p class="mx-auto mt-4 max-w-2xl text-nv-text-secondary">
+          Search 42,000+ names, add your shortlist, and see how they rank against each other on the
+          NameVerse popularity scale. Every bar is relative to the most popular name in the database.
+        </p>
+      </header>
+
+      <div class="grid gap-6 lg:grid-cols-[1fr_360px]">
+        <!-- Comparison panel -->
+        <section aria-labelledby="compare-heading">
+          <div class="card p-5">
+            <div class="relative">
+              <svg class="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+              <input type="search" id="compare-search" placeholder="Add a name to compare… (e.g. Muhammad, Grace, Aarav, Sofia)" autocomplete="off" class="input !py-3 !pl-11" />
+            </div>
+            <div id="compare-suggest" class="mt-2 max-h-64 overflow-y-auto rounded-xl border border-nv-border bg-nv-surface"></div>
+            <p class="mt-3 text-xs text-nv-text-muted">
+              Popular:&nbsp;
+              {top50.slice(0, 6).map((i) => (
+                <button type="button" class="compare-chip mr-1.5 text-nv-accent hover:underline" data-name={i.slug} data-religion={i.religion}>{i.name}</button>
+              ))}
+            </p>
+          </div>
+
+          <div id="compare-list" class="mt-4 space-y-3"></div>
+
+          <div id="compare-empty" class="card mt-4 p-8 text-center">
+            <p class="text-sm text-nv-text-muted">Your comparison list is empty — search above and tap a name to add it.</p>
+          </div>
+        </section>
+
+        <!-- Top 50 -->
+        <aside aria-labelledby="top-heading">
+          <div class="card p-5">
+            <span class="eyebrow">Right now</span>
+            <h2 id="top-heading" class="mt-1 font-display text-xl font-semibold text-nv-text">Top 50 most popular names</h2>
+            <ol class="mt-4 space-y-2.5">
+              {top50.map((item, idx) => {
+                const width = Math.round(((item.popularity_score || 0) / maxScore) * 100);
+                return (
+                  <li>
+                    <a href={`/names/${item.religion}/${item.slug}`} class="group flex items-baseline gap-3">
+                      <span class="w-5 shrink-0 text-right text-xs font-bold text-nv-text-muted">{idx + 1}</span>
+                      <span class="min-w-0 flex-1">
+                        <span class="flex items-baseline justify-between gap-2">
+                          <span class="truncate text-sm font-bold text-nv-text group-hover:text-nv-accent">{item.name}</span>
+                          <span class="shrink-0 text-xs font-semibold text-nv-text-muted">{item.popularity_score}</span>
+                        </span>
+                        <span class="mt-1 block h-1.5 overflow-hidden rounded-full bg-nv-surface-subtle">
+                          <span class="block h-full rounded-full bg-gradient-to-r from-nv-accent to-nv-accent/40" style={`width:${width}%`}></span>
+                        </span>
+                      </span>
+                    </a>
+                  </li>
+                );
+              })}
+            </ol>
+          </div>
+        </aside>
       </div>
+
+      <!-- By religion -->
+      <section class="mt-16" aria-labelledby="byrel-heading">
+        <h2 id="byrel-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+          Most popular names by tradition
+        </h2>
+        <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+          {Object.entries(topByReligion).map(([rel, items]) => (
+            <div class="card p-5">
+              <h3 class="font-display text-lg font-semibold capitalize text-nv-text">{rel} names</h3>
+              <ol class="mt-3 space-y-2">
+                {items.map((item, idx) => (
+                  <li class="flex items-baseline gap-2 text-sm">
+                    <span class="w-4 shrink-0 text-right text-xs font-bold text-nv-text-muted">{idx + 1}</span>
+                    <a href={`/names/${rel}/${item.slug}`} class="min-w-0 truncate font-semibold text-nv-text transition hover:text-nv-accent">{item.name}</a>
+                    <span class="ml-auto shrink-0 text-xs text-nv-text-muted">{item.popularity_score}</span>
+                  </li>
+                ))}
+              </ol>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- SEO content -->
+      <section class="mx-auto mt-16 max-w-3xl" aria-labelledby="seo-heading">
+        <h2 id="seo-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+          Why popularity matters when choosing a name
+        </h2>
+        <div class="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
+          <p>
+            Popularity is a double-edged sword. A popular name is familiar, easy to spell and rarely
+            mispronounced — but it also means your child may share it with classmates. Comparing
+            scores side by side lets you see exactly where your favorites fall, and decide how much
+            uniqueness matters to you.
+          </p>
+          <p>
+            On NameVerse every score reflects real search interest and cultural relevance, so the
+            ranking above is a genuine snapshot of what parents are choosing right now — not a guess.
+            Add the names you love, watch the bars move, and pick the balance that feels right for
+            your family.
+          </p>
+        </div>
+
+        <h3 class="mt-8 font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
+        <div class="mt-4 space-y-3">
+          {faqs.map((f) => (
+            <details class="faq-item card p-5">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
+                {f.q}
+                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+              </summary>
+              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
     </div>
-  </main>
+  </div>
+
+  <script>
+    (function () {
+      const search = document.getElementById('compare-search');
+      const suggest = document.getElementById('compare-suggest');
+      const listEl = document.getElementById('compare-list');
+      const emptyEl = document.getElementById('compare-empty');
+      const religions = ['islamic', 'christian', 'hindu', 'italian'];
+      const religionLabels = { christian: 'Christian', hindu: 'Hindu', islamic: 'Islamic', italian: 'Italian' };
+
+      let indexes = null;
+      let compare = [];
+      let loading = null;
+
+      function escapeHtml(s) {
+        return String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+      }
+
+      function normGender(g) {
+        const s = String(g || '').toLowerCase();
+        const f = s.includes('female') || s.includes('girl') || s.includes('feminine');
+        const m = s.includes('male') || s.includes('boy') || s.includes('masculin');
+        if (m && f) return 'unisex';
+        if (f) return 'girl';
+        if (m) return 'boy';
+        if (s.includes('unisex') || s.includes('neutral') || s.includes('unknown')) return 'unisex';
+        return null;
+      }
+      const genderChip = (g) =>
+        g === 'boy' ? '<span class="badge shrink-0 bg-nv-accent-subtle text-nv-accent">Boy</span>'
+          : g === 'girl' ? '<span class="badge shrink-0 bg-hindu-soft text-hindu">Girl</span>'
+            : g === 'unisex' ? '<span class="badge shrink-0 bg-nv-subtle text-nv-text-secondary">Unisex</span>' : '';
+
+      function loadIndexes() {
+        if (loading) return loading;
+        loading = Promise.all(
+          religions.map((r) =>
+            fetch(`/names/${r}/_search-index.json`)
+              .then((res) => res.json())
+              .then((items) => items.map((item) => ({ ...item, religion: r })))
+          )
+        )
+          .then((arrays) => (indexes = arrays.flat()))
+          .catch(() => (indexes = []));
+        return loading;
+      }
+
+      function key(item) {
+        return `${item.religion}/${item.slug || item.s}`;
+      }
+
+      function updateHash() {
+        const keys = compare.map((i) => encodeURIComponent(i.religion) + ':' + encodeURIComponent(i.slug || i.s));
+        history.replaceState(null, '', `#/compare/${keys.join(',')}`);
+      }
+
+      function readHash() {
+        const m = location.hash.match(/^#\/compare\/(.+)$/);
+        if (!m) return;
+        const parts = m[1].split(',').filter(Boolean);
+        const found = [];
+        for (const part of parts) {
+          const [rel, slug] = part.split(':').map(decodeURIComponent);
+          if (!rel || !slug) continue;
+          const item = indexes.find((i) => i.religion === rel && (i.slug || i.s) === slug);
+          if (item) found.push(item);
+        }
+        compare = found;
+        renderCompare();
+      }
+
+      function maxOf(list) {
+        return Math.max(...list.map((i) => Number(i.p) || 0), 1);
+      }
+
+      function renderCompare() {
+        const has = compare.length > 0;
+        emptyEl.style.display = has ? 'none' : 'block';
+        if (!has) {
+          listEl.innerHTML = '';
+          return;
+        }
+        const max = maxOf(compare);
+        const maxName = compare.sort((a, b) => (b.p || 0) - (a.p || 0))[0];
+        listEl.innerHTML = `
+          <div class="card p-5">
+            <p class="mb-4 text-xs font-bold uppercase tracking-[0.14em] text-nv-text-muted">
+              Comparing ${compare.length} name${compare.length > 1 ? 's' : ''} — highest score is ${escapeHtml(maxName.n)} (${maxName.p})
+            </p>
+            <div class="space-y-4">
+              ${compare.map((item) => {
+                const score = Number(item.p) || 0;
+                const width = Math.round((score / max) * 100);
+                const g = normGender(item.g);
+                return `
+                  <div>
+                    <div class="mb-1.5 flex items-center gap-2">
+                      <a href="/names/${item.religion}/${item.slug || item.s}" class="truncate text-sm font-bold text-nv-text hover:text-nv-accent">${escapeHtml(item.n)}</a>
+                      ${genderChip(g)}
+                      <span class="ml-auto shrink-0 text-xs font-bold text-nv-text-secondary">${score}</span>
+                      <button type="button" class="compare-remove shrink-0 grid h-6 w-6 place-items-center rounded-full text-nv-text-muted transition hover:bg-nv-surface-subtle hover:text-red-500" data-key="${escapeHtml(key(item))}" aria-label="Remove ${escapeHtml(item.n)}">×</button>
+                    </div>
+                    <div class="h-2.5 overflow-hidden rounded-full bg-nv-surface-subtle">
+                      <div class="h-full rounded-full bg-gradient-to-r from-nv-accent to-nv-accent/40" style="width:${width}%"></div>
+                    </div>
+                    <div class="mt-1 truncate text-xs text-nv-text-muted">${escapeHtml(item.m || '')} &middot; ${religionLabels[item.religion] || item.religion}</div>
+                  </div>`;
+              }).join('')}
+            </div>
+            <button type="button" id="compare-clear" class="mt-5 text-sm font-semibold text-nv-text-muted transition hover:text-red-500">Clear all</button>
+          </div>`;
+        listEl.querySelectorAll('.compare-remove').forEach((btn) => {
+          btn.addEventListener('click', () => {
+            const [rel, slug] = btn.dataset.key.split('/');
+            compare = compare.filter((i) => !(i.religion === rel && (i.slug || i.s) === slug));
+            renderCompare();
+            updateHash();
+          });
+        });
+        document.getElementById('compare-clear').addEventListener('click', () => {
+          compare = [];
+          renderCompare();
+          updateHash();
+        });
+      }
+
+      function renderSuggest(query) {
+        const q = query.trim().toLowerCase();
+        if (!q) {
+          suggest.innerHTML = '';
+          return;
+        }
+        const hits = indexes
+          .filter((item) => {
+            const n = item.n.toLowerCase();
+            return n.startsWith(q) || n.includes(q) || item.m.toLowerCase().includes(q);
+          })
+          .sort((a, b) => {
+            const an = a.n.toLowerCase();
+            const bn = b.n.toLowerCase();
+            const rank = (x) => (x === q ? 0 : x.startsWith(q) ? 1 : x.includes(q) ? 2 : 3);
+            return rank(an) - rank(bn) || (b.p || 0) - (a.p || 0);
+          })
+          .slice(0, 8);
+        suggest.innerHTML = hits
+          .map((item) => {
+            const g = normGender(item.g);
+            const isAdded = compare.some((c) => key(c) === key(item));
+            return `
+              <button type="button" class="compare-add flex w-full items-center gap-3 px-4 py-2.5 text-left transition hover:bg-nv-surface-subtle ${isAdded ? 'opacity-50' : ''}" data-key="${escapeHtml(key(item))}">
+                <span class="min-w-0 flex-1">
+                  <span class="flex flex-wrap items-center gap-2">
+                    <span class="truncate text-sm font-bold text-nv-text">${escapeHtml(item.n)}</span>
+                    ${genderChip(g)}
+                  </span>
+                  <span class="block truncate text-xs text-nv-text-muted">${escapeHtml(item.m || '')}</span>
+                </span>
+                <span class="shrink-0 text-xs font-bold text-nv-text-muted">${item.p || 0}</span>
+              </button>`;
+          })
+          .join('');
+        if (hits.length === 0) {
+          suggest.innerHTML = '<p class="px-4 py-3 text-sm text-nv-text-muted">No matches — try another spelling.</p>';
+        }
+        suggest.querySelectorAll('.compare-add').forEach((btn) => {
+          btn.addEventListener('click', () => {
+            const [rel, slug] = btn.dataset.key.split('/');
+            const item = indexes.find((i) => i.religion === rel && (i.slug || i.s) === slug);
+            if (!item || compare.some((c) => key(c) === key(item))) return;
+            compare.push(item);
+            renderCompare();
+            updateHash();
+            search.value = '';
+            suggest.innerHTML = '';
+          });
+        });
+      }
+
+      document.querySelectorAll('.compare-chip').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          if (!indexes) return;
+          const item = indexes.find((i) => i.religion === btn.dataset.religion && (i.slug || i.s) === btn.dataset.name);
+          if (!item || compare.some((c) => key(c) === key(item))) return;
+          compare.push(item);
+          renderCompare();
+          updateHash();
+        });
+      });
+
+      let timer;
+      search.addEventListener('input', () => {
+        clearTimeout(timer);
+        timer = setTimeout(() => renderSuggest(search.value), 120);
+      });
+
+      (async function init() {
+        await loadIndexes();
+        readHash();
+        if (!location.hash) {
+          const seed = document.querySelectorAll('.compare-chip')[0];
+          if (seed) seed.click();
+        }
+      })();
+    })();
+  </script>
 </Layout>

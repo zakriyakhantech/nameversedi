@@ -1,12 +1,14 @@
 ---
 // Shared name card used across listing pages.
 // item: { name, slug, meaning|short_meaning, origin, gender, religion }
+import { normalizeGender } from '../lib/data/name-utils.mjs';
+
 const { item, showReligion = false } = Astro.props;
 
 const meaning = item.short_meaning || item.meaning || '';
-const genderRaw = (item.gender || '').toLowerCase();
-const isMale = genderRaw.includes('male') && !genderRaw.includes('female');
-const isFemale = genderRaw.includes('female') || genderRaw.includes('girl');
+const genderKey = normalizeGender(item.gender);
+const isMale = genderKey === 'boy';
+const isFemale = genderKey === 'girl';
 const genderLabel = isMale ? 'Boy' : isFemale ? 'Girl' : 'Unisex';
 const religion = item.religion || '';
 

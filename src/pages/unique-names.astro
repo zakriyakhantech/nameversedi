@@ -1,41 +1,94 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import NameCard from "../components/NameCard.astro";
 import { getManifest } from "../lib/data/astro-data.mjs";
 
 const manifest = getManifest();
 const all = [];
 for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
   for (const item of manifest[rel] || []) {
-    if (item.slug && item.name) {
-      all.push({ ...item, religion: rel });
-    }
+    if (item.slug && item.name) all.push({ ...item, religion: rel });
   }
 }
 all.sort((a, b) => (a.popularity_score || 0) - (b.popularity_score || 0));
 const unique = all.slice(0, 100);
+
+const faqs = [
+  {
+    q: 'What counts as a "unique" baby name on NameVerse?',
+    a: 'Unique names are the least-searched names in the database, ranked by the lowest popularity scores. They are rare, distinctive choices that your child is unlikely to share at school.',
+  },
+  {
+    q: 'Is a low popularity score a bad thing?',
+    a: 'Not at all. A low score just means fewer parents have picked it so far. For families who prize originality, that is exactly the point — every name here still carries a real meaning and heritage.',
+  },
+  {
+    q: 'Do unique names still have meanings and origins?',
+    a: 'Yes. Every name on this page opens into a full profile with a verified meaning, origin, pronunciation and lucky numbers — rarity never comes at the cost of substance.',
+  },
+];
+
+const faqJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
 ---
 
-<Layout title="Unique Baby Names | NameVerse" description="Discover distinctive and unique baby names from Islamic, Hindu, Christian and global traditions.">
-  <main class="nv-page min-h-screen">
-    <div class="nv-container nv-section">
-      <div class="mx-auto max-w-5xl">
-        <h1 class="nv-display text-3xl font-bold text-nv-text sm:text-4xl">Unique Baby Names</h1>
-        <p class="mt-2 text-nv-text-secondary">Distinctive naming ideas for parents looking for something special.</p>
+<Layout
+  title="Unique & Rare Baby Names — 100 Distinctive Picks | NameVerse"
+  description="Discover 100 unique and rare baby names from Islamic, Hindu, Christian and Italian traditions — beautiful, meaningful and unlikely to be shared at school."
+  canonical="https://nameverse.site/unique-names"
+>
+  <script type="application/ld+json" set:html={faqJsonLd} />
 
-        <div class="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {
-            unique.map((item) => (
-              <a
-                href={`/names/${item.religion}/${item.slug}`}
-                class="rounded-xl border border-nv-border bg-white p-4 transition hover:bg-nv-surface-subtle"
-              >
-                <div class="text-sm font-bold text-nv-text">{item.name}</div>
-                <div class="mt-1 text-xs text-nv-text-muted">{item.meaning || item.origin || item.religion}</div>
-              </a>
-            ))
-          }
-        </div>
+  <div class="container-page py-10 sm:py-14">
+    <div class="mx-auto max-w-6xl">
+      <header class="mb-10 text-center">
+        <span class="eyebrow">For families who dare to differ</span>
+        <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">Unique Baby Names</h1>
+        <p class="mx-auto mt-4 max-w-2xl text-nv-text-secondary">
+          100 of the rarest names in the NameVerse database — beautiful, meaningful, and unlikely to
+          be shared. Every pick still has a verified meaning, origin and lucky number.
+        </p>
+        <a href="/search?sort=popularity" class="btn-ghost">Explore popular names instead</a>
+      </header>
+
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        {unique.map((item) => <NameCard item={item} showReligion />)}
       </div>
+
+      <section class="mx-auto mt-16 max-w-3xl" aria-labelledby="seo-heading">
+        <h2 id="seo-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+          The case for a rare name
+        </h2>
+        <div class="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
+          <p>
+            A unique name gives your child an instant sense of identity. It is easy to remember, hard
+            to confuse, and comes with a built-in conversation starter: "what does your name mean?"
+            The names here come from every tradition NameVerse covers, so rarity never means losing
+            the cultural depth you care about.
+          </p>
+          <p>
+            One thing to check before committing: pronunciation and spelling in your own language.
+            Every name page includes a pronunciation guide and spelling variations, so you can make
+            sure the name will travel well.
+          </p>
+        </div>
+
+        <h3 class="mt-8 font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
+        <div class="mt-4 space-y-3">
+          {faqs.map((f) => (
+            <details class="faq-item card p-5">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
+                {f.q}
+                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+              </summary>
+              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
     </div>
-  </main>
+  </div>
 </Layout>

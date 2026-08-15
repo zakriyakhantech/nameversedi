@@ -1,37 +1,130 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import { getPopularSlugs, getManifest } from "../lib/data/astro-data.mjs";
+import NameCard from "../components/NameCard.astro";
+import { getManifest } from "../lib/data/astro-data.mjs";
+import { religionLabel } from "../lib/data/name-utils.mjs";
 
-const popular = getPopularSlugs(50);
 const manifest = getManifest();
+const all = [];
+for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
+  for (const item of manifest[rel] || []) {
+    if (item.slug && item.name) all.push({ ...item, religion: rel });
+  }
+}
+all.sort((a, b) => (b.popularity_score || 0) - (a.popularity_score || 0));
+const trending = all.slice(0, 60);
+
+const byReligion = Object.fromEntries(
+  ['islamic', 'christian', 'hindu', 'italian'].map((rel) => [
+    rel,
+    (manifest[rel] || [])
+      .slice()
+      .sort((a, b) => (b.popularity_score || 0) - (a.popularity_score || 0))
+      .slice(0, 6),
+  ])
+);
+
+const faqs = [
+  {
+    q: 'What makes a name "trending" on NameVerse?',
+    a: 'Trending names are ranked by popularity score, which reflects real search interest and cultural relevance across parents today. It is a live snapshot, not a static list.',
+  },
+  {
+    q: 'Do trending names change over time?',
+    a: 'Yes. Naming trends shift with culture, media and migration. The lists are refreshed as new data comes in, so the same name can climb or fall between visits.',
+  },
+  {
+    q: 'How do I see trending names for just my tradition?',
+    a: 'The tradition columns below show the top names for Islamic, Christian, Hindu and Italian collections. For a deeper look, open any name profile or use the popularity comparison tool.',
+  },
+];
+
+const faqJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
 ---
 
-<Layout title="Trending Baby Names | NameVerse" description="Discover trending baby names gaining search interest across Islamic, Hindu, Christian and global traditions.">
-  <main class="nv-page min-h-screen">
-    <div class="nv-container nv-section">
-      <div class="mx-auto max-w-5xl">
-        <h1 class="nv-display text-3xl font-bold text-nv-text sm:text-4xl">Trending Baby Names</h1>
-        <p class="mt-2 text-nv-text-secondary">Popular names parents are searching now.</p>
+<Layout
+  title="Trending Baby Names of 2026 — Most Searched Right Now | NameVerse"
+  description="Discover the baby names trending in 2026 across Islamic, Hindu, Christian and Italian traditions — ranked by live popularity score with meanings and origins."
+  canonical="https://nameverse.site/trending-names"
+>
+  <script type="application/ld+json" set:html={faqJsonLd} />
 
-        <div class="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {
-            popular.map(({ religion, slug }) => {
-              const items = manifest[religion] || [];
-              const item = items.find((i) => i.slug === slug);
-              if (!item) return null;
-              return (
-                <a
-                  href={`/names/${religion}/${slug}`}
-                  class="rounded-xl border border-nv-border bg-white p-4 transition hover:bg-nv-surface-subtle"
-                >
-                  <div class="text-sm font-bold text-nv-text">{item.name}</div>
-                  <div class="mt-1 text-xs text-nv-text-muted">{item.meaning || item.origin || religion}</div>
-                </a>
-              );
-            })
-          }
+  <div class="container-page py-10 sm:py-14">
+    <div class="mx-auto max-w-6xl">
+      <header class="mb-10 text-center">
+        <span class="eyebrow">What parents search now</span>
+        <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">Trending Baby Names</h1>
+        <p class="mx-auto mt-4 max-w-2xl text-nv-text-secondary">
+          The 60 baby names parents are searching for most on NameVerse right now — ranked by live
+          popularity score, with the meaning of every name on its card.
+        </p>
+        <div class="mt-5 flex flex-wrap justify-center gap-2">
+          <a href="/popularity" class="btn-primary">Compare popularity</a>
+          <a href="/search?sort=popularity" class="btn-ghost">Search ranked by popularity</a>
         </div>
+      </header>
+
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        {trending.map((item) => <NameCard item={item} showReligion />)}
       </div>
+
+      <section class="mt-16" aria-labelledby="byrel-heading">
+        <h2 id="byrel-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+          Trending names by tradition
+        </h2>
+        <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+          {Object.entries(byReligion).map(([rel, items]) => (
+            <div class="card p-5">
+              <h3 class="font-display text-lg font-semibold text-nv-text">{religionLabel(rel)} names</h3>
+              <ol class="mt-3 space-y-2">
+                {items.map((item, idx) => (
+                  <li class="flex items-baseline gap-2 text-sm">
+                    <span class="w-4 shrink-0 text-right text-xs font-bold text-nv-text-muted">{idx + 1}</span>
+                    <a href={`/names/${rel}/${item.slug}`} class="min-w-0 truncate font-semibold text-nv-text transition hover:text-nv-accent">{item.name}</a>
+                    <span class="ml-auto shrink-0 text-xs text-nv-text-muted">{item.popularity_score}</span>
+                  </li>
+                ))}
+              </ol>
+              <a href={`/names/${rel}`} class="mt-4 block text-sm font-semibold text-nv-accent hover:underline">Browse all {religionLabel(rel).toLowerCase()} names &rarr;</a>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section class="mx-auto mt-16 max-w-3xl" aria-labelledby="seo-heading">
+        <h2 id="seo-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
+          Following naming trends without following the crowd
+        </h2>
+        <div class="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
+          <p>
+            Trending lists are a brilliant starting point — they reveal names that are easy to
+            pronounce, well-loved and culturally current. But the best name for your baby is the one
+            that means something to your family. Use the trend list for inspiration, then dig into
+            meanings, origins and lucky numbers on the full profiles.
+          </p>
+          <p>
+            When two favorites both feel right, open the popularity comparison tool to see them side
+            by side. It makes the final decision visual — and a lot easier.
+          </p>
+        </div>
+
+        <h3 class="mt-8 font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
+        <div class="mt-4 space-y-3">
+          {faqs.map((f) => (
+            <details class="faq-item card p-5">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
+                {f.q}
+                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+              </summary>
+              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
     </div>
-  </main>
+  </div>
 </Layout>
