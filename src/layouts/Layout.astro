@@ -1,3 +1,4 @@
+
 ---
 // NameVerse — Root Layout
 import '@fontsource-variable/inter';
@@ -15,9 +16,11 @@ const siteLogo = `${siteUrl}/nameverse_logo_emblem.png`;
 const { title, description, canonical, ogImage, noindex = false, type = 'website' } = Astro.props;
 
 const pageTitle = title || 'Baby Names, Meanings, Origins & Lucky Numbers | NameVerse';
+
 const pageDescription =
   description ||
   'Discover 42,000+ baby names with verified meanings, origins, lucky numbers, pronunciation guides, and cultural context across Islamic, Hindu, Christian and global traditions.';
+
 const pageCanonical = canonical || new URL(Astro.url.pathname, siteUrl).href;
 const pageOgImage = ogImage || siteLogo;
 
@@ -26,6 +29,7 @@ const orgJsonLd = JSON.stringify({
   '@graph': [
     {
       '@type': 'Organization',
+      '@id': `${siteUrl}/#organization`,
       name: siteName,
       url: siteUrl,
       logo: {
@@ -45,7 +49,9 @@ const orgJsonLd = JSON.stringify({
       '@id': `${siteUrl}/#website`,
       name: siteName,
       url: siteUrl,
-      publisher: { '@id': `${siteUrl}/#organization` },
+      publisher: {
+        '@id': `${siteUrl}/#organization`,
+      },
       potentialAction: {
         '@type': 'SearchAction',
         target: `${siteUrl}/search?q={search_term_string}`,
@@ -60,25 +66,51 @@ const orgJsonLd = JSON.stringify({
 <html lang="en" dir="ltr">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+
     <title>{pageTitle}</title>
+
     <meta name="description" content={pageDescription} />
+
     <link rel="canonical" href={pageCanonical} />
+
     <meta
       name="robots"
-      content={noindex ? 'noindex, follow' : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'}
+      content={
+        noindex
+          ? 'noindex, follow'
+          : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
+      }
     />
+
     <meta name="author" content="NameVerse Editorial Team" />
     <meta name="color-scheme" content="light dark" />
     <meta name="application-name" content="NameVerse" />
     <meta name="theme-color" content="#1E3A5F" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="format-detection" content="telephone=no" />
-    <meta name="google-site-verification" content="iPU1wdP26kg58gDN3U4H39YuS20alsLvjfXRM-QtKLw" />
-    <meta name="google-site-verification" content="YpyQkTA9hX2f0MgD5oN8mVvssqJOD4L96gJn2yRzc3k" />
+
+    <!-- Google Search Console Verification -->
+    <meta
+      name="google-site-verification"
+      content="YpyQkTA9hX2f0MgD5oN8mVvssqJOD4L96gJn2yRzc3k"
+    />
+
     <meta name="msapplication-TileColor" content="#1E3A5F" />
-    <meta name="ahrefs-site-verification" content="650afaf6635223ff618a281883a22b69b937a121e933b19907debeca67754cd4" />
-    <meta name="p:domain_verify" content="2182ce49319a6b4ede3da073a469ce4a" />
+
+    <meta
+      name="ahrefs-site-verification"
+      content="650afaf6635223ff618a281883a22b69b937a121e933b19907debeca67754cd4"
+    />
+
+    <meta
+      name="p:domain_verify"
+      content="2182ce49319a6b4ede3da073a469ce4a"
+    />
 
     <!-- Open Graph -->
     <meta property="og:site_name" content="NameVerse" />
@@ -89,7 +121,10 @@ const orgJsonLd = JSON.stringify({
     <meta property="og:image:width" content="1600" />
     <meta property="og:image:height" content="1600" />
     <meta property="og:image:type" content="image/png" />
-    <meta property="og:image:alt" content="NameVerse — Baby Names with Meanings, Origins & Lucky Numbers" />
+    <meta
+      property="og:image:alt"
+      content="NameVerse — Baby Names with Meanings, Origins & Lucky Numbers"
+    />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content={type} />
 
@@ -102,22 +137,50 @@ const orgJsonLd = JSON.stringify({
 
     <!-- Icons -->
     <link rel="icon" type="image/svg+xml" href="/logo.svg" />
-    <link rel="icon" type="image/png" sizes="512x512" href="/nameverse_logo_emblem.png" />
-    <link rel="apple-touch-icon" sizes="1600x1600" href="/nameverse_logo_emblem.png" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="512x512"
+      href="/nameverse_logo_emblem.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="1600x1600"
+      href="/nameverse_logo_emblem.png"
+    />
     <link rel="mask-icon" href="/logo.svg" color="#1E3A5F" />
 
-    <!-- Performance: preconnect to ad + asset hosts so lazy-loaded tags resolve fast -->
-    <link rel="preconnect" href="https://revolthem.com" crossorigin />
-    <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin />
-    <link rel="preconnect" href="https://nameverse.site" />
-    <link rel="dns-prefetch" href="https://revolthem.com" />
+    <!-- Performance: preconnect to ad + asset hosts -->
+    <link
+      rel="preconnect"
+      href="https://revolthem.com"
+      crossorigin
+    />
+    <link
+      rel="preconnect"
+      href="https://pagead2.googlesyndication.com"
+      crossorigin
+    />
+    <link
+      rel="preconnect"
+      href="https://nameverse.site"
+    />
+    <link
+      rel="dns-prefetch"
+      href="https://revolthem.com"
+    />
 
     <!-- Theme: apply before first paint to prevent flash -->
     <script is:inline>
       (function () {
         try {
           var t = localStorage.getItem('nameverse-theme');
-          if (t === 'dark' || (!t && matchMedia('(prefers-color-scheme: dark)').matches)) {
+
+          if (
+            t === 'dark' ||
+            (!t &&
+              matchMedia('(prefers-color-scheme: dark)').matches)
+          ) {
             document.documentElement.classList.add('dark');
           }
         } catch (e) {}
@@ -125,7 +188,10 @@ const orgJsonLd = JSON.stringify({
     </script>
 
     <!-- Structured Data: Organization + WebSite + SearchAction -->
-    <script type="application/ld+json" set:html={orgJsonLd}></script>
+    <script
+      type="application/ld+json"
+      set:html={orgJsonLd}
+    ></script>
 
     <slot name="head" />
   </head>
@@ -135,8 +201,12 @@ const orgJsonLd = JSON.stringify({
 
     <div class="container-page py-4">
       <Ad placement="inline" />
+
       <div class="mt-4">
-        <SocialShare title={pageTitle} url={pageCanonical} />
+        <SocialShare
+          title={pageTitle}
+          url={pageCanonical}
+        />
       </div>
     </div>
 
@@ -154,36 +224,73 @@ const orgJsonLd = JSON.stringify({
     <script is:inline>
       (function () {
         var fired = false;
+
         function inject() {
           if (window.__nvAdsLoaded) return;
+
           window.__nvAdsLoaded = true;
+
           var specs = [
-            { src: 'https://revolthem.com/c90e1cf06dc7451f1fd3d33c703af951/invoke.js', async: true, cfasync: false },
-            { src: 'https://revolthem.com/5e/0c/df/5e0cdf883b6f082ca7c001d812ce1be6.js' },
+            {
+              src: 'https://revolthem.com/c90e1cf06dc7451f1fd3d33c703af951/invoke.js',
+              async: true,
+              cfasync: false,
+            },
+            {
+              src: 'https://revolthem.com/5e/0c/df/5e0cdf883b6f082ca7c001d812ce1be6.js',
+            },
             {
               src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1510675468129183',
               async: true,
               crossOrigin: 'anonymous',
             },
           ];
+
           specs.forEach(function (spec) {
             var s = document.createElement('script');
+
             s.src = spec.src;
-            if (spec.async) s.async = true;
-            if (spec.crossOrigin) s.crossOrigin = spec.crossOrigin;
-            if (spec.cfasync === false) s.setAttribute('data-cfasync', 'false');
+
+            if (spec.async) {
+              s.async = true;
+            }
+
+            if (spec.crossOrigin) {
+              s.crossOrigin = spec.crossOrigin;
+            }
+
+            if (spec.cfasync === false) {
+              s.setAttribute('data-cfasync', 'false');
+            }
+
             document.body.appendChild(s);
           });
         }
+
         function go() {
           if (fired) return;
+
           fired = true;
-          if ('requestIdleCallback' in window) requestIdleCallback(inject, { timeout: 3000 });
-          else setTimeout(inject, 2500);
+
+          if ('requestIdleCallback' in window) {
+            requestIdleCallback(inject, {
+              timeout: 3000,
+            });
+          } else {
+            setTimeout(inject, 2500);
+          }
         }
-        if (document.readyState === 'complete') go();
-        else window.addEventListener('load', go, { once: true });
+
+        if (document.readyState === 'complete') {
+          go();
+        } else {
+          window.addEventListener('load', go, {
+            once: true,
+          });
+        }
       })();
     </script>
   </body>
 </html>
+
+
