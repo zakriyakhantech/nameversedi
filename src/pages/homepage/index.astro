@@ -1,5 +1,6 @@
 ---
 // NameVerse homepage — content fragment rendered inside Layout by /index.astro
+import Layout from '../../layouts/Layout.astro';
 import { getManifest, getPopularSlugs } from '../../lib/data/astro-data.mjs';
 
 const manifest = getManifest();
@@ -88,44 +89,11 @@ const latestArticles = [
     date: 'Dec 2025',
   },
 ];
-
-const faqs = [
-  {
-    question: 'How do I find the best baby name with meaning?',
-    answer:
-      'Search by name, meaning, origin or religion. NameVerse connects each query to curated name lists, cultural context and related browsing paths so you can compare options quickly.',
-  },
-  {
-    question: 'Can I search names by religion, origin or meaning?',
-    answer:
-      'Yes. Browse Islamic, Hindu and Christian names by religion, then narrow by origins such as Arabic, Urdu, Persian, Sanskrit, Hebrew, Greek or Latin. You can also search meanings such as light, love, strength or peace.',
-  },
-  {
-    question: 'Are NameVerse meanings verified?',
-    answer:
-      'NameVerse prioritizes verified meanings and cultural context. Entries are reviewed for linguistic origin, common usage and faith-aware interpretation before being surfaced in search and curated lists.',
-  },
-  {
-    question: 'Is NameVerse free to use?',
-    answer:
-      'Yes. Search, name meanings, browsing pages, FAQs and discovery tools are free for parents, families and researchers.',
-  },
-];
-
-const faqJsonLd = JSON.stringify({
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: faqs.map((f) => ({
-    '@type': 'Question',
-    name: f.question,
-    acceptedAnswer: { '@type': 'Answer', text: f.answer },
-  })),
-});
 ---
 
-<script type="application/ld+json" set:html={faqJsonLd}></script>
+<Layout title="Baby Names with Meanings, Origins & Lucky Numbers | NameVerse" description="Search 42,000+ Islamic, Hindu, Christian & global baby names with verified meanings, origins, lucky numbers and pronunciation guides. Free, fast and parent-friendly." noindex>
 
-<!-- Hero -->
+  <!-- Hero -->
 <section class="relative overflow-hidden border-b border-nv-border">
   <div class="pointer-events-none absolute inset-0" aria-hidden="true">
     <div class="absolute -top-24 left-1/2 h-72 w-[36rem] -translate-x-1/2 rounded-full bg-nv-accent/10 blur-3xl"></div>
@@ -471,3 +439,5 @@ const faqJsonLd = JSON.stringify({
     });
   })();
 </script>
+</Layout>
+

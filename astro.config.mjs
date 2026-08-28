@@ -1,17 +1,34 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
+import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://nameverse.site',
 
   output: 'static',
 
-  integrations: [tailwind()],
+  trailingSlash: 'never',
+
+  integrations: [
+    tailwind(),
+    sitemap({
+      filter: (page) => {
+        if (page === '/') return true;
+        if (page.startsWith('/names/') && !page.includes('/letter/') && !page.includes('//')) return true;
+        if (page.startsWith('/blog/')) return true;
+        if (['/about', '/advanced-search', '/contact', '/name-meanings', '/names-by-meaning', '/names-by-origin', '/popularity', '/my-names'].includes(page)) return true;
+        return false;
+      },
+      changefreq: 'weekly',
+      priority: 0.8,
+      lastmod: new Date('2026-08-15'),
+    }),
+  ],
 
   vite: {
     build: {
       rollupOptions: {
-        maxParallelFileOps: 50,
+        maxParallelFileOps: 200,
       },
     },
     optimizeDeps: {

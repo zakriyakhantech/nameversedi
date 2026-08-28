@@ -11,35 +11,13 @@ const originOptions = {
 const categoryOptions = { islamic: 'Islamic', hindu: 'Hindu', biblical: 'Biblical', saint: 'Saint', virtue: 'Virtue', italian: 'Italian' };
 const genderOptions = { boy: 'Boy', girl: 'Girl', unisex: 'Unisex' };
 
-const faqs = [
-  {
-    q: 'What can I filter in advanced search?',
-    a: 'Combine a keyword with religion, gender, origin and category filters — then sort by relevance, popularity or alphabetical order. Every filter narrows the live results instantly.',
-  },
-  {
-    q: 'Can I combine multiple religions in one search?',
-    a: 'Yes. Advanced search lets you tick several traditions at once — for example Islamic and Christian names together — something the quick search does one at a time.',
-  },
-  {
-    q: 'What is a name category?',
-    a: 'Categories group names by theme: Islamic, Hindu, Biblical, Saint, Virtue (names that express qualities like love, peace or strength) and Italian. They help you browse by meaning style.',
-  },
-];
-
-const faqJsonLd = JSON.stringify({
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
-});
 ---
 
 <Layout
   title="Advanced Baby Name Search — Filter by Religion, Gender, Origin & Category | NameVerse"
   description="Advanced baby name search with multi-filters: combine religion, gender, origin, category and popularity across 42,000+ Islamic, Hindu, Christian and Italian names."
 >
-  <script type="application/ld+json" set:html={faqJsonLd} />
-
-  <div class="container-page py-10 sm:py-14">
+    <div class="container-page py-10 sm:py-14">
     <div class="mx-auto max-w-6xl">
       <header class="mb-8 text-center">
         <span class="eyebrow">Advanced search</span>
@@ -146,19 +124,7 @@ const faqJsonLd = JSON.stringify({
           </p>
         </div>
 
-        <h3 class="mt-8 font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
-        <div class="mt-4 space-y-3">
-          {faqs.map((f) => (
-            <details class="faq-item card p-5">
-              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
-                {f.q}
-                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
-              </summary>
-              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
-            </details>
-          ))}
-        </div>
-      </section>
+        </section>
     </div>
   </div>
 
@@ -344,3 +310,5 @@ const faqJsonLd = JSON.stringify({
     })();
   </script>
 </Layout>
+
+

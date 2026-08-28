@@ -22,15 +22,6 @@ const faqItems = [
   },
 ];
 
-const faqJsonLd = JSON.stringify({
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: faqItems.map((f) => ({
-    '@type': 'Question',
-    name: f.question,
-    acceptedAnswer: { '@type': 'Answer', text: f.answer },
-  })),
-});
 ---
 
 <Layout
@@ -53,9 +44,7 @@ const faqJsonLd = JSON.stringify({
       author: { '@type': 'Organization', name: post.author },
     })),
   })} />
-  <script type="application/ld+json" set:html={faqJsonLd} />
-
-  <div class="container-page py-10 sm:py-14">
+    <div class="container-page py-10 sm:py-14">
     <div class="mx-auto max-w-6xl">
       <header class="mb-10 text-center">
         <span class="eyebrow">NameVerse editorial</span>
@@ -133,3 +122,5 @@ const faqJsonLd = JSON.stringify({
     </div>
   </div>
 </Layout>
+
+

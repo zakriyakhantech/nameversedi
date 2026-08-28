@@ -24,26 +24,6 @@ const byReligion = Object.fromEntries(
   ])
 );
 
-const faqs = [
-  {
-    q: 'What makes a name "trending" on NameVerse?',
-    a: 'Trending names are ranked by popularity score, which reflects real search interest and cultural relevance across parents today. It is a live snapshot, not a static list.',
-  },
-  {
-    q: 'Do trending names change over time?',
-    a: 'Yes. Naming trends shift with culture, media and migration. The lists are refreshed as new data comes in, so the same name can climb or fall between visits.',
-  },
-  {
-    q: 'How do I see trending names for just my tradition?',
-    a: 'The tradition columns below show the top names for Islamic, Christian, Hindu and Italian collections. For a deeper look, open any name profile or use the popularity comparison tool.',
-  },
-];
-
-const faqJsonLd = JSON.stringify({
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
-});
 ---
 
 <Layout
@@ -51,9 +31,7 @@ const faqJsonLd = JSON.stringify({
   description="Discover the baby names trending in 2026 across Islamic, Hindu, Christian and Italian traditions — ranked by live popularity score with meanings and origins."
   canonical="https://nameverse.site/trending-names"
 >
-  <script type="application/ld+json" set:html={faqJsonLd} />
-
-  <div class="container-page py-10 sm:py-14">
+    <div class="container-page py-10 sm:py-14">
     <div class="mx-auto max-w-6xl">
       <header class="mb-10 text-center">
         <span class="eyebrow">What parents search now</span>
@@ -112,19 +90,9 @@ const faqJsonLd = JSON.stringify({
           </p>
         </div>
 
-        <h3 class="mt-8 font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
-        <div class="mt-4 space-y-3">
-          {faqs.map((f) => (
-            <details class="faq-item card p-5">
-              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
-                {f.q}
-                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
-              </summary>
-              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
-            </details>
-          ))}
-        </div>
-      </section>
+        </section>
     </div>
   </div>
 </Layout>
+
+

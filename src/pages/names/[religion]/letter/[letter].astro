@@ -58,38 +58,6 @@ const girlCount = names.filter((i) => {
 const nearby = [...'abcdefghijklmnopqrstuvwxyz', '#'];
 const nearbyLetters = nearby.filter((l) => l !== letter && lettersFor(finalReligion, manifest).has(l));
 
-const faqs = [
-  {
-    q: `What are the most popular ${religionLabel} baby names starting with "${letterDisplay}"?`,
-    a: `NameVerse lists ${names.length} ${religionLabel} baby names beginning with "${letterDisplay}", each with an authentic meaning, cultural origin, gender classification and lucky number. Open any name to see its popularity score, region trends and numerology.`,
-  },
-  {
-    q: `Are ${religionLabel} names starting with "${letterDisplay}" suitable for boys or girls?`,
-    a: `The "${letterDisplay}" collection includes ${boyCount.toLocaleString()} boy names, ${girlCount.toLocaleString()} girl names and some unisex options. Every name card shows its gender classification so you can filter quickly.`,
-  },
-  {
-    q: `How do I find the origin of a ${religionLabel} name starting with "${letterDisplay}"?`,
-    a: `Every name on NameVerse includes its origin — Arabic, Persian, Urdu, Sanskrit, Hebrew, Latin, Greek and more. Click any name to open its full profile with pronunciation, variations and cultural context.`,
-  },
-  {
-    q: `Do ${religionLabel} names starting with "${letterDisplay}" have lucky numbers?`,
-    a: `Yes — most entries include a lucky number, lucky day, lucky colors and lucky stone based on numerology. These appear on each individual name page.`,
-  },
-  {
-    q: `How do I compare ${religionLabel} names beginning with "${letterDisplay}"?`,
-    a: `Open the names that catch your eye, note their meanings, origins and popularity scores, then use the Popularity Comparison tool to weigh them side by side.`,
-  },
-];
-
-const faqJsonLd = JSON.stringify({
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: faqs.map((f) => ({
-    '@type': 'Question',
-    name: f.q,
-    acceptedAnswer: { '@type': 'Answer', text: f.a },
-  })),
-});
 ---
 
 <Layout
@@ -104,7 +72,6 @@ const faqJsonLd = JSON.stringify({
     description: `${names.length} ${religionLabel} baby names beginning with "${letterDisplay}", each with meaning, origin and cultural context.`,
     url: canonicalUrl,
   })} />
-  <script type="application/ld+json" set:html={faqJsonLd} />
 
   <div class="container-page py-8 sm:py-12">
     <div class="mx-auto max-w-6xl">
@@ -189,19 +156,6 @@ const faqJsonLd = JSON.stringify({
             pronunciation, lucky number, numerology and spelling variations. Bookmark the names you
             love, then use the popularity comparison tool to weigh your final shortlist.
           </p>
-        </div>
-
-        <h3 class="mt-8 text-center font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
-        <div class="mt-4 space-y-3">
-          {faqs.map((f) => (
-            <details class="faq-item card p-5">
-              <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
-                {f.q}
-                <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
-              </summary>
-              <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
-            </details>
-          ))}
         </div>
       </section>
     </div>

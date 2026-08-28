@@ -30,39 +30,9 @@ const pageDescription = query
   ? `Search results for "${query}"${activeFilters.length ? ` in ${activeFilters.join(', ')}` : ''} — meanings, origins, gender and popularity across Islamic, Hindu, Christian and Italian traditions.`
   : 'Search 42,000+ baby names by name, meaning, origin, religion, gender or category. Filter results and rank by popularity — free and instant.';
 
-const faqs = [
-  {
-    q: 'How does NameVerse search work?',
-    a: 'Search matches your keyword against every name, meaning, origin, religion and category in the database. Results are ranked with exact and prefix name matches first, followed by meaning matches, then sorted by popularity so the most common names appear at the top.',
-  },
-  {
-    q: 'Can I search baby names by religion?',
-    a: 'Yes. Use the religion filter to limit results to Islamic, Christian, Hindu or Italian names, or combine it with a keyword such as "light" to find "names that mean light" inside a specific tradition.',
-  },
-  {
-    q: 'Can I filter names by gender?',
-    a: 'Absolutely. The gender filter narrows results to Boy, Girl or Unisex names. NameVerse also shows a gender badge on every result so you can scan quickly.',
-  },
-  {
-    q: 'Can I search names by origin?',
-    a: 'Yes. Filter by origin — Arabic, Biblical, Sanskrit, Persian, Tamil, English and more — to discover names from a specific language or culture, then open any name profile for its full story.',
-  },
-  {
-    q: 'Are the search results ranked by popularity?',
-    a: 'By default relevance decides the order, but you can switch the sort to "Most popular" to rank every result by its popularity score across all traditions.',
-  },
-];
-
-const faqJsonLd = JSON.stringify({
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
-});
 ---
 
 <Layout title={pageTitle} description={pageDescription}>
-  <script type="application/ld+json" set:html={faqJsonLd} />
-
   <div class="container-page py-10 sm:py-14">
     <div class="mx-auto max-w-5xl">
       <header class="mb-8 text-center">
@@ -162,21 +132,8 @@ const faqJsonLd = JSON.stringify({
               with pronunciation, lucky numbers, numerology, name variations and cultural context.
             </p>
           </div>
-
-          <h3 class="mt-8 font-display text-xl font-semibold text-nv-text">Frequently asked questions</h3>
-          <div class="mt-4 space-y-3">
-            {faqs.map((f) => (
-              <details class="faq-item card p-5">
-                <summary class="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-nv-text">
-                  {f.q}
-                  <svg class="faq-chevron h-4 w-4 shrink-0 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
-                </summary>
-                <p class="mt-3 text-sm leading-relaxed text-nv-text-secondary">{f.a}</p>
-              </details>
-            ))}
-          </div>
-        </div>
-      </section>
+        </section>
+      </div>
     </div>
   </div>
 
