@@ -31,13 +31,13 @@ const byReligion = Object.fromEntries(
   description="Discover the baby names trending in 2026 across Islamic, Hindu, Christian and Italian traditions — ranked by live popularity score with meanings and origins."
   canonical="https://nameverse.site/trending-names"
 >
-    <div class="container-page py-10 sm:py-14">
+  <div class="container-page py-10 sm:py-14">
     <div class="mx-auto max-w-6xl">
       <header class="mb-10 text-center">
         <span class="eyebrow">What parents search now</span>
         <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">Trending Baby Names</h1>
         <p class="mx-auto mt-4 max-w-2xl text-nv-text-secondary">
-          The 60 baby names parents are searching for most on NameVerse right now — ranked by live
+          The 60 baby names parents are searching for most on NameVerse right now — ranked by
           popularity score, with the meaning of every name on its card.
         </p>
         <div class="mt-5 flex flex-wrap justify-center gap-2">
@@ -46,7 +46,7 @@ const byReligion = Object.fromEntries(
         </div>
       </header>
 
-      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      <div class="grid gap-4 min-[480px]:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         {trending.map((item) => <NameCard item={item} showReligion />)}
       </div>
 
@@ -79,7 +79,7 @@ const byReligion = Object.fromEntries(
         </h2>
         <div class="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
           <p>
-            Trending lists are a brilliant starting point — they reveal names that are easy to
+            Trending lists are a helpful starting point — they reveal names that are easy to
             pronounce, well-loved and culturally current. But the best name for your baby is the one
             that means something to your family. Use the trend list for inspiration, then dig into
             meanings, origins and lucky numbers on the full profiles.
@@ -89,8 +89,7 @@ const byReligion = Object.fromEntries(
             by side. It makes the final decision visual — and a lot easier.
           </p>
         </div>
-
-        </section>
+      </section>
     </div>
   </div>
 </Layout>

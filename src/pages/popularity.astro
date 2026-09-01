@@ -51,7 +51,7 @@ const maxScore = Math.max(...top50.map((i) => i.popularity_score || 0), 1);
           <div class="card p-5">
             <div class="relative">
               <svg class="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-nv-text-muted" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-              <input type="search" id="compare-search" placeholder="Add a name to compare… (e.g. Muhammad, Grace, Aarav, Sofia)" autocomplete="off" class="input !py-3 !pl-11" />
+              <input type="search" id="compare-search" placeholder="Add a name to compare… (e.g. Muhammad, Grace, Aarav, Sofia)" aria-label="Add a name to compare" autocomplete="off" class="input !py-3 !pl-11" />
             </div>
             <div id="compare-suggest" class="mt-2 max-h-64 overflow-y-auto rounded-xl border border-nv-border bg-nv-surface"></div>
             <p class="mt-3 text-xs text-nv-text-muted">
@@ -125,24 +125,21 @@ const maxScore = Math.max(...top50.map((i) => i.popularity_score || 0), 1);
       <!-- SEO content -->
       <section class="mx-auto mt-16 max-w-3xl" aria-labelledby="seo-heading">
         <h2 id="seo-heading" class="font-display text-2xl font-semibold tracking-tight text-nv-text sm:text-3xl">
-          Why popularity matters when choosing a name
+          Understanding baby name popularity
         </h2>
         <div class="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
           <p>
-            Popularity is a double-edged sword. A popular name is familiar, easy to spell and rarely
-            mispronounced — but it also means your child may share it with classmates. Comparing
-            scores side by side lets you see exactly where your favorites fall, and decide how much
-            uniqueness matters to you.
+            Popularity is a helpful tool when narrowing your naming shortlist. A well-known name is
+            familiar and easy to pronounce, while a rarer name gives your child a distinctive identity.
+            Comparing scores side by side lets you see where your favorites fall.
           </p>
           <p>
-            On NameVerse every score reflects real search interest and cultural relevance, so the
-            ranking above is a genuine snapshot of what parents are choosing right now — not a guess.
-            Add the names you love, watch the bars move, and pick the balance that feels right for
-            your family.
+            On NameVerse, our popularity index synthesizes search trends, naming frequency, and
+            cultural relevance across 42,000+ baby names. Add names to your list to compare their
+            relative popularity metrics side by side.
           </p>
         </div>
-
-        </section>
+      </section>
     </div>
   </div>
 
@@ -165,18 +162,22 @@ const maxScore = Math.max(...top50.map((i) => i.popularity_score || 0), 1);
 
       function normGender(g) {
         const s = String(g || '').toLowerCase();
-        const f = s.includes('female') || s.includes('girl') || s.includes('feminine');
-        const m = s.includes('male') || s.includes('boy') || s.includes('masculin');
+        const f = /female|girl|feminine/.test(s);
+        const m = /(^|[^e])male|\bboy|masculin/.test(s);
         if (m && f) return 'unisex';
         if (f) return 'girl';
         if (m) return 'boy';
-        if (s.includes('unisex') || s.includes('neutral') || s.includes('unknown')) return 'unisex';
+        if (/unisex|neutral|unknown/.test(s)) return 'unisex';
         return null;
       }
       const genderChip = (g) =>
-        g === 'boy' ? '<span class="badge shrink-0 bg-nv-accent-subtle text-nv-accent">Boy</span>'
-          : g === 'girl' ? '<span class="badge shrink-0 bg-hindu-soft text-hindu">Girl</span>'
-            : g === 'unisex' ? '<span class="badge shrink-0 bg-nv-subtle text-nv-text-secondary">Unisex</span>' : '';
+        g === 'boy'
+          ? '<span class="badge shrink-0 bg-sky-50 text-sky-700 dark:bg-sky-950/50 dark:text-sky-300">Boy</span>'
+          : g === 'girl'
+            ? '<span class="badge shrink-0 bg-rose-50 text-rose-700 dark:bg-rose-950/50 dark:text-rose-300">Girl</span>'
+            : g === 'unisex'
+              ? '<span class="badge shrink-0 bg-purple-50 text-purple-700 dark:bg-purple-950/50 dark:text-purple-300">Unisex</span>'
+              : '';
 
       function loadIndexes() {
         if (loading) return loading;

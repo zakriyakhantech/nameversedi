@@ -58,7 +58,7 @@ const featured = [
         <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {featured.map((f) => (
             <a href={`/search?q=${encodeURIComponent(f.meaning)}`} class="card card-hover group flex flex-col gap-2 p-6">
-              <h2 class="font-display text-xl font-semibold capitalize text-nv-text group-hover:text-nv-accent">{f.meaning}</h2>
+              <h3 class="font-display text-xl font-semibold capitalize text-nv-text group-hover:text-nv-accent">{f.meaning}</h3>
               <p class="text-sm text-nv-text-secondary">Names meaning {f.meaning}: {f.words}</p>
               <span class="mt-auto pt-2 text-sm font-semibold text-nv-accent">Find names &rarr;</span>
             </a>
@@ -93,8 +93,7 @@ const featured = [
             pronunciation, numerology, lucky numbers and the cultural context behind the meaning.
           </p>
         </div>
-
-        </section>
+      </section>
     </div>
   </div>
 </Layout>

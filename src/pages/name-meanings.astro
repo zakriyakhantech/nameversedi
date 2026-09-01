@@ -35,7 +35,7 @@ const top = all.slice(0, 100);
         </div>
       </header>
 
-      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      <div class="grid gap-4 min-[480px]:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         {top.map((item) => <NameCard item={item} showReligion />)}
       </div>
 
@@ -54,8 +54,7 @@ const top = all.slice(0, 100);
             browse the tradition hubs for the complete alphabetical collections.
           </p>
         </div>
-
-        </section>
+      </section>
     </div>
   </div>
 </Layout>

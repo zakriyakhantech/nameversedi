@@ -4,6 +4,7 @@ import AlphabetNav from '../../../../components/AlphabetNav.astro';
 import NameCard from '../../../../components/NameCard.astro';
 import { getManifest, normalizeReligion } from '../../../../lib/data/astro-data.mjs';
 import { ALL_RELIGIONS, ALL_LETTERS, lettersFor } from '../../../../lib/data/letter-browser.mjs';
+import { isBoy, isGirl } from '../../../../lib/data/name-utils.mjs';
 
 export async function getStaticPaths() {
   const manifest = getManifest();
@@ -19,8 +20,9 @@ export async function getStaticPaths() {
 
 export const prerender = true;
 
-const { religion, letter } = Astro.params;
-const finalReligion = normalizeReligion(religion) || 'islamic';
+const rawLetter = decodeURIComponent(Astro.params.letter || '');
+const letter = rawLetter === '%23' || rawLetter === '#' ? '#' : rawLetter.toLowerCase();
+const finalReligion = normalizeReligion(Astro.params.religion) || 'islamic';
 const siteUrl = 'https://nameverse.site';
 
 const manifest = getManifest();
@@ -35,25 +37,15 @@ const names = (manifest[finalReligion] || [])
   .sort((a, b) => a.name.localeCompare(b.name));
 
 const religionLabel = finalReligion.charAt(0).toUpperCase() + finalReligion.slice(1);
-const letterDisplay = letter.toUpperCase();
+const letterDisplay = letter === '#' ? 'Other / Special' : letter.toUpperCase();
 const letterUrlSegment = letter === '#' ? '%23' : letter;
 const canonicalUrl = `${siteUrl}/names/${finalReligion}/letter/${letterUrlSegment}`;
 
 // Religions that also have names for this letter (for the switcher)
 const switcherReligions = ALL_RELIGIONS.filter((r) => lettersFor(r, manifest).has(letter));
 
-const boyCount = names.filter((i) => {
-  const g = (i.gender || '').toLowerCase();
-  const m = g.includes('male') || g.includes('boy') || g.includes('masculin');
-  const f = g.includes('female') || g.includes('girl');
-  return m && !f;
-}).length;
-const girlCount = names.filter((i) => {
-  const g = (i.gender || '').toLowerCase();
-  const f = g.includes('female') || g.includes('girl');
-  const m = g.includes('male') || g.includes('boy');
-  return f && !m;
-}).length;
+const boyCount = names.filter(isBoy).length;
+const girlCount = names.filter(isGirl).length;
 
 const nearby = [...'abcdefghijklmnopqrstuvwxyz', '#'];
 const nearbyLetters = nearby.filter((l) => l !== letter && lettersFor(finalReligion, manifest).has(l));
@@ -120,7 +112,7 @@ const nearbyLetters = nearby.filter((l) => l !== letter && lettersFor(finalRelig
       </div>
 
       <!-- Names grid -->
-      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      <div class="grid gap-4 min-[480px]:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         {names.map((item) => <NameCard item={item} />)}
       </div>
 
@@ -130,7 +122,7 @@ const nearbyLetters = nearby.filter((l) => l !== letter && lettersFor(finalRelig
           <p class="mb-3 text-xs font-bold uppercase tracking-[0.16em] text-nv-text-muted">Explore other letters</p>
           <div class="flex flex-wrap justify-center gap-2">
             {nearbyLetters.slice(0, 10).map((l) => (
-              <a href={`/names/${finalReligion}/letter/${l === '#' ? '%23' : l}`} class="grid h-10 w-10 place-items-center rounded-lg border border-nv-border bg-nv-surface text-sm font-bold uppercase text-nv-text-secondary transition hover:border-nv-accent hover:text-nv-accent">
+              <a href={`/names/${finalReligion}/letter/${l === '#' ? '%23' : l}`} class="grid h-11 w-11 place-items-center rounded-lg border border-nv-border bg-nv-surface text-sm font-bold uppercase text-nv-text-secondary transition hover:border-nv-accent hover:text-nv-accent">
                 {l}
               </a>
             ))}

@@ -35,7 +35,7 @@ const genderOptions = { boy: 'Boy', girl: 'Girl', unisex: 'Unisex' };
         <aside class="card h-fit p-5 lg:sticky lg:top-20">
           <label class="block">
             <span class="mb-1 block text-xs font-bold uppercase tracking-wide text-nv-text-muted">Keyword</span>
-            <input type="search" id="adv-q" placeholder="Name, meaning or origin…" autocomplete="off" class="input" />
+            <input type="search" id="adv-q" placeholder="Name, meaning or origin…" aria-label="Keyword search" autocomplete="off" class="input" />
           </label>
 
           <fieldset class="mt-5">
@@ -88,7 +88,7 @@ const genderOptions = { boy: 'Boy', girl: 'Girl', unisex: 'Unisex' };
 
           <label class="mt-5 block">
             <span class="mb-1 block text-xs font-bold uppercase tracking-wide text-nv-text-muted">Sort by</span>
-            <select id="adv-sort" class="input !py-2">
+            <select id="adv-sort" class="input !py-2" aria-label="Sort advanced search results">
               <option value="relevance">Relevance</option>
               <option value="popularity">Most popular</option>
               <option value="name">Name (A–Z)</option>
@@ -184,12 +184,12 @@ const genderOptions = { boy: 'Boy', girl: 'Girl', unisex: 'Unisex' };
       }
       function normGender(g) {
         const s = String(g || '').toLowerCase();
-        const f = s.includes('female') || s.includes('girl') || s.includes('feminine');
-        const m = s.includes('male') || s.includes('boy') || s.includes('masculin');
+        const f = /female|girl|feminine/.test(s);
+        const m = /(^|[^e])male|\bboy|masculin/.test(s);
         if (m && f) return 'unisex';
         if (f) return 'girl';
         if (m) return 'boy';
-        if (s.includes('unisex') || s.includes('neutral') || s.includes('unknown')) return 'unisex';
+        if (/unisex|neutral|unknown/.test(s)) return 'unisex';
         return null;
       }
       function originSlug(o) {
@@ -272,9 +272,9 @@ const genderOptions = { boy: 'Boy', girl: 'Girl', unisex: 'Unisex' };
           .map((item) => {
             const gender = normGender(item.g);
             const genderChip =
-              gender === 'boy' ? '<span class="badge shrink-0 bg-nv-accent-subtle text-nv-accent">Boy</span>'
-              : gender === 'girl' ? '<span class="badge shrink-0 bg-hindu-soft text-hindu">Girl</span>'
-              : gender === 'unisex' ? '<span class="badge shrink-0 bg-nv-subtle text-nv-text-secondary">Unisex</span>' : '';
+              gender === 'boy' ? '<span class="badge shrink-0 bg-sky-50 text-sky-700 dark:bg-sky-950/50 dark:text-sky-300">Boy</span>'
+              : gender === 'girl' ? '<span class="badge shrink-0 bg-rose-50 text-rose-700 dark:bg-rose-950/50 dark:text-rose-300">Girl</span>'
+              : gender === 'unisex' ? '<span class="badge shrink-0 bg-purple-50 text-purple-700 dark:bg-purple-950/50 dark:text-purple-300">Unisex</span>' : '';
             return `
               <a href="/names/${item.religion}/${item.s}" class="card card-hover flex flex-col gap-2 p-4 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
                 <span class="min-w-0 flex-1">

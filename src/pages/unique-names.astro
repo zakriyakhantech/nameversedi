@@ -7,7 +7,9 @@ const manifest = getManifest();
 const all = [];
 for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
   for (const item of manifest[rel] || []) {
-    if (item.slug && item.name) all.push({ ...item, religion: rel });
+    if (item.slug && item.name && (item.popularity_score || 0) > 0) {
+      all.push({ ...item, religion: rel });
+    }
   }
 }
 all.sort((a, b) => (a.popularity_score || 0) - (b.popularity_score || 0));
@@ -20,19 +22,21 @@ const unique = all.slice(0, 100);
   description="Discover 100 unique and rare baby names from Islamic, Hindu, Christian and Italian traditions — beautiful, meaningful and unlikely to be shared at school."
   canonical="https://nameverse.site/unique-names"
 >
-    <div class="container-page py-10 sm:py-14">
+  <div class="container-page py-10 sm:py-14">
     <div class="mx-auto max-w-6xl">
       <header class="mb-10 text-center">
         <span class="eyebrow">For families who dare to differ</span>
         <h1 class="mt-2 font-display text-3xl font-semibold tracking-tight text-nv-text sm:text-5xl">Unique Baby Names</h1>
         <p class="mx-auto mt-4 max-w-2xl text-nv-text-secondary">
-          100 of the rarest names in the NameVerse database — beautiful, meaningful, and unlikely to
-          be shared. Every pick still has a verified meaning, origin and lucky number.
+          100 rare and distinctive names in the NameVerse database — beautiful, meaningful, and unlikely to
+          be shared. Every pick includes a verified meaning, origin and lucky number.
         </p>
-        <a href="/search?sort=popularity" class="btn-ghost">Explore popular names instead</a>
+        <div class="mt-4">
+          <a href="/search?sort=popularity" class="btn-ghost">Explore popular names instead</a>
+        </div>
       </header>
 
-      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      <div class="grid gap-4 min-[480px]:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         {unique.map((item) => <NameCard item={item} showReligion />)}
       </div>
 
@@ -53,8 +57,7 @@ const unique = all.slice(0, 100);
             sure the name will travel well.
           </p>
         </div>
-
-        </section>
+      </section>
     </div>
   </div>
 </Layout>

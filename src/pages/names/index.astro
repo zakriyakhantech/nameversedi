@@ -2,7 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import NameCard from '../../components/NameCard.astro';
 import { getManifest, getPopularSlugs } from '../../lib/data/astro-data.mjs';
-import { normalizeGender } from '../../lib/data/name-utils.mjs';
+import { isBoy, isGirl } from '../../lib/data/name-utils.mjs';
 
 const manifest = getManifest();
 const religions = [
@@ -12,8 +12,8 @@ const religions = [
   { key: 'italian', label: 'Italian Names', description: 'Classical Italian names', badgeClass: 'bg-italian-soft text-italian' },
 ].map((r) => {
   const items = manifest[r.key] || [];
-  const boyCount = items.filter((i) => normalizeGender(i.gender) === 'boy').length;
-  const girlCount = items.filter((i) => normalizeGender(i.gender) === 'girl').length;
+  const boyCount = items.filter(isBoy).length;
+  const girlCount = items.filter(isGirl).length;
   return { ...r, count: items.length, boyCount, girlCount };
 });
 
@@ -77,7 +77,7 @@ const totalCount = religions.reduce((s, r) => s + r.count, 0);
           </div>
           <a href="/popularity" class="btn-ghost">Compare popularity</a>
         </div>
-        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        <div class="grid gap-4 min-[480px]:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
           {topNames.map((item) => <NameCard item={item} showReligion />)}
         </div>
       </section>

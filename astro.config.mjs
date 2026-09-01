@@ -9,16 +9,17 @@ export default defineConfig({
 
   trailingSlash: 'never',
 
+  build: { format: 'file' },
+
   integrations: [
     tailwind(),
     sitemap({
       filter: (page) => {
-        if (page === '/') return true;
-        if (page.startsWith('/names/') && !page.includes('/letter/') && !page.includes('//')) return true;
-        if (page.startsWith('/blog/')) return true;
-        if (['/about', '/advanced-search', '/contact', '/name-meanings', '/names-by-meaning', '/names-by-origin', '/popularity', '/my-names'].includes(page)) return true;
-        return false;
+        const p = new URL(page).pathname.replace(/\/$/, '') || '/';
+        if (p === '/homepage') return false;
+        return true;
       },
+      entryLimit: 5000,
       changefreq: 'weekly',
       priority: 0.8,
       lastmod: new Date('2026-08-15'),

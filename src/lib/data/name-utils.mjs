@@ -28,21 +28,27 @@ export function slugify(text) {
 export function normalizeGender(gender) {
   const g = String(gender || '').toLowerCase();
   if (!g) return null;
-  const isFemale = g.includes('female') || g.includes('girl') || g.includes('feminine');
-  const isMale = g.includes('male') || g.includes('boy') || g.includes('masculin');
+  const isFemale = /female|girl|feminine/.test(g);
+  const isMale = /(^|[^e])male|\bboy|masculin/.test(g);
   if (isMale && isFemale) return 'unisex';
   if (isFemale) return 'girl';
   if (isMale) return 'boy';
-  if (
-    g.includes('unisex') ||
-    g.includes('neutral') ||
-    g.includes('genderless') ||
-    g.includes('unknown') ||
-    g.includes('unspecified')
-  ) {
-    return 'unisex';
-  }
+  if (/unisex|neutral|genderless|unknown|unspecified/.test(g)) return 'unisex';
   return null;
+}
+
+export function isBoy(gender) {
+  const g = String(gender || '').toLowerCase();
+  const isFemale = /female|girl|feminine/.test(g);
+  const isMale = /(^|[^e])male|\bboy|masculin/.test(g);
+  return isMale && !isFemale;
+}
+
+export function isGirl(gender) {
+  const g = String(gender || '').toLowerCase();
+  const isFemale = /female|girl|feminine/.test(g);
+  const isMale = /(^|[^e])male|\bboy|masculin/.test(g);
+  return isFemale && !isMale;
 }
 
 export function genderLabel(gender) {

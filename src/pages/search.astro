@@ -54,6 +54,7 @@ const pageDescription = query
             name="q"
             value={query}
             placeholder="Try a name, meaning or origin…"
+            aria-label="Search baby names by name, meaning or origin"
             autocomplete="off"
             class="input flex-1"
           />
@@ -63,7 +64,7 @@ const pageDescription = query
         <div class="mt-4 grid grid-cols-2 gap-3 md:grid-cols-4">
           <label class="block">
             <span class="mb-1 block text-xs font-bold uppercase tracking-wide text-nv-text-muted">Religion</span>
-            <select name="religion" class="input !py-2" id="f-religion">
+            <select name="religion" class="input !py-2" id="f-religion" aria-label="Filter by religion">
               <option value="">All traditions</option>
               {religions.map((r) => (
                 <option value={r} selected={religion === r}>{religionLabels[r]}</option>
@@ -72,7 +73,7 @@ const pageDescription = query
           </label>
           <label class="block">
             <span class="mb-1 block text-xs font-bold uppercase tracking-wide text-nv-text-muted">Gender</span>
-            <select name="gender" class="input !py-2" id="f-gender">
+            <select name="gender" class="input !py-2" id="f-gender" aria-label="Filter by gender">
               <option value="">Any gender</option>
               {['boy', 'girl', 'unisex'].map((g) => (
                 <option value={g} selected={gender === g}>{genderLabels[g]}</option>
@@ -81,7 +82,7 @@ const pageDescription = query
           </label>
           <label class="block">
             <span class="mb-1 block text-xs font-bold uppercase tracking-wide text-nv-text-muted">Origin</span>
-            <select name="origin" class="input !py-2" id="f-origin">
+            <select name="origin" class="input !py-2" id="f-origin" aria-label="Filter by origin">
               <option value="">Any origin</option>
               {Object.entries(originLabels).map(([slug, label]) => (
                 <option value={slug} selected={origin === slug}>{label}</option>
@@ -90,7 +91,7 @@ const pageDescription = query
           </label>
           <label class="block">
             <span class="mb-1 block text-xs font-bold uppercase tracking-wide text-nv-text-muted">Sort by</span>
-            <select name="sort" class="input !py-2" id="f-sort">
+            <select name="sort" class="input !py-2" id="f-sort" aria-label="Sort search results">
               <option value="relevance" selected>Relevance</option>
               <option value="popularity">Most popular</option>
               <option value="name">Name (A–Z)</option>
@@ -132,8 +133,8 @@ const pageDescription = query
               with pronunciation, lucky numbers, numerology, name variations and cultural context.
             </p>
           </div>
-        </section>
-      </div>
+        </div>
+      </section>
     </div>
   </div>
 
@@ -158,105 +159,73 @@ const pageDescription = query
         italian: 'bg-italian-soft text-italian',
       };
 
-      let indexes = null;
-      let loading = null;
-
       function escapeHtml(s) {
         return String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
       }
 
       function normGender(g) {
         const s = String(g || '').toLowerCase();
-        const f = s.includes('female') || s.includes('girl') || s.includes('feminine');
-        const m = s.includes('male') || s.includes('boy') || s.includes('masculin');
+        const f = /female|girl|feminine/.test(s);
+        const m = /(^|[^e])male|\bboy|masculin/.test(s);
         if (m && f) return 'unisex';
         if (f) return 'girl';
         if (m) return 'boy';
-        if (s.includes('unisex') || s.includes('neutral') || s.includes('unknown')) return 'unisex';
+        if (/unisex|neutral|unknown/.test(s)) return 'unisex';
         return null;
       }
 
-      const ORIGIN_ORDER = ['arabic', 'biblical', 'sanskrit', 'hindu', 'italian', 'persian', 'english', 'tamil', 'hindi', 'bengali', 'urdu'];
-      const CAT_ORDER = ['islamic', 'hindu', 'biblical', 'saint', 'virtue', 'italian'];
-
-      function originSlug(o) {
-        const s = String(o || '').toLowerCase();
-        for (const slug of ORIGIN_ORDER) if (s.includes(slug)) return slug;
-        return null;
-      }
-      function catSlug(c) {
-        const s = String(c || '').toLowerCase();
-        for (const slug of CAT_ORDER) if (s.includes(slug)) return slug;
-        return null;
-      }
+      let indexes = null;
+      let loading = null;
 
       function loadIndexes() {
         if (loading) return loading;
         loading = Promise.all(
           religions.map((r) =>
             fetch(`/names/${r}/_search-index.json`)
-              .then((res) => res.json())
+              .then((res) => (res.ok ? res.json() : []))
               .then((items) => items.map((item) => ({ ...item, religion: r })))
+              .catch(() => [])
           )
-        )
-          .then((arrays) => {
-            indexes = arrays.flat();
-            return indexes;
-          })
-          .catch(() => {
-            indexes = [];
-            return indexes;
-          });
+        ).then((arrays) => {
+          indexes = arrays.flat();
+          return indexes;
+        });
         return loading;
-      }
-
-      function matchesFilters(item) {
-        const rel = relSel.value;
-        if (rel && item.religion !== rel) return false;
-        const gen = genSel.value;
-        if (gen) {
-          const g = normGender(item.g);
-          if (g !== gen) return false;
-        }
-        const ori = oriSel.value;
-        if (ori && originSlug(item.o) !== ori) return false;
-        return true;
-      }
-
-      function rankHit(item, q) {
-        const name = item.n.toLowerCase();
-        const meaning = item.m.toLowerCase();
-        const origin = item.o.toLowerCase();
-        const cat = item.c.toLowerCase();
-        if (name === q) return 0;
-        if (name.startsWith(q)) return 1;
-        if (name.includes(q)) return 2;
-        if (meaning.includes(q)) return 3;
-        if (meaning.split(' ').some((w) => w.startsWith(q))) return 4;
-        if (origin.includes(q) || cat.includes(q)) return 5;
-        return 99;
       }
 
       function render(query, sort) {
         if (!indexes) return;
         const q = query.trim().toLowerCase();
-        const pool = indexes.filter((item) => {
-          if (!matchesFilters(item)) return false;
+        const rFilter = relSel.value;
+        const gFilter = genSel.value;
+        const oFilter = oriSel.value;
+
+        let list = indexes.filter((item) => {
+          if (rFilter && item.religion !== rFilter) return false;
+          if (gFilter && normGender(item.g) !== gFilter) return false;
+          if (oFilter && String(item.o || '').toLowerCase() !== oFilter) return false;
           if (!q) return true;
-          const hit = rankHit(item, q);
-          return hit < 99;
+          const name = item.n.toLowerCase();
+          const meaning = (item.m || '').toLowerCase();
+          return name.includes(q) || meaning.includes(q);
         });
 
-        let list;
         if (sort === 'popularity') {
-          list = pool.slice().sort((a, b) => (b.p || 0) - (a.p || 0));
+          list.sort((a, b) => (b.p || 0) - (a.p || 0));
         } else if (sort === 'name') {
-          list = pool.slice().sort((a, b) => a.n.localeCompare(b.n));
+          list.sort((a, b) => a.n.localeCompare(b.n));
         } else {
-          if (!q) {
-            list = pool.slice().sort((a, b) => (b.p || 0) - (a.p || 0));
-          } else {
-            const ranked = pool.map((item) => ({ item, r: rankHit(item, q) }));
+          // Relevance
+          if (q) {
+            const ranked = list.map((item) => {
+              const name = item.n.toLowerCase();
+              let rank = 10;
+              if (name === q) rank = 1;
+              else if (name.startsWith(q)) rank = 2;
+              else if (name.includes(q)) rank = 3;
+              else if ((item.m || '').toLowerCase().includes(q)) rank = 4;
+              return { item, r: rank };
+            });
             ranked.sort((a, b) => a.r - b.r || (b.item.p || 0) - (a.item.p || 0));
             list = ranked.map((x) => x.item);
           }
@@ -279,11 +248,11 @@ const pageDescription = query
             const gender = normGender(item.g);
             const genderChip =
               gender === 'boy'
-                ? '<span class="badge shrink-0 bg-nv-accent-subtle text-nv-accent">Boy</span>'
+                ? '<span class="badge shrink-0 bg-sky-50 text-sky-700 dark:bg-sky-950/50 dark:text-sky-300">Boy</span>'
                 : gender === 'girl'
-                  ? '<span class="badge shrink-0 bg-hindu-soft text-hindu">Girl</span>'
+                  ? '<span class="badge shrink-0 bg-rose-50 text-rose-700 dark:bg-rose-950/50 dark:text-rose-300">Girl</span>'
                   : gender === 'unisex'
-                    ? '<span class="badge shrink-0 bg-nv-subtle text-nv-text-secondary">Unisex</span>'
+                    ? '<span class="badge shrink-0 bg-purple-50 text-purple-700 dark:bg-purple-950/50 dark:text-purple-300">Unisex</span>'
                     : '';
             const score = Number(item.p) || 0;
             return `

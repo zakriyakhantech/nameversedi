@@ -21,7 +21,7 @@ const pageDescription =
   description ||
   'Discover 42,000+ baby names with verified meanings, origins, lucky numbers, pronunciation guides, and cultural context across Islamic, Hindu, Christian and global traditions.';
 
-const pageCanonical = canonical || (Astro.url.pathname === '/' ? siteUrl : new URL(Astro.url.pathname, siteUrl).href);
+const pageCanonical = canonical || (Astro.url.pathname === '/' ? siteUrl : new URL(Astro.url.pathname.replace(/\/$/, ''), siteUrl).href);
 const pageOgImage = ogImage || siteLogo;
 
 const orgJsonLd = JSON.stringify({
@@ -129,7 +129,7 @@ const orgJsonLd = JSON.stringify({
     <meta property="og:type" content={type} />
 
     <!-- Twitter -->
-    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@nameverse" />
     <meta name="twitter:title" content={pageTitle} />
     <meta name="twitter:description" content={pageDescription} />
@@ -150,11 +150,10 @@ const orgJsonLd = JSON.stringify({
     />
     <link rel="mask-icon" href="/logo.svg" color="#1E3A5F" />
 
-    <!-- Performance: preconnect to ad + asset hosts -->
+    <!-- Performance: preconnect & dns-prefetch -->
     <link
-      rel="preconnect"
+      rel="dns-prefetch"
       href="https://revolthem.com"
-      crossorigin
     />
     <link
       rel="preconnect"
@@ -164,10 +163,6 @@ const orgJsonLd = JSON.stringify({
     <link
       rel="preconnect"
       href="https://nameverse.site"
-    />
-    <link
-      rel="dns-prefetch"
-      href="https://revolthem.com"
     />
 
     <!-- Theme: apply before first paint to prevent flash -->
@@ -197,28 +192,29 @@ const orgJsonLd = JSON.stringify({
   </head>
 
   <body class="min-h-screen">
+    <!-- Skip to content for accessibility -->
+    <a
+      href="#main-content"
+      class="sr-only focus:not-sr-only focus:fixed focus:top-3 focus:left-3 focus:z-[999] focus:rounded-lg focus:bg-nv-primary focus:px-4 focus:py-2 focus:text-white focus:shadow-lg focus:outline-none"
+    >
+      Skip to main content
+    </a>
+
     <Navbar />
 
-    <div class="container-page py-4">
+    <div class="container-page py-2">
       <Ad placement="inline" />
-
-      <div class="mt-4">
-        <SocialShare
-          title={pageTitle}
-          url={pageCanonical}
-        />
-      </div>
     </div>
 
-    <main class="min-h-[60vh]">
+    <main id="main-content" class="min-h-[60vh]">
       <slot />
     </main>
-
-    <Footer />
 
     <div class="container-page py-4">
       <Ad placement="bottom" />
     </div>
+
+    <Footer />
 
     <!-- Ad scripts: injected after load + idle so they never block LCP -->
     <script is:inline>

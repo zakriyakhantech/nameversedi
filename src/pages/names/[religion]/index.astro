@@ -11,6 +11,8 @@ import {
   originSlugFor,
   categorySlugFor,
   CATEGORY_LABELS,
+  isBoy,
+  isGirl,
 } from '../../../lib/data/name-utils.mjs';
 
 export async function getStaticPaths() {
@@ -36,18 +38,8 @@ const popular = allNames
   .slice(0, 12);
 
 // Gender counts
-const boyCount = allNames.filter((i) => {
-  const g = (i.gender || '').toLowerCase();
-  const m = g.includes('male') || g.includes('boy') || g.includes('masculin');
-  const f = g.includes('female') || g.includes('girl');
-  return m && !f;
-}).length;
-const girlCount = allNames.filter((i) => {
-  const g = (i.gender || '').toLowerCase();
-  const f = g.includes('female') || g.includes('girl');
-  const m = g.includes('male') || g.includes('boy');
-  return f && !m;
-}).length;
+const boyCount = allNames.filter(isBoy).length;
+const girlCount = allNames.filter(isGirl).length;
 
 // Origins present
 const originSet = new Map();
@@ -130,7 +122,7 @@ const categories = [...catSet.entries()].sort((a, b) => b[1] - a[1]);
           </div>
           <a href={`/search?religion=${finalReligion}&sort=popularity`} class="btn-ghost">Rank all by popularity</a>
         </div>
-        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        <div class="grid gap-4 min-[480px]:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
           {popular.map((item) => <NameCard item={item} showReligion={false} />)}
         </div>
       </section>

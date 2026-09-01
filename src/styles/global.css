@@ -10,7 +10,7 @@
   --nv-line: 226 232 240;
   --nv-text: 11 20 32;
   --nv-secondary: 71 85 105;
-  --nv-muted: 148 163 184;
+  --nv-muted: 100 116 139;
   --nv-primary: 30 58 95;
   --nv-primary-hover: 22 45 74;
   --nv-accent: 37 99 235;
@@ -37,7 +37,7 @@
   --nv-line: 30 42 69;
   --nv-text: 241 245 249;
   --nv-secondary: 148 163 184;
-  --nv-muted: 100 116 139;
+  --nv-muted: 148 163 184;
   --nv-primary: 59 130 246;
   --nv-primary-hover: 96 165 250;
   --nv-accent: 96 165 250;
@@ -95,6 +95,18 @@
     @apply mx-auto w-full max-w-page px-4 sm:px-6 lg:px-8;
   }
 
+  .nv-container {
+    @apply container-page;
+  }
+
+  .nv-section {
+    @apply py-8 sm:py-12;
+  }
+
+  .nv-display {
+    @apply font-display text-3xl sm:text-4xl font-semibold tracking-tight text-nv-text;
+  }
+
   .card {
     @apply rounded-card border border-nv-border bg-nv-surface shadow-card;
   }
@@ -104,7 +116,7 @@
   }
 
   .btn {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition duration-200;
+    @apply inline-flex min-h-[44px] items-center justify-center gap-2 rounded-xl px-4 py-3 text-sm font-semibold transition duration-200;
   }
 
   .btn-primary {

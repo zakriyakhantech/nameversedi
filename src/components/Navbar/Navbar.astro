@@ -3,40 +3,34 @@
 // All links verified against actual routes.
 
 const categoryLinks = [
-  { name: 'All Baby Names', href: '/names', icon: 'list', description: 'Browse the full name directory' },
-  { name: 'Islamic Names', href: '/names/islamic', icon: 'book', description: '18,000+ Quranic, Arabic and Urdu names', badge: 'Popular' },
-  { name: 'Islamic Boy Names', href: '/islamic-boy-names', icon: 'book', description: 'Male Islamic names' },
-  { name: 'Islamic Girl Names', href: '/islamic-girl-names', icon: 'book', description: 'Female Islamic names' },
-  { name: 'Christian Names', href: '/names/christian', icon: 'book', description: '12,000+ Biblical and modern names', badge: 'Popular' },
-  { name: 'Christian Boy Names', href: '/christian-boy-names', icon: 'book', description: 'Male Christian names' },
-  { name: 'Christian Girl Names', href: '/christian-girl-names', icon: 'book', description: 'Female Christian names' },
-  { name: 'Hindu Names', href: '/names/hindu', icon: 'sparkles', description: '10,000+ Sanskrit and Vedic names', badge: 'Popular' },
-  { name: 'Hindu Boy Names', href: '/hindu-boy-names', icon: 'sparkles', description: 'Male Hindu names' },
-  { name: 'Hindu Girl Names', href: '/hindu-girl-names', icon: 'sparkles', description: 'Female Hindu names' },
+  { name: 'All Baby Names', href: '/names', icon: 'list', description: 'Browse the full 42,000+ name directory' },
+  { name: 'Islamic Names', href: '/names/islamic', icon: 'book', description: '18,000+ Quranic, Arabic & Urdu names', badge: 'Popular' },
+  { name: 'Islamic Boy Names', href: '/islamic-boy-names', icon: 'book', description: 'Boys names from Islamic tradition' },
+  { name: 'Islamic Girl Names', href: '/islamic-girl-names', icon: 'book', description: 'Girls names from Islamic tradition' },
+  { name: 'Christian Names', href: '/names/christian', icon: 'book', description: '12,000+ Biblical & modern names', badge: 'Popular' },
+  { name: 'Christian Boy Names', href: '/christian-boy-names', icon: 'book', description: 'Boys names from Christian tradition' },
+  { name: 'Christian Girl Names', href: '/christian-girl-names', icon: 'book', description: 'Girls names from Christian tradition' },
+  { name: 'Hindu Names', href: '/names/hindu', icon: 'sparkles', description: '10,000+ Sanskrit & Vedic names', badge: 'Popular' },
+  { name: 'Hindu Boy Names', href: '/hindu-boy-names', icon: 'sparkles', description: 'Boys names from Hindu tradition' },
+  { name: 'Hindu Girl Names', href: '/hindu-girl-names', icon: 'sparkles', description: 'Girls names from Hindu tradition' },
+  { name: 'Italian Names', href: '/names/italian', icon: 'globe', description: 'Classical Italian & Latin heritage names' },
 ];
 
 const exploreLinks = [
-  { name: 'Browse by Letter', href: '/names/islamic/letter/a', icon: 'hash', description: 'A–Z name browsing' },
-  { name: 'Search Names', href: '/search', icon: 'search', description: 'Search 42,000+ names by meaning' },
-  { name: 'All Baby Names', href: '/names', icon: 'list', description: 'The full name directory' },
-  { name: 'Names by Origin', href: '/origins', icon: 'globe', description: 'Arabic, Sanskrit, Persian and more' },
-  { name: 'Names by Meaning', href: '/names-by-meaning', icon: 'heart', description: 'Light, love, strength, peace' },
-  { name: 'Categories', href: '/categories', icon: 'book', description: 'Biblical, Saint, Virtue and more' },
-  { name: 'Trending Names', href: '/trending-names', icon: 'trending', description: 'What parents search now' },
-  { name: 'Unique Names', href: '/unique-names', icon: 'sparkles', description: '100 rare, distinctive picks' },
-  { name: 'Compare Popularity', href: '/popularity', icon: 'trending', description: 'Weigh favorites side by side' },
-  { name: 'Expert Naming Guide', href: '/guides/expert-naming-guide', icon: 'sparkles', description: 'Decision framework for parents' },
+  { name: 'A–Z Letter Browser', href: '/names/islamic/letter/a', icon: 'hash', description: 'Alphabetical name browsing by letter' },
+  { name: 'Search Names', href: '/search', icon: 'search', description: 'Search 42,000+ names with filters' },
+  { name: 'Names by Origin', href: '/origins', icon: 'globe', description: 'Arabic, Hebrew, Sanskrit, Latin & more' },
+  { name: 'Names by Meaning', href: '/names-by-meaning', icon: 'heart', description: 'Find names meaning light, strength, love' },
+  { name: 'Categories', href: '/categories', icon: 'book', description: 'Biblical, Saint, Virtue & cultural themes' },
+  { name: 'Trending Names', href: '/trending-names', icon: 'trending', description: 'Popular names parents are searching' },
+  { name: 'Unique Names', href: '/unique-names', icon: 'sparkles', description: 'Distinctive, rare name selections' },
+  { name: 'Compare Popularity', href: '/popularity', icon: 'trending', description: 'Compare names side by side' },
 ];
 
 const navItems = [
   { name: 'Home', href: '/', icon: 'home' },
   { name: 'Names', href: '/names', dropdown: categoryLinks, icon: 'list' },
-  { name: 'Explore', href: '/names', dropdown: exploreLinks, icon: 'sparkles' },
-  { name: 'Blog', href: '/blog', icon: 'book' },
-  { name: 'About', href: '/about', icon: 'book' },
-];
-
-const directLinks = [
+  { name: 'Explore', href: '/origins', dropdown: exploreLinks, icon: 'sparkles' },
   { name: 'Blog', href: '/blog', icon: 'book' },
   { name: 'About', href: '/about', icon: 'book' },
 ];
@@ -65,7 +59,7 @@ function getIcon(name) {
 ---
 
 <nav class="nv-navbar-sticky sticky top-0 z-[100] border-b border-nv-border bg-nv-surface/90 backdrop-blur-md" id="nv-navbar" aria-label="Main navigation">
-  <div class="mx-auto flex h-14 max-w-7xl items-center justify-between gap-3 px-4 sm:px-6">
+  <div class="container-page flex h-14 items-center justify-between gap-3">
     <!-- Logo -->
     <a href="/" class="flex shrink-0 items-center gap-2.5" aria-label="NameVerse home">
       <div class="grid h-9 w-9 place-items-center rounded-lg bg-nv-primary text-white shadow-sm">
@@ -77,8 +71,8 @@ function getIcon(name) {
       </div>
     </a>
 
-    <!-- Desktop nav -->
-    <div class="hidden items-center gap-1 lg:flex">
+    <!-- Desktop nav (visible from md breakpoint) -->
+    <div class="hidden items-center gap-1 md:flex">
       {
         navItems.map((item) => {
           const iconName = item.icon;
@@ -90,7 +84,8 @@ function getIcon(name) {
                   type="button"
                   data-dropdown-trigger={item.name}
                   aria-expanded="false"
-                  class="nv-nav-link inline-flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-sm font-semibold transition text-nv-text-secondary hover:bg-nv-surface-subtle hover:text-nv-text"
+                  aria-haspopup="true"
+                  class="nv-nav-link inline-flex min-h-[38px] items-center gap-1.5 rounded-lg px-3 py-1.5 text-sm font-semibold transition text-nv-text-secondary hover:bg-nv-subtle hover:text-nv-text"
                 >
                   <span class="h-4 w-4" set:html={getIcon(iconName)}></span>
                   {item.name}
@@ -99,7 +94,7 @@ function getIcon(name) {
               ) : (
                 <a
                   href={item.href}
-                  class="nv-nav-link inline-flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-sm font-semibold transition text-nv-text-secondary hover:bg-nv-surface-subtle hover:text-nv-text"
+                  class="nv-nav-link inline-flex min-h-[38px] items-center gap-1.5 rounded-lg px-3 py-1.5 text-sm font-semibold transition text-nv-text-secondary hover:bg-nv-subtle hover:text-nv-text"
                 >
                   <span class="h-4 w-4" set:html={getIcon(iconName)}></span>
                   {item.name}
@@ -109,16 +104,15 @@ function getIcon(name) {
               {hasDropdown && (
                 <div
                   data-dropdown-panel={item.name}
-                  class="nv-dropdown invisible absolute left-0 top-full z-50 mt-2 w-[280px] overflow-hidden rounded-xl border border-nv-border bg-nv-surface p-1.5 shadow-lg opacity-0"
+                  class="nv-dropdown invisible absolute left-0 top-full z-50 mt-2 max-h-[80vh] w-[300px] overflow-y-auto rounded-xl border border-nv-border bg-nv-surface p-1.5 shadow-lg opacity-0"
                 >
                   {item.dropdown.map((link) => (
                     <a
-                      key={link.href}
                       href={link.href}
                       data-dropdown-link
-                      class="flex items-start gap-2.5 rounded-lg p-2.5 transition hover:bg-nv-surface-subtle"
+                      class="flex items-start gap-2.5 rounded-lg p-2.5 transition hover:bg-nv-subtle"
                     >
-                      <div class="grid h-8 w-8 shrink-0 place-items-center rounded-lg bg-nv-surface-subtle text-nv-accent">
+                      <div class="grid h-8 w-8 shrink-0 place-items-center rounded-lg bg-nv-subtle text-nv-accent">
                         <span class="h-4 w-4" set:html={getIcon(link.icon)}></span>
                       </div>
                       <div class="min-w-0">
@@ -143,18 +137,18 @@ function getIcon(name) {
     </div>
 
     <!-- Desktop actions -->
-    <div class="hidden items-center gap-2 lg:flex">
+    <div class="hidden items-center gap-2 md:flex">
       <button
         type="button"
         data-theme-toggle
-        class="grid h-9 w-9 place-items-center rounded-lg border border-nv-border bg-nv-surface text-nv-text-secondary transition hover:border-nv-accent hover:bg-nv-accent-subtle hover:text-nv-accent"
+        class="grid h-11 w-11 place-items-center rounded-lg border border-nv-border bg-nv-surface text-nv-text-secondary transition hover:border-nv-accent hover:bg-nv-accent-subtle hover:text-nv-accent"
         aria-label="Toggle theme"
       >
         <span class="h-4 w-4" data-theme-icon set:html={icons.moon}></span>
       </button>
       <a
         href="/search"
-        class="inline-flex items-center gap-2 rounded-lg border border-nv-border bg-nv-surface px-3.5 py-2 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent hover:bg-nv-accent-subtle hover:text-nv-accent"
+        class="inline-flex min-h-[44px] items-center gap-2 rounded-lg border border-nv-border bg-nv-surface px-3.5 py-2 text-sm font-semibold text-nv-text-secondary transition hover:border-nv-accent hover:bg-nv-accent-subtle hover:text-nv-accent"
         aria-label="Search names"
       >
         <span class="h-4 w-4" set:html={icons.search}></span>
@@ -162,40 +156,49 @@ function getIcon(name) {
       </a>
       <a
         href="/search"
-        class="inline-flex items-center justify-center rounded-lg bg-nv-primary px-4 py-2 text-sm font-semibold text-white transition hover:bg-nv-primary-hover"
+        class="inline-flex min-h-[44px] items-center justify-center rounded-lg bg-nv-primary px-4 py-2 text-sm font-semibold text-white transition hover:bg-nv-primary-hover"
       >
         Start searching
       </a>
     </div>
 
     <!-- Mobile actions -->
-    <div class="flex items-center gap-1.5 lg:hidden">
-      <a href="/search" class="grid h-9 w-9 place-items-center rounded-lg border border-nv-border bg-nv-surface text-nv-text-secondary" aria-label="Search names">
+    <div class="flex items-center gap-2 md:hidden">
+      <a href="/search" class="grid h-11 w-11 place-items-center rounded-lg border border-nv-border bg-nv-surface text-nv-text-secondary" aria-label="Search names">
         <span class="h-4 w-4" set:html={icons.search}></span>
       </a>
       <button
         type="button"
         data-menu-toggle
-        class="grid h-9 w-9 place-items-center rounded-lg border border-nv-border bg-nv-surface text-nv-text-secondary"
+        class="grid h-11 w-11 place-items-center rounded-lg border border-nv-border bg-nv-surface text-nv-text-secondary"
         aria-label="Open menu"
+        aria-expanded="false"
+        aria-controls="mobile-navigation-drawer"
       >
         <span class="h-4 w-4" data-menu-icon set:html={icons.menu}></span>
       </button>
     </div>
   </div>
 
-  <!-- Mobile menu -->
-  <div data-mobile-menu class="fixed inset-x-0 top-14 z-[102] hidden max-h-[calc(100vh-3.5rem)] flex-col bg-nv-surface shadow-xl lg:hidden">
+  <!-- Mobile menu drawer -->
+  <div
+    id="mobile-navigation-drawer"
+    data-mobile-menu
+    role="dialog"
+    aria-modal="true"
+    aria-label="Mobile navigation"
+    class="fixed inset-x-0 top-14 z-[102] hidden max-h-[calc(100vh-3.5rem)] flex-col bg-nv-surface shadow-xl md:hidden"
+  >
     <div class="flex-1 overflow-y-auto px-4 py-4">
       <div class="mb-4 grid grid-cols-2 gap-2">
         <button
           type="button"
           data-mobile-theme-toggle
-          class="rounded-lg border border-nv-border bg-nv-surface-subtle px-3 py-2.5 text-sm font-semibold text-nv-text-secondary"
+          class="min-h-[44px] rounded-lg border border-nv-border bg-nv-subtle px-3 py-2.5 text-sm font-semibold text-nv-text-secondary"
         >
           Dark mode
         </button>
-        <a href="/search" data-mobile-link class="rounded-lg bg-nv-primary px-3 py-2.5 text-center text-sm font-semibold text-white">
+        <a href="/search" data-mobile-link class="min-h-[44px] flex items-center justify-center rounded-lg bg-nv-primary px-3 py-2.5 text-center text-sm font-semibold text-white">
           Search
         </a>
       </div>
@@ -206,32 +209,48 @@ function getIcon(name) {
             const hasDropdown = Boolean(item.dropdown);
             return (
               <div class="overflow-hidden rounded-xl border border-nv-border bg-nv-surface" data-mobile-section>
-                <button
-                  type="button"
-                  data-mobile-trigger={item.name}
-                  class="flex w-full items-center justify-between gap-2 px-3 py-3 text-left"
-                >
-                  <div class="flex items-center gap-2.5">
-                    <div class="grid h-8 w-8 place-items-center rounded-lg bg-nv-accent-subtle text-nv-accent">
-                      <span class="h-4 w-4" set:html={getIcon(item.icon)}></span>
+                {hasDropdown ? (
+                  <button
+                    type="button"
+                    data-mobile-trigger={item.name}
+                    aria-expanded="false"
+                    class="flex min-h-[44px] w-full items-center justify-between gap-2 px-3 py-3 text-left"
+                  >
+                    <div class="flex items-center gap-2.5">
+                      <div class="grid h-8 w-8 place-items-center rounded-lg bg-nv-accent-subtle text-nv-accent">
+                        <span class="h-4 w-4" set:html={getIcon(item.icon)}></span>
+                      </div>
+                      <div>
+                        <div class="text-sm font-semibold text-nv-text">{item.name}</div>
+                        <div class="text-xs text-nv-text-muted">Open section</div>
+                      </div>
                     </div>
-                    <div>
-                      <div class="text-sm font-semibold text-nv-text">{item.name}</div>
-                      <div class="text-xs text-nv-text-muted">{hasDropdown ? 'Open section' : 'Open page'}</div>
-                    </div>
-                  </div>
-                  {hasDropdown && (
                     <span class="nv-mobile-chevron h-4 w-4 text-nv-text-muted transition" set:html={icons.chevron}></span>
-                  )}
-                </button>
+                  </button>
+                ) : (
+                  <a
+                    href={item.href}
+                    data-mobile-link
+                    class="flex min-h-[44px] w-full items-center justify-between gap-2 px-3 py-3 text-left"
+                  >
+                    <div class="flex items-center gap-2.5">
+                      <div class="grid h-8 w-8 place-items-center rounded-lg bg-nv-accent-subtle text-nv-accent">
+                        <span class="h-4 w-4" set:html={getIcon(item.icon)}></span>
+                      </div>
+                      <div>
+                        <div class="text-sm font-semibold text-nv-text">{item.name}</div>
+                        <div class="text-xs text-nv-text-muted">Open page</div>
+                      </div>
+                    </div>
+                  </a>
+                )}
                 {hasDropdown && (
-                  <div data-mobile-panel={item.name} class="hidden space-y-1 border-t border-nv-border bg-nv-surface-subtle px-2.5 py-2.5">
+                  <div data-mobile-panel={item.name} class="hidden space-y-1 border-t border-nv-border bg-nv-subtle px-2.5 py-2.5">
                     {item.dropdown.map((link) => (
                       <a
-                        key={link.href}
                         href={link.href}
                         data-mobile-link
-                        class="flex items-center gap-2.5 rounded-lg px-2.5 py-2.5 text-sm font-medium text-nv-text-secondary hover:bg-nv-surface"
+                        class="flex min-h-[44px] items-center gap-2.5 rounded-lg px-2.5 py-2.5 text-sm font-medium text-nv-text-secondary hover:bg-nv-surface"
                       >
                         <span class="h-4 w-4 text-nv-accent" set:html={getIcon(link.icon)}></span>
                         {link.name}
@@ -243,35 +262,21 @@ function getIcon(name) {
             );
           })
         }
-
-        {
-          directLinks.map((link) => (
-            <a
-              key={link.href}
-              href={link.href}
-              data-mobile-link
-              class="flex items-center gap-2.5 rounded-xl border border-nv-border bg-nv-surface px-3 py-3 text-sm font-semibold text-nv-text-secondary"
-            >
-              <span class="h-4 w-4 text-nv-accent" set:html={getIcon(link.icon)}></span>
-              {link.name}
-            </a>
-          ))
-        }
       </div>
 
       <div class="mt-4 flex gap-2">
-        <a href="/search" data-mobile-link class="flex-1 inline-flex items-center justify-center rounded-lg border border-nv-border bg-nv-surface px-4 py-3 text-sm font-semibold text-nv-text-secondary">
+        <a href="/search" data-mobile-link class="min-h-[44px] flex-1 inline-flex items-center justify-center rounded-lg border border-nv-border bg-nv-surface px-4 py-3 text-sm font-semibold text-nv-text-secondary">
           Search names
         </a>
-        <a href="/search" data-mobile-link class="flex-1 inline-flex items-center justify-center rounded-lg bg-nv-accent px-4 py-3 text-sm font-semibold text-white">
-          Get started
+        <a href="/names" data-mobile-link class="min-h-[44px] flex-1 inline-flex items-center justify-center rounded-lg bg-nv-accent px-4 py-3 text-sm font-semibold text-white">
+          Browse all
         </a>
       </div>
     </div>
   </div>
 
   <!-- Mobile overlay -->
-  <div data-mobile-overlay class="fixed inset-0 z-[101] hidden bg-nv-text/40 backdrop-blur-sm lg:hidden"></div>
+  <div data-mobile-overlay class="fixed inset-0 z-[101] hidden bg-nv-text/40 backdrop-blur-sm md:hidden"></div>
 </nav>
 
 <style>
@@ -350,7 +355,10 @@ function getIcon(name) {
 
     function setMenuOpen(open) {
       menuOpen = open;
-      if (menuToggle) menuToggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+      if (menuToggle) {
+        menuToggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+        menuToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      }
       if (menuIcon) menuIcon.innerHTML = open ? closeIconSvg : menuIconSvg;
       if (mobileMenu) {
         mobileMenu.classList.toggle('hidden', !open);
@@ -379,6 +387,7 @@ function getIcon(name) {
         if (panel) {
           var isOpen = !panel.classList.contains('hidden');
           panel.classList.toggle('hidden', isOpen);
+          trigger.setAttribute('aria-expanded', isOpen ? 'false' : 'true');
           if (chevron) chevron.classList.toggle('rotate-180', !isOpen);
         }
       });
@@ -423,6 +432,14 @@ function getIcon(name) {
     document.addEventListener('click', function (event) {
       if (openDropdown && nav && !nav.contains(event.target)) {
         closeDropdown();
+      }
+    });
+
+    // Escape key closes menus
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') {
+        if (openDropdown) closeDropdown();
+        if (menuOpen) setMenuOpen(false);
       }
     });
 

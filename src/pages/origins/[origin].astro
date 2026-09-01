@@ -79,7 +79,7 @@ const religionsWithNames = [...religionCounts.entries()].sort((a, b) => b[1] - a
         </div>
       )}
 
-      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      <div class="grid gap-4 min-[480px]:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         {topNames.map((item) => <NameCard item={item} showReligion />)}
       </div>
 
