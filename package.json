@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "node scripts/generate-manifest.mjs && node scripts/generate-search-index.mjs && astro build",
-    "build:test": "node scripts/generate-manifest.mjs --limit=100 && node scripts/generate-search-index.mjs --limit=100 && astro build",
+    "build": "node scripts/generate-manifest.mjs && node scripts/generate-search-index.mjs && astro build && node scripts/generate-sitemaps.mjs",
+    "build:test": "node scripts/generate-manifest.mjs --limit=100 && node scripts/generate-search-index.mjs --limit=100 && astro build && node scripts/generate-sitemaps.mjs",
     "preview": "astro preview"
   },
   "dependencies": {

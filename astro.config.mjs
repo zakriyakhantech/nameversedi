@@ -1,6 +1,5 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
-import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://nameverse.site',
@@ -13,17 +12,6 @@ export default defineConfig({
 
   integrations: [
     tailwind(),
-    sitemap({
-      filter: (page) => {
-        const p = new URL(page).pathname.replace(/\/$/, '') || '/';
-        if (p === '/homepage') return false;
-        return true;
-      },
-      entryLimit: 5000,
-      changefreq: 'weekly',
-      priority: 0.8,
-      lastmod: new Date('2026-08-15'),
-    }),
   ],
 
   vite: {

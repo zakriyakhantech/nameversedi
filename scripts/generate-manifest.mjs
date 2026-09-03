@@ -37,6 +37,7 @@ const limitArg = args.find(arg => arg.startsWith('--limit='));
 const limit = limitArg ? parseInt(limitArg.split('=')[1]) : Infinity;
 
 const manifest = { islamic: [], christian: [], hindu: [], italian: [] };
+const seenSlugs = { islamic: new Set(), christian: new Set(), hindu: new Set(), italian: new Set() };
 let count = 0;
 
 for (const rel of VALID_RELIGIONS) {
@@ -48,6 +49,9 @@ for (const rel of VALID_RELIGIONS) {
     if (!entry.toLowerCase().endsWith('.json') || entry.startsWith('_')) continue;
     const slug = entry.replace(/\.json$/i, '');
     if (!slug) continue;
+
+    if (seenSlugs[rel].has(slug)) continue;
+    seenSlugs[rel].add(slug);
 
     const filePath = path.join(dir, entry);
     const data = readJsonFile(filePath);
