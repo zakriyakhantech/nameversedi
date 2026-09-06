@@ -73,7 +73,7 @@ function scanDistForPages() {
       } else if (entry.name.endsWith('.html')) {
         const basename = entry.name.replace(/\.html$/, '');
         if (basename === 'index') {
-          pages.push('/' + prefix.replace(/\/$/, ''));
+          pages.push('/' + prefix.replace(/\/+$/, ''));
         } else {
           pages.push('/' + prefix + basename);
         }
@@ -238,6 +238,29 @@ function pageExistsInDist(route) {
   return fs.existsSync(nestedPath);
 }
 
+function getHtmlFilePath(route) {
+  const filePath = route === '/'
+    ? path.join(DIST_DIR, 'index.html')
+    : path.join(DIST_DIR, route + '.html');
+
+  if (fs.existsSync(filePath)) return filePath;
+
+  const nestedPath = path.join(DIST_DIR, route, 'index.html');
+  return fs.existsSync(nestedPath) ? nestedPath : null;
+}
+
+function isNoindexRoute(route) {
+  const filePath = getHtmlFilePath(route);
+  if (!filePath) return false;
+
+  try {
+    const html = fs.readFileSync(filePath, 'utf8');
+    return html.includes('name="robots"') && html.includes('noindex');
+  } catch {
+    return false;
+  }
+}
+
 function generateRobotsTxt() {
   return `User-agent: *
 Allow: /
@@ -262,26 +285,27 @@ async function main() {
   const seenRoutes = new Set();
 
   for (const route of distPages) {
-    const cleanRoute = route === '/' ? '/' : route.replace(/\/$/, '');
+    const cleanRoute = route === '/' ? '/' : route.replace(/\/+$/, '');
 
     if (seenRoutes.has(cleanRoute)) continue;
     seenRoutes.add(cleanRoute);
 
     if (EXCLUDED_PATHS.has(cleanRoute)) continue;
+    if (isNoindexRoute(cleanRoute)) continue;
 
     if (cleanRoute.includes('/names/') && !cleanRoute.includes('/letter/')) {
       const parts = cleanRoute.split('/').filter(Boolean);
       if (parts.length === 3 && VALID_RELIGIONS.includes(parts[1])) {
         const [, religion, slug] = parts;
         const mtime = getNamePageMtime(religion, slug);
-        const url = `${SITE_URL}${cleanRoute}`;
+        const url = cleanRoute === '/' ? SITE_URL : `${SITE_URL}${cleanRoute}`;
         allUrls.push({ loc: url, lastmod: formatDate(mtime) });
         continue;
       }
     }
 
     const mtime = getStaticPageMtime(cleanRoute);
-    const url = `${SITE_URL}${cleanRoute}`;
+    const url = cleanRoute === '/' ? SITE_URL : `${SITE_URL}${cleanRoute}`;
     allUrls.push({ loc: url, lastmod: formatDate(mtime) });
   }
 
@@ -440,3 +464,4 @@ main().catch((e) => {
   console.error('Error:', e);
   process.exit(1);
 });
+

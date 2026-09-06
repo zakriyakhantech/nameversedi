@@ -21,7 +21,8 @@ const pageDescription =
   description ||
   'Discover 42,000+ baby names with verified meanings, origins, lucky numbers, pronunciation guides, and cultural context across Islamic, Hindu, Christian and global traditions.';
 
-const pageCanonical = canonical || (Astro.url.pathname === '/' ? siteUrl : new URL(Astro.url.pathname.replace(/\/$/, ''), siteUrl).href);
+const cleanPath = Astro.url.pathname.replace(/\/+$/, "").replace(/\.html$/, "");
+const pageCanonical = canonical || (cleanPath === '/' || cleanPath === '' ? siteUrl : `${siteUrl}${cleanPath}`);
 const pageOgImage = ogImage || siteLogo;
 
 const orgJsonLd = JSON.stringify({
@@ -288,5 +289,7 @@ const orgJsonLd = JSON.stringify({
     </script>
   </body>
 </html>
+
+
 
 
