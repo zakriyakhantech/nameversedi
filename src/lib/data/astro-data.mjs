@@ -59,6 +59,18 @@ export function getSlugs(religion) {
   return items.map((item) => item.slug).sort((a, b) => a.localeCompare(b));
 }
 
+export function getSlugsFromPublic(religion) {
+  const normalizedReligion = normalizeReligion(religion);
+  if (!normalizedReligion) return [];
+  const namesDir = path.join(PUBLIC_DIR, 'names', normalizedReligion);
+  if (!fs.existsSync(namesDir)) return [];
+  const files = fs.readdirSync(namesDir);
+  return files
+    .filter((f) => f.endsWith('.json') && !f.startsWith('_'))
+    .map((f) => f.replace(/\.json$/i, ''))
+    .sort((a, b) => a.localeCompare(b));
+}
+
 export async function readNameData(religion, slug) {
   const normalizedReligion = normalizeReligion(religion);
   const normalizedSlug = normalizeSlug(slug);
