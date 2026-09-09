@@ -2,14 +2,6 @@
   publish = "dist"
   command = "npm run build"
 
-# Trailing-slash cleanup — canonical form is no trailing slash (301 permanent redirect)
-# Catches ALL routes, not just /names/ — e.g. /names/islamic/safinaz/ → /names/islamic/safinaz
-[[redirects]]
-  from = "/*/"
-  to = "/:splat"
-  status = 301
-  force = true
-
 # Security headers applied to all pages
 [[headers]]
   for = "/*"
